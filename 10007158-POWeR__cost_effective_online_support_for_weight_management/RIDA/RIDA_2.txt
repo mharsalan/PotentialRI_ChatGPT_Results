@@ -1,0 +1,71 @@
+1. Domains of Research Impact (RI)
+Excerpt: "Weight loss can be maintained in some individuals by use of novel written material with occasional brief nurse follow-up. However, more people can maintain clinically important weight reductions with a web-based behavioural program and brief remote follow-up, with no increase in health service costs." (Results, Page 823)
+
+Page Reference: Results, Page 823
+
+Example: The study primarily impacts the health domain by offering a scalable, cost-effective method for managing obesity in primary care. The integration of web-based behavioral interventions with nurse support not only provides an innovative way to manage weight but also shows potential for adoption within healthcare systems, addressing the obesity epidemic.
+
+2. Duration of Research Impact (RI)
+Excerpt: "Future research should assess the extent to which clinically important weight loss can be maintained beyond 1 year." (Interpretation, Page 822)
+
+Page Reference: Interpretation, Page 822
+
+Example: The research demonstrates both short-term impact by offering immediate results in weight management and potential for long-term impact by laying the foundation for future studies on the sustainability of weight loss interventions. The study suggests ongoing influence as these behavioral and web-based approaches could continue to be evaluated and adapted.
+
+3. Stakeholders of Research Impact (RI)
+Excerpt: "The incremental overall cost to the health service per kg weight lost with the POWeR+ interventions versus the control strategy was £18 (95% CI –129 to 195) for POWeR+F and –£25 (–268 to 157) for POWeR+R." (Findings, Page 822)
+
+Page Reference: Findings, Page 822
+
+Example: Direct stakeholders include primary care providers, healthcare systems, and policymakers, who benefit from insights into cost-effective weight management strategies. Indirect stakeholders include the general public and patients who benefit from improved health outcomes, and health economists who can utilize cost-effectiveness data for broader healthcare applications.
+
+4. Depth and Breadth of Impact
+Excerpt: "The weight loss achieved with POWeR+ was similar to that achieved with the best performing interventions evaluated in a primary care setting over a 12 month period." (Interpretation, Page 822)
+
+Page Reference: Interpretation, Page 822
+
+Example: The study has broad impact as it contributes to public health management strategies across multiple healthcare settings, especially in primary care. It also demonstrates deep impact within the field of obesity treatment, advancing the use of web-based behavioral interventions, a growing area of research.
+
+5. Scalability and Transferability
+Excerpt: "The POWeR+ program could be feasibly used in most practices and could make a clinically important contribution to the management of obesity." (Interpretation, Page 822)
+
+Page Reference: Interpretation, Page 822
+
+Example: The intervention shows high scalability as it is designed to be easily implemented in various primary care settings with minimal resources. The web-based intervention also demonstrates transferability, as it can be adapted to different geographic regions and healthcare systems, benefiting a wider patient population.
+
+6. Innovation and Disruption Potential
+Excerpt: "Weight loss can be maintained in some individuals by use of novel written material with occasional brief nurse follow-up. However, more people can maintain clinically important weight reductions with a web-based behavioural program." (Results, Page 823)
+
+Page Reference: Results, Page 823
+
+Example: The study introduces innovation by integrating web-based behavioral interventions with nurse support, representing a novel approach to obesity management. It has the potential for disruption in healthcare practices, reducing reliance on traditional, resource-heavy weight management programs.
+
+7. Sustainability and Ethical Considerations
+Excerpt: "No adverse events were reported." (Findings, Page 822)
+
+Page Reference: Findings, Page 822
+
+Example: The study emphasizes sustainability by promoting a cost-effective and scalable intervention for obesity management that does not place additional strain on healthcare resources. Ethically, the research adheres to patient safety, reporting no adverse events, which supports its broader application.
+
+8. Implementation and Usability
+Excerpt: "The POWeR+ program could be feasibly used in most practices and could make a clinically important contribution to the management of obesity." (Interpretation, Page 822)
+
+Page Reference: Interpretation, Page 822
+
+Example: The web-based intervention demonstrates usability for both patients and healthcare providers. The minimal resource requirement for nurses and the accessibility of the online platform ensure easy implementation across various healthcare settings.
+
+9. Cross-disciplinary and Global Relevance
+Excerpt: "The weight loss achieved with POWeR+ was similar to that achieved with the best performing interventions evaluated in a primary care setting over a 12 month period." (Interpretation, Page 822)
+
+Page Reference: Interpretation, Page 822
+
+Example: The intervention has global relevance, as obesity is a worldwide health concern. The cross-disciplinary nature of combining healthcare, behavioral psychology, and digital tools makes it applicable in diverse healthcare settings globally.
+
+10. Resilience and Adaptability
+Excerpt: "We explored whether there was significant effect modification in subgroups using interaction terms in the models." (Results, Page 825)
+
+Page Reference: Results, Page 825
+
+Example: The study's methodology demonstrates resilience by addressing different patient subgroups, such as those with varying baseline weights and metabolic conditions. This adaptability ensures the intervention can be tailored to diverse patient needs, enhancing its effectiveness across different populations.
+
+This analysis captures the key impacts across the top 10 dimensions based on the findings and methodology of the POWeR+ study.

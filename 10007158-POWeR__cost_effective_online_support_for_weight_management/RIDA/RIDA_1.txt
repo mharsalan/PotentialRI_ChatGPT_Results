@@ -1,0 +1,43 @@
+I have reviewed the content of the document, and based on the Top 10 Dimensions of Research Impact, I will now map the findings of the study on a web-based weight management intervention with nurse support to these dimensions:
+
+1. Domains of Research Impact
+Excerpts: The study primarily impacts the health domain, as it focuses on reducing obesity through a web-based weight management intervention combined with nurse support. "Automated web-based interventions might provide a solution, but evidence suggests that they may be ineffective without additional human support" (Results, Page 1) and "This study demonstrated the feasibility of delivering a web-based weight management intervention supported by practice nurses in primary care" (Conclusions, Page 1).
+Page Reference: Results, Page 1; Conclusions, Page 1.
+Example: The research contributes to healthcare systems by exploring cost-effective ways to support weight management in primary care, potentially reducing obesity-related health risks and improving patient outcomes.
+2. Duration of Research Impact
+Excerpts: The study offers both short-term and long-term impact. Short-term impacts include the immediate weight loss results observed within 12 months: "Mean weight loss at 12 months... usual care group (n = 43) 2.44 kg; web-based only group (n = 45) 2.30 kg; basic nurse support group (n = 44) 4.31 kg; regular nurse support group (n = 47) 2.50 kg" (Results, Page 1). Long-term impacts are related to the potential for these strategies to be implemented in primary care settings for sustained obesity management.
+Page Reference: Results, Page 1.
+Example: Short-term impact includes weight loss within the first year, while long-term impact involves the study forming the foundation for more extensive future trials, shaping future obesity interventions in primary care.
+3. Stakeholders of Research Impact
+Excerpts: Key stakeholders include primary care patients, healthcare providers (nurses), and policy makers. The study emphasizes improving obesity management in primary care settings: "There is a need for cost-effective weight management interventions that primary care can deliver" (Background, Page 1).
+Page Reference: Background, Page 1.
+Example: Primary care patients benefit directly from weight management solutions, while nurses and policymakers are stakeholders who may integrate these findings into practice and healthcare policy improvements.
+4. Depth and Breadth of Impact
+Excerpts: The research shows depth in the health domain by addressing weight management strategies, but it also has broad implications across technology (web-based interventions) and primary care policy: "The study demonstrated the feasibility of delivering a web-based weight management intervention" (Conclusions, Page 1).
+Page Reference: Conclusions, Page 1.
+Example: The depth of impact lies in its contribution to obesity management practices, while the breadth of impact includes its potential influence on technology adoption in healthcare and primary care policy improvements.
+5. Scalability and Transferability
+Excerpts: The intervention demonstrates potential scalability by being applicable to other primary care settings: "Our main objective... was to examine the longer-term (12 month) weight loss outcomes... with less intensive levels of support" (Methods, Page 1). It can also be transferred to different health systems globally.
+Page Reference: Methods, Page 1.
+Example: The web-based intervention, combined with nurse support, could be scaled up for nationwide or global obesity management programs and transferred to different healthcare systems.
+6. Innovation and Disruption Potential
+Excerpts: The study is innovative in integrating web-based platforms with nurse support for weight management: "Automated web-based interventions might provide a solution" (Background, Page 1). This could disrupt traditional weight management practices by reducing the need for in-person consultations.
+Page Reference: Background, Page 1.
+Example: The study’s innovative use of digital health interventions could disrupt the conventional face-to-face weight management model, reducing the burden on healthcare systems and improving access to weight management services.
+7. Sustainability and Ethical Considerations
+Excerpts: The intervention promotes sustainable healthcare practices by providing a cost-effective, scalable solution for obesity management: "Interventions must result in sustainable weight loss and be feasible and cost-effective to deliver" (Background, Page 2).
+Page Reference: Background, Page 2.
+Example: The study’s focus on long-term weight loss and cost-effectiveness supports sustainable healthcare practices, ensuring that the intervention can be maintained without overwhelming healthcare resources.
+8. Implementation and Usability
+Excerpts: The study emphasizes the feasibility of implementing the intervention in real-world primary care settings: "This study demonstrated the feasibility of delivering a web-based weight management intervention" (Conclusions, Page 1).
+Page Reference: Conclusions, Page 1.
+Example: The web-based intervention has been successfully implemented in a primary care setting, showing that it can be used widely without requiring extensive additional resources.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research has global relevance, as obesity is a worldwide issue, and web-based interventions can be adapted across different countries. The intervention's design also crosses the disciplines of digital health, nutrition, and healthcare policy.
+Page Reference: Background, Page 2.
+Example: This intervention could be relevant for global health systems, especially in countries struggling with obesity and healthcare resource constraints.
+10. Resilience and Adaptability
+Excerpts: The study shows resilience and adaptability by adjusting to different levels of nurse support, indicating that the intervention can be modified based on resource availability: "The main aim of this study was to... determine the optimal combination of web-based and personal support" (Background, Page 1).
+Page Reference: Background, Page 1.
+Example: The adaptability of the intervention allows for different levels of nurse support, making it resilient to various healthcare environments and available resources.
+These insights align the study’s findings with the dimensions of research impact, providing a detailed understanding of its broad influence on healthcare, technology, and policy.

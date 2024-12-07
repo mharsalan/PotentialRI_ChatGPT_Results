@@ -1,0 +1,43 @@
+Based on the research paper titled "Providing online weight management in Primary Care: a mixed methods process evaluation of healthcare practitioners’ experiences of using and supporting patients using POWeR+" and aligning it with the Top 10 Dimensions of Research Impact, here is a detailed analysis:
+
+1. Domains of Research Impact (RI)
+Excerpts: "Practitioners found POWeR+ straightforward and easy to use... POWeR+ enabled practitioners to raise the topic of weight loss with patients, and POWeR+ was viewed as a superior alternative to existing weight management support which was limited in most practices." - (Results, page 6).
+Page Reference: Results, page 6.
+Example: The study impacts the health domain by contributing to weight management practices within primary care. The POWeR+ intervention combines digital support with human involvement, facilitating improvements in patient health and potentially reducing obesity-related health conditions. This intervention also affects the educational domain by providing practitioners with a tool that enhances patient education and empowerment in managing their weight.
+2. Duration of Research Impact (RI)
+Excerpts: "CARe provides a potentially useful model for how practitioners can combine human and digital support in a cost-effective way, which could be useful for the management of other conditions." (Conclusions, page 7).
+Page Reference: Conclusions, page 7.
+Example: The research may have long-term impact by serving as a foundation for future weight management interventions in primary care and beyond. The successful implementation of a digital intervention like POWeR+ could influence how other chronic conditions (e.g., diabetes, hypertension) are managed over time, potentially forming part of broader healthcare strategies.
+3. Stakeholder of Research Impact (RI)
+Excerpts: "The availability of POWeR+ was occasionally viewed as a useful opportunity to help other nurses and GPs to broach the topic of being overweight with patients." - (Discussion, page 8).
+Page Reference: Discussion, page 8.
+Example: The direct stakeholders include healthcare providers (HCPs), as the research provides them with a practical tool to improve patient outcomes. Indirectly, patients and the broader public benefit from improved weight management services and reduced obesity-related health risks.
+4. Depth and Breadth of Impact
+Excerpts: "POWeR+ was seen as a useful alternative to existing weight management services in practices with limited options." (Discussion, page 8).
+Page Reference: Discussion, page 8.
+Example: The impact has both depth within the health domain by improving primary care's approach to weight management and breadth, as the CARe model could influence various other healthcare conditions, potentially broadening the intervention’s scope across different health areas.
+5. Scalability and Transferability
+Excerpts: "CARe provides a potentially useful model for how practitioners can combine human and digital support in a cost-effective way... which could be useful for the management of other conditions." (Conclusions, page 7).
+Page Reference: Conclusions, page 7.
+Example: The research demonstrates scalability, as the POWeR+ intervention could be implemented more broadly across different healthcare settings. Its transferability lies in its potential to manage other chronic conditions, such as diabetes or cardiovascular diseases, through similar digital tools and human support.
+6. Innovation and Disruption Potential
+Excerpts: "Some practitioners found providing non-directive support using the CARe approach (Congratulate, Ask, Remind) challenging, feeling it was the opposite of their normal approach." (Results, page 6).
+Page Reference: Results, page 6.
+Example: The POWeR+ intervention introduces innovative approaches to weight management by integrating digital tools and non-directive practitioner support. The disruption potential comes from changing traditional healthcare delivery models, especially by reducing face-to-face consultations in favor of remote or digital interactions.
+7. Sustainability and Ethical Considerations
+Excerpts: "CARe provides a potentially useful model... in a cost-effective way, which could be useful for the management of other conditions." (Conclusions, page 7).
+Page Reference: Conclusions, page 7.
+Example: The research supports sustainability in healthcare by offering a cost-effective model that reduces the burden on healthcare practitioners and potentially lowers healthcare costs. It aligns with ethical considerations by empowering patients to self-manage their weight loss, promoting autonomy and reducing healthcare inequities.
+8. Implementation and Usability
+Excerpts: "Practitioners found POWeR+ straightforward and easy to use... However, some practitioners struggled to fit providing support into their busy schedules." (Results, page 6).
+Page Reference: Results, page 6.
+Example: The POWeR+ intervention is highly usable within primary care settings due to its digital format and practitioner-friendly design. However, its implementation could face barriers, particularly concerning practitioners' time constraints, which need to be addressed for broader adoption.
+9. Cross-disciplinary and Global Relevance
+Excerpts: "POWeR+ enabled practitioners to raise the topic of weight loss with patients... and was viewed as a superior alternative to existing weight management support." (Results, page 6).
+Page Reference: Results, page 6.
+Example: The intervention has cross-disciplinary relevance, bridging digital technology and healthcare delivery. It could have global relevance as it offers a scalable solution to the global obesity epidemic, with potential adaptations for use in various healthcare systems worldwide.
+10. Resilience and Adaptability
+Excerpts: "Some potential barriers to implementation were identified, which allowed modification of POWeR+." (Conclusions, page 7).
+Page Reference: Conclusions, page 7.
+Example: The research demonstrates adaptability, as feedback from practitioners allowed the POWeR+ intervention to be modified for better fit within primary care workflows. Its resilience lies in the ability of the intervention to withstand operational challenges and still be viewed as feasible by healthcare providers.
+This detailed assessment maps the study’s findings across the dimensions of research impact.
