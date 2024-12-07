@@ -1,0 +1,73 @@
+I will now proceed with extracting the detailed information for each of the Top 10 Dimensions of Research Impact based on the document you uploaded, "Single Case Causes: What is Evidence and Why" by Nancy Cartwright. I will map the findings from the research to these dimensions.
+
+1. Domains of Research Impact (RI)
+Excerpts: The paper addresses philosophical questions about singular causation, particularly in the context of policy and medicine. It critically examines the use of randomized controlled trials (RCTs) and their limitations in making causal claims for individual cases (Results, pages 1–3). Cartwright discusses examples from fields such as evidence-based medicine and policy, physics, and legal reasoning, showing how research has cross-domain applicability. The insights influence epistemology, policy-making, medical practice, and legal frameworks.
+
+Page Reference: Pages 1-3 (Results), Pages 9-12 (Discussion)
+
+Example: The research impacts the Policy Domain by offering critiques of the limitations of RCTs in health policy, advocating for better methods to assess evidence in individual cases. It affects the Academic Domain by contributing to the philosophy of science, particularly theories of causality, influencing discussions in epistemology and methodology in disciplines like medicine, economics, and law.
+
+2. Duration of Research Impact (RI)
+Excerpts: The philosophical framework developed in the paper has the potential for long-term impact, as it proposes new ways of thinking about evidence and causality that could influence future studies across various disciplines, particularly in medicine and law (Discussion, page 12). The discussion of structural equation modeling and causal principles also offers a foundation for future research in various fields.
+
+Page Reference: Pages 5–9 (Discussion)
+
+Example: The research has the potential to influence policy-making in medicine and health care over the long term by introducing a framework that critiques the reliance on RCTs for individual case decisions, paving the way for more nuanced evidence-based policies.
+
+3. Stakeholders of Research Impact (RI)
+Excerpts: Stakeholders include researchers in philosophy, epistemology, medicine, and law, as well as policymakers and practitioners in the health and legal sectors (Results, page 3). Cartwright emphasizes how practitioners, such as doctors or legal professionals, are directly impacted when evaluating individual cases, as opposed to relying solely on population-level data (Methods, page 5).
+
+Page Reference: Pages 3, 5 (Results, Methods)
+
+Example: Healthcare providers and legal professionals are direct stakeholders, as the paper argues for more robust methods of evidence evaluation in singular cases, directly affecting how they make decisions about treatments and legal judgments.
+
+4. Depth and Breadth of Impact
+Excerpts: The paper has deep impact within the field of epistemology and the philosophy of science by challenging existing norms around the use of RCTs and evidence (Discussion, page 8). It also has the potential for broad impact as it applies to multiple fields such as medicine, law, and policy-making.
+
+Page Reference: Pages 8–10 (Discussion)
+
+Example: The research presents a deep impact on epistemology by fundamentally challenging how singular causal claims are established. It offers a broad impact across disciplines like healthcare and legal studies, encouraging a more nuanced understanding of individual cases.
+
+5. Scalability and Transferability
+Excerpts: The methodologies proposed (e.g., indirect evidence methods and structural equations for singular causation) have transferability across various fields, such as medicine, policy-making, and even legal reasoning (Results, page 6). The framework could be scaled from theoretical applications to practical decision-making tools for professionals.
+
+Page Reference: Pages 6–8 (Results)
+
+Example: The approach to evaluating singular causal claims can be scaled from individual case studies in medicine to broader policy decisions. It is also transferable to legal contexts where individual causality is critical (e.g., determining guilt in court cases).
+
+6. Innovation and Disruption Potential
+Excerpts: The paper introduces innovative ideas by challenging traditional views on evidence and causality, particularly in health and policy fields (Discussion, page 9). The critique of RCTs and the proposal of alternative methods for establishing causality in singular cases are disruptive to current medical and policy practices.
+
+Page Reference: Pages 9–12 (Discussion)
+
+Example: By proposing alternative methods to RCTs for individual case evidence, the research has disruptive potential in evidence-based medicine, challenging the dominance of RCTs and potentially revolutionizing policy evaluation methods.
+
+7. Sustainability and Ethical Considerations
+Excerpts: The paper touches on ethical considerations in evidence-based medicine and policymaking, particularly the ethics of making causal judgments that may affect individual patient outcomes (Results, page 3). It advocates for fairness in how evidence is considered for individual cases, aligning with ethical practices in healthcare and legal decision-making.
+
+Page Reference: Pages 3–5 (Results)
+
+Example: The research promotes ethical considerations in medical practices by arguing that RCTs may not provide just or fair outcomes for individual patients, advocating for alternative, more personalized approaches to evidence assessment.
+
+8. Implementation and Usability
+Excerpts: Cartwright’s framework provides practical tools for implementing new approaches to evaluating evidence in singular cases, particularly in policy and medicine (Methods, page 7). The use of structural equations and indirect evidence methods offers usable frameworks for practitioners.
+
+Page Reference: Pages 7-9 (Methods)
+
+Example: The structural equations framework proposed is highly usable for policy analysts and medical practitioners needing to make individualized decisions based on evidence outside of standard RCT frameworks.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: The paper’s discussion on causal claims has relevance across disciplines such as philosophy, medicine, law, and policy-making, offering frameworks that can be applied globally (Discussion, page 10). The critique of RCTs and evidence evaluation methods is globally relevant in fields that rely on empirical evidence.
+
+Page Reference: Pages 10-12 (Discussion)
+
+Example: The research holds global relevance by challenging how countries approach evidence-based medicine and legal causation, potentially influencing international policy frameworks.
+
+10. Resilience and Adaptability
+Excerpts: The proposed framework is adaptable to different sectors, such as healthcare, law, and policy, by offering flexible methods for evaluating individual evidence. This adaptability is crucial as policies and healthcare practices evolve (Methods, page 6).
+
+Page Reference: Pages 6–7 (Methods)
+
+Example: The research is resilient in its ability to adapt to different fields, offering solutions that can evolve with changing practices in law and healthcare, ensuring that evidence evaluation remains relevant as new challenges emerge.
+
+This comprehensive mapping of the research to the top 10 dimensions highlights the paper’s broad impact across academic and applied fields, particularly in healthcare and policy-making.

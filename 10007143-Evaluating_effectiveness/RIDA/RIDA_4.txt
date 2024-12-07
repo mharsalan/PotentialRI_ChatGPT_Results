@@ -1,0 +1,47 @@
+To evaluate the research impact dimensions based on the research paper you provided and the predefined top 10 dimensions of research impact, here is a detailed analysis using key excerpts from the document. Each dimension is aligned with the corresponding research contributions from the paper.
+
+1. Domains of Research Impact (RI)
+Excerpts:
+"Middle-range theory is everywhere in the social sciences, including economics, which is notorious for its use of abstract, mathematised general theories" (Lecture 1, page 270).
+"Much of my recent work has been in the philosophy of social technology: on how to use scientific and local knowledge to build better societies, with special focus on better policies and better predictions about policy outcomes" (Lecture 1, page 272).
+Example: The research impacts several domains including academic (philosophy of science), policy (evidence-based policy), and societal (social technology and better societal structures). The focus on improving policy outcomes with scientific input directly affects both the academic and policy-making domains.
+2. Duration of Research Impact
+Excerpts:
+"The discussions build up to... an argument that reliability in social (and natural) science depends not so much on evidence as it does on the support of a virtuous tangle of practices" (Lecture 1, page 270).
+"My second shock in engaging with EBP was with the exceedingly sloppy language employed throughout" (Lecture 1, page 273).
+Example: The paper contributes both short-term impact (challenging the narrow focus of evidence-based policies) and long-term foundational research (proposing alternative frameworks for social science reliability based on practices rather than evidence alone). This creates lasting influence in social science methodology.
+3. Stakeholder of Research Impact
+Excerpts:
+"These lectures aim to spark an interest in the topic and to lay groundwork for further research on it" (Abstract, page 269).
+"Middle-range theories are generally the only game in town" (Lecture 1, page 270).
+Example: Direct stakeholders include academic researchers in philosophy and social sciences who are influenced by the development of middle-range theories. Indirect stakeholders are policymakers who benefit from applying more nuanced and practical theories to policy development. Public and governmental institutions may also benefit from more reliable social predictions derived from middle-range theories.
+4. Depth and Breadth of Impact
+Excerpts:
+"These lectures explore three different kinds of mechanism: structural mechanisms, causal-chain mechanisms, and middle-range-law mechanisms" (Lecture 1, page 269).
+"Middle-range theorising comes in a variety of forms, involving a variety of practices serving a variety of purposes" (Lecture 1, page 271).
+Example: The research has deep impact within philosophy and social sciences, especially in understanding the mechanisms behind middle-range theories. It also has broad implications across various domains, such as economics and policy-making, by showing how middle-range theories can apply to different mechanisms and structures.
+5. Scalability and Transferability
+Excerpts:
+"Markers are characteristics...by which we identify systems that support or discourage causal pathways" (Lecture 1, page 272).
+Example: The research offers high scalability in terms of its applicability across different policy contexts, especially in evidence-based policies. The concepts developed for middle-range theories and mechanisms can be transferred to various sectors such as education, economics, and healthcare.
+6. Innovation and Disruption Potential
+Excerpts:
+"I was disturbed by the evidence-based-policy (EBP) movement, which is very vocal in the US and the UK as well as in various international organizations" (Lecture 1, page 272).
+Example: The research disrupts conventional approaches to evidence-based policy by proposing alternative frameworks centered on practices rather than solely on empirical evidence. This creates opportunities for more flexible and context-specific policy-making, challenging the traditional rigid structures.
+7. Sustainability and Ethical Considerations
+Excerpts:
+"For most singular causal facts of interest to us there is seldom anything in the cause directing it to that effect" (Lecture 1, page 276).
+Example: The paper addresses sustainability by emphasizing that middle-range theories can provide better long-term solutions in complex social systems. Ethical considerations are embedded in the critique of narrow evidence-based approaches, promoting more socially responsive and inclusive policy designs.
+8. Implementation and Usability
+Excerpts:
+"That’s why context is so critical —the where part of ‘What works, for whom, where’ really matters" (Lecture 1, page 275).
+Example: The research is highly implementable in practical contexts such as policy-making. By focusing on the role of context and markers in determining causal pathways, the research offers direct usability in tailoring policies to specific socio-economic conditions, making it adaptable and functional for decision-makers.
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+"A lot of middle-range theory goes under the label ‘mechanism’. This will be one of the central themes of these lectures" (Lecture 1, page 270).
+Example: The research is cross-disciplinary as it integrates insights from philosophy, social science, and policy-making. Its global relevance is underscored by its critique of international organizations' evidence-based policies, which are applied in multiple countries, and the potential to improve global policy frameworks.
+10. Resilience and Adaptability
+Excerpts:
+"It is the arrangements and activities of the parts of the structure in which the cause operates that allows... the entire process to carry through" (Lecture 1, page 276).
+Example: The research demonstrates resilience and adaptability by focusing on the flexible and context-specific nature of middle-range theories. It can adapt to changing social structures and conditions, allowing for the development of robust and responsive policy frameworks.
+This analysis provides a detailed look at how the research aligns with the 10 dimensions of research impact. Each dimension showcases both theoretical contributions and practical implications, ensuring a comprehensive understanding of the research's influence.
