@@ -1,0 +1,53 @@
+Here is the analysis of the research impact dimensions based on the provided paper. I will cover each of the top 10 dimensions with relevant excerpts and examples.
+
+1. Domains of Research Impact
+Excerpts: The research focuses primarily on the domain of energy efficiency in residential heating systems. It contributes to technological innovation in the environmental and energy domain. It also provides significant input into the academic domain of energy management systems and contributes to discussions on sustainability and policy​(Knowledge - Potential R…) .
+
+Example: This research impacts the environmental domain by promoting energy efficiency through novel control systems. Additionally, it contributes to policy discussions on integrating smart meters into household energy systems, potentially influencing national energy policy.
+
+2. Duration of Research Impact
+Excerpts: The energy savings described in the study are measurable in the short-term, but the research also discusses potential long-term benefits of integrating the system with smart meters, which can result in sustained energy efficiency improvements​(Knowledge - Potential R…) .
+
+Example: In the short term, households can reduce energy consumption by adopting the described prototype system. In the long term, the system’s integration with government initiatives on smart metering may lead to widespread adoption and long-lasting policy impacts.
+
+3. Stakeholder of Research Impact
+Excerpts: The primary stakeholders include homeowners, policymakers, and energy providers. The energy management system helps homeowners reduce energy consumption, while policymakers and energy providers could use the research to inform energy efficiency policies​(Knowledge - Potential R…) .
+
+Example: Policymakers could use this system to develop regulations promoting household energy savings. Homeowners benefit directly by reducing heating costs, while energy providers may need to adapt their services in light of smarter consumption patterns.
+
+4. Depth and Breadth of Impact
+Excerpts: The research has deep impact within the field of home energy management and sustainability. It also has broad implications across multiple sectors including residential construction, policy, and energy efficiency​(Knowledge - Potential R…) .
+
+Example: The deep impact of this research lies in its innovative contribution to heating systems. The broad impact is demonstrated by its potential to influence national energy policies and contribute to global sustainability efforts.
+
+5. Scalability and Transferability
+Excerpts: The prototype system described could be scaled up to national or even international markets, particularly in regions where smart meters and energy efficiency policies are being promoted. Additionally, the methodology can be adapted for different climates or housing structures .
+
+Example: The scalability of this research is evident in its potential for nationwide implementation in the UK, with possible transferability to other countries facing similar energy consumption issues in residential settings.
+
+6. Innovation and Disruption Potential
+Excerpts: This research is innovative in its approach to automating heating systems based on occupancy patterns and environmental factors, reducing human intervention while improving energy efficiency. The automation of thermostat settings and integration with smart meters could disrupt traditional home heating control technologies​(Knowledge - Potential R…) .
+
+Example: The potential disruption in the market lies in replacing manual heating controls with automated systems, potentially shifting the way household energy consumption is managed worldwide.
+
+7. Sustainability and Ethical Considerations
+Excerpts: The system is designed with sustainability in mind, reducing energy consumption and improving boiler efficiency. It aligns with ethical considerations by promoting environmental sustainability without compromising user comfort​(Knowledge - Potential R…) .
+
+Example: This system contributes to sustainability by lowering energy consumption in homes, aligning with ethical goals of reducing carbon footprints in developed nations, particularly in the residential sector.
+
+8. Implementation and Usability
+Excerpts: The system is designed for easy implementation in residential homes, with the user interface described as simple and intuitive. It can be integrated with existing smart meters to provide immediate energy savings without requiring significant behavior changes from users (Knowledge - Potential R…).
+
+Example: The usability of this system is its strong point—homeowners can adopt it with minimal changes to their routines, while reaping substantial energy savings through automation and smart metering integration.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research combines insights from energy policy, engineering, and environmental science. It is globally relevant due to its potential for application in diverse geographic locations, particularly in countries pushing for energy efficiency .
+
+Example: Countries facing high residential energy consumption, such as those in Europe and North America, could adopt this technology, but it also holds promise for emerging economies working on sustainability initiatives.
+
+10. Resilience and Adaptability
+Excerpts: The system is adaptable to various household patterns and environmental conditions. It automatically adjusts to changes in occupant behavior and can be fine-tuned for different climates, enhancing its resilience across different settings​(Knowledge - Potential R…) .
+
+Example: The adaptability of this research allows for its application across different types of households, climates, and energy policies, making it a resilient solution for long-term energy efficiency.
+
+This covers the detailed research impact assessment for the attached study.

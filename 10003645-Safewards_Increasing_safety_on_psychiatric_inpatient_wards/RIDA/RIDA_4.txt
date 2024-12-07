@@ -1,0 +1,52 @@
+The file provides detailed insights into the Top 10 Research Impact Dimensions applicable to various studies. Below is a breakdown of these dimensions for the attached study based on the content of the document:
+
+1. Domains of Research Impact (RI)
+Academic Domain: This study primarily impacts psychiatric nursing and mental health, offering a structured model (Safewards Model) that significantly contributes to academic discourse on patient care in psychiatric settings.
+Social Domain: The study aims to improve patient and staff safety in psychiatric wards, influencing social attitudes towards mental health care and reducing stigma associated with aggressive behaviors.
+Health Domain: By providing strategies to reduce conflict and containment in psychiatric settings, this research directly impacts mental health services, contributing to safer and more effective care practices.
+Example: The Safewards Model introduces innovative ways to manage patient conflict, enhancing the safety of psychiatric wards and offering an academic framework for future research in mental health nursing.
+
+2. Duration of Research Impact
+Short-term Impact: The study can lead to immediate improvements in patient care by reducing the need for coercive measures such as seclusion and restraint. Hospitals may adopt the Safewards Model soon after its publication.
+Long-term Impact: Over time, the model may become part of standard psychiatric care protocols globally, influencing mental health care policies and reducing the use of coercive interventions.
+Example: In the short term, hospitals could integrate the Safewards Model to address patient aggression, while in the long term, the model could influence national mental health policies to reduce restraint use.
+
+3. Stakeholder of Research Impact
+Direct Stakeholders: Psychiatric nurses, hospital administrators, and mental health practitioners benefit directly by using the Safewards Model to manage conflict and improve patient care.
+Indirect Stakeholders: Patients and their families benefit indirectly through improved safety and care environments. Policymakers and healthcare regulators may also use the study's findings to inform mental health policies.
+Example: Nurses can apply the Safewards Model to reduce incidents of aggression, while patients benefit from a safer and less coercive care environment.
+
+4. Depth and Breadth of Impact
+Deep Impact: The study offers a profound contribution to psychiatric care by introducing a new framework for understanding and managing conflict in mental health wards.
+Broad Impact: The Safewards Model has the potential to influence not only psychiatric care but also broader healthcare settings where conflict management is critical, such as emergency rooms or rehabilitation centers.
+Example: The deep impact is seen in how psychiatric care is delivered, while the broad impact extends to other healthcare settings needing conflict resolution strategies.
+
+5. Scalability and Transferability
+Scalability: The Safewards Model can be scaled up to apply in psychiatric hospitals worldwide, improving care on a large scale.
+Transferability: The conflict management strategies proposed in this study could be adapted to other healthcare sectors, making them widely applicable.
+Example: The Safewards Model could be transferred to settings like rehabilitation centers to manage patient behavior effectively.
+
+6. Innovation and Disruption Potential
+Innovation: The Safewards Model provides a new way of thinking about conflict and containment, introducing innovative methods for reducing coercive interventions.
+Disruption: This model challenges traditional methods of psychiatric care by promoting less forceful and more patient-centered approaches, potentially disrupting long-standing practices in mental health wards.
+Example: The study’s innovative approach to reducing conflict through non-coercive methods could disrupt traditional psychiatric practices that rely on restraint and seclusion.
+
+7. Sustainability and Ethical Considerations
+Sustainability: The study promotes sustainable healthcare practices by advocating for less coercive methods, which are better for patient well-being and staff morale.
+Ethical Considerations: By reducing the use of force in psychiatric settings, the study aligns with modern ethical standards of patient care, emphasizing dignity and respect.
+Example: The Safewards Model ensures that psychiatric care is both sustainable and ethical by reducing the reliance on physical containment and prioritizing patient dignity.
+
+8. Implementation and Usability
+The study’s findings are practical and easily applicable in psychiatric settings. The Safewards Model offers clear guidelines for psychiatric staff, making it user-friendly and implementable in day-to-day patient care.
+Example: Nurses can directly implement the strategies from the Safewards Model to manage patient conflict, making it highly usable in real-world settings.
+
+9. Cross-disciplinary and Global Relevance
+Cross-disciplinary Impact: While focused on psychiatric care, the conflict resolution strategies in this study could be relevant to other healthcare domains, such as social work or emergency care.
+Global Relevance: The model can be applied across different healthcare systems globally, especially in countries seeking to reform mental health care practices.
+Example: The strategies in the Safewards Model could inform global healthcare practices, improving patient safety in various care settings worldwide.
+
+10. Resilience and Adaptability
+The Safewards Model is designed to be adaptable to different psychiatric settings, ensuring it can be applied across diverse institutional environments. Its resilience lies in its ability to remain effective despite changes in patient populations or healthcare regulations.
+Example: The model’s flexibility allows it to be adapted to various psychiatric wards, ensuring its resilience in changing healthcare environments.
+
+These dimensions illustrate how the study impacts not only psychiatric care but also healthcare policies, practices, and patient outcomes on a global scale.
