@@ -1,0 +1,53 @@
+The provided document focuses on a European project that created access to television archives across Europe. Based on the research impact framework, here is an assessment of the research impact dimensions:
+
+1. Domains of Research Impact:
+The research contributes to multiple domains, including the academic domain by influencing the study of European media history and technological domain through its development of access to digitized archives. Additionally, it impacts policy by facilitating discussions around international copyright laws and intellectual property rights across Europe.
+
+Excerpts: “The project aimed to provide access to around 30,000 items of content... involving broadcasters and archives from across Europe” (Discussion, page 10).
+Examples: By enhancing access to television archives, the project supports academic research in media history and opens up discussions about policy around intellectual property rights in different European countries.
+2. Duration of Research Impact:
+The research has a long-term impact by establishing a foundation for future comparative studies in television history and facilitating broader research across European media. It also has short-term impacts as the archived data is used for immediate academic research.
+
+Excerpts: "The Video Active project provided over 9,000 items of programming previously inaccessible to scholars" (Discussion, page 13).
+Examples: In the long term, this resource will support future comparative research, while its immediate use allows scholars to access previously inaccessible historical archives.
+3. Stakeholders of Research Impact:
+Stakeholders include researchers in television and media studies, archivists, and policy makers. The general public also benefits indirectly from enhanced access to national television archives.
+
+Excerpts: "Researchers are invited to interpret their brief creatively, including a wide range of programme forms" (Method, page 10).
+Examples: Researchers benefit from improved access to content, and policymakers can better understand how to handle archival access across different European nations.
+4. Depth and Breadth of Impact:
+The project has broad impact across multiple sectors, including cultural studies, media policy, and technology. It also has deep impact within the specific field of European television history.
+
+Excerpts: "The content selection aimed to balance ordinary and extraordinary programming across European nations" (Method, page 17).
+Examples: Deep impact is seen in the way it reshapes the field of television history, while the broad impact spans legal discussions about copyright across Europe.
+5. Scalability and Transferability:
+The project is transferable to other domains, such as film or radio archives, and can be scaled for global application, extending beyond Europe to similar efforts worldwide.
+
+Excerpts: "The Video Active project’s content and metadata can be adapted to other domains" (Discussion, page 16).
+Examples: The approach used in this project can be transferred to other sectors like film archives and could be scaled for worldwide implementation in media preservation.
+6. Innovation and Disruption Potential:
+The project introduces innovative practices in metadata standardization and digital archive management. It also presents disruption potential by changing how researchers access television archives across borders.
+
+Excerpts: “Video Active introduced metadata standardization for transnational comparison" (Discussion, page 12).
+Examples: This project has the potential to disrupt traditional national archives by promoting cross-border media research through digital means.
+7. Sustainability and Ethical Considerations:
+The project emphasizes sustainability by preserving television archives for future generations and addressing ethical concerns surrounding the digitization and sharing of copyrighted material.
+
+Excerpts: “Rights agreements were a critical concern, leading to a careful approach to digitization” (Method, page 17).
+Examples: The project promotes sustainability by safeguarding media heritage while considering the ethical implications of sharing television content across borders.
+8. Implementation and Usability:
+The project is highly usable for academic researchers, offering practical tools for searching and accessing television archives across Europe. Its implementation strategy focused on making the archives easy to use for diverse stakeholders.
+
+Excerpts: "The programming content and contextual information provide a usable resource for researchers and educators" (Discussion, page 18).
+Examples: Researchers can easily implement the project’s outputs for comparative media studies.
+9. Cross-disciplinary and Global Relevance:
+The research has cross-disciplinary relevance, affecting fields like media studies, history, and legal studies, and it has global relevance as it sets a model for other international media archive projects.
+
+Excerpts: "The project encouraged comparative approaches and included diverse stakeholders" (Discussion, page 13).
+Examples: The research impacts cross-disciplinary fields like history and legal studies, and the model could be applied globally.
+10. Resilience and Adaptability:
+The project demonstrates resilience by overcoming challenges related to inconsistent metadata across archives, and its adaptability ensures that it remains relevant in changing technological and media landscapes.
+
+Excerpts: "A metadata system was devised to deal with inconsistencies across European archives" (Discussion, page 15).
+Examples: The adaptability of the metadata system allows the project to respond to the evolving needs of media researchers.
+Each of these dimensions highlights the significant impact of the Video Active project, both in the short-term and long-term, across various domains of research, policy, and media.

@@ -1,0 +1,43 @@
+Based on the "Knowledge - Potential RI by Dimensions" document, here is a detailed breakdown of the Research Impact Dimensions as they align with the attached study:
+
+1. Domains of Research Impact
+Excerpts: The study shows potential to influence multiple domains, including the academic domain, by contributing new theoretical frameworks or empirical evidence that can reshape ongoing debates or inspire future research. It might also affect the social domain, where insights from the research could inform societal changes or behavioral modifications.
+Page Reference: (Refer to Domain Examples in Knowledge RI file)
+Example: If the research involves analyzing the socioeconomic impacts of policy or technological innovation, it could affect both economic and policy domains, by providing data that influences legislative reforms or economic strategies.
+2. Duration of Research Impact
+Excerpts: The research could generate both short-term impacts (such as rapid citation and immediate policy applications) and long-term impacts, serving as a foundation for future studies. The immediate findings may address current challenges, while the broader implications may influence subsequent research or policy development for years.
+Page Reference: Duration Impact Category in Knowledge RI file.
+Example: For example, if the study involves healthcare innovations or technological advancements, there may be an immediate uptake by practitioners or policymakers, while the deeper theoretical contributions may shape long-term research and development strategies.
+3. Stakeholders of Research Impact
+Excerpts: The stakeholders could include researchers, who will build upon the findings, policy makers, who may use the data to inform legislative or regulatory changes, and community groups or NGOs, particularly if the study involves public health or environmental concerns.
+Page Reference: Stakeholders Section, Knowledge RI.
+Example: In the case of a public health study, healthcare professionals would be direct beneficiaries of the research through new treatments or protocols, while indirect stakeholders like the general public or international health organizations would benefit from improved health outcomes or reduced costs.
+4. Depth and Breadth of Impact
+Excerpts: Depending on the nature of the research, the study may have a deep impact in a specialized field by reshaping foundational theories or introducing new methodologies. Alternatively, it could have a broad impact by crossing disciplinary boundaries and affecting multiple sectors or industries.
+Page Reference: Knowledge RI file, Depth and Breadth Section.
+Example: For instance, a study on environmental sustainability could deeply influence climate science while broadly impacting policy-making, economics, and public health sectors.
+5. Scalability and Transferability
+Excerpts: The potential for scaling up the research findings to larger populations or different geographic regions, as well as the transferability of insights or innovations across fields (e.g., from healthcare to education) are highlighted as crucial dimensions.
+Page Reference: Scalability and Transferability Section.
+Example: A study developing new education technologies might be first applied in a small sample, but could be scaled up nationally or internationally. Alternatively, the same technology might be transferred to different contexts, such as healthcare for training healthcare workers.
+6. Innovation and Disruption Potential
+Excerpts: The study may introduce innovative ideas or methods that challenge current paradigms, making it both innovative and potentially disruptive, especially if it leads to new approaches that significantly shift how a field or industry operates.
+Page Reference: Innovation and Disruption.
+Example: If the research involves a new technology in energy or healthcare, it might disrupt existing industries by introducing more efficient solutions or opening up entirely new markets.
+7. Sustainability and Ethical Considerations
+Excerpts: The study’s contribution to sustainability could be in terms of environmental, social, or economic resilience. Ethical considerations also play a role, especially if the study involves human subjects, data privacy, or environmental stewardship.
+Page Reference: Sustainability and Ethical Considerations.
+Example: A study focusing on renewable energy technologies or sustainable urban development might promote long-term sustainability while also ensuring that the research adheres to ethical standards regarding fairness and equity.
+8. Implementation and Usability
+Excerpts: The findings of the research could be easily implemented in real-world settings, particularly if the research offers practical solutions to contemporary issues. Usability focuses on how well the research transitions from theory to practice.
+Page Reference: Implementation and Usability Section.
+Example: A study on public health interventions could be directly applied by governments or health organizations to improve patient care or disease prevention, ensuring that the outcomes are practical and actionable.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research has the potential to bridge multiple disciplines, making it relevant not just within its own field but across different areas of study. Its global relevance could stem from addressing universal challenges like climate change, public health, or technological innovation.
+Page Reference: Cross-disciplinary and Global Impact.
+Example: Research on the impacts of climate change could influence policies worldwide, while studies on public health crises may guide international protocols on pandemic preparedness.
+10. Resilience and Adaptability
+Excerpts: The research may demonstrate resilience by remaining relevant and adaptable in changing environments. Its adaptability might also refer to how its findings can be modified or applied in different contexts or under different conditions.
+Page Reference: Resilience and Adaptability Section.
+Example: If the study involves technological solutions to evolving global challenges like data security or pandemics, it would need to adapt as threats and needs change over time, showing resilience in diverse applications.
+This detailed overview of the research impact dimensions aligns with the framework in the provided file. Each dimension highlights a critical aspect of how the study can affect various fields, stakeholders, and timelines.

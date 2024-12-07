@@ -1,0 +1,74 @@
+Based on the provided document and the framework for assessing Research Impact Dimensions, here is a breakdown for the attached study titled "Context Matters (but how and why?) A Hypothesis-led Literature Review of Performance-Based Financing (PBF) in Fragile and Conflict-Affected Health Systems."
+
+1. Domains of Research Impact:
+Excerpts: The study extensively covers multiple domains:
+
+Health Domain: Focuses on improving health services through PBF, particularly in maternal and child health, which is directly linked to improving healthcare outcomes in conflict-affected settings.
+Policy Domain: It explores how PBF is influenced by external actors such as donors and multilateral organizations, thereby impacting health policies in low and middle-income countries.
+Economic Domain: The study indirectly addresses economic improvements by discussing how PBF schemes are linked to performance-based incentives, which can drive efficiencies in healthcare systems .
+Example: The research influences health policy by providing insights on how performance-based financing can be adopted in conflict-affected regions, potentially guiding donor-driven health programs across fragile contexts .
+
+2. Duration of Research Impact:
+Excerpts:
+
+Short-term Impact: Immediate application of PBF models in conflict zones is highlighted. For instance, the Ebola epidemic in West Africa saw adaptations to PBF schemes to ensure continuity of healthcare services .
+Long-term Impact: The long-term potential includes how PBF can catalyze system-wide health reforms, improving not just service delivery but broader health system performance .
+Example: The study shows that short-term adaptations in PBF schemes, like the rapid response during Ebola, could lay the foundation for long-term health system resilience in fragile settings .
+
+3. Stakeholders of Research Impact:
+Excerpts:
+
+Direct Stakeholders: Healthcare providers and policymakers directly benefit from insights into the effectiveness of PBF in conflict-affected areas .
+Indirect Stakeholders: The broader population in these regions benefits from improved healthcare services, particularly maternal and child health .
+Example: By influencing policy frameworks and offering operational insights, this research benefits healthcare providers and government bodies aiming to enhance service delivery in fragile states .
+
+4. Depth and Breadth of Impact:
+Excerpts:
+
+Deep Impact: The study deeply impacts the health domain by suggesting how PBF schemes can be restructured to suit the unique challenges of fragile and conflict-affected systems .
+Broad Impact: The research crosses into policy and health governance, suggesting reforms that could apply to a wide array of health services in low and middle-income countries .
+Example: The insights on PBF’s adaptability to fragile contexts influence not only health financing but also broader public health strategies in regions beyond the initial scope .
+
+5. Scalability and Transferability:
+Excerpts:
+
+Scalability: The study highlights how small pilot PBF programs can be scaled to larger national-level schemes, as demonstrated in countries like Rwanda .
+Transferability: Insights from the study can be transferred to other regions with similar conflict conditions, applying lessons learned from FCAS to other fragile states .
+Example: The model of PBF implementation in fragile states can be adapted for different healthcare systems globally, especially in low-income countries experiencing instability .
+
+6. Innovation and Disruption Potential:
+Excerpts:
+
+Innovation: The study introduces novel ideas on adapting PBF to fragile states, demonstrating how financing models can be flexible in crisis-prone settings .
+Disruption: The approach of linking health financing directly to service output quality and quantity in conflict zones presents a significant departure from traditional input-based health financing .
+Example: The adaptation of PBF to suit Ebola response strategies demonstrates an innovative disruption in how health services are delivered in crisis environments .
+
+7. Sustainability and Ethical Considerations:
+Excerpts:
+
+Sustainability: The study raises concerns about the long-term sustainability of donor-driven PBF models in fragile settings, particularly in countries reliant on external funding .
+Ethical Considerations: Ethical considerations are implicit in how PBF schemes affect the equitable distribution of health services during humanitarian crises .
+Example: Sustainability issues are particularly pertinent in Chad, where donor-driven PBF initiatives failed to secure long-term support .
+
+8. Implementation and Usability:
+Excerpts:
+
+Usability: The research emphasizes the practical implementation challenges of PBF in conflict settings, such as adapting verification mechanisms during crises like Ebola .
+Operationalization: Several case studies reveal how PBF is practically operationalized in fragile contexts despite challenging conditions .
+Example: PBF continued to operate in Northern Nigeria amidst Boko Haram insurgency, demonstrating the practical applicability of such financing models in even the most difficult environments .
+
+9. Cross-disciplinary and Global Relevance:
+Excerpts:
+
+Cross-disciplinary Impact: The research crosses into governance, health financing, and conflict studies, offering a multidimensional view of how health financing interacts with political and social structures in FCAS .
+Global Relevance: The lessons from PBF in fragile states could be applied globally in similar low-resource, conflict-prone environments .
+Example: The study provides valuable insights that could inform global health financing strategies, particularly for organizations like the World Health Organization or World Bank .
+
+10. Resilience and Adaptability:
+Excerpts:
+
+Resilience: The study highlights how PBF programs can be adapted during crises, ensuring that health services continue despite significant challenges .
+Adaptability: PBF schemes in fragile contexts show adaptability by responding to local challenges like insurgencies and health epidemics .
+Example: Adaptations of PBF during the Ebola outbreak illustrate the resilience of these models, ensuring that healthcare delivery is maintained even in emergency settings .
+
+This detailed analysis based on the Top 10 Dimensions of Research Impact shows the breadth and depth of this study's contribution across multiple domains.
