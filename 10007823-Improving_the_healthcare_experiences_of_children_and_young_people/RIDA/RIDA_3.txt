@@ -1,0 +1,46 @@
+
+To assess the impact dimensions of the study you provided, I will analyze the information based on the top 10 dimensions of research impact, detailing specific contributions from the paper:
+
+1. Domains of Research Impact:
+Excerpts:
+
+The study reports that the Xploro platform addresses hospital procedures and helps children engage with multiple elements (gamification, augmented reality, serious games, etc.), contributing to procedural health literacy (p. 11, Discussion).
+"This study provides preliminary evidence that the intervention (Xploro) reduced procedural anxiety of children and their parents and improved children’s perceptions of procedural knowledge and involvement" (p. 10, Discussion). Example: The research impacts the health domain by introducing a tool that improves procedural literacy and reduces anxiety for children undergoing medical procedures. Additionally, it has implications for the educational domain by introducing a child-centered learning approach through digital platforms.
+2. Duration of Research Impact:
+Excerpts:
+
+"The Xploro intervention, underpinned by an information-pull approach, facilitated children to determine and address their own information needs" (p. 10, Discussion).
+"This study suggests that a larger effectiveness study would be of value" (p. 12, Discussion). Example: The study could have short-term impacts by reducing anxiety and increasing knowledge during immediate hospital visits. The research might also have long-term impacts by shaping how digital interventions are used in pediatric healthcare settings in the future​(Knowledge - Potential R…).
+3. Stakeholders of Research Impact:
+Excerpts:
+
+"The platform provided children with information specific to them and allowed them to process, question, and apply information to their individual circumstances" (p. 11, Discussion). Example: Direct stakeholders include children and parents, who benefit from reduced anxiety and increased procedural understanding. Healthcare professionals indirectly benefit as children better prepared for procedures may experience smoother hospital interactions​(Knowledge - Potential R…).
+4. Depth and Breadth of Impact:
+Excerpts:
+
+"The study aimed to assess the acceptability of the DTx platform and its impact on children's and parents' health literacy" (p. 2, Methods). Example: The research has a deep impact in the specific field of pediatric health literacy by addressing procedural knowledge gaps. The breadth of impact includes influencing healthcare providers, educators, and technology developers by integrating multiple elements such as augmented reality into medical care​(Knowledge - Potential R…)​(Knowledge - Potential R…).
+5. Scalability and Transferability:
+Excerpts:
+
+"This study suggests that a larger effectiveness study would be of value" (p. 12, Discussion). Example: The intervention could be scaled across hospitals globally, enhancing procedural knowledge and reducing anxiety in pediatric settings. Its transferability could extend to other medical contexts where patients require tailored education, potentially impacting other vulnerable patient groups​(Knowledge - Potential R…)​(Knowledge - Potential R…).
+6. Innovation and Disruption Potential:
+Excerpts:
+
+"This is the first study to evaluate the impact of a DTx platform using gamification, serious games, and augmented reality avatars with children undergoing hospital procedures" (p. 11, Discussion). Example: The study represents an innovation in healthcare technology by leveraging gamification and augmented reality to improve pediatric health outcomes. It could disrupt traditional hospital education methods, shifting toward more interactive, personalized digital interventions​(Knowledge - Potential R…)​(Knowledge - Potential R…).
+7. Sustainability and Ethical Considerations:
+Excerpts:
+
+"It is increasingly recognized that health literacy is facilitated when an individual can tailor information to their needs" (p. 11, Discussion). Example: The research supports sustainability in pediatric healthcare by advocating for customizable, scalable health literacy tools that empower young patients. The study considers the ethical importance of child-centered care, ensuring that interventions respect individual learning preferences and needs​(Knowledge - Potential R…).
+8. Implementation and Usability:
+Excerpts:
+
+"The study used mixed methods to evaluate the usability and acceptability of the DTx platform" (p. 11, Methods). Example: The Xploro platform has significant usability potential, as demonstrated by the study’s favorable evaluation of the platform in real hospital settings, ensuring practical implementation in pediatric care​(Knowledge - Potential R…).
+9. Cross-disciplinary and Global Relevance:
+Excerpts:
+
+"There is currently a lack of robust research evaluating platforms like Xploro with children attending hospitals" (p. 11, Discussion). Example: The study has cross-disciplinary relevance by intersecting healthcare, education, and digital technology. It has global relevance as the Xploro platform could be adapted for use in hospitals worldwide, benefiting diverse pediatric populations​(Knowledge - Potential R…).
+10. Resilience and Adaptability:
+Excerpts:
+
+"Digital health interventions that children can use flexibly are potentially of most value" (p. 11, Discussion). Example: The platform’s adaptability ensures it can be used by children with different cognitive levels and health literacy needs. Its resilience lies in its capacity to remain useful across various hospital settings and procedures​(Knowledge - Potential R…)​(Knowledge - Potential R…).
+Each of these dimensions demonstrates the comprehensive impact of the research in pediatric healthcare, particularly in reducing anxiety and improving procedural literacy using innovative digital tools.
