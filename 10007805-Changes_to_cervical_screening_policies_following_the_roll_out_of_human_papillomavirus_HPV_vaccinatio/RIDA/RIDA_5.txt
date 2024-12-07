@@ -1,0 +1,43 @@
+Here are the detailed research impact dimensions for the provided study based on the "Top 10 Dimensions of Research Impact":
+
+1. Domains of Research Impact (RI)
+Excerpt: The study's focus on the effectiveness of the HPV vaccine touches upon multiple domains, particularly public health, healthcare policy, and epidemiology. It also has implications for global health by contributing data that can influence vaccination policies in countries such as Australia, Portugal, and Rwanda.
+Page Reference: Discussion, page 8​(5).
+Example: This research impacts the health domain by demonstrating the early effectiveness of HPV vaccines, which could lead to improved screening programs and vaccination policies worldwide.
+2. Duration of Research Impact
+Excerpt: The study demonstrates both short-term and long-term impacts. In the short term, it shows immediate reductions in cervical intraepithelial neoplasia (CIN) in vaccinated populations. In the long term, it sets the foundation for further surveillance and public health interventions related to HPV-related cancers.
+Page Reference: Results and Discussion, pages 6 and 8​(5)​(Knowledge - Potential R…).
+Example: Long-term impacts could include a continued reduction in HPV-associated diseases and the development of new public health strategies for broader vaccine application globally.
+3. Stakeholder of Research Impact
+Excerpt: Direct stakeholders include healthcare providers, epidemiologists, and policymakers who can use the findings to improve HPV vaccination strategies and cervical cancer prevention efforts. Indirect stakeholders include the general public, particularly women who will benefit from decreased HPV-related disease rates.
+Page Reference: Results and Discussion, pages 6-7​(Knowledge - Potential R…)​(Knowledge - Potential R…).
+Example: Policymakers and healthcare providers can refine cervical screening programs and vaccination campaigns based on this data, reducing public health disparities.
+4. Depth and Breadth of Impact
+Excerpt: This research has both deep and broad impacts. Its deep impact is seen within the field of public health as it enhances the understanding of HPV vaccination's effectiveness. Broad impact arises from its relevance across global health settings, particularly in countries with high vaccine uptake.
+Page Reference: Results and Discussion, page 8​(Knowledge - Potential R…).
+Example: The study's influence on vaccination policy and cancer prevention extends across different countries, broadening its applicability beyond Scotland.
+5. Scalability and Transferability
+Excerpt: The findings of this research can be scaled to other regions and transferred to different population-based settings where HPV vaccination programs are being considered or implemented. This includes regions with similar vaccination uptake as Scotland, such as Australia and Rwanda.
+Page Reference: Discussion, page 8​(5).
+Example: The vaccination program's scalability is demonstrated by its potential for application in similar countries, and its transferability is evident in its applicability to different health systems with strong preventive healthcare programs.
+6. Innovation and Disruption Potential
+Excerpt: The study is innovative in its use of national data linkage to track the impact of HPV vaccination at a population level, providing robust, real-world evidence of vaccine effectiveness outside a clinical trial setting.
+Page Reference: Results, page 6​(Knowledge - Potential R…).
+Example: This approach could disrupt traditional clinical trial-based vaccine monitoring, leading to more reliance on real-world evidence in public health decision-making.
+7. Sustainability and Ethical Considerations
+Excerpt: The study promotes sustainability by showcasing the long-term benefits of vaccination in reducing cervical cancer rates, thus decreasing the future burden on healthcare systems. Ethical considerations include ensuring equitable access to the vaccine for all women.
+Page Reference: Discussion, page 8​(Knowledge - Potential R…).
+Example: The findings can support sustainable healthcare policies by preventing HPV-related diseases, reducing healthcare costs, and promoting ethical public health interventions to ensure widespread vaccine access.
+8. Implementation and Usability
+Excerpt: The study's findings are highly usable for healthcare providers and policymakers involved in vaccination programs. The use of linked national databases demonstrates the practicality of implementing large-scale public health initiatives with real-time data monitoring.
+Page Reference: Results and Discussion, pages 6-8​(Knowledge - Potential R…)​(5).
+Example: The study's methodology can guide the implementation of similar vaccination monitoring programs in other countries, enhancing usability in global public health settings.
+9. Cross-disciplinary and Global Relevance
+Excerpt: The research integrates public health, epidemiology, and healthcare policy, demonstrating cross-disciplinary relevance. Its findings also hold global relevance due to its application in countries with similar HPV vaccination programs.
+Page Reference: Discussion, page 8​(Knowledge - Potential R…).
+Example: The study's methodology and results are valuable for global health initiatives focusing on vaccination and cervical cancer prevention, making it applicable across healthcare, policy, and epidemiology disciplines.
+10. Resilience and Adaptability
+Excerpt: The HPV vaccination program’s adaptability is evident in its successful implementation across diverse age groups and in the catch-up campaigns for older girls. Its resilience is shown in the sustained high vaccine uptake despite potential logistical challenges.
+Page Reference: Discussion, page 8​(5).
+Example: The study highlights the program's ability to maintain high vaccination coverage and adjust to different demographic needs, ensuring its long-term success.
+These dimensions showcase the comprehensive impact of the research, contributing to public health, healthcare policies, and global vaccination strategies.

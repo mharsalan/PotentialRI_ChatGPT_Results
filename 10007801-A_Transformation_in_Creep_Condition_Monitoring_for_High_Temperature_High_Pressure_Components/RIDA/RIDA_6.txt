@@ -1,0 +1,62 @@
+Research Impact Dimensions for the Study on Residual Stresses in Condition Monitoring and Repair of Thermal Power Generation Components:
+Domains of Research Impact (RI):
+
+Excerpts:
+"Residual stresses have a significant impact on the fatigue and fracture performance of engineering components and structures, with an effect that is largely dependent on the sign of the residual stress relative to that of the applied stress" (Introduction, p. 289)​(6).
+Page Reference and Section: Introduction, p. 289​(6).
+Example: This research impacts the engineering domain, particularly in power generation, by improving the safety and longevity of components in thermal power plants. By understanding and managing residual stresses, the study provides insights that could directly impact the design and maintenance practices in industries like energy generation and infrastructure management.
+Duration of Research Impact (RI):
+
+Excerpts:
+"The innovative use of solid-state friction taper hydro-pillar processes can offer additional capability in condition monitoring of through-thickness creep damage in thermal power plant, as well as provide cost-effective local repair" (Conclusion, p. 297)​(6).
+Page Reference and Section: Conclusion, p. 297​(6).
+Example: This research has long-term impact by providing a foundation for future condition monitoring technologies. It will influence future maintenance practices for steam turbine components, ensuring ongoing reliability and operational efficiency.
+Stakeholders of Research Impact (RI):
+
+Excerpts:
+"The main conclusion in the paper is that the innovative use of solid-state friction taper hydro-pillar processes can offer additional capability in condition monitoring of through-thickness creep damage" (Conclusion, p. 297)​(6).
+Page Reference and Section: Conclusion, p. 297​(6).
+Example: Direct stakeholders include engineers and maintenance professionals in the energy sector who would apply the findings in managing steam turbine components. Indirect stakeholders are regulatory bodies and policy makers who may adopt the technology for national energy infrastructure safety standards.
+Depth and Breadth of Impact:
+
+Excerpts:
+"Advanced neutron and synchrotron X-ray diffraction facilities, such as those at the ILL and ESRF... offer a very significant capability in measuring 3D residual stress distributions in substantial pieces of engineering hardware" (Conclusion, p. 297)​(6).
+Page Reference and Section: Conclusion, p. 297​(6).
+Example: This research has deep impact in the niche field of residual stress analysis within power generation but also has broad applications across engineering sectors dealing with structural integrity and fatigue management.
+Scalability and Transferability:
+
+Excerpts:
+"The friction taper hydro-pillar process is not restricted to repairing damage at turbine blade attachment slots on LP turbines and can also be used for in-situ through-thickness creep specimen sampling in thick-walled steam pipe" (Methodology, p. 294)​(6).
+Page Reference and Section: Methodology, p. 294​(6).
+Example: The techniques developed in this study are scalable for use in different types of turbines and transferable to other industries such as aerospace, where creep and fatigue failures are also critical.
+Innovation and Disruption Potential:
+
+Excerpts:
+"The innovative use of solid-state friction taper hydro-pillar processes... offer additional capability in condition monitoring and cost-effective local repair of creep or fatigue damage" (Conclusion, p. 297)​(6).
+Page Reference and Section: Conclusion, p. 297​(6).
+Example: The study introduces an innovative process in turbine blade repair, potentially disrupting traditional methods by offering a more effective, less invasive repair technique.
+Sustainability and Ethical Considerations:
+
+Excerpts:
+"Cost-effective local repair... of creep or fatigue damage" (Conclusion, p. 297)​(6).
+Page Reference and Section: Conclusion, p. 297​(6).
+Example: The study promotes sustainability by reducing waste through repair rather than replacement of turbine components, thus conserving resources and energy.
+Implementation and Usability:
+
+Excerpts:
+"Residual stress measurements are an essential part of a structured approach to condition monitoring and to reducing the probability of fatigue and fracture" (Conclusion, p. 297)​(6).
+Page Reference and Section: Conclusion, p. 297​(6).
+Example: The usability of these findings lies in their straightforward application in existing turbine maintenance schedules, ensuring minimal disruption while improving performance.
+Cross-disciplinary and Global Relevance:
+
+Excerpts:
+"Advanced neutron and synchrotron X-ray diffraction facilities... offer significant capability in measuring 3D residual stress distributions" (Conclusion, p. 297)​(6).
+Page Reference and Section: Conclusion, p. 297​(6).
+Example: The study is cross-disciplinary, combining materials science, mechanical engineering, and power plant maintenance, with global relevance due to the widespread use of turbines in energy generation.
+Resilience and Adaptability:
+
+Excerpts:
+"PWHT has been quite successful in the laser welded case in reducing residual stress magnitudes and hence in reducing the possibility of crack initiation and growth during service" (Results, p. 295)​(6).
+Page Reference and Section: Results, p. 295​(6).
+Example: The study enhances resilience of critical components, ensuring they can withstand operational stresses over long periods with adaptable maintenance strategies.
+Each dimension reflects the comprehensive impact of the study on thermal power generation, contributing to academic knowledge, industrial application, and sustainable practices.
