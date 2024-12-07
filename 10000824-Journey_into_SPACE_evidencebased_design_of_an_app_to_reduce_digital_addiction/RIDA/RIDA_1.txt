@@ -1,0 +1,100 @@
+1. Domains of Research Impact
+Excerpts:
+
+The paper addresses the challenges in requirements engineering (RE) for customer organizations in outsourced environments, focusing on large and complex IT projects. It emphasizes how business and IT development are intertwined, impacting business process modeling, systems integration, and enterprise architecture (p. 215–217).
+Page Reference and Section:
+
+Introduction, pp. 214–217; Results, pp. 218–220.
+Example:
+
+This research impacts the business and technology domains by providing insights into how customer organizations can manage large-scale outsourced IT projects. It influences how businesses structure their IT development processes and manage relationships with suppliers.
+2. Duration of Research Impact
+Excerpts:
+
+The study’s findings are designed to improve RE processes in customer organizations, suggesting that these improvements will have long-term implications for managing outsourced IT projects (p. 222). Additionally, the RE lifecycle discussed in the study extends from the inception of business requirements to the long-term maintenance of IT systems, indicating a long-term duration of impact (p. 220).
+Page Reference and Section:
+
+Results, p. 222; Discussion, p. 225.
+Example:
+
+The research is likely to have a long-term impact as it lays the groundwork for better management practices in outsourced IT projects, with potential to influence RE processes for years to come.
+3. Stakeholders of Research Impact
+Excerpts:
+
+The primary stakeholders include business specialists, project managers, IT architects, and external suppliers. The research is particularly relevant to customer organizations that outsource their IT development, as it provides actionable strategies for RE process improvement (p. 219, 223).
+Page Reference and Section:
+
+Results, pp. 219, 223.
+Example:
+
+Stakeholders such as business management and requirements analysts will benefit directly from the research by improving how they define, prioritize, and manage requirements in large outsourced IT projects.
+4. Depth and Breadth of Impact
+Excerpts:
+
+The study has a deep impact within the field of requirements engineering for outsourced IT environments. It provides in-depth analysis of challenges such as stakeholder management, RE process adaptation, and integration of business processes with IT systems (p. 220). While the impact is mostly deep, it has potential for broad impact across industries engaged in large-scale IT development (p. 223).
+Page Reference and Section:
+
+Results, p. 220; Discussion, p. 223.
+Example:
+
+In the field of requirements engineering, this research contributes deeply to improving practices in the outsourced IT context, while potentially influencing RE across various industries.
+5. Scalability and Transferability
+Excerpts:
+
+The findings from the case study are transferable to other organizations facing similar challenges in outsourced IT development (p. 223). Scalability is seen in how the RE processes can be applied to multi-supplier projects (p. 223).
+Page Reference and Section:
+
+Results, p. 223; Discussion, p. 225.
+Example:
+
+The research findings are transferable to various industries engaged in outsourced IT projects, and can be scaled to larger development portfolios with multiple suppliers.
+6. Innovation and Disruption Potential
+Excerpts:
+
+The paper introduces innovative approaches to managing RE in outsourced environments, especially by highlighting how business processes and IT system development can be combined using requirements as a tool (p. 222). This approach challenges traditional methods of managing IT projects by emphasizing the integration of business development with IT requirements (p. 219).
+Page Reference and Section:
+
+Results, p. 219, 222.
+Example:
+
+The innovative potential of this research lies in its proposal to integrate business and IT development more closely in outsourced projects, possibly disrupting conventional models where IT and business development are siloed.
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+The study discusses the need for RE processes that are sustainable over the long term, especially in large, complex, and multi-supplier environments (p. 221). It also stresses the importance of ethical considerations in ensuring fairness and transparency in the customer-supplier relationship (p. 220).
+Page Reference and Section:
+
+Results, p. 221; Discussion, p. 224.
+Example:
+
+By promoting sustainable RE practices that are adaptable to changing project environments and ethical guidelines in supplier relations, this research advocates for responsible management of large IT projects.
+8. Implementation and Usability
+Excerpts:
+
+The RE process improvements suggested in the paper are highly implementable for customer organizations in outsourced environments. The study emphasizes practical RE practices such as iterative feedback loops, stakeholder workshops, and clear documentation of requirements (p. 218–220).
+Page Reference and Section:
+
+Methods, p. 218; Results, p. 220.
+Example:
+
+The findings are designed to be usable in real-world projects, particularly in environments where requirements are distributed between multiple suppliers.
+9. Cross-Disciplinary and Global Relevance
+Excerpts:
+
+The research has cross-disciplinary implications, especially for organizations that integrate business process development with IT system development (p. 222). The methodologies discussed are applicable globally, particularly in industries relying heavily on outsourced IT development (p. 223).
+Page Reference and Section:
+
+Discussion, pp. 222–223.
+Example:
+
+The global relevance of the research extends to international firms managing outsourced projects, and the cross-disciplinary approach bridges the gap between business development and technology management.
+10. Resilience and Adaptability
+Excerpts:
+
+The RE processes proposed are designed to be resilient and adaptable to different project environments, including projects with evolving requirements or multiple stakeholders (p. 224). This adaptability is crucial for maintaining project alignment with business goals (p. 221).
+Page Reference and Section:
+
+Results, pp. 221, 224.
+Example:
+
+The resilience of the proposed RE processes ensures they can adapt to changes in project scope, making them highly valuable for managing long-term, complex IT systems.

@@ -1,0 +1,89 @@
+1. Domains of Research Impact
+Excerpts:
+
+"Digital Addiction (DA) is a term used to denote particularly problematic usage of digital media, often associated with negative consequences such as distraction, lack of sleep, and reduced social skills" (Introduction, Page 1).
+The paper discusses the use of interactive e-health interventions as solutions to DA, focusing on health outcomes, social structures, and behavioral changes, positioning the research across the health, social, and technological domains.
+Example: This research primarily impacts the health domain by addressing psychological effects like anxiety and depression due to DA. It also touches on the social domain by highlighting how DA impairs relationships and social functioning, and the technological domain by offering software-based interventions to manage DA.
+
+Section & Page Reference: Introduction, Page 1
+
+2. Duration of Research Impact
+Excerpts:
+
+"Self-governed interactive e-health intervention for digital addiction could lead to adverse side effects such as lower self-esteem, misconception of healthy usage, and creating alternative addictive experiences" (Abstract, Page 1).
+The study suggests the potential for long-term impacts, especially as it addresses sustaining behavioral change in DA, which can influence future e-health app designs and mental health interventions.
+Example: The research contributes to a long-term impact by proposing frameworks for sustainable behavioral change, which could influence the design of future e-health interventions and healthcare technologies. It also offers critical insights for ongoing research into DA treatments.
+
+Section & Page Reference: Abstract, Page 1
+
+3. Stakeholders of Research Impact
+Excerpts:
+
+"We conducted an empirical user study to capture how users perceive the utilization of interactive e-health intervention for regulating DA" (Methods, Page 3).
+Key stakeholders include software developers, psychologists, and public health professionals, who can apply the findings to enhance user engagement without promoting addictive behaviors.
+Example: Software engineers are direct stakeholders, as the research provides design guidelines for reducing DA through e-health interventions. Psychologists and public health officials also benefit from insights into how digital interventions can address addiction.
+
+Section & Page Reference: Methods, Page 3
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+"The system might deliver mismatched interactive interventions, so users should be carefully assigned to levels of addiction" (Discussion, Page 6).
+The research provides deep impact within e-health intervention design by recommending nuanced approaches to handling varying levels of addiction, while also offering broad impact by integrating findings relevant to psychology, software engineering, and public health.
+Example: The deep impact comes from its detailed examination of the technical aspects of DA management in e-health solutions. The breadth lies in its applicability across health care, mental health interventions, and technology design, touching multiple domains.
+
+Section & Page Reference: Discussion, Page 6
+
+5. Scalability and Transferability
+Excerpts:
+
+"The findings of this study are intended to inform the design decisions, testing, and usage instructions related to interactive e-health solutions for problematic and addictive digital media usage" (Results, Page 5).
+The paper highlights the scalability of interactive e-health solutions by identifying how digital addiction interventions could be scaled for different populations and contexts.
+Example: The research can be scaled up to broader applications, such as addressing internet addiction in educational institutions or work environments. It is also transferable to other health-related behavioral interventions, like substance abuse treatments.
+
+Section & Page Reference: Results, Page 5
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+"This paper argues for novel approaches which are able to cater for the diversity, subjectivity and also the private nature of information related to DA" (Introduction, Page 1).
+The proposed e-health interventions introduce innovation by integrating behavioral science with software design, offering new ways to tackle digital addiction through persuasive technology and gamification.
+Example: The innovative potential lies in the use of gamification and real-time feedback within e-health apps, which could disrupt traditional mental health treatments by providing a tech-based alternative to managing addiction behaviors.
+
+Section & Page Reference: Introduction, Page 1
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"The use of coercive techniques, such as locking a game, could be risky for individuals with ADHD" (Methods, Page 3).
+The study recognizes ethical concerns in designing e-health interventions, specifically around the use of coercive techniques and personalization of the user experience based on individual mental health conditions like ADHD.
+Example: The research promotes sustainability by advocating for the development of personalized, ethically sound e-health solutions that take into account user vulnerabilities, ensuring that interventions do not exacerbate the issue they are meant to solve.
+
+Section & Page Reference: Methods, Page 3
+
+8. Implementation and Usability
+Excerpts:
+
+"The diaries helped immerse the participants in the domain so that the interviews allowed us to get more insights" (Methods, Page 4).
+The research focuses on implementation by ensuring that e-health apps are easy to use, offering features like reminders and addiction scoring to help users manage their digital habits effectively.
+Example: The study’s recommendations for usability are clear: apps must be user-friendly, offer real-time feedback, and be adaptable to different contexts, making them practical for widespread implementation in personal and professional environments.
+
+Section & Page Reference: Methods, Page 4
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"Peer support groups have been recognized as an effective treatment approach in rehabilitation programs for addictive behaviors" (Introduction, Page 2).
+The research has cross-disciplinary relevance, integrating psychology, software engineering, and public health to offer a comprehensive framework for addressing DA.
+Example: The global relevance of this study is evident in its potential application across different cultures and regions, as DA affects individuals worldwide, making the solutions proposed in the research applicable on a global scale.
+
+Section & Page Reference: Introduction, Page 2
+
+10. Resilience and Adaptability
+Excerpts:
+
+"Facilitators refer to triggering the behavior by improving users’ ability to perform it" (Discussion, Page 9).
+The paper suggests adaptive approaches in designing e-health interventions, such as the ability of apps to adjust based on user feedback and behavior, making the interventions more resilient over time.
+Example: The resilience of the proposed interventions lies in their ability to be tailored to individual needs, helping users maintain long-term behavior changes while adjusting to the evolving nature of their addiction.
+
+Section & Page Reference: Discussion, Page 9

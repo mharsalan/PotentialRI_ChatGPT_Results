@@ -1,0 +1,43 @@
+Based on the insights from the attached documents and the "Top 10 Dimensions of Research Impact"​, here is a detailed breakdown of the research impact dimensions for the study on "Macroprudential Policy and Financial Imbalances":
+
+1. Domains of Research Impact
+Excerpt: The study focuses on macroprudential policy tools, assessing their impact on reducing the credit-to-GDP gap, which is a key indicator of financial imbalances and a predictor of financial crises. It significantly contributes to the economic domain, particularly in areas of financial stability and regulation, as well as policy making related to banking and financial systems.
+Page Reference: Introduction, Page 2; Discussion, Page 10
+Example: The research provides economic insights crucial for policymakers and regulators globally, helping them understand which macroprudential tools are most effective in preventing financial crises by managing credit booms.
+2. Duration of Research Impact
+Excerpt: The study uses data from 43 countries over 13 years (2000-2013), providing long-term insights into how macroprudential policies impact financial systems. The duration of its impact lies in both its short-term influence on immediate policy changes and long-term contributions to preventing systemic risks in financial markets.
+Page Reference: Introduction, Page 3; Conclusion, Page 22
+Example: Short-term impact involves immediate policy adjustments in emerging and advanced economies, while long-term impact includes building frameworks that can prevent future financial crises.
+3. Stakeholders of Research Impact
+Excerpt: The key stakeholders include central banks, financial regulators, international financial institutions like the IMF, and policymakers responsible for ensuring financial stability. Additionally, private banking institutions and academic researchers in economics and finance are direct stakeholders.
+Page Reference: Results, Page 20; Introduction, Page 3
+Example: Central banks and regulatory bodies will directly apply the findings to design more robust macroprudential regulations, while academics may use the study’s methodologies for further research on financial stability.
+4. Depth and Breadth of Impact
+Excerpt: The study has a deep impact within the field of financial stability and regulation, specifically addressing the effectiveness of various macroprudential tools such as loan-to-value ratios and countercyclical capital buffers. Its broad impact spans across multiple sectors, influencing policy not only in finance but also in sectors linked to credit markets, like housing.
+Page Reference: Methods, Page 5; Results, Page 14
+Example: Deep impact is demonstrated by the study’s potential to reshape how financial regulators approach the credit-to-GDP gap as an indicator of financial health, while its broad impact extends to housing policies and the broader economy affected by credit regulation.
+5. Scalability and Transferability
+Excerpt: The research findings are scalable, as they can be applied to both advanced and emerging economies. The study’s approach can also be transferred to other contexts, such as corporate credit markets and non-banking financial institutions, ensuring a wide applicability of its results.
+Page Reference: Results, Page 10; Discussion, Page 22
+Example: The study’s focus on credit-to-GDP ratios can be scaled from national economies to regional banking systems, and the methods can be transferred to regulate corporate debt or household credit growth in different economic sectors.
+6. Innovation and Disruption Potential
+Excerpt: The study introduces innovative applications of dynamic GMM panel estimation and early warning indicators for financial crises, which disrupt traditional financial regulation methods by focusing on proactive risk management through macroprudential policies.
+Page Reference: Discussion, Page 18
+Example: By providing early warning tools like the credit-to-GDP gap, the study disrupts conventional approaches to crisis management, promoting a shift towards preventive regulation rather than reactive interventions during crises.
+7. Sustainability and Ethical Considerations
+Excerpt: The research contributes to sustainable financial systems by promoting policies that reduce systemic risks, ensuring that financial institutions operate with greater resilience to economic shocks. It also addresses ethical considerations by focusing on preventing excessive credit growth, which can lead to financial instability that disproportionately affects vulnerable populations.
+Page Reference: Discussion, Page 21
+Example: The emphasis on sustainable credit growth contributes to ethical policymaking by preventing large-scale crises that often harm lower-income groups disproportionately during economic downturns.
+8. Implementation and Usability
+Excerpt: The study’s findings are directly implementable by financial regulatory bodies and central banks, particularly in designing countercyclical buffers and credit regulation policies. The research offers practical tools for monitoring and managing financial risks.
+Page Reference: Results, Page 22
+Example: Central banks can immediately use the study’s findings to fine-tune macroprudential regulations that prevent financial imbalances from escalating into crises, such as using the credit-to-GDP gap as a trigger for capital buffer adjustments.
+9. Cross-disciplinary and Global Relevance
+Excerpt: The study’s methods and findings are relevant across disciplines such as economics, policy analysis, and risk management, and they have global significance due to the international nature of banking systems and credit markets.
+Page Reference: Introduction, Page 3; Discussion, Page 20
+Example: The research has global relevance, as its findings can be applied by international bodies like the World Bank and IMF in shaping global financial regulations to enhance the resilience of the international banking system.
+10. Resilience and Adaptability
+Excerpt: The research focuses on enhancing the resilience of global banking systems by identifying macroprudential tools that adapt to both emerging market economies and advanced economies. It advocates for dynamic policy responses to evolving credit cycles.
+Page Reference: Results, Page 13; Discussion, Page 22
+Example: The study’s recommendations for countercyclical capital buffers and debt-to-income ratios equip banks and regulators with adaptable tools to manage economic fluctuations, enhancing their resilience to financial crises.
+These dimensions highlight the study’s broad applicability and significant contributions to global financial stability, policy development, and academic research. Its innovative approach to macroprudential policy provides new frameworks for managing financial risks in an interconnected global economy.

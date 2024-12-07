@@ -1,0 +1,34 @@
+To explore the potential research impacts based on the provided document titled "Challenges of the Customer Organization's Requirements Engineering Process in the Outsourced Environment" and by drawing on the research impact frameworks from the supporting files, several key dimensions of impact can be identified. Below is an academic-style explanation of potential research impacts categorized across different domains:
+
+1. Academic Impact
+The case study provides detailed insights into the requirements engineering (RE) process challenges in large, outsourced IT projects, specifically within the Finnish insurance company. From an academic perspective, this study contributes to the advancement of knowledge in the field of software development, especially in outsourced environments. It identifies significant RE challenges, such as distributed requirements management and the integration of business and IT processes. The findings can help academics develop new frameworks or methodologies for improving RE in similar contexts.
+
+Moreover, the study’s contribution to academic literature lies in focusing on the client-side challenges, which are less covered compared to vendor-side issues in outsourced projects. This enhances understanding and theorization of complex, real-world IT development environments, providing a rich dataset for future research on large-scale IT system development.
+
+2. Economic and Technological Impact
+The study examines the economic implications of ineffective RE processes, where budget overruns and delays in IT development projects can occur. By improving RE processes, businesses can reduce costs associated with misaligned requirements, scope creep, and project delays. The study's findings could be used by organizations to enhance the efficiency of IT project management, potentially saving millions in development costs and improving ROI (return on investment).
+
+Further, the technological advancements in RE processes recommended by the study—such as better requirements documentation, stakeholder alignment, and improved RE tools—have the potential to boost innovation in IT systems development. These advancements could be transferable to other industries beyond insurance, where complex IT systems are integral, leading to cross-sector technological impact.
+
+3. Social and Organizational Impact
+On a social level, the study addresses the organizational and communication dynamics between customers and suppliers in outsourced projects. The findings could foster better collaborative practices and team communication across distributed environments, leading to improved work environments and project success. These organizational improvements can lead to better alignment between business goals and IT deliverables, which directly affects employee satisfaction and customer satisfaction when projects are delivered on time and within scope.
+
+Moreover, the study highlights the importance of stakeholder engagement in RE processes. This insight can lead to organizational shifts where business analysts and end-users are more actively involved in requirements elicitation, leading to better alignment of business needs with technology solutions.
+
+4. Policy and Regulatory Impact
+The study’s findings have the potential to influence policy frameworks for IT project governance in outsourced environments. For example, the need for clearer guidelines on RE processes, contractual obligations, and performance metrics between clients and suppliers could inform new regulations for outsourcing agreements, especially in highly regulated industries like insurance and finance.
+
+5. Capacity Building and Educational Impact
+Given the detailed nature of the study, it can serve as a valuable teaching resource in universities and professional training programs. It offers real-world insights into large-scale IT projects, making it an excellent case for teaching project management, systems engineering, and requirements management. Training future project managers and software engineers with knowledge derived from this study can enhance industry capacity to manage complex outsourced projects effectively.
+
+6. Health and Well-being Impact
+While the study focuses on IT and business, improved RE processes, as identified in the study, can indirectly contribute to the health and well-being of employees in IT-intensive sectors. Better project management practices can reduce workplace stress, mitigate project failure anxiety, and contribute to a better work-life balance for employees involved in large, outsourced IT projects.
+
+7. Environmental Impact
+Although not directly addressed in the case study, improved efficiency in IT development can have environmental benefits by reducing the need for excessive computing resources and reducing project waste. Streamlined RE processes lead to fewer project iterations, which in turn can lower the carbon footprint of long development cycles that consume energy and resources unnecessarily.
+
+8. Innovation and Disruption Potential
+By identifying the key challenges in outsourced RE processes, this research opens the door for innovative solutions, such as the development of new RE tools that better handle distributed teams, enhance transparency, and facilitate real-time collaboration between customers and suppliers. Such innovations could disrupt traditional RE practices, pushing the industry towards more agile, adaptable, and resilient project methodologies.
+
+Conclusion
+The research described in this case study has multi-dimensional impacts across academic, economic, social, and technological domains. The improvement of RE processes in large, complex, outsourced IT environments can transform organizational efficiency, reduce costs, and inspire future research, while influencing policy, training, and technological innovation. It serves as an excellent model for understanding the complexities and demands of requirements engineering in modern IT systems development.

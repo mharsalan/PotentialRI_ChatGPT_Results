@@ -1,0 +1,57 @@
+Research Impact Dimensions for the study: "A network analysis of global banking: 1978–2010"
+1. Domains of Research Impact
+Excerpts:
+"We analyze the global banking network using data on cross-border banking flows for 184 countries during 1978–2010." (Introduction, Page 1)
+The research contributes to the academic domain by advancing methodologies in network analysis applied to international banking. It also impacts the economic domain, offering insights into financial interconnectedness, banking crises, and the cyclic nature of capital flows.
+Page Reference: Introduction, Page 1; Results, Page 10
+Example: This study could influence policy discussions about international banking regulations, particularly in light of its findings on how connectedness contributes to banking crises, impacting economic and policy domains.
+2. Duration of Research Impact
+Excerpts:
+"We explore the properties of the global banking network over the past three decades and its dynamics around periods of financial stress." (Introduction, Page 2)
+The study provides long-term impact as it establishes patterns in financial networks, such as cyclic rises in connectivity prior to crises and declines afterward.
+Page Reference: Introduction, Page 2; Discussion, Page 22
+Example: By identifying the cyclic nature of financial crises, the research could serve as a foundational reference for future studies on the long-term evolution of global financial systems.
+3. Stakeholders of Research Impact
+Excerpts:
+The primary stakeholders include financial policymakers, researchers, and international regulatory bodies, as the study offers critical insights into the connectedness of global banking systems and potential early warning signs of banking crises.
+Page Reference: Discussion, Page 20
+Example: Policymakers and regulatory bodies can use these findings to inform more effective global financial regulations aimed at preventing future banking crises.
+4. Depth and Breadth of Impact
+Excerpts:
+"We use network analysis, a powerful methodological toolkit for modeling interactions between economic agents." (Introduction, Page 2)
+The research has deep impact within the fields of economics and financial stability, as it offers a novel application of network theory to study the global financial system.
+Page Reference: Methods, Page 5; Results, Page 14
+Example: The study’s deep impact lies in its use of network analysis to understand financial systems, which may influence a wide range of fields, from international economics to financial risk management.
+5. Scalability and Transferability
+Excerpts:
+"We find that network density is pro-cyclical, expanding and contracting with the global cycle of private capital flows." (Results, Page 10)
+The findings from the global banking network could be scalable to regional banking networks and transferable to other forms of financial analysis, such as trade networks or investment flows.
+Page Reference: Results, Page 10
+Example: The methodological approach of this study can be scaled up for analyzing the global impact of other financial systems (e.g., trade, investment) and transferred to sectors like international trade or global investment patterns.
+6. Innovation and Disruption Potential
+Excerpts:
+The study introduces an innovative application of network theory to banking systems, offering new insights into how financial crises emerge based on network properties such as connectedness and density.
+Page Reference: Discussion, Page 18
+Example: This research disrupts traditional methods of analyzing global financial systems by offering a network-based approach, which could replace standard economic models for predicting banking crises.
+7. Sustainability and Ethical Considerations
+Excerpts:
+The research underscores the systemic risks in global banking, which can inform ethical considerations about financial regulations aimed at promoting sustainable financial systems.
+Page Reference: Discussion, Page 21
+Example: Findings on the interconnectedness of banks could help develop sustainable banking policies that minimize risks of large-scale financial failures, contributing to long-term financial stability.
+8. Implementation and Usability
+Excerpts:
+The results of the study can be implemented in financial regulatory frameworks, especially for predicting banking crises based on levels of connectedness within the global banking network.
+Page Reference: Discussion, Page 22
+Example: Financial regulators and central banks can use the study’s findings to develop early-warning systems that detect rising systemic risk in the banking sector.
+9. Cross-Disciplinary and Global Relevance
+Excerpts:
+"Our paper is closely related to studies that employ network analysis to describe the architecture of financial flows among institutions or countries and to assess the resilience of financial systems to shocks." (Introduction, Page 3)
+Page Reference: Introduction, Page 3; Results, Page 16
+Example: The study’s methodology and findings are relevant not just in economics, but also in sociology, computational science, and international relations, where network analysis is used to study complex systems.
+10. Resilience and Adaptability
+Excerpts:
+"We find that financial connectedness both in the core and periphery tends to rise prior to banking and debt crises and falls in their aftermath." (Results, Page 13)
+This research addresses how global banking systems can be adaptable to crises by identifying early warning signs of financial instability based on network properties.
+Page Reference: Results, Page 13; Discussion, Page 22
+Example: The study’s focus on financial resilience can help central banks and financial institutions develop more adaptive strategies for responding to systemic risks in the future.
+These dimensions highlight the study's potential for influencing various aspects of financial systems and regulatory frameworks globally.

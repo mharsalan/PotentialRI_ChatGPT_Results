@@ -1,0 +1,91 @@
+1. Domains of Research Impact
+Excerpts:
+
+"Digital Addiction (DA) can be described as a significant degree of dependent behaviour that is triggered and facilitated by software products. It can lead to both pleasure and relief of discomfort, but unfortunately, in a way that can harm a person socially, physically and psychologically." (Introduction, Page 1-2)
+The paper explores the socio-economic consequences of digital addiction, focusing on how software engineering can address it. This bridges gaps across the social, economic, and health domains.
+Example: The research affects the social domain by identifying the societal issues that arise from digital addiction, such as impaired relationships and productivity. It also influences the health domain by addressing the psychological and physical harm of prolonged digital engagement.
+
+Section & Page Reference: Introduction, Pages 1-2
+
+2. Duration of Research Impact
+Excerpts:
+
+"We propose areas of research on DA for the software and requirements engineering community" (Conclusion, Page 6).
+The investigation into digital addiction aims to inform long-term strategies in software design that prevent addiction.
+Example: This research contributes to long-term impacts by advocating for foundational changes in software engineering practices, leading to enduring influence in user experience design and ethical technology development. Over time, this could influence how software is developed to mitigate the negative effects of addiction.
+
+Section & Page Reference: Conclusion, Page 6
+
+3. Stakeholders of Research Impact
+Excerpts:
+
+"DA raises new challenges to software engineering in general and requirements engineering in particular" (Introduction, Page 1).
+The primary stakeholders include software developers, product designers, policymakers, and the general public affected by DA.
+Example: The research primarily targets software engineers as direct stakeholders by proposing methods to address DA during the software development phase. Policymakers may also benefit by using the insights to create regulations that mitigate the impact of DA on vulnerable populations.
+
+Section & Page Reference: Introduction, Page 1
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+"Our work focuses on the software as a core entity within DA. However, complementary work should be conducted to look at a particular set of personality traits that make individuals predisposed to DA." (Discussion, Page 5)
+The paper bridges multiple domains, impacting requirements engineering deeply while having broad implications for psychology and health sciences.
+Example: The depth of impact lies in transforming software engineering methodologies by integrating considerations for user well-being, while the breadth extends across psychological, sociological, and policy domains, influencing multiple industries.
+
+Section & Page Reference: Discussion, Page 5
+
+5. Scalability and Transferability
+Excerpts:
+
+"We review the literature and analyze discussion threads in online forums about DA and present a mind-map articulating the causes of DA." (Methods, Page 4)
+The mind-map and findings are scalable as they offer foundational tools that can be adapted across various software platforms.
+Example: The model developed in this research is scalable, as it can be applied to diverse software products to prevent DA. It is also transferable to other sectors like social media, online gaming, and digital health, where user dependency is a concern.
+
+Section & Page Reference: Methods, Page 4
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+"This paper argues for novel approaches which are able to cater for the diversity, subjectivity and also the private nature of information related to DA." (Introduction, Page 1)
+The proposal to treat DA within the realm of requirements engineering is innovative, as it shifts the focus from user responsibility to software responsibility.
+Example: This research is innovative because it introduces the novel idea of treating digital addiction as a requirements engineering issue rather than a user issue. This has the disruptive potential to change the way software is designed and regulated, encouraging ethical design practices.
+
+Section & Page Reference: Introduction, Page 1
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"We contend that software engineering is required to attempt to provide ways to develop software that does not lead to addiction and to accommodate users who are genuinely vulnerable to addictive behaviour." (Introduction, Page 2)
+Ethical considerations are central to this research, as it calls for software that prioritizes user well-being over engagement metrics.
+Example: This research promotes sustainability in software design by advocating for practices that ensure long-term user well-being and prevent addiction. It aligns with ethical considerations by addressing the moral responsibility of software developers to protect users from harm.
+
+Section & Page Reference: Introduction, Page 2
+
+8. Implementation and Usability
+Excerpts:
+
+"We propose approaches that facilitate the understanding of DA in the context of software and propose a baseline ontology for DA." (Methods, Page 4)
+The tools proposed for identifying and addressing DA during software development are practical and ready for implementation by engineers.
+Example: The mind-map and model proposed have high usability potential, as they offer practical tools for software engineers to implement addiction-aware design, thereby improving user engagement without fostering addiction.
+
+Section & Page Reference: Methods, Page 4
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"DA has roots in software design, the requirements or goals for which the software is being used and the context of use." (Introduction, Page 1)
+This research is relevant across multiple disciplines, including software engineering, psychology, and public policy.
+Example: The research has strong cross-disciplinary relevance, bridging software engineering, psychology, and health sciences. It also has global relevance, as digital addiction is a worldwide issue affecting users across all demographics and geographies.
+
+Section & Page Reference: Introduction, Page 1
+
+10. Resilience and Adaptability
+Excerpts:
+
+"Software could utilize that knowledge from addicts at runtime and use it to switch to behaviour shown by the users to be less-addictive or addiction-free." (Discussion, Page 5)
+The paper suggests adaptable approaches to software design that respond to user behavior in real-time, reducing addiction risk.
+Example: The adaptability of the proposed solutions allows software to respond dynamically to user interactions, fostering resilience against addictive behavior while maintaining user engagement.
+
+Section & Page Reference: Discussion, Page 5
+
+This assessment covers the potential research impact of the paper "Digital Addiction: A Requirements Engineering Perspective" across the 10 dimensions of research impact.

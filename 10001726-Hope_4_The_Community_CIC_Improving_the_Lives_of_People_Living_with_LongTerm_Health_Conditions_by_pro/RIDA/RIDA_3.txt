@@ -1,0 +1,33 @@
+Based on the uploaded study titled "Help to Overcome Problems Effectively for Cancer Survivors: Development and Evaluation of a Digital Self-Management Program", I will now detail the research impact dimensions as per the Top 10 Research Impact dimensions. Here’s a comprehensive breakdown:
+
+1. Domains of Research Impact
+Health Domain: The iHOPE program primarily impacts the health domain by addressing cancer survivors' psychosocial needs, including reducing depression, anxiety, fatigue, and fear of recurrence while increasing well-being, hope, and gratitude​(3).
+Educational Domain: It contributes to educational impact by training peer facilitators and educating cancer survivors on self-management strategies using cognitive behavioral therapy and positive psychology​(3).
+Social Domain: The social impact is evident as the program fosters peer support and community interaction, helping participants feel less isolated and more empowered in managing their health​(Knowledge - Potential R…).
+2. Duration of Research Impact
+Short-term Impact: The immediate improvements in depression, anxiety, and quality of life for cancer survivors demonstrate the program's short-term health impact​(3).
+Long-term Impact: The potential for long-term impact lies in the participants' adoption of self-management skills, which can sustain their mental and physical well-being beyond the duration of the program, potentially reducing healthcare utilization over time​(Knowledge - Potential R…).
+3. Stakeholders of Research Impact
+Direct Stakeholders: Cancer survivors are the primary beneficiaries, as they gain coping skills and support to manage their post-treatment life​(3). Peer facilitators, healthcare providers, and organizations like Macmillan Cancer Support (MCS) are also direct stakeholders.
+Indirect Stakeholders: Policymakers and healthcare organizations benefit indirectly as the program demonstrates an effective model of digital self-management, potentially reducing healthcare costs associated with post-cancer care​(3)​(Knowledge - Potential R…).
+4. Depth and Breadth of Impact
+Deep Impact: The iHOPE program significantly impacts the mental health and quality of life of cancer survivors by addressing unmet psychological and emotional needs. Its application of positive psychology and cognitive behavioral therapy has a deep, transformative effect on how survivors approach self-management​(3).
+Broad Impact: The program's digital format broadens its accessibility, potentially reaching survivors of different cancer types across diverse geographic regions, making it scalable for larger populations​(3)​(Knowledge - Potential R…).
+5. Scalability and Transferability
+Scalability: The digital nature of the iHOPE program allows for easy scalability. It can be expanded to reach more cancer survivors nationally or globally, offering remote access to individuals who may not have physical access to self-management programs​(3)​(Knowledge - Potential R…).
+Transferability: The self-management framework and principles of positive psychology can be transferred to other chronic illness management programs, such as for diabetes or cardiovascular disease, broadening the research's applicability to different healthcare contexts​(Knowledge - Potential R…).
+6. Innovation and Disruption Potential
+Innovation: The program is innovative in its use of digital technology to deliver peer-supported, evidence-based self-management interventions. Its combination of positive psychology and cognitive behavioral therapy is novel for cancer survivorship care​(3).
+Disruption: By shifting from in-person support groups to a digital platform, the program disrupts traditional models of cancer aftercare, offering more flexible, accessible, and scalable solutions for survivors​(3).
+7. Sustainability and Ethical Considerations
+Sustainability: The program's digital format makes it sustainable by reducing costs associated with face-to-face interventions while providing ongoing peer support. Additionally, the skills cancer survivors develop during the program promote long-term self-sufficiency in managing their health​(Knowledge - Potential R…).
+Ethical Considerations: The program respects patient autonomy by empowering cancer survivors to manage their own health and well-being. It also provides equitable access to resources through its digital format, addressing barriers to participation such as geographical constraints​(Knowledge - Potential R…).
+8. Implementation and Usability
+Implementation: The study shows the program is easy to navigate and implement, with 61.4% of participants completing all six sessions. The program’s usability was confirmed through participant feedback, demonstrating its practicality for cancer survivors​(3).
+Usability: Participants found the program easy to navigate, with high satisfaction rates regarding the platform’s structure and content, suggesting it can be widely adopted across different user groups​(3).
+9. Cross-disciplinary and Global Relevance
+Cross-disciplinary Impact: The program integrates principles from psychology, public health, and digital health technologies, making it relevant across multiple disciplines. It can influence future research in digital health interventions for chronic diseases​(Knowledge - Potential R…).
+Global Relevance: As the incidence of cancer rises globally, the iHOPE program's digital platform is particularly relevant for international healthcare systems looking to offer scalable, low-cost psychosocial support to survivors​(Knowledge - Potential R…).
+10. Resilience and Adaptability
+Resilience: The program's digital nature ensures resilience against disruptions, such as pandemics or regional healthcare limitations, as it can be delivered remotely without the need for physical infrastructure​(Knowledge - Potential R…).
+Adaptability: The iHOPE program can be adapted for different types of cancers and even for other chronic diseases, allowing its core model to be used in various healthcare contexts with minor modifications​(Knowledge - Potential R…).

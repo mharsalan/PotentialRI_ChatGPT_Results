@@ -1,0 +1,34 @@
+Based on the study "Follow-up after Curative Treatment for Colorectal Cancer: Longitudinal Evaluation of Patient-Initiated Follow-Up in the First 12 Months", here are the research impact dimensions aligned with the predefined instructions and my knowledge:
+
+1. Domains of Research Impact
+Health Domain: The research directly impacts the health domain by evaluating an alternative follow-up method for colorectal cancer (CRC) survivors—patient-triggered follow-up (PTFU). It emphasizes health service delivery and patient empowerment, aiming to reduce the burden on outpatient services while maintaining patient satisfaction and quality of care​(4).
+Economic Domain: The study assesses the economic impact by comparing the costs of traditional outpatient follow-up (OPFU) versus PTFU. Although PTFU shows higher initial costs due to self-management workshops and remote surveillance, it has potential long-term savings due to reduced outpatient clinic visits​(4).
+Social Domain: This study impacts the social domain by enhancing patient autonomy. PTFU empowers patients to initiate follow-up based on their symptoms, supported by education on self-management, which fosters patient engagement in their health care​(4)​(Knowledge - Potential R…).
+2. Duration of Research Impact
+Short-term Impact: In the short term, the study shows that PTFU is feasible and acceptable for CRC patients and results in comparable quality of life outcomes to OPFU. The research also highlights the initial higher costs due to the implementation of remote surveillance and educational programs​(4).
+Long-term Impact: The long-term impact of this research lies in its potential to shift how follow-up care is provided for cancer survivors. If widely adopted, PTFU could relieve healthcare systems by reducing unnecessary clinic visits and allowing patients to manage their follow-up care independently​(4).
+3. Stakeholders of Research Impact
+Direct Stakeholders: The direct beneficiaries of this research include CRC survivors, healthcare professionals, and healthcare systems, particularly those implementing outpatient cancer care and follow-up​(4).
+Indirect Stakeholders: Policy makers and public health planners benefit indirectly as the study provides evidence to support more cost-effective cancer survivorship models, potentially influencing future healthcare policies​(4).
+4. Depth and Breadth of Impact
+Deep Impact: The study has a deep impact in oncology and survivorship care by proposing an alternative model of follow-up care. It contributes significantly to the ongoing debate about patient-centered models in cancer care​(4).
+Broad Impact: The principles of PTFU, such as remote surveillance and self-management, could be adapted to other chronic conditions beyond CRC, making the research applicable in various areas of long-term disease management​(4)​(Knowledge - Potential R…).
+5. Scalability and Transferability
+Scalability: The PTFU model shows scalability as it can be expanded across multiple healthcare systems, particularly in regions with overburdened outpatient services​(4).
+Transferability: The concept of patient-triggered follow-up can be transferred to other types of cancer or chronic diseases where long-term follow-up is required. The emphasis on patient self-management is also transferable to different healthcare contexts globally​(4)​(Knowledge - Potential R…).
+6. Innovation and Disruption Potential
+Innovation: PTFU is an innovative approach to cancer follow-up care, reducing reliance on clinical resources by empowering patients to initiate follow-up appointments based on their symptoms rather than routine checkups​(4)​(Knowledge - Potential R…).
+Disruption: This model has the potential to disrupt traditional follow-up care, especially in high-resource healthcare systems where outpatient clinics are increasingly overburdened. It challenges the assumption that routine clinical visits are necessary for effective long-term cancer care​(4)​(Knowledge - Potential R…).
+7. Sustainability and Ethical Considerations
+Sustainability: PTFU is more sustainable in the long run as it reduces the strain on healthcare resources by cutting down on unnecessary clinic visits. Additionally, the remote surveillance system and self-management workshops promote patient autonomy and reduce hospital visits​(4).
+Ethical Considerations: Ethically, the PTFU model promotes patient autonomy by allowing individuals to take control of their follow-up care. However, the initial cost of implementation and potential disparities in access to technology could present ethical challenges that need to be addressed​(4)​(Knowledge - Potential R…).
+8. Implementation and Usability
+Implementation: The study demonstrates that PTFU can be successfully implemented in real-world healthcare settings with adequate training and support for both patients and healthcare professionals​(4).
+Usability: PTFU is well-received by patients, who report high levels of satisfaction and acceptance of the model. The usability of the self-management workshops and remote surveillance system is evidenced by patient-reported outcomes​(4).
+9. Cross-disciplinary and Global Relevance
+Cross-disciplinary Impact: The study draws from fields such as oncology, health services research, and public health, offering insights that can inform patient care across disciplines. The use of remote surveillance systems also brings in elements from digital health and technology​(4)​(Knowledge - Potential R…).
+Global Relevance: Given the global burden of cancer and the growing need for sustainable healthcare models, this research has high relevance internationally, particularly for healthcare systems with resource constraints​(4).
+10. Resilience and Adaptability
+Resilience: PTFU is a resilient model as it can be adapted to different healthcare settings, including those with limited resources. Its digital component, which allows for remote surveillance, adds to its adaptability during situations such as pandemics​(4)​(Knowledge - Potential R…).
+Adaptability: The PTFU model can be adapted for various cancers and long-term conditions that require ongoing surveillance, making it highly flexible in its application across healthcare systems​(4)​(Knowledge - Potential R…).
+This assessment highlights the potential research impacts of the study, demonstrating its significant contributions to the fields of oncology, healthcare service delivery, and patient self-management.

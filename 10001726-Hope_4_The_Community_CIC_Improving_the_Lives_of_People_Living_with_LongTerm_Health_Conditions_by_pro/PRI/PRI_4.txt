@@ -1,0 +1,33 @@
+Based on the study titled "Follow-up after Curative Treatment for Colorectal Cancer: Longitudinal Evaluation of Patient-Initiated Follow-Up in the First 12 Months", here are the potential research impacts aligned with the dimensions of research impact:
+
+1. Health and Well-Being Impact
+Description: This study significantly impacts the health and well-being of colorectal cancer (CRC) patients by introducing a novel follow-up care model known as patient-triggered follow-up (PTFU). The PTFU model emphasizes patient empowerment, self-management, and education, allowing patients to take a more active role in their care after curative treatment.
+Example: Patients in the PTFU group reported comparable satisfaction and quality of life outcomes compared to those in traditional outpatient follow-up (OPFU). This suggests that PTFU can be a viable option for maintaining patient health while reducing the demand on clinical services​(4)​(Common Research Impact …).
+2. Policy Influence and Advocacy
+Description: The study provides evidence that could influence healthcare policy by promoting PTFU as an alternative follow-up model for cancer survivors. As healthcare systems face increasing pressure due to rising numbers of cancer survivors, policymakers may adopt PTFU to optimize healthcare resources.
+Example: By demonstrating that PTFU is effective and acceptable for patients, the research supports policies that promote self-management and reduce unnecessary clinical visits, potentially influencing national cancer care guidelines​(4)​(Research impact toolkit).
+3. Clinical Practice and Healthcare Improvement
+Description: The study contributes to changes in clinical practice by offering a viable alternative to routine outpatient visits for CRC survivors. The findings suggest that PTFU, with remote surveillance and patient education, can maintain quality care while reducing the strain on outpatient clinics.
+Example: Healthcare professionals can adopt PTFU to reduce the workload in outpatient settings, particularly for CRC patients in remission who do not require intensive clinical surveillance​(4)​(Common Research Impact …).
+4. Economic Impact and Return on Investment
+Description: The introduction of PTFU has potential economic benefits by reducing the long-term costs associated with routine outpatient follow-up. Although initial costs are higher due to the provision of self-management workshops and remote surveillance systems, the model is expected to lower overall healthcare costs by reducing the number of in-person visits.
+Example: PTFU reduces the need for frequent hospital visits, leading to potential savings for healthcare providers while still ensuring that patients receive appropriate care through remote monitoring​(4)​(Research Impact Knowled…).
+5. Social and Cultural Impact
+Description: The PTFU model empowers patients by providing them with the knowledge and tools to manage their own health post-treatment. This has a broader social impact by promoting patient autonomy and reducing the dependency on healthcare professionals for routine follow-up care.
+Example: The self-management workshops included in the PTFU program equip patients with the skills to identify symptoms that warrant medical attention, fostering a culture of patient empowerment in cancer survivorship​(4)​(Common Research Impact …).
+6. Scalability and Transferability
+Description: The PTFU model is highly scalable, as it can be expanded to other healthcare settings and adapted for use with other cancer types or chronic conditions that require long-term follow-up care.
+Example: The model’s use of remote surveillance and digital tools makes it suitable for large-scale implementation, particularly in regions where outpatient clinic resources are limited. Additionally, the principles of self-management can be applied to other diseases beyond colorectal cancer​(Common Research Impact …)​(Research Impact Knowled…).
+7. Innovation and Disruption Potential
+Description: PTFU introduces an innovative approach to cancer follow-up care by shifting the responsibility for initiating follow-up appointments from clinicians to patients. This disrupts traditional models of outpatient care, reducing the reliance on routine clinical check-ups.
+Example: The study’s integration of digital health technology for remote surveillance allows healthcare providers to monitor patients without requiring them to physically attend clinics, representing a shift toward more patient-centered care models​(Common Research Impact …)​(Research impact toolkit).
+8. Sustainability and Ethical Considerations
+Description: PTFU promotes sustainability by reducing the need for in-person clinic visits, thereby lowering the environmental and financial costs associated with traditional follow-up models. Additionally, the model raises ethical considerations related to patient autonomy and equitable access to digital health tools.
+Example: The study highlights the need for equitable access to the digital tools required for PTFU, ensuring that all patients, regardless of technological literacy or socioeconomic status, can benefit from the model​(4)​(Research impact toolkit).
+9. Cross-disciplinary and Global Relevance
+Description: The findings of this study are relevant across multiple disciplines, including oncology, public health, and digital health technology. The PTFU model could also be relevant globally, particularly in healthcare systems facing resource constraints or increasing numbers of cancer survivors.
+Example: The model’s use of digital tools for remote surveillance can be adapted for use in low-resource settings, making it a globally relevant approach to cancer follow-up care​(Common Research Impact …)​(Research impact toolkit).
+10. Knowledge Dissemination and Communication
+Description: The study contributes to the broader dissemination of knowledge related to cancer survivorship care, particularly in the development of alternative follow-up models. The results are likely to be shared in academic, clinical, and public health forums to promote wider adoption of PTFU.
+Example: The study’s publication in open-access journals and presentations at healthcare conferences will increase awareness of PTFU as a viable follow-up option, encouraging its adoption in clinical practice​(Research impact toolkit)​(Research Impact Knowled…).
+These potential impacts reflect the comprehensive influence of the study on healthcare practice, policy, and patient outcomes. The study’s introduction of PTFU represents a significant shift in how colorectal cancer survivors manage their post-treatment care, with implications for other chronic diseases and healthcare systems worldwide. 
