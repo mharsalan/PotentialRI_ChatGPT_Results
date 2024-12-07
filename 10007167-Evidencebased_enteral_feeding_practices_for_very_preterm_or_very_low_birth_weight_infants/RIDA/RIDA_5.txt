@@ -1,0 +1,43 @@
+Based on your request, I have reviewed the attached study: "Slow advancement of enteral feed volumes to prevent necrotising enterocolitis in very low birth weight infants (Review)." Below is the research impact assessment mapped against the Top 10 Dimensions of Research Impact as per our predefined guidelines.
+
+1. Domains of Research Impact (RI)
+Excerpt: "The available trial data indicate that advancing enteral feed volumes slowly compared with faster rates probably does not reduce the risk of NEC, death, or feed intolerance in very preterm or VLBW infants." (Discussion, page 13).
+Page Reference and Section: Discussion, page 13.
+Example: This research impacts the health domain by providing evidence that challenges the belief that slow enteral feeding reduces necrotising enterocolitis (NEC) risk, potentially informing future neonatal care policies and clinical guidelines in neonatal healthcare settings.
+2. Duration of Research Impact (RI)
+Excerpt: "Meta-analyses showed that slow advancement of enteral feed volumes probably has little or no effect on the risk of NEC (RR 1.06, 95% CI 0.83 to 1.37; RD 0.00, 95% CI −0.01 to 0.02; 14 trials, 4026 infants; moderate-certainty evidence)." (Results, page 7).
+Page Reference and Section: Results, page 7.
+Example: The impact may extend in the long-term by guiding future studies that might revisit feeding practices for VLBW infants. It sets a foundational argument for neonatal nutrition that could influence new research and long-term clinical trials.
+3. Stakeholders of Research Impact
+Excerpt: "Invasive infection before hospital discharge... Risk with slow rates of enteral feed enhancement... (RR 1.14, 95% CI 0.99 to 1.31; RD 0.02, 95% CI −0.00 to 0.05)." (Summary of Findings, page 3).
+Page Reference and Section: Summary of Findings, page 3.
+Example: Direct stakeholders include neonatologists and healthcare providers who use the findings to guide feeding protocols for VLBW infants, reducing infection risks associated with slow feeding. Indirect stakeholders involve healthcare policymakers and healthcare systems aiming to optimize neonatal care protocols globally.
+4. Depth and Breadth of Impact
+Excerpt: "Trials included in this review were conducted in various regions, including North America, Bangladesh, Iran, Turkey, and the UK." (Discussion, page 13).
+Page Reference and Section: Discussion, page 13.
+Example: The research has broad impact by being relevant across different healthcare systems and geographical locations. Its findings may shape neonatal care globally. Deep impact is evident within neonatal nutrition, impacting feeding strategies in intensive care units.
+5. Scalability and Transferability
+Excerpt: "A total of 4033 infants participated in the 14 included trials... The SIFT trial alone included over 2800 infants across multiple regions." (Results, page 7).
+Page Reference and Section: Results, page 7.
+Example: The research demonstrates scalability in its large sample size and multinational reach, indicating that the findings could be applied across a range of neonatal care facilities globally. Transferability is observed in its potential to influence feeding practices in different healthcare systems, including low- and middle-income countries.
+6. Innovation and Disruption Potential
+Excerpt: "Slow advancement of enteral feeds probably does not affect the risk of NEC, death, or feed intolerance in very preterm or VLBW infants." (Discussion, page 13).
+Page Reference and Section: Discussion, page 13.
+Example: The study challenges traditional beliefs in neonatal care about the benefits of slow enteral feeding, indicating a disruptive potential in existing neonatal feeding guidelines and encouraging a reevaluation of feeding protocols.
+7. Sustainability and Ethical Considerations
+Excerpt: "Prolonging the duration of parenteral nutrition is associated with infectious and metabolic complications that increase mortality and morbidity." (Background, page 5).
+Page Reference and Section: Background, page 5.
+Example: The research promotes sustainability in healthcare by advocating for balanced feeding practices, reducing reliance on prolonged parenteral nutrition, which poses ethical concerns related to increased infection risks and mortality in infants.
+8. Implementation and Usability
+Excerpt: "Meta-analyses suggested that slow advancement may slightly increase feed intolerance... and may slightly increase the risk of invasive infection." (Results, page 7).
+Page Reference and Section: Results, page 7.
+Example: The research is highly usable in clinical practice, providing actionable insights for neonatal units to adjust feeding protocols to minimize risks of feed intolerance and infections.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "Trials included in this review were conducted in neonatal care facilities across North America, Bangladesh, Iran, Turkey, and the UK." (Discussion, page 13).
+Page Reference and Section: Discussion, page 13.
+Example: The study has global relevance and can influence neonatal care practices in diverse healthcare systems. Its findings are cross-disciplinary, impacting fields like pediatrics, nutrition, and public health.
+10. Resilience and Adaptability
+Excerpt: "We did not find evidence of important between-group baseline differences in participant characteristics or demographics in any of the included trials." (Discussion, page 13).
+Page Reference and Section: Discussion, page 13.
+Example: The research shows resilience in its consistent findings across different demographics and regions, which makes the study adaptable to various healthcare environments and feeding practices.
+These dimensions outline the comprehensive research impact of the study on the slow advancement of enteral feed volumes in very low birth weight infants.

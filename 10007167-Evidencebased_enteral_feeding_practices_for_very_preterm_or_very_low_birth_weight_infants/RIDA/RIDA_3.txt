@@ -1,0 +1,33 @@
+To assess the research impact dimensions for the attached study, I have mapped the findings to the "Top 10 Dimensions of Research Impact" based on the details from the research document. Here is the detailed breakdown:
+
+1. Domains of Research Impact
+Excerpts: The study on enteral feeding regimens for preterm infants specifically influences the health domain by contributing to the understanding and prevention of necrotizing enterocolitis (NEC), a significant concern in neonatal care​(3). Page Reference: Results, page 6. Example: The study has the potential to influence neonatal healthcare practices by refining feeding strategies to improve health outcomes for very low birth weight (VLBW) infants, ultimately reducing the incidence of NEC.
+
+2. Duration of Research Impact
+Excerpts: The research provides evidence that may have long-term impacts on neonatal care by refining feeding strategies for preterm infants. Over time, this may lead to new standards in neonatal nutrition that persist across generations . Page Reference: Results, page 9. Example: Immediate impact includes improved feeding protocols in NICUs, while long-term impacts could include foundational changes in neonatal nutrition practices that help reduce NEC rates globally.
+
+3. Stakeholders of Research Impact
+Excerpts: Direct stakeholders include neonatologists, healthcare providers, and policy-makers involved in neonatal care, while indirect stakeholders are the families of preterm infants who benefit from improved health outcomes . Page Reference: Methods, page 4. Example: Neonatal intensive care units (NICUs) are direct beneficiaries, as the research informs clinical guidelines. Indirectly, preterm infants and their families benefit from reduced complications and improved survival rates.
+
+4. Depth and Breadth of Impact
+Excerpts: The study provides deep impact within the neonatal health sector by addressing a highly specific issue (enteral feeding for VLBW infants) but has broad implications for other fields like nutrition science and pediatrics​(3). Page Reference: Results, page 6. Example: Deep impact is seen in the targeted improvements for NEC prevention, while broad impact could influence wider healthcare policies related to neonatal care and feeding strategies globally.
+
+5. Scalability and Transferability
+Excerpts: The feeding regimens and strategies developed can be scaled up for implementation across multiple neonatal units globally and are transferable across healthcare systems with minimal adaptation​(Knowledge - Potential R…). Page Reference: Methods, page 3. Example: The research findings could be scaled to influence global neonatal care protocols, benefiting preterm infants worldwide, particularly in regions with high rates of preterm birth.
+
+6. Innovation and Disruption Potential
+Excerpts: The research introduces an innovative feeding protocol that could disrupt current practices by shifting from traditional feeding approaches to more evidence-based strategies . Page Reference: Results, page 6. Example: This innovation could lead to a fundamental shift in how neonatal intensive care units approach feeding preterm infants, with reduced reliance on subjective clinical judgment.
+
+7. Sustainability and Ethical Considerations
+Excerpts: The study adheres to ethical standards by focusing on improving outcomes for vulnerable populations (VLBW infants) and contributes to sustainable healthcare by potentially reducing the long-term healthcare burden associated with NEC . Page Reference: Methods, page 4. Example: By reducing the rates of NEC, the research promotes sustainability in healthcare by preventing long-term complications and associated costs.
+
+8. Implementation and Usability
+Excerpts: The research findings are highly usable for neonatal care providers, with clear implications for practical application in NICU settings (3). Page Reference: Results, page 9. Example: Implementation in real-world NICU settings would be straightforward, as the feeding protocols can be adapted into current practices without requiring significant additional resources.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: The study's findings are globally relevant, with the potential to inform neonatal care practices in both developed and developing countries. Its cross-disciplinary relevance includes implications for nutrition, pediatrics, and neonatal care (3). Page Reference: Discussion, page 11. Example: The research can be applied in various global healthcare contexts, helping to standardize neonatal feeding protocols across different cultural and healthcare settings.
+
+10. Resilience and Adaptability
+Excerpts: The feeding protocols developed demonstrate resilience by being adaptable to different healthcare settings and evolving with future advances in neonatal care . Page Reference: Results, page 9. Example: As new research emerges, the protocols can be adapted to incorporate additional findings, ensuring they remain relevant and effective in various healthcare environments.
+
+This analysis reflects how the research aligns with the 10 dimensions of research impact and provides a comprehensive understanding of its contribution across multiple domains, stakeholders, and settings.

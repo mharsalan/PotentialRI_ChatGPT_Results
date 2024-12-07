@@ -1,0 +1,43 @@
+Here is a detailed assessment of the research impact dimensions for the study titled "Incremental Milk-Feeding Rates in Preterm Infants" based on the provided research paper and dimensions of research impact:
+
+1. Domains of Research Impact
+Excerpts: The research focuses on health outcomes for preterm infants, particularly in terms of neurodevelopmental disabilities, sepsis, and necrotizing enterocolitis, making contributions to neonatal healthcare practices.
+"The primary outcome was survival without moderate or severe neurodevelopmental disability at 24 months. Secondary outcomes included components of the primary outcome, confirmed or suspected late-onset sepsis, necrotizing enterocolitis, and cerebral palsy." (Methods, p. 1)
+Example: This study impacts the health domain, providing evidence to guide healthcare providers in managing feeding protocols for preterm infants, which could influence neonatal clinical practices globally .
+2. Duration of Research Impact
+Excerpts: The impact of this research is both immediate and long-term. In the short term, the study could change feeding practices for preterm infants, while long-term effects include influencing guidelines and ongoing research in neonatal care.
+"With a total sample size of 2500 and allowance for a questionnaire response rate of 80%, there would be 90% power to detect an absolute difference of 6.3 percentage points in the incidence of the primary outcome between the trial groups with a two-sided significance level of 5%." (Statistical Analysis, p. 19)
+Example: Short-term, this research can change clinical feeding protocols, while long-term, it could shape future studies on feeding interventions and preterm infant care .
+3. Stakeholders of Research Impact
+Excerpts: The primary stakeholders include healthcare providers, neonatal care professionals, and policymakers who can use this data to improve preterm infant care. Indirectly, the research impacts parents and communities concerned with infant health outcomes.
+"Healthcare providers and medical stakeholders: Research in the healthcare domain benefits doctors, nurses, and medical professionals by improving patient care through better treatment options, diagnostics, or healthcare policies." (Stakeholders, p. 4)
+Example: Neonatal specialists and hospitals will directly benefit from the improved understanding of feeding rates, while indirectly, families of preterm infants and public health systems will experience better healthcare outcomes​(6) .
+4. Depth and Breadth of Impact
+Excerpts: The depth of impact is notable in its contribution to neonatal healthcare, while the breadth extends across various healthcare domains as this research may influence international neonatal care protocols.
+"Research combining marine biology and geophysics to study coral reef decline due to ocean acidification could impact both environmental conservation efforts and public policy regarding climate action." (Depth and Breadth, p. 5)
+Example: Deep impact within neonatal healthcare will change feeding practices for preterm infants, while broad impact could extend to global healthcare policy and standard-setting organizations .
+5. Scalability and Transferability
+Excerpts: The findings from this study can be scaled across various neonatal care units and potentially transferred to other aspects of neonatal care protocols globally.
+"We estimated that 80% of infants would survive to 2 years and that 11% of survivors would have moderate or severe neurodevelopmental disability." (Statistical Analysis, p. 19)
+Example: The protocols tested in this study can be scaled to neonatal units worldwide, and the principles of cautious feeding could be applied to other areas of infant care .
+6. Innovation and Disruption Potential
+Excerpts: While the study itself may not be highly disruptive, it introduces incremental innovations in neonatal care by providing evidence on feeding strategies.
+"There was no significant difference in survival without moderate or severe neurodevelopmental disability at 24 months in very preterm or very-low-birth-weight infants with a strategy of advancing milk feeding volumes in daily increments." (Results, p. 18)
+Example: The innovative aspect lies in refining existing feeding practices, which could prevent severe conditions like necrotizing enterocolitis, though it is not radically disruptive .
+7. Sustainability and Ethical Considerations
+Excerpts: The study was designed ethically, with informed consent obtained from parents, and it promotes sustainable healthcare practices by potentially reducing long-term hospital stays and complications in preterm infants.
+"After written informed consent was obtained from parents, infants receiving less than 30 ml of milk per kilogram per day at randomization were eligible to participate." (Methods, p. 15)
+Example: Ethically, the study ensures informed parental consent and sustainability by aiming to reduce long-term healthcare needs through improved early interventions .
+8. Implementation and Usability
+Excerpts: The study's results are immediately implementable in clinical settings, providing clear data on the effects of faster versus slower feeding increments.
+"The trial was a multicenter, parallel-group, randomized, controlled trial that followed a published protocol." (Methods, p. 15)
+Example: Neonatal care units can immediately use this data to refine feeding protocols and improve outcomes for preterm infants .
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research has global relevance, influencing neonatal care in various cultural and healthcare systems worldwide.
+"The speed of advancing enteral feeding volumes — daily increments of 30 ml per kilogram as compared with 18 ml per kilogram — did not have a significant effect on the primary outcome of survival without moderate or severe neurodevelopmental disability." (Discussion, p. 20)
+Example: This study could influence neonatal healthcare practices globally, with relevance across continents and healthcare systems .
+10. Resilience and Adaptability
+Excerpts: The research shows resilience by adjusting for different clinical settings and various feeding practices, demonstrating adaptability across healthcare environments.
+"There was no evidence of differential treatment effects for any other prespecified subgroup from trial entry until discharge or at 24 months." (Results, p. 20)
+Example: The adaptability of this study ensures that it can be applied in diverse neonatal care settings, making it resilient to changes in healthcare practices .
+This assessment identifies key research impact dimensions of the study on preterm infant feeding rates, aligning with the broad goals of improving neonatal health outcomes globally.

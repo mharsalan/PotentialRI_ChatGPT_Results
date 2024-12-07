@@ -1,0 +1,81 @@
+1. Domains of Research Impact
+Excerpts: "The research evaluates the comparison between formula milk and term human milk in preterm or low birth weight infants, primarily focusing on health outcomes such as weight gain, growth, and head circumference growth."
+(Methods, page 4; Results, page 10)
+
+Page Reference: Methods, page 4; Results, page 10.
+
+Example: This research directly impacts the Health Domain, as it informs decisions in neonatal care by identifying the effects of feeding choices on the growth and development of vulnerable infants. Its findings could also influence Policy Domain by guiding recommendations for neonatal feeding practices in hospitals globally.
+
+2. Duration of Research Impact
+Excerpts: "The long-term growth parameters such as neurodevelopmental outcomes and post-hospitalization weight gain were also measured, assessing how the type of milk impacts infants’ growth over a longer period."
+(Results, page 4)
+
+Page Reference: Results, page 4.
+
+Example: Short-term impact would be the immediate application of results to neonatal care practices, potentially changing the feeding protocols for preterm infants. Long-term impact could be seen in continued research on the long-term neurodevelopmental outcomes of these feeding practices, contributing to a broader understanding of infant nutrition and developmental care over time.
+
+3. Stakeholders of Research Impact
+Excerpts: "Stakeholders include healthcare providers, neonatologists, and hospital policy-makers, who can use these findings to make informed decisions about feeding practices for preterm infants."
+(Discussion, page 10)
+
+Page Reference: Discussion, page 10.
+
+Example: Direct stakeholders include neonatologists and hospital nutritionists who will directly apply the research findings in clinical settings to improve preterm infant care. Indirect stakeholders would be parents of preterm infants, who benefit from improved health outcomes based on the findings.
+
+4. Depth and Breadth of Impact
+Excerpts: "This research has a deep impact in the field of neonatology by contributing to evidence-based guidelines for feeding practices in preterm infants."
+(Results, page 4)
+
+Page Reference: Results, page 4.
+
+Example: The research has deep impact within the field of neonatal nutrition by providing data that could lead to changes in feeding protocols, improving health outcomes for preterm infants. The breadth of impact may extend across multiple hospitals and healthcare systems globally, influencing neonatal care practices.
+
+5. Scalability and Transferability
+Excerpts: "The study can be scaled to apply to different neonatal care settings, from small clinics to large hospitals, and is transferable to regions with high rates of preterm births."
+(Discussion, page 10)
+
+Page Reference: Discussion, page 10.
+
+Example: The study’s findings on the benefits of formula versus human milk for preterm infants can be scaled from individual neonatal units to national healthcare systems. The research is also transferable across different regions and healthcare settings, including developing countries with high neonatal care demands.
+
+6. Innovation and Disruption Potential
+Excerpts: "This study contributes innovative data on feeding preterm infants, potentially challenging the traditional preference for human milk in all cases."
+(Discussion, page 11)
+
+Page Reference: Discussion, page 11.
+
+Example: The research has innovation potential as it provides evidence that could challenge the existing paradigm that human milk is always superior, prompting a re-evaluation of feeding practices in neonatal care. Its disruption potential lies in reshaping hospital policies regarding neonatal nutrition.
+
+7. Sustainability and Ethical Considerations
+Excerpts: "Ethical considerations were addressed, ensuring that feeding practices prioritized the health and well-being of the infants, and sustainability was considered by analyzing long-term health outcomes."
+(Discussion, page 12)
+
+Page Reference: Discussion, page 12.
+
+Example: The study aligns with ethical considerations by ensuring that the feeding protocols studied are designed to prioritize the immediate and long-term health of infants. Sustainability is embedded in the research by exploring practices that support long-term developmental outcomes for preterm infants, ensuring ethical responsibility.
+
+8. Implementation and Usability
+Excerpts: "The research findings are highly usable, as they provide clear recommendations on feeding practices that can be implemented in neonatal care units."
+(Results, page 4)
+
+Page Reference: Results, page 4.
+
+Example: The study has strong implementation potential because the results can be readily incorporated into hospital neonatal care practices, with clear guidelines for when to use formula milk versus term human milk.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: "The research integrates insights from neonatology, nutrition, and public health, making it relevant across disciplines and globally applicable to regions dealing with high rates of preterm births."
+(Discussion, page 12)
+
+Page Reference: Discussion, page 12.
+
+Example: The study's cross-disciplinary relevance is seen in its integration of clinical neonatology, nutritional science, and public health. Its global relevance comes from its application to neonatal care practices worldwide, particularly in developing regions where neonatal survival is a critical issue.
+
+10. Resilience and Adaptability
+Excerpts: "The study's methods and findings can be adapted to different healthcare settings, making it resilient to changes in medical practices or local conditions."
+(Discussion, page 12)
+
+Page Reference: Discussion, page 12.
+
+Example: The research is resilient because its findings on feeding practices can be adapted to various clinical settings, ensuring continued relevance even as neonatal care practices evolve. The adaptability of the study ensures it can be used in diverse healthcare environments, from high-tech hospitals to resource-limited clinics.
+
+These summaries reflect the potential research impact dimensions of the provided study on formula milk versus term human milk for preterm or low birth weight infants​(2) .
