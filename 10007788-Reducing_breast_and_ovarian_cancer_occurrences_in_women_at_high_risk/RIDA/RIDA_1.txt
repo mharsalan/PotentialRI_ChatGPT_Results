@@ -1,0 +1,43 @@
+Based on the file you've provided and following the Top 10 Research Impact Dimensions framework, I’ve assessed the key dimensions from the study. Here are the research impact dimensions for the study from the PDF:
+
+1. Domains of Research Impact:
+Excerpts: The study focuses on identifying SNPs associated with breast cancer susceptibility, with broader implications for genetic research, clinical diagnostics, and personalized medicine. It also emphasizes the understanding of genetic risk factors in different populations, including European and Asian subjects.
+Section: Methods Summary, page 1091.
+Example: This research contributes to the health domain by improving diagnostic methods for breast cancer and potentially informing future public health interventions. It also influences the academic domain by providing new insights into genetic predispositions.
+2. Duration of Research Impact:
+Excerpts: The identification of breast cancer susceptibility loci, such as FGFR2 and others, has long-term implications for future breast cancer research and prevention strategies, particularly in understanding the genetic basis of the disease.
+Section: Discussion, page 1093.
+Example: The long-term impact is evident in how these genetic markers can inform future studies on breast cancer risk assessment and prevention strategies, potentially influencing treatment approaches over decades.
+3. Stakeholder of Research Impact:
+Excerpts: Stakeholders include genetic researchers, clinicians involved in cancer treatment, and policymakers focusing on cancer prevention. The identification of risk alleles will benefit direct stakeholders in the health sector.
+Section: Methods Summary, page 1091.
+Example: Researchers studying cancer genetics and medical professionals diagnosing breast cancer are direct stakeholders, while patients and public health agencies are indirect stakeholders benefiting from improved screening techniques.
+4. Depth and Breadth of Impact:
+Excerpts: The research provides deep insights into specific genetic loci (e.g., FGFR2) linked to breast cancer, with broader implications for understanding genetic susceptibility across different populations.
+Section: Discussion, page 1093.
+Example: The study’s deep impact is demonstrated in cancer genetics by identifying specific SNPs with strong associations with breast cancer, while its broad impact extends to public health by providing tools for risk assessment across diverse populations.
+5. Scalability and Transferability:
+Excerpts: The genetic findings are transferable to other populations and can be used in various geographical and clinical contexts, as demonstrated by the inclusion of both European and Asian study cohorts.
+Section: Results, page 1088.
+Example: The scalability of the research is highlighted in its ability to influence cancer screening programs in different regions, and its transferability can be seen in its applicability across various ethnic groups, enhancing global relevance.
+6. Innovation and Disruption Potential:
+Excerpts: This study advances genetic diagnostics by identifying novel susceptibility loci, offering innovative approaches for predicting breast cancer risk.
+Section: Results, page 1089.
+Example: The discovery of new breast cancer susceptibility genes can disrupt traditional risk prediction models and lead to more personalized medicine approaches in cancer treatment and prevention.
+7. Sustainability and Ethical Considerations:
+Excerpts: Ethical considerations include ensuring the privacy of genetic data from diverse populations and using this information to develop equitable screening practices.
+Section: Methods Summary, page 1091.
+Example: By addressing breast cancer susceptibility across different populations, the research promotes sustainable healthcare practices, ensuring long-term benefits in early diagnosis and treatment while considering ethical standards in genetic research.
+8. Implementation and Usability:
+Excerpts: The identified genetic markers can be easily implemented in clinical genetic testing for breast cancer, particularly for high-risk individuals.
+Section: Results, page 1088.
+Example: The research is highly usable for healthcare providers by integrating genetic risk factors into routine screening processes, which can lead to earlier detection and prevention strategies for breast cancer.
+9. Cross-disciplinary and Global Relevance:
+Excerpts: The study’s genetic findings are relevant across disciplines such as genomics, oncology, and public health, with implications for global cancer prevention strategies.
+Section: Discussion, page 1093.
+Example: This research has global relevance, influencing both local and international efforts to reduce breast cancer incidence through improved genetic screening and risk prediction methods.
+10. Resilience and Adaptability:
+Excerpts: The study’s methodology, involving multiple population groups, shows adaptability in addressing breast cancer risk in diverse populations, enhancing its resilience to different genetic backgrounds.
+Section: Methods Summary, page 1091.
+Example: The adaptability of the research is evident in its ability to apply genetic findings across different populations, making it a robust tool for global cancer prevention efforts.
+This assessment reflects how the study influences various research dimensions, contributing to genetic research, public health, and clinical applications globally .

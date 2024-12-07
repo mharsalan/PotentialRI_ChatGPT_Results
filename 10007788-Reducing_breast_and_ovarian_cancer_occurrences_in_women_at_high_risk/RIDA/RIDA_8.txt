@@ -1,0 +1,45 @@
+To assess the research impact dimensions of the study you provided ("Cost-effectiveness and Benefit-to-Harm Ratio of Risk-Stratified Screening for Breast Cancer"), I will analyze each of the Top 10 Dimensions of Research Impact as outlined. Here is the dimension-by-dimension assessment based on the provided text:
+
+1. Domains of Research Impact
+Excerpts:
+
+"Risk-stratified screening could improve the benefit-to-harm ratio and the cost-effectiveness of the breast screening program" (Results, page 1506).
+The research combines healthcare (preventing breast cancer deaths), economics (cost-effectiveness), and public policy (shaping screening recommendations). Page Reference: Results, page 1506. Example: The research influences the health domain by offering a better screening strategy for breast cancer, minimizing overdiagnosis and deaths. It impacts the economic domain by showing cost-effective healthcare interventions and can influence public policy to adapt more personalized screening programs.
+2. Duration of Research Impact
+Excerpts:
+
+"The relationship between the cost of the program and the QALYs gained shows diminishing return with offering screening to women at lower risk" (Discussion, page 1508).
+"Not offering breast cancer screening to women at lower risk could improve the cost-effectiveness of the screening program" (Conclusions, page 1504). Page Reference: Discussion, page 1508; Conclusions, page 1504. Example: Long-term impact: The research provides foundational knowledge for future studies on personalized healthcare screening strategies. Short-term impact: It can quickly influence how breast cancer screening is approached in healthcare policy decisions.
+3. Stakeholders of Research Impact
+Excerpts:
+
+"A risk-stratified screening strategy could improve the benefit-to-harm ratio and the cost-effectiveness of the breast screening program" (Results, page 1506). Page Reference: Results, page 1506. Example: Direct stakeholders include healthcare providers (oncologists and primary care physicians) who implement screening strategies and policy-makers who could adjust national screening guidelines. Indirect stakeholders are the general public, especially women in the age group for screening.
+4. Depth and Breadth of Impact
+Excerpts:
+
+"The study suggests that a more personalized screening strategy could reduce overdiagnosis while preventing breast cancer deaths" (Results, page 1506). Page Reference: Results, page 1506. Example: Deep impact: The research has a transformative influence on breast cancer screening protocols by proposing a shift away from age-based screening. Broad impact: It could influence various healthcare domains, including oncology, policy-making, and public health education.
+5. Scalability and Transferability
+Excerpts:
+
+"This study provides evidence that risk-stratified screening could improve healthcare delivery for breast cancer" (Discussion, page 1508). Page Reference: Discussion, page 1508. Example: Scalability: The model developed could be scaled up to inform national breast cancer screening programs globally. Transferability: This approach could be applied to other diseases where risk stratification could optimize screening, such as prostate cancer.
+6. Innovation and Disruption Potential
+Excerpts:
+
+"A more personalized approach to breast cancer screening based on individual risk could fundamentally change the current screening model" (Discussion, page 1508). Page Reference: Discussion, page 1508. Example: The research introduces an innovative screening method that tailors breast cancer screening based on individual risk factors, potentially disrupting the traditional age-based model in many healthcare systems.
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"Targeting screening to women at higher risk...reduces overdiagnosis" (Results, page 1506). Page Reference: Results, page 1506. Example: Sustainability: The proposed method reduces unnecessary treatments, promoting a more sustainable healthcare system by conserving resources. Ethical considerations: Reducing overdiagnosis also mitigates the ethical issue of subjecting low-risk women to unnecessary medical interventions.
+8. Implementation and Usability
+Excerpts:
+
+"The program would cost £537 985 less, yield 443 more QALYs, have 53 fewer overdiagnoses" (Results, page 1506). Page Reference: Results, page 1506. Example: The study provides practical insights into how healthcare systems can implement a risk-based screening strategy to improve outcomes while reducing costs, making it highly usable in real-world healthcare settings.
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"This study contributes to the global understanding of how personalized medicine can be applied in population-based health programs" (Discussion, page 1508). Page Reference: Discussion, page 1508. Example: The research is globally relevant, as breast cancer is a worldwide health issue. It has cross-disciplinary relevance by combining economics, healthcare, genetics, and policy-making.
+10. Resilience and Adaptability
+Excerpts:
+
+"The findings suggest that the program could be adjusted based on emerging data on breast cancer risk factors" (Discussion, page 1508). Page Reference: Discussion, page 1508. Example: The risk-stratified screening model is adaptable to changing risk profiles and new evidence, making it resilient to future healthcare challenges.
+This analysis gives you a detailed understanding of how this study maps onto the 10 research impact dimensions.

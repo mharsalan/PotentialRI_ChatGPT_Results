@@ -1,0 +1,23 @@
+Here is the detailed assessment of the research impact dimensions based on the provided text:
+
+1. Domains of Research Impact (RI)
+Excerpts: The study primarily addresses the health domain, investigating the impact of air pollution on cardiovascular health, particularly in patients with stable coronary artery disease. "We assessed the effect of inhalation of dilute diesel exhaust on myocardial, vascular, and fibrinolytic function in a population of patients with stable coronary heart disease" (Methods, page 1076) .
+Page Reference and Section: Methods, page 1076.
+Example: This research contributes to public health by providing insights into the cardiovascular effects of air pollution, potentially informing environmental policies and healthcare practices related to pollution exposure management.
+2. Duration of Research Impact (RI)
+Excerpts: The research has both short-term and long-term impacts. In the short term, "this study highlights the acute ischemic effects of diesel exhaust in coronary heart disease patients," contributing to immediate clinical practices in managing pollution-related health risks . Long-term, the study may influence public health policies and ongoing research into cardiovascular disease management and air pollution control.
+Page Reference and Section: Discussion, page 1081.
+Example: Short-term impacts include refining clinical guidelines on managing pollution exposure in patients with cardiovascular risks. Long-term, the findings could influence air quality standards and public health policies on environmental pollutants.
+3. Stakeholder of Research Impact (RI)
+Excerpts: The direct stakeholders include cardiovascular healthcare providers and policymakers concerned with environmental health. "This research provides critical data on how air pollution impacts coronary heart disease, which could be used by healthcare professionals and environmental policymakers" (Discussion, page 1081).
+Page Reference and Section: Discussion, page 1081.
+Example: The study's findings may guide healthcare providers in managing patients with heightened susceptibility to air pollution. Policymakers could use this data to enforce stricter regulations on emissions and pollutants.
+4. Depth and Breadth of Impact
+Excerpts: The research has deep impacts within the field of cardiovascular health by identifying a link between pollution and ischemic heart disease, contributing to the understanding of environmental risk factors in heart disease. "We confirm the presence of endothelial dysfunction in our patients... this study provides novel evidence on pollution-related ischemia" (Discussion, page 1081) .
+Page Reference and Section: Discussion, page 1081.
+Example: While the research primarily impacts cardiovascular and public health, it also has broader implications for environmental policy, influencing future studies on the relationship between air pollution and other chronic diseases.
+5. Scalability and Transferability
+Excerpts: The research findings could be scaled up by applying them to larger populations beyond the study sample, impacting air quality control policies globally. "Research on air pollution's cardiovascular impacts can be transferred to public health policies and urban planning initiatives worldwide" (Discussion, page 1081) .
+Page Reference and Section: Methods, page 1076; Discussion, page 1081.
+Example: The findings could inform global health strategies aimed at reducing pollution-related health risks in urban areas, scaling the results to influence international air quality regulations and environmental health campaigns.
+This assessment outlines how the research impacts various dimensions of research, focusing on public health, environmental policy, and clinical practices related to air pollution's cardiovascular effects.

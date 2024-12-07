@@ -1,0 +1,43 @@
+Here are the research impact dimensions identified for the study on breast cancer risk and PALB2 mutations, with relevant excerpts from the attached study. Each dimension includes detailed information based on the content of the study.
+
+1. Domains of Research Impact
+Excerpt: "The study focuses on PALB2 mutations and their contribution to hereditary breast cancer, which is important for improving clinical genetic testing and breast cancer risk assessment"​(5).
+Section and Page: Abstract, page 497.
+Example: The research impacts the health domain by providing insights into breast cancer risk for PALB2 mutation carriers, influencing genetic testing practices and breast cancer prevention strategies.
+2. Duration of Research Impact
+Excerpt: "The risk of breast cancer for female PALB2 mutation carriers was estimated to be significantly higher across different age groups, with a cumulative risk by 70 years of age reaching up to 35%"​(5).
+Section and Page: Results, page 503.
+Example: This study has long-term impact as it provides a foundation for future research on hereditary breast cancer and may lead to ongoing updates in clinical guidelines for genetic testing and breast cancer risk management.
+3. Stakeholder of Research Impact
+Excerpt: "Our findings are important for clinicians involved in genetic counseling and breast cancer risk assessment, particularly in families with hereditary predispositions"​(5).
+Section and Page: Discussion, page 503.
+Example: The direct stakeholders include healthcare professionals and researchers in the fields of oncology and genetics, as they use this research to inform clinical decisions regarding breast cancer risk and genetic testing protocols.
+4. Depth and Breadth of Impact
+Excerpt: "The study's detailed analysis of PALB2 mutations contributes to a deeper understanding of genetic factors in breast cancer, complementing research on BRCA1 and BRCA2"​(5).
+Section and Page: Discussion, page 504.
+Example: The research has deep impact in the field of cancer genetics by expanding knowledge about specific mutations, while also influencing broad clinical practices in breast cancer risk assessment globally.
+5. Scalability and Transferability
+Excerpt: "The methods used to assess breast cancer risk in PALB2 mutation carriers can be adapted to other genetic studies and applied to broader populations"​(5).
+Section and Page: Methods, page 499.
+Example: The research demonstrates scalability, as its genetic risk assessment approach could be scaled to other population-based studies of cancer risk. It also shows transferability, as these methodologies could be applied to studying mutations in other cancer-related genes.
+6. Innovation and Disruption Potential
+Excerpt: "Our study offers new insights into PALB2 mutation risks, which may disrupt current clinical practices focused only on BRCA1/BRCA2"​(5).
+Section and Page: Introduction, page 497.
+Example: The research introduces disruptive innovation by challenging the focus on BRCA1/BRCA2 mutations in breast cancer genetic counseling, potentially shifting attention to a wider array of genetic factors, including PALB2.
+7. Sustainability and Ethical Considerations
+Excerpt: "Ethical concerns were addressed by anonymizing family data and obtaining informed consent in accordance with institutional-review-board policies"​(5).
+Section and Page: Methods, page 498.
+Example: The study upholds ethical considerations by ensuring informed consent and protecting patient privacy, which is critical in the context of genetic testing and hereditary cancer research.
+8. Implementation and Usability
+Excerpt: "These findings can be incorporated into clinical guidelines to improve breast cancer risk assessment for women with PALB2 mutations"​(5).
+Section and Page: Discussion, page 503.
+Example: The research has strong implementation potential as the risk estimates can directly inform clinical guidelines and be used in genetic counseling to improve decision-making for high-risk patients.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "This study's findings are globally relevant as PALB2 mutations are found across different populations, making the results applicable internationally"​(5).
+Section and Page: Discussion, page 504.
+Example: The research has global relevance due to the presence of PALB2 mutations across diverse populations, and the findings can influence breast cancer screening and prevention efforts worldwide.
+10. Resilience and Adaptability
+Excerpt: "Further studies are needed to assess lifestyle and environmental factors that may modify breast cancer risk in PALB2 mutation carriers"​(5).
+Section and Page: Discussion, page 504.
+Example: The research exhibits resilience as it highlights the need for future studies to adapt findings based on emerging data regarding genetic and environmental factors, ensuring ongoing improvements in breast cancer risk assessment.
+This summary highlights how the study fits into each of the Top 10 Research Impact Dimensions.

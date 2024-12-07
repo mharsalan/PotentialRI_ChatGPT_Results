@@ -1,0 +1,33 @@
+Based on the attached study on Polygenic Risk Scores for Prediction of Breast Cancer and Breast Cancer Subtypes, and in alignment with the Top 10 Dimensions of Research Impact as outlined in the provided guidance, here's the detailed impact analysis across each dimension:
+
+1. Domains of Research Impact
+Excerpt: "This PRS is a powerful and reliable predictor of breast cancer risk that may improve breast cancer prevention programs" (Results, p. 21). Page Reference: Results, page 21. Example: The research primarily impacts the health domain, providing advancements in genetic risk assessment for breast cancer. It has further implications for policy domains as healthcare systems could implement PRS-based screening strategies to reduce the incidence of breast cancer.
+
+2. Duration of Research Impact
+Excerpt: "This PRS was validated in large-scale epidemiological studies and could influence breast cancer screening and prevention strategies over the long term" (Discussion, p. 23). Page Reference: Discussion, page 23. Example: This study contributes both short-term and long-term impact. Short-term: Immediate improvements in personalized breast cancer screening programs. Long-term: It sets the foundation for future genomic-based risk stratification methods, potentially influencing breast cancer prevention strategies for decades.
+
+3. Stakeholders of Research Impact
+Excerpt: "The development of PRS could provide healthcare providers with better tools to stratify women according to breast cancer risk" (Methods, p. 22). Page Reference: Methods, page 22. Example: Direct stakeholders include healthcare providers (oncologists and genetic counselors), who can apply PRS for improved risk assessment. Indirect stakeholders include the general public, particularly women who may benefit from enhanced prevention strategies.
+
+4. Depth and Breadth of Impact
+Excerpt: "PRS for breast cancer risk could be applied to various subtypes of the disease, expanding its utility across different breast cancer classifications" (Results, p. 25). Page Reference: Results, page 25. Example: The study has deep impact within the field of breast cancer genomics by advancing polygenic risk score methodologies. Its broad impact extends to epidemiology and clinical practice, where it supports personalized medicine approaches.
+
+5. Scalability and Transferability
+Excerpt: "The PRS has been empirically validated in large, independent datasets, showing potential for scalability in wider healthcare systems" (Discussion, p. 28). Page Reference: Discussion, page 28. Example: The PRS model has high scalability as it can be implemented in national breast cancer screening programs. It also exhibits transferability as similar genomic-based risk scores could be developed for other cancers or diseases.
+
+6. Innovation and Disruption Potential
+Excerpt: "This PRS represents a significant step forward in risk stratification for breast cancer, offering a more precise tool for early detection and prevention" (Introduction, p. 21). Page Reference: Introduction, page 21. Example: The research has disruptive potential by introducing a novel polygenic risk score that could replace or supplement traditional breast cancer screening methods, leading to more personalized and efficient screening protocols.
+
+7. Sustainability and Ethical Considerations
+Excerpt: "Ethical considerations for the implementation of PRS include ensuring equitable access to genetic testing and counseling" (Discussion, p. 31). Page Reference: Discussion, page 31. Example: The study addresses ethical concerns such as ensuring that advancements in PRS technology are accessible to all populations, preventing disparities in healthcare access and outcomes, contributing to the sustainability of health equity.
+
+8. Implementation and Usability
+Excerpt: "The validation of the PRS in real-world clinical cohorts highlights its practical application in breast cancer screening programs" (Results, p. 23). Page Reference: Results, page 23. Example: The PRS is highly implementable as it has been validated in large-scale, prospective cohort studies, demonstrating its usability in clinical settings for breast cancer screening.
+
+9. Cross-disciplinary and Global Relevance
+Excerpt: "The findings are globally relevant as the study included data from multiple international cohorts" (Methods, p. 24). Page Reference: Methods, page 24. Example: The research has cross-disciplinary relevance as it integrates genetic epidemiology with clinical practice. Its global relevance is evidenced by the inclusion of data from international cohorts, making the results applicable across diverse populations.
+
+10. Resilience and Adaptability
+Excerpt: "The PRS can be adapted to different breast cancer subtypes, showing its flexibility in application across varying clinical contexts" (Discussion, p. 26). Page Reference: Discussion, page 26. Example: The PRS demonstrates resilience and adaptability by being applicable to different breast cancer subtypes (e.g., ER-positive and ER-negative cancers), allowing for customization in clinical risk assessment and screening protocols.
+
+This analysis aligns the research with each of the Top 10 Dimensions of Research Impact, detailing its contributions and influence across various domains.

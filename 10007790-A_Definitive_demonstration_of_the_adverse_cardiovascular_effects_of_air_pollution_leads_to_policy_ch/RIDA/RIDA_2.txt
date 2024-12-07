@@ -1,0 +1,66 @@
+Based on your uploaded study on air pollution and stroke, here is the detailed research impact assessment mapped to the top 10 dimensions of research impact:
+
+1. Domains of Research Impact (RI)
+Excerpts:
+
+"Gaseous and particulate air pollutants have a marked and close temporal association with admissions to hospital for stroke or mortality from stroke." (Conclusion, page 5) . Domains:
+Health: Significant implications for cardiovascular disease management and stroke prevention strategies.
+Environmental: Policies aimed at reducing air pollution could have direct public health benefits.
+Policy: Potential to influence both environmental and public health policy. Example: Research findings can guide policymakers in designing air quality regulations aimed at reducing stroke incidence rates, especially in high-risk urban areas.
+2. Duration of Research Impact
+Excerpts:
+
+"Over the past three decades, epidemiological studies...have shown strong associations between air pollution and stroke." (Results, page 5) .
+"Public and environmental health policies to reduce air pollution could reduce the burden of stroke." (Conclusion, page 5) . Categories:
+Short-term Impact: Immediate recognition of air pollution as a stroke risk factor may lead to policy changes.
+Long-term Impact: Over time, policies reducing air pollution can decrease the global stroke burden. Example: New regulations addressing emissions could have lasting public health impacts by decreasing stroke-related mortality globally.
+3. Stakeholders of Research Impact
+Excerpts:
+
+"These associations were strongest in low and middle income countries, suggesting the need for policy changes to reduce personal exposure to air pollutants..." (Discussion, page 6) . Stakeholders:
+Healthcare providers: Insights into preventing stroke can improve clinical guidelines.
+Policymakers: New data can inform public health and environmental legislation.
+The Public: Ultimately benefits from reduced air pollution and lower stroke incidence rates. Example: Healthcare practitioners may update prevention guidelines, while governments can enact stricter air quality regulations to protect citizens, especially in high-pollution urban areas.
+4. Depth and Breadth of Impact
+Excerpts:
+
+"Gaseous and particulate air pollutants have a robust and close temporal association with admission to hospital for stroke or stroke death." (Discussion, page 5) . Depth:
+Provides critical insights into the specific link between air pollution and cerebrovascular events. Breadth:
+Impacts multiple disciplines including epidemiology, environmental science, and public health. Example: The research crosses boundaries, contributing to advancements in public health policy and environmental sciences, broadening the focus from cardiac to cerebrovascular effects of pollution.
+5. Scalability and Transferability
+Excerpts:
+
+"Public and environmental health policies to reduce air pollution could reduce the burden of stroke." (Conclusion, page 5) . Scalability:
+Can be scaled globally, especially in high-pollution areas where stroke rates are increasing. Transferability:
+Results are transferable to global health initiatives, particularly in developing countries experiencing increased stroke rates due to poor air quality. Example: This research can be used by WHO to scale public health interventions and apply air quality policies in various countries.
+6. Innovation and Disruption Potential
+Excerpts:
+
+"This is the first comprehensive prespecified pooled analysis to examine the short term effects after exposure to gaseous or particulate air pollution..." (Methods, page 4) . Innovation:
+Introduces a comprehensive pooled analysis combining multiple pollutants and stroke types. Disruption:
+Shifts focus from cardiac-related morbidity due to air pollution to cerebrovascular events, potentially disrupting current preventive strategies. Example: This could lead to a paradigm shift in how air pollution-related health risks are managed, expanding focus beyond heart disease to include stroke.
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"The associations were strongest in low and middle income countries...suggesting the need for policy changes..." (Discussion, page 5) . Sustainability:
+Highlighting the need for sustainable air quality improvements that benefit long-term public health. Ethical Considerations:
+Ensuring equitable access to clean air in both high-income and low/middle-income regions is a critical ethical consideration. Example: Efforts to reduce air pollution can also improve global equity by providing underserved populations with cleaner air and reduced health disparities.
+8. Implementation and Usability
+Excerpts:
+
+"Public and environmental health policies to reduce air pollution could reduce the burden of stroke." (Conclusion, page 5) . Implementation:
+The findings provide actionable insights for environmental and public health policymakers. Usability:
+Policies can be implemented at multiple governmental levels, influencing urban planning and industrial regulations. Example: Air quality standards could be adapted in both developing and developed regions to mitigate stroke risks.
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"Gaseous and particulate air pollutants...strong temporal association with admission to hospital for stroke." (Results, page 5) . Cross-disciplinary:
+Bridges environmental science, healthcare, epidemiology, and public policy. Global Relevance:
+Applicable globally, especially in high-density urban areas and developing nations with poor air quality. Example: Findings can guide global public health organizations and climate scientists in mitigating the intersection of air pollution and stroke risk.
+10. Resilience and Adaptability
+Excerpts:
+
+"Particulate air pollution alone is responsible for over three million deaths each year." (Introduction, page 1) . Resilience:
+Long-lasting relevance as air pollution remains a persistent global issue. Adaptability:
+Findings can evolve with changes in pollution patterns and advancements in stroke prevention. Example: The adaptable nature of the research allows it to stay relevant as new pollutants or emerging diseases challenge current healthcare systems.
+These dimensions highlight the broad and lasting impact of the study, spanning healthcare, environmental policy, and global health initiatives.

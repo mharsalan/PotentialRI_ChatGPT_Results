@@ -1,0 +1,53 @@
+To assess the research impact dimensions based on the attached study titled "Association analysis identifies 65 new breast cancer risk loci" and align them with the Top 10 Dimensions of Research Impact from the provided knowledge base, I will present the dimensions one by one, using the content of the study to provide detailed insights.
+
+1. Domains of Research Impact (RI)
+Excerpts: The study primarily impacts the Health Domain by identifying 65 new genetic loci associated with breast cancer risk. It contributes significantly to understanding the genomic basis of breast cancer, which is crucial for improving screening, diagnosis, and prevention. The study's findings also touch upon the Environmental Domain through the use of genomic data from multiple populations (e.g., European and East Asian ancestry) to model breast cancer susceptibility across diverse populations.
+"We identified 65 new loci associated with overall breast cancer risk at p<5x10-8... These results provide further insight into genetic susceptibility to breast cancer and will improve the utility of genetic risk scores for individualized screening and prevention." (Results, p. 2)
+Page Reference and Section: Results, p. 2
+Example: The research impacts the healthcare domain by providing a genetic framework that can inform personalized breast cancer screening programs.
+2. Duration of Research Impact (RI)
+Excerpts: The study has both short-term and long-term impacts. In the short term, the identification of new genetic loci may lead to improvements in risk prediction models. In the long term, it establishes a foundation for future research into genetic drivers of breast cancer and the development of more tailored treatments.
+"The identified SNPs will be incorporated into risk prediction models, which can be used to improve the identification of women at high and low risk of breast cancer..." (Results, p. 6)
+Page Reference and Section: Results, p. 6
+Example: Short-term impact includes improvements in breast cancer screening strategies, while long-term impacts may involve deeper exploration of the genetic underpinnings of breast cancer, influencing future therapeutic developments.
+3. Stakeholder of Research Impact (RI)
+Excerpts: The stakeholders include researchers, healthcare providers, and policymakers. Researchers will benefit from the identification of new loci, contributing to further studies on breast cancer genetics. Healthcare providers can use the insights for better screening and treatment, and policymakers can use the findings to influence public health strategies for cancer prevention.
+"These data provide in vitro evidence of target identification and regulation...the identified susceptibility SNPs account for 44% of the familial relative risk that can be explained by all imputable SNPs." (Discussion, p. 4)
+Page Reference and Section: Discussion, p. 4
+Example: Direct stakeholders include geneticists and oncologists who can incorporate these findings into genetic counseling and patient risk assessment, while indirect stakeholders include the broader public, who will benefit from improved cancer screening and prevention efforts.
+4. Depth and Breadth of Impact
+Excerpts: The depth of the study is significant within the field of cancer genetics, as it provides a more detailed understanding of genetic variants associated with breast cancer. The breadth of impact spans across multiple populations, including European and East Asian groups, making it relevant for global breast cancer risk analysis.
+"The majority of known susceptibility loci are shared between these populations." (Results, p. 3)
+Page Reference and Section: Results, p. 3
+Example: Deep impact in the field of cancer genetics, particularly for understanding genetic predisposition to breast cancer, and broad impact in global health, as the findings are applicable to diverse populations, potentially influencing global cancer prevention strategies.
+5. Scalability and Transferability
+Excerpts: The study's findings are highly scalable, as the identification of breast cancer risk loci can be applied in personalized medicine across different healthcare systems. The research is also transferable across various fields, such as epidemiology and public health, given its genetic and statistical approach.
+"Such risk prediction can inform targeted early detection and prevention." (Results, p. 6)
+Page Reference and Section: Results, p. 6
+Example: The scalability of the risk models means they can be applied to larger populations, while transferability allows the study's methodologies to be used in researching other cancers or genetic diseases.
+6. Innovation and Disruption Potential
+Excerpts: The study is innovative in its use of genome-wide association study (GWAS) techniques to identify novel risk loci, disrupting existing models of cancer susceptibility by adding new genetic factors.
+"We performed pathway gene set enrichment analysis... Several growth or development-related pathways were enriched, notably the fibroblast growth factor, platelet-derived growth factor, and Wnt signaling pathways." (Results, p. 3)
+Page Reference and Section: Results, p. 3
+Example: The findings can disrupt existing risk prediction models, leading to more accurate tools for breast cancer prevention.
+7. Sustainability and Ethical Considerations
+Excerpts: The research takes a sustainable approach by focusing on long-term cancer prevention through genetic screening. Ethical considerations include the application of genetic data, which requires careful management to ensure privacy and non-discrimination in healthcare.
+"The majority of credible risk SNPs in the new loci fall in distal regulatory elements..." (Methods, p. 2)
+Page Reference and Section: Methods, p. 2
+Example: The sustainable aspect involves developing long-lasting cancer screening programs based on genetic risk, with ethical considerations around genetic data use and privacy.
+8. Implementation and Usability
+Excerpts: The study provides immediately usable insights for genetic testing and breast cancer risk prediction models. These findings can be implemented in clinical practice to improve early detection and prevention strategies.
+"Risk prediction can inform targeted early detection and prevention." (Results, p. 6)
+Page Reference and Section: Results, p. 6
+Example: Clinicians can implement the genetic risk loci identified in the study to better screen high-risk individuals.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The study’s methodologies and findings are relevant across genomics, oncology, public health, and epidemiology. It also has global relevance due to its focus on multiple populations, making it useful for international cancer research.
+"The correlation in effect sizes for all known loci between Europeans and Asians was 0.83, suggesting that the majority of known susceptibility loci are shared between these populations." (Results, p. 3)
+Page Reference and Section: Results, p. 3
+Example: The study's global relevance is demonstrated by its inclusion of both European and Asian populations, making it applicable to international healthcare systems.
+10. Resilience and Adaptability
+Excerpts: The study shows resilience and adaptability in its potential to be updated as more genetic data becomes available. Its findings can be adapted to new populations or combined with future technological advancements in genomics.
+"We annotated each CRV with publicly available genomic data from breast cells in order to highlight potentially functional variants, predict target genes, and prioritize future experimental validation." (Methods, p. 3)
+Page Reference and Section: Methods, p. 3
+Example: The adaptability of the research lies in its ability to integrate future genomic discoveries into evolving risk prediction models.
+This detailed dimension-by-dimension analysis reflects the impact of the study across the Top 10 Research Impact Dimensions.
