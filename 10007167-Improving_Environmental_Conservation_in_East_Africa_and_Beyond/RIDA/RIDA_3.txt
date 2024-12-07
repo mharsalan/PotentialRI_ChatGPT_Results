@@ -1,0 +1,43 @@
+Based on the research paper titled "Examining the impact of forest protection status on firewood sufficiency in rural Africa" and following the predefined instructions for assessing research impact, here are the detailed findings for each of the Top 10 Dimensions of Research Impact:
+
+1. Domains of Research Impact
+Excerpt: "Forest protection causes displacement, replacement or reduction of NTFP extraction activities, with implications for human welfare. Here, we assess the impact of forest protection on a novel measure of wellbeing..." (Summary, Page 221).
+Page Reference and Section: Summary, page 221.
+Example: This research has a broad impact across multiple domains, such as environmental sustainability (by examining forest management), social (human welfare and resource sufficiency), and policy (forest protection policies). It informs both academic discussions on forest ecosystems and practical forest management strategies in rural areas.
+2. Duration of Research Impact
+Excerpt: "With high dependence on firewood for energy in our study villages, we compare household perceived need for firewood with actual consumption..." (Introduction, Page 222).
+Page Reference and Section: Introduction, page 222.
+Example: The research presents findings that are immediately applicable to forest management strategies (short-term), while also offering a basis for future long-term studies on human-wildlife interactions and conservation strategies as well as future forest resource management policies.
+3. Stakeholder of Research Impact
+Excerpt: "Our findings reinforce the need for a landscape approach to forest management planning that accounts for local needs, to avoid leakage to other less well-protected forests..." (Summary, Page 221).
+Page Reference and Section: Summary, page 221.
+Example: Key stakeholders include local communities, policymakers involved in forest conservation and management, and environmental conservation organizations. The research directly informs local village forest management and indirectly benefits wider stakeholders by influencing forest conservation policies.
+4. Depth and Breadth of Impact
+Excerpt: "The majority of CBFM households were aware of these forests' community-based authorities; however, very few complied with firewood extraction regulations" (Results, Page 228).
+Page Reference and Section: Results, page 228.
+Example: This study has a deep impact within the field of forest management by providing detailed insights into non-compliance with forest management rules. Additionally, it has broad implications by informing not only conservation practices but also sustainable energy policies in developing regions.
+5. Scalability and Transferability
+Excerpt: "Fuel-efficient stove ownership improved the perceived ability to meet firewood needs; however, actual consumption remained unchanged" (Summary, Page 221).
+Page Reference and Section: Summary, page 221.
+Example: The findings related to fuel-efficient stoves are highly scalable, as similar stove interventions could be applied in other rural regions facing similar firewood shortages. The approach to measuring firewood sufficiency can also be transferred to other regions with similar socio-economic conditions.
+6. Innovation and Disruption Potential
+Excerpt: "Here, we present a novel approach to the assessment of forest protection trade-offs that incorporates these linked material- and perception-based indicators of wellbeing by comparing perceived need for firewood with actual usage" (Introduction, Page 222).
+Page Reference and Section: Introduction, page 222.
+Example: The research introduces an innovative method by combining subjective perceptions with objective firewood usage data, challenging traditional approaches to measuring resource sufficiency and wellbeing in forest management.
+7. Sustainability and Ethical Considerations
+Excerpt: "Economic valuation of the total value of forests at multiple scales can improve understanding of these trade-offs, enabling calculation of the cost–benefit ratio of protection at both global and local levels" (Introduction, Page 222).
+Page Reference and Section: Introduction, page 222.
+Example: This research supports sustainability by advocating for balanced forest conservation strategies that account for both environmental protection and local community welfare, ensuring long-term viability of forest resources and human wellbeing.
+8. Implementation and Usability
+Excerpt: "The effect of household variables and forest protection status on firewood sufficiency is analysed, and the implications for wellbeing and leakage in this landscape of forests with mixed protection status is assessed" (Introduction, Page 222).
+Page Reference and Section: Introduction, page 222.
+Example: The practical implications of the findings are immediate, as they offer actionable insights for forest managers to design more effective conservation strategies that account for human needs, which can be directly implemented in local conservation projects.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "Our findings reinforce the need for a landscape approach to forest management planning that accounts for local needs..." (Summary, Page 221).
+Page Reference and Section: Summary, page 221.
+Example: The research's findings are cross-disciplinary, influencing fields like environmental conservation, community planning, and rural development. Its methods and conclusions are also globally relevant for other regions with similar dependence on forest resources.
+10. Resilience and Adaptability
+Excerpt: "In a forest landscape of mixed protection status, pressure will likely be displaced to the forest with the least active management authority" (Summary, Page 221).
+Page Reference and Section: Summary, page 221.
+Example: This study highlights the need for adaptable management strategies in forest conservation to ensure resilience against displacement effects. It suggests adaptable approaches for managing forest resources under varying degrees of protection and compliance.
+This assessment covers the key dimensions of research impact for this study, highlighting how it contributes to various academic, social, environmental, and policy-related domains.

@@ -1,0 +1,93 @@
+Based on the provided study, I will now outline the key research impact dimensions. Here is a detailed dimension-by-dimension analysis of the research paper titled "From local scenarios to national maps: a participatory framework for envisioning the future of Tanzania".
+
+1. Domains of Research Impact
+Excerpts:
+
+"We present a novel framework for participatory development of spatially explicit scenarios at national scale that model socioeconomic and environmental dynamics by reconciling local stakeholder perspectives and national spatial data" (Abstract, Page 1).
+"This scenario development framework captures perspectives and knowledge across a diverse range of stakeholders and regions... used to inform national level planning and policy implementation associated with sustainable development, especially the REDD+ climate mitigation strategy" (Abstract, Page 1).
+Page Reference and Section: Abstract, Page 1; Introduction, Page 2.
+
+Example: This study impacts multiple domains:
+
+Environmental: By assessing land-use and land-cover changes and deforestation rates, it contributes to environmental conservation efforts and climate mitigation strategies.
+Policy: The results are directly relevant to policy implementation for sustainable development, particularly through the REDD+ initiative.
+Societal: Engaging local stakeholders emphasizes community participation in land-use planning.
+2. Duration of Research Impact
+Excerpts:
+
+"In the business as usual scenario, no productivity gain is expected... large impacts on woodlands and wetlands" (Abstract, Page 1).
+"The green economy scenario envisages decreasing degradation and deforestation" (Abstract, Page 1).
+Page Reference and Section: Abstract, Pages 1-2.
+
+Example: The long-term impact of this research lies in its potential to inform sustainable land-use policies for the next decade (until 2025), contributing to forest conservation and development planning. Short-term impacts include immediate applications in the REDD+ climate mitigation strategy and informing regional land-use policies.
+
+3. Stakeholder of Research Impact
+Excerpts:
+
+"Engaging 240 stakeholders representing subnational and the national level, we applied the framework to assess alternative development strategies in the Tanzania mainland to the year 2025" (Abstract, Page 1).
+"Participants included governmental institutions, private companies, research institutions, and civil society organizations" (Methods, Page 5).
+Page Reference and Section: Methods, Pages 5-6.
+
+Example: The direct stakeholders are Tanzanian policymakers and land-use planners, while indirect stakeholders include local communities, particularly those in rural areas dependent on forest resources, and international environmental organizations working on REDD+ implementation.
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+"This scenario development framework captures perspectives and knowledge across a diverse range of stakeholders and regions... resulting spatial outputs can be used to inform national level planning" (Abstract, Page 1).
+Page Reference and Section: Abstract, Page 1.
+
+Example: The research has a broad impact across environmental, social, and policy domains. It influences land-use policies, climate mitigation efforts, and engages multiple sectors. The depth of impact is visible in the field of participatory land-use planning, providing a replicable framework for other nations or regions looking to integrate local stakeholder input into national strategies.
+
+5. Scalability and Transferability
+Excerpts:
+
+"The scenario framework allows for the reconciliation of subnational perspectives at a national scale, easing the transfer of knowledge to inform decision making" (Introduction, Page 2).
+"Further effort is required to extend its applicability, improve users’ equity, and reduce costs" (Abstract, Page 2).
+Page Reference and Section: Introduction, Pages 2-3.
+
+Example: This framework has high scalability as it can be expanded to other regions or countries facing similar challenges with land-use and sustainability planning. Transferability is evident in its application to other REDD+ programs and sustainable land-use strategies in developing nations.
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+"We present a novel framework for participatory development of spatially explicit scenarios at national scale" (Abstract, Page 1).
+Page Reference and Section: Abstract, Page 1.
+
+Example: The innovative aspect of the framework lies in its combination of spatial modeling with participatory scenario building, which disrupts traditional top-down approaches to land-use planning. This research challenges existing methods by integrating local knowledge into national policy frameworks.
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"The green economy scenario envisages decreasing degradation and deforestation with increasing productivity... payment for ecosystem service schemes" (Abstract, Page 1).
+Page Reference and Section: Abstract, Page 1.
+
+Example: The study directly addresses sustainability by promoting greener land-use practices and conservation efforts through REDD+ strategies. Ethical considerations are embedded in its participatory approach, ensuring that local stakeholders' voices are included in decisions impacting their environment.
+
+8. Implementation and Usability
+Excerpts:
+
+"The resulting spatial outputs can be used to inform national level planning and policy implementation associated with sustainable development" (Abstract, Page 1).
+"This scenario development framework captures perspectives and knowledge across a diverse range of stakeholders and regions" (Abstract, Page 1).
+Page Reference and Section: Abstract, Page 1.
+
+Example: This framework is highly usable for Tanzanian policymakers as it directly informs land-use strategies and national-level planning. The implementation is facilitated through its integration with REDD+ and other sustainable development goals.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"The framework aims to reconcile subnational perspectives across a nation" (Introduction, Page 2).
+"It eases the transfer of knowledge to inform decision making at national and subnational scales" (Introduction, Page 2).
+Page Reference and Section: Introduction, Pages 2-3.
+
+Example: The research's global relevance stems from its application to climate mitigation strategies (REDD+) and sustainable land-use planning, which are critical across many developing nations. It is cross-disciplinary, involving environmental science, sociology, economics, and policy.
+
+10. Resilience and Adaptability
+Excerpts:
+
+"Despite legal protection, encroachment of natural forest occurs along reserve borders" (Abstract, Page 1).
+"We applied the framework to assess alternative development strategies in the Tanzania mainland to the year 2025" (Abstract, Page 1).
+Page Reference and Section: Abstract, Page 1.
+
+Example: The framework enhances resilience by proposing strategies that reduce deforestation and habitat degradation. Its adaptability is demonstrated by its ability to assess different scenarios and respond to the dynamic socioeconomic and environmental challenges in Tanzania.
+
+This assessment outlines the research's contributions across multiple dimensions of impact, providing examples and detailed references for cross-verification. If you require further elaboration on any specific dimension, feel free to ask!
