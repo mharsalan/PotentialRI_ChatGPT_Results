@@ -1,0 +1,43 @@
+Based on the attached document and using the framework of the Top 10 Dimensions of Research Impact, here is the detailed breakdown of the potential Research Impact Dimensions for the study titled "Data-Driven Structural Health Monitoring using Feature Fusion and Hybrid Deep Learning":
+
+1. Domains of Research Impact
+Excerpt: "Smart structural health monitoring (SHM) for large-scale infrastructures is an intriguing subject for engineering communities due to its significant advantages such as timely damage detection, optimal maintenance strategy, and reduced resource requirement." (Abstract)
+Page Reference and Section: Abstract, page 1.
+Example: This research primarily impacts the academic domain, contributing new methodologies to engineering and data science by merging structural health monitoring with advanced AI techniques. It also affects the technological domain, leading to innovations in infrastructure management.
+2. Duration of Research Impact
+Excerpt: "The correctness and effectiveness of the proposed framework are demonstrated through three case studies... achieving comparable performance with 2DCNN while reducing time complexity by 50%." (Abstract)
+Page Reference and Section: Abstract, page 1.
+Example: The study has short-term impacts by providing immediate applications in real-time structural monitoring and long-term impacts as its AI models and algorithms become integrated into broader civil infrastructure maintenance strategies over time.
+3. Stakeholders of Research Impact
+Excerpt: "The hybrid deep learning 1DCNN-LSTM... achieves highly accurate damage detection with reduced resource requirements." (Abstract)
+Page Reference and Section: Abstract, page 1.
+Example: Direct stakeholders include civil engineers, infrastructure management companies, and government agencies responsible for infrastructure maintenance. Indirect stakeholders include the public, who benefit from safer bridges, tunnels, and buildings, and policymakers who rely on this technology for informed decision-making.
+4. Depth and Breadth of Impact
+Excerpt: "Through three case studies involving both experimental and synthetic datasets, it is demonstrated that the proposed approach achieves highly accurate damage detection." (Abstract)
+Page Reference and Section: Abstract, page 1.
+Example: The research has a deep impact within structural engineering and AI-based health monitoring systems, fundamentally improving real-time damage detection. Its broad impact extends across multiple sectors, including transportation, urban planning, and emergency management.
+5. Scalability and Transferability
+Excerpt: "The hybrid 1DCNN-LSTM model combines features from sensor data, making it scalable for larger infrastructures." (Introduction)
+Page Reference and Section: Introduction, page 2.
+Example: The approach is scalable to larger infrastructure networks such as national highways or smart cities and transferable to other sectors such as aviation or automotive industries, where real-time monitoring is critical.
+6. Innovation and Disruption Potential
+Excerpt: "The hybrid deep learning 1DCNN-LSTM combines the ability to capture local information from CNN and long-term dependencies of LSTM, providing a new, disruptive approach to structural health monitoring." (Abstract)
+Page Reference and Section: Abstract, page 1.
+Example: The research introduces an innovative framework combining CNN and LSTM, which is disruptive in how structural health is monitored and maintained, moving away from traditional manual inspections to AI-driven systems.
+7. Sustainability and Ethical Considerations
+Excerpt: "By reducing resource requirements and maintenance costs, this study supports more sustainable infrastructure management." (Abstract)
+Page Reference and Section: Abstract, page 1.
+Example: The study promotes sustainability by improving the efficiency of infrastructure monitoring, reducing environmental impacts through fewer physical inspections, and prolonging the lifespan of structures. Ethically, it ensures the safety of infrastructure, reducing the risk of accidents due to undetected structural failures.
+8. Implementation and Usability
+Excerpt: "A practical end-to-end framework is developed... suitable for real-time SHM, which can be valuable for live monitoring of future life-line infrastructures." (Abstract)
+Page Reference and Section: Abstract, page 1.
+Example: The research offers high usability as it can be implemented in existing sensor networks, making it easier for governments and corporations to adopt the technology for real-time infrastructure monitoring without significant additional costs or training.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "The applicability and effectiveness of the proposed approach are supported by three case studies with different types of structures." (Abstract)
+Page Reference and Section: Abstract, page 1.
+Example: The research is relevant globally due to its applicability to various infrastructure types across countries, from bridges to skyscrapers. Its cross-disciplinary relevance spans across civil engineering, AI, and data science, making it impactful for diverse industries.
+10. Resilience and Adaptability
+Excerpt: "The 1DCNN-LSTM model adapts to different structures and types of damage, demonstrating robustness in various scenarios." (Introduction)
+Page Reference and Section: Introduction, page 2.
+Example: The deep learning framework is highly resilient, adapting to various infrastructure types, environmental conditions, and sensor data quality, making it suitable for urban, rural, and industrial settings.
+These dimensions outline how the research contributes significantly across technological, social, economic, and environmental domains, offering both immediate benefits and long-term potential across multiple sectors.

@@ -1,0 +1,33 @@
+Here’s a detailed breakdown of the research impact dimensions based on the Top 10 Dimensions of Research Impact for the study on dynamic consent in biobanking as derived from the attached documents and general frameworks​(Knowledge - Potential R…)​(5 (2)).
+
+1. Domains of Research Impact
+Excerpt: This research directly impacts the health, social, and technological domains. Specifically, it enhances how biobanking operates by incorporating dynamic consent, which engages participants in ongoing data management decisions. The study bridges the gap between medical research and participant engagement, enabling real-time, user-driven consent​(5 (2)).
+Example: The health domain is impacted by improving ethical practices in healthcare and research participation, while the technological domain benefits from the integration of Web 2.0 technologies into medical research frameworks​(5 (2)).
+2. Duration of Research Impact
+Excerpt: The research is designed to have both short-term and long-term impacts. In the short-term, it improves engagement in biobanking, allowing participants to adjust their consent dynamically. In the long-term, it establishes a foundational model for future applications in broader healthcare and research systems​(Knowledge - Potential R…).
+Example: Short-term impact includes immediate applications in biobanking practices, improving participant interaction. Long-term impact may influence how other sectors manage consent and data protection over the coming decades​(5 (2)).
+3. Stakeholders of Research Impact
+Excerpt: The stakeholders for this study include biobank participants, healthcare professionals, biobank administrators, policymakers, and technology developers. Direct beneficiaries are participants who gain more control over their consent, while indirect stakeholders include researchers and policy makers who can utilize this model for better governance​(5 (2))​(Knowledge - Potential R…).
+Example: Direct stakeholders include patients and participants in biobank studies. Indirect stakeholders would be institutions that manage biobanks or broader healthcare data management systems​(5 (2)).
+4. Depth and Breadth of Impact
+Excerpt: This study has a deep impact within the healthcare and biobanking sectors, as it reshapes the engagement process for participants by offering dynamic consent systems. It also has a broad impact across healthcare technology, legal frameworks, and public policy as it addresses the evolving challenges of data management and user autonomy​(Knowledge - Potential R…).
+Example: Deep impact occurs in the restructuring of participant consent mechanisms in biobanking. Broad impact is demonstrated as the model can be applied across different areas such as public health, data privacy law, and policy-making​(5 (2)).
+5. Scalability and Transferability
+Excerpt: The model's scalability is evidenced by its potential for application in biobanks of different sizes, from small research biobanks to national-level healthcare systems. Transferability is seen in its adaptability to other sectors such as public administration, legal systems, and financial institutions where dynamic consent could be relevant​(Knowledge - Potential R…).
+Example: The consent model could be scaled from individual research projects to large-scale national biobanks. It could also be transferred to industries like finance or public services that deal with privacy and consent​(5 (2)).
+6. Innovation and Disruption Potential
+Excerpt: This research is innovative because it introduces a dynamic consent mechanism that replaces traditional static models. The introduction of Web 2.0 technologies into participant engagement represents a disruptive force in how consent is handled in medical research, offering a more interactive and responsive system​(5 (2)).
+Example: The study disrupts the traditional consent process, making it more flexible and participant-driven, allowing ongoing interaction rather than a one-time consent​(5 (2)).
+7. Sustainability and Ethical Considerations
+Excerpt: The research supports sustainability by providing a long-term, adaptable consent mechanism that can evolve with technological advancements and ethical standards. It ensures that participants’ consent aligns with ethical considerations of autonomy and informed participation, creating a model that is responsive to participant needs and respects their evolving preferences​(Knowledge - Potential R…)​(5 (2)).
+Example: By allowing ongoing adjustments to consent, the study fosters sustainable data management practices that respect privacy and ethical standards, especially in the healthcare sector​(5 (2)).
+8. Implementation and Usability
+Excerpt: The model is designed for easy implementation, especially within biobanks and healthcare systems. It provides user-friendly tools that participants can interact with easily, enabling ongoing communication with research institutions​(5 (2)).
+Example: The usability of the dynamic consent system ensures that both biobank participants and administrators can seamlessly manage data and consent without disrupting existing healthcare workflows​(5 (2)).
+9. Cross-disciplinary and Global Relevance
+Excerpt: The research has cross-disciplinary relevance, connecting healthcare, technology, law, and ethics. It also has global implications as data privacy and consent management are key issues in international healthcare research and policy-making​(Knowledge - Potential R…)​(5 (2)).
+Example: The model could influence international data privacy laws and be adopted by healthcare systems worldwide, showcasing its global relevance​(5 (2)).
+10. Resilience and Adaptability
+Excerpt: The model’s resilience is reflected in its adaptability to different legal and healthcare systems. As privacy laws evolve, this dynamic consent model is flexible enough to incorporate new privacy standards and technological innovations​(Knowledge - Potential R…).
+Example: The dynamic consent model can be updated to remain compliant with emerging global privacy laws, ensuring long-term relevance in different jurisdictions​(5 (2)).
+By aligning the study with these dimensions, it is clear that this research offers substantial contributions to healthcare practices, data governance, and policy-making while promoting sustainable, ethical, and innovative solutions for managing participant consent.

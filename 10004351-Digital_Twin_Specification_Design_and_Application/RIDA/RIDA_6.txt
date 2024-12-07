@@ -1,0 +1,43 @@
+Based on the detailed information from the attached file and the dimensions provided in the Knowledge - Potential RI by Dimensions document, here are the Research Impact Dimensions related to the study in question. Each impact dimension aligns with the top 10 research impact dimensions provided:
+
+1. Domains of Research Impact
+Excerpt: "This study extends the applicability of four prominent deep learning algorithms... to structural damage detection using raw data." (Introduction, page 1)
+Page Reference and Section: Introduction, page 1
+Example: The research has significant impacts in the academic domain, contributing to the fields of deep learning, structural engineering, and infrastructure management. Additionally, it has technological implications by advancing the use of deep learning for real-time structural health monitoring, benefitting civil infrastructure systems such as bridges, buildings, and tunnels.
+2. Duration of Research Impact
+Excerpt: "Moreover, these results emphasize the high reliability of 2DCNN, as well as the good balance between accuracy and complexity of Long Short Term Memory and 1D Convolutional Neural Network." (Introduction, page 2)
+Page Reference and Section: Introduction, page 2
+Example: In the short-term, the research offers immediate applications for structural health monitoring (SHM) of civil infrastructure, which can be used to prevent failures and optimize maintenance. Long-term impacts include contributing to the foundational knowledge of how deep learning algorithms can be applied to other engineering challenges, influencing both academic research and industrial applications.
+3. Stakeholders of Research Impact
+Excerpt: "Structural Health Monitoring (SHM) is achieved using a network of sensors installed across structures for measurement and assessment of the current condition of the structure under observation." (Introduction, page 1)
+Page Reference and Section: Introduction, page 1
+Example: The direct stakeholders include civil engineers, infrastructure managers, and government bodies responsible for public safety. Indirect stakeholders include the general public, who benefit from the increased safety of buildings and bridges, and insurance companies, which can use SHM data to reduce risks and liabilities.
+4. Depth and Breadth of Impact
+Excerpt: "Three structures ranging from relatively small structures to considerably large structures are extensively investigated." (Introduction, page 1)
+Page Reference and Section: Introduction, page 1
+Example: The research has deep impacts within the fields of structural engineering and deep learning, advancing the understanding of how neural networks can detect damage severity. It also has broad implications, with potential applications across various industries, such as automotive for detecting faults in machinery, and aerospace for monitoring the structural integrity of aircraft components.
+5. Scalability and Transferability
+Excerpt: "A modulated workflow is designed to ease the switch of different DL algorithms and the fusion of data from sensors." (Introduction, page 2)
+Page Reference and Section: Introduction, page 2
+Example: The platform is highly scalable, as it can be implemented across multiple types of infrastructure, from small buildings to large bridges. The methodology is also transferable to other domains requiring sensor-based monitoring, such as aerospace engineering and energy grid management.
+6. Innovation and Disruption Potential
+Excerpt: "The results provide a more insightful picture of the applicability of Deep Learning algorithms in performing structural damage detection via quantitative evaluations of detection accuracy, time complexity, and required data storage in multi-damage scenarios." (Introduction, page 1)
+Page Reference and Section: Introduction, page 1
+Example: The study introduces an innovative approach by utilizing deep learning algorithms for processing raw time-series data, eliminating the need for complex data preprocessing. This is disruptive because it significantly reduces the time and computational power needed for structural health monitoring, offering real-time solutions to prevent infrastructure failures.
+7. Sustainability and Ethical Considerations
+Excerpt: "Turning massive measurement data into actionable information is a challenging task for the engineering community not only because of the high dimensionality of data but also inevitable uncertainties." (Introduction, page 1)
+Page Reference and Section: Introduction, page 1
+Example: The research promotes sustainability by enhancing the efficiency of preventive maintenance on critical infrastructures, thus extending their lifespan and reducing the need for resource-intensive repairs or replacements. Additionally, the research addresses ethical concerns by improving public safety through reliable early detection of structural vulnerabilities.
+8. Implementation and Usability
+Excerpt: "Deep learning-based methods offer promising tools to achieve an end-to-end system as it does not require any additional signal preprocessing steps." (Introduction, page 1)
+Page Reference and Section: Introduction, page 1
+Example: The research offers practical implementation solutions for infrastructure managers and engineers. The usability of the platform is enhanced by eliminating the need for preprocessing, making it more accessible to non-expert users and increasing the likelihood of adoption across various industries.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "A notable trend towards DL techniques can be seen in various application areas, but there are still limited studies on the applicability of DL in structural health monitoring." (Introduction, page 2)
+Page Reference and Section: Introduction, page 2
+Example: The research bridges the gap between deep learning and structural health monitoring, contributing to fields such as civil engineering, machine learning, and sensor technology. Its global relevance is highlighted by its potential application in infrastructure systems around the world, especially in areas prone to natural disasters such as earthquakes or hurricanes.
+10. Resilience and Adaptability
+Excerpt: "The DL models are applicable for various tasks such as damage detection, damage localization, damage severity, etc., by fine-tuning a few last layers of the architecture." (Introduction, page 2)
+Page Reference and Section: Introduction, page 2
+Example: The platform demonstrates high resilience and adaptability by allowing easy modifications to handle different types of damage detection tasks. This adaptability ensures the research can be applied to varied structures, ranging from small buildings to large-scale infrastructure, under changing environmental conditions or stress factors.
+These dimensions showcase the broad and deep impacts this research has across academic, industrial, technological, and societal domains.

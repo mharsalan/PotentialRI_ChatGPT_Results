@@ -1,0 +1,37 @@
+The attached document highlights multiple Research Impact Dimensions, aligning with your request for an in-depth analysis based on predefined categories.
+
+1. Domains of Research Impact
+Academic Impact: The study significantly contributes to the fields of biomedical ethics, digital consent technologies, and patient engagement models. By developing the dynamic consent (DC) model, the study pushes forward research on how participants interact with data privacy and control over time, providing a digital, flexible solution for modern research settings​.
+Policy and Legal Impact: The DC model could influence policy-making, especially in areas related to data protection laws and biomedical research ethics, where laws like the European Data Protection Regulation can be adjusted based on DC's application​.
+2. Duration of Research Impact
+Short-term Impact: The immediate application of the dynamic consent model can streamline patient recruitment and improve public trust in biomedical research through enhanced transparency and engagement​.
+Long-term Impact: In the long term, DC has the potential to reshape the governance of biobanking and data management systems, contributing to the broader adoption of digital consent tools across various domains, from clinical research to personalized medicine​.
+3. Stakeholders of Research Impact
+Direct Stakeholders:
+Researchers: who benefit from streamlined recruitment and ethical clarity on participant consent.
+Healthcare Providers: gaining better patient engagement models for clinical trials.
+Indirect Stakeholders:
+Policy-makers: who may use the findings to reform or adapt data privacy laws.
+The Public: as the public benefits from improved transparency and ethical oversight in how their data and samples are used​​.
+4. Depth and Breadth of Impact
+Deep Impact: The study introduces fundamental changes to how informed consent is viewed, particularly in the context of biomedical research, by replacing static paper-based systems with more dynamic, flexible digital solutions. It deeply impacts how researchers manage participant consent over time​.
+Broad Impact: Beyond biobanking, the dynamic consent model can be adapted to various other fields, including genomics, clinical trials, and potentially even personal health data management, broadening its relevance across multiple sectors​.
+5. Scalability and Transferability
+Scalability: The dynamic consent model can be scaled across biobanks, research institutions, and clinical trials globally, given its adaptable design and capability to handle diverse participant pools​.
+Transferability: The model’s flexibility allows it to be transferred beyond biobanking into other domains such as organ donation, clinical care, and public health initiatives, making it useful for different research and healthcare sectors​​.
+6. Innovation and Disruption Potential
+Innovation: By integrating IT solutions into the consent process, this study introduces an innovative way to manage participant data, allowing participants to modify their consent in real-time, making them more active and informed stakeholders​.
+Disruption: The research disrupts traditional consent models, which are often static and disconnected from participants after initial consent, by creating an interactive, patient-centric approach. This could potentially replace older methods of consent entirely​.
+7. Sustainability and Ethical Considerations
+Sustainability: The dynamic consent model promotes the sustainability of research practices by encouraging long-term participant engagement and providing tools that are adaptable over the course of the research lifecycle​.
+Ethical Considerations: The research ensures that participants' privacy rights are respected through secure data handling technologies. This upholds high ethical standards, providing transparency, autonomy, and tailored consent options​.
+8. Implementation and Usability
+Implementation: The model is designed to be easily integrated into existing biobank and clinical data systems. It can be tailored for different research contexts, offering customizable consent settings and real-time updates for both participants and researchers​.
+Usability: Its user-friendly interface allows participants to control how their data and samples are used, with clear, accessible features for updating preferences and interacting with researchers​.
+9. Cross-disciplinary and Global Relevance
+Cross-disciplinary: The research crosses over into information technology, ethics, biomedicine, and law, creating a solution that is relevant to multiple fields concerned with data privacy and participant engagement​.
+Global Relevance: Given the international nature of biomedical research networks, especially in biobanking, the dynamic consent model holds relevance globally, offering solutions that can be applied across borders in line with evolving data privacy regulations like GDPR​.
+10. Resilience and Adaptability
+Resilience: The system is resilient, designed to adapt to changing research contexts and evolving participant needs. Participants can update their consent preferences as new research projects or ethical questions arise, allowing the system to be flexible over time​.
+Adaptability: The dynamic consent model is adaptable to a variety of research and clinical settings, making it an excellent tool for evolving research landscapes that require ongoing data governance adjustments​.
+This comprehensive mapping of the research dimensions shows that the dynamic consent model developed in this study has far-reaching impacts across numerous fields, offering innovative, scalable, and ethically sound solutions for modern biomedical research.

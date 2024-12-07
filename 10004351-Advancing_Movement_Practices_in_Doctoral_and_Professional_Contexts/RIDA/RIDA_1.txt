@@ -1,0 +1,55 @@
+mpact Dimensions analysis for the attached study, I will focus on the Top 10 Dimensions of Research Impact as outlined in the provided document:
+
+1. Domains of Research Impact:
+Academic Domain: The study primarily contributes to advancing knowledge in project management, particularly in improving client-contractor relationships through the CURED framework, which can influence further academic discourse on relational risks in projects.
+Social Domain: By addressing relational risks, the research has the potential to impact how client-contractor relationships are managed across industries, leading to better societal outcomes, such as project success and community benefit.
+Economic Domain: By reducing project risks and failures, the framework can lead to economic efficiencies, cost savings, and better project delivery, influencing economic policies in sectors like construction and healthcare.
+Policy Domain: The study can influence policies around contract governance and project management in large-scale public infrastructure projects, clinical trials, and government contracting processes.
+Example: The CURED framework might become a standard reference for managing relational risks, influencing both industry practices and academic research.
+
+2. Duration of Research Impact:
+Short-term Impact: Immediate impacts could involve project managers adopting the CURED framework to manage ongoing client-contractor relationships more effectively.
+Long-term Impact: Over time, the framework may influence the development of new project management methodologies and relational risk management strategies, becoming part of the standard toolkit for complex projects.
+Example: The framework's long-term impact might include shaping industry standards or becoming integrated into project management certifications like PMI’s PMP.
+
+3. Stakeholders of Research Impact:
+Direct Stakeholders: Project managers, contractors, and clients in industries reliant on external contracts (e.g., construction, pharmaceuticals, government).
+Indirect Stakeholders: Society at large, which benefits from successful project delivery (e.g., infrastructure, healthcare, environmental projects).
+Example: Contractors and project teams who apply the CURED framework in projects can reduce relational breakdowns, leading to fewer project delays and cost overruns.
+
+4. Depth and Breadth of Impact:
+Deep Impact: The framework could fundamentally change the way client-contractor relationships are managed, offering a new methodology for addressing relational risks.
+Broad Impact: The principles of the framework could be applied across various sectors, such as IT, healthcare, and manufacturing, broadening its applicability beyond construction.
+Example: A construction company that implements the framework may significantly reduce project failures, while the same framework could be adapted to manage relationships in large-scale clinical trials.
+
+5. Scalability and Transferability:
+Scalability: The framework can be scaled from individual projects to entire industries or sectors, influencing how relational risks are managed on a large scale.
+Transferability: Although developed for construction and clinical trials, the framework can be adapted for use in other industries with complex client-contractor dynamics, such as IT outsourcing.
+Example: A national infrastructure project management office might scale the use of the framework to all projects, improving overall project outcomes.
+
+6. Innovation and Disruption Potential:
+Innovation: The CURED framework introduces new ways of thinking about relational risk management, incorporating both agency theory and practical applications for project managers.
+Disruption: The framework could disrupt traditional contract management practices by shifting the focus from purely financial or legal terms to relational dynamics.
+Example: The introduction of relational risk management into project governance could replace or enhance traditional contract models, leading to fewer disputes and project failures.
+
+7. Sustainability and Ethical Considerations:
+Sustainability: By promoting better project governance and reducing relational breakdowns, the framework can contribute to the long-term sustainability of projects, ensuring that resources are used efficiently.
+Ethical Considerations: The framework encourages ethical behavior in client-contractor relationships by emphasizing trust and collaboration over purely transactional interactions.
+Example: A more collaborative, ethically sound approach to project management might prevent exploitation of contractors and lead to more equitable project outcomes.
+
+8. Implementation and Usability:
+Implementation: The CURED framework is designed to be easy to implement for project managers, with clear guidelines on managing relational risks and building trust between clients and contractors.
+Usability: It is user-friendly for both experienced project managers and newcomers, offering practical steps to improve collaboration.
+Example: A project manager in a government contracting agency could quickly adopt the framework to address relational risks in large public works projects.
+
+9. Cross-disciplinary and Global Relevance:
+Cross-disciplinary: The research crosses multiple disciplines, including project management, behavioral psychology, and law, making it relevant for various academic and professional fields.
+Global Relevance: Relational risks in client-contractor relationships are a universal issue, making the framework relevant for global projects in diverse industries and regions.
+Example: The framework could be adopted in international development projects, where client-contractor dynamics are crucial for successful project delivery.
+
+10. Resilience and Adaptability:
+Resilience: The CURED framework is designed to be adaptable to different project environments, allowing project managers to adjust their relational risk strategies as conditions change.
+Adaptability: Its principles can be applied across different industries and geographic locations, ensuring that it remains relevant as project dynamics evolve.
+Example: A project team working on a cross-border infrastructure project could adapt the framework to handle the complex relational dynamics involved in managing international contractors.
+
+This detailed mapping provides insight into how the study impacts various domains, with scalable and transferable applications across multiple sectors and global relevance in managing client-contractor relationships.

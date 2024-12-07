@@ -1,0 +1,62 @@
+Based on the details from the document and the predefined research impact dimensions, here are the research impact dimensions for the attached study:
+
+1. Domains of Research Impact (RI):
+The study primarily impacts the academic domain by contributing to project management in clinical trials, focusing on improving efficiency in drug development processes through Product-Based Planning. Additionally, it has implications for the economic domain, as it addresses cost management in the pharmaceutical industry, and the health domain due to its relevance to the development of new drugs through clinical trials.
+
+Academic Domain: The study enhances knowledge in operations management and clinical research project management, particularly by introducing a new framework for handling clinical trials. This can influence future academic work in project management, R&D in pharmaceuticals, and clinical trial methodologies.
+Economic Domain: The focus on reducing costs in clinical trials has direct economic implications, especially for pharmaceutical companies looking to manage budgets more efficiently.
+Health Domain: Since clinical trials are crucial for drug development, the study indirectly impacts patient care and treatment by promoting more efficient drug development processes.
+Reference: (Page 1, Introduction; Page 5, Section 3)
+
+2. Duration of Research Impact:
+The study has both short-term and long-term impacts. In the short term, it addresses immediate issues of inefficiency and cost in managing clinical trials. In the long term, it lays the groundwork for the continued use of Product-Based Planning in pharmaceutical R&D, potentially influencing how clinical trials are managed across the industry for years to come.
+
+Short-term Impact: The study offers immediate insights into reducing costs through outsourcing and improved project management techniques, which pharmaceutical companies can adopt right away.
+Long-term Impact: Over time, the conceptual developments in project management could become standard practice in clinical trials, fundamentally shifting how these trials are managed in the long run.
+Reference: (Page 6, Conclusion)
+
+3. Stakeholder of Research Impact (RI):
+The study affects a variety of stakeholders:
+
+Direct Stakeholders: Pharmaceutical companies, clinical research organizations (CROs), and project managers directly benefit from the study’s findings by implementing the new project management approach.
+Indirect Stakeholders: Patients and healthcare providers indirectly benefit from more efficient clinical trials, which could lead to faster drug development and better access to new treatments.
+Reference: (Page 3, Overview of Clinical Trials)
+
+4. Depth and Breadth of Impact:
+The study has deep impact within the fields of clinical research and project management, specifically focusing on Phase II/III clinical trials. It also has broad impact, as it can be applied across different types of clinical trials and industries that rely on complex project management systems.
+
+Deep Impact: It deeply affects the methodology of managing clinical trials by proposing a shift from traditional fixed-price contracts to a deliverable-based approach.
+Broad Impact: The concepts from the study can be applied across other sectors that use project management, such as construction or IT, particularly where outsourcing and cost management are critical.
+Reference: (Page 2, Project Management Systems)
+
+5. Scalability and Transferability:
+The study’s concepts are highly scalable and can be applied to clinical trials across various sizes, from small trials to large-scale, multinational ones. It is also transferable to other industries where project management and outsourcing are prevalent, such as the tech industry or construction.
+
+Reference: (Page 5, Section on Conceptual Framework)
+
+6. Innovation and Disruption Potential:
+The study introduces an innovative approach to project management by shifting from traditional contract models to Product-Based Planning. This approach can disrupt the current standard practices in clinical trial management, leading to more efficient, cost-effective processes.
+
+Reference: (Page 7, Discussion on Fixed-Price Contracts vs. Deliverable-Based Contracts)
+
+7. Sustainability and Ethical Considerations:
+By improving the efficiency of clinical trials, the study promotes sustainability in the pharmaceutical industry, reducing the waste of resources. Ethically, it ensures that clinical trials are managed more transparently and that financial resources are used responsibly.
+
+Reference: (Page 3, Challenges in Outsourcing Clinical Trials)
+
+8. Implementation and Usability:
+The study’s proposed model is highly usable, especially in industries that heavily rely on outsourcing and have complex, multi-phase projects like clinical trials. The framework is practical and can be easily implemented with proper training and stakeholder engagement.
+
+Reference: (Page 6, Case Study of Phase II/III Clinical Trials)
+
+9. Cross-disciplinary and Global Relevance:
+The research has global relevance, especially in industries like pharmaceuticals, where clinical trials are a global activity, often involving multiple countries. Its methods could be applied to any industry that requires complex project management across borders, such as technology or construction.
+
+Reference: (Page 4, Global Outsourcing Trends)
+
+10. Resilience and Adaptability:
+The Product-Based Planning approach is adaptable to changes in project scope or scale. Its flexibility allows it to be applied in various contexts and to evolve with new developments in project management tools and clinical research methodologies.
+
+Reference: (Page 5, Limitations and Potential for Further Work)
+
+This detailed analysis captures the research impact dimensions of the study and aligns with the predefined instructions for evaluating its potential influence across various sectors.
