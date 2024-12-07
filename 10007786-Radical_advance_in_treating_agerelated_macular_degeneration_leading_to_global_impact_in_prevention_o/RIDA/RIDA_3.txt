@@ -1,0 +1,33 @@
+The document you provided contains critical findings from the IVAN trial, which assessed cost-effectiveness in treating neovascular age-related macular degeneration (nAMD) using ranibizumab and bevacizumab. Below, I will map the findings across the Top 10 Dimensions of Research Impact using relevant excerpts from the paper, each tagged with specific sections and page numbers for easy reference.
+
+1. Domains of Research Impact (RI)
+Excerpt: "A key objective of the IVAN trial was to assess the incremental cost and incremental cost-effectiveness of continuous and discontinuous regimens of bevacizumab and ranibizumab in nAMD from the perspective of the UK National Health Service (NHS)" (Methods, page 2)​(3).
+Example: This research impacts both health (through evaluation of clinical treatments) and economic domains (by analyzing cost-effectiveness within NHS budgets).
+2. Duration of Research Impact (RI)
+Excerpt: "Sensitivity analyses demonstrated that the conclusions are very robust to changes in assumptions and methods" (Results, page 5)​(3).
+Example: The findings provide long-term impact by influencing future decisions on cost-effective treatments in healthcare, particularly in managing chronic diseases like nAMD.
+3. Stakeholder of Research Impact (RI)
+Excerpt: "The study was based on the 2-year results from the IVAN trial... which provided high-quality data on resource use and outcomes" (Methods, page 2)​(3).
+Example: Stakeholders include policymakers within the NHS, healthcare providers administering the treatments, and patients receiving cost-effective care. The general public also indirectly benefits from more sustainable healthcare costs.
+4. Depth and Breadth of Impact
+Excerpt: "The number of QALYs accrued over the 2-year trial period did not differ significantly between bevacizumab and ranibizumab" (Results, page 4)​(3).
+Example: The research shows broad impact by informing both economic and healthcare policy decisions at the national level within the UK and potentially internationally, with deep impacts in specialized fields of ophthalmology and cost-effectiveness analysis.
+5. Scalability and Transferability
+Excerpt: "Discontinuous bevacizumab is the most cost-effective treatment strategy" (Results, page 5)​(3).
+Example: The research demonstrates scalability as the discontinuous bevacizumab regimen can be adopted by other national health systems looking for cost-effective treatments for nAMD. It also has transferability to other similar chronic disease treatments requiring long-term cost evaluations.
+6. Innovation and Disruption Potential
+Excerpt: "The study evaluates incremental cost-effectiveness of continuous and discontinuous regimens of bevacizumab and ranibizumab" (Introduction, page 1)​(3).
+Example: This research is innovative in the context of healthcare economic analysis, providing new insights into how frequency of treatment administration impacts overall healthcare costs and outcomes. It has the potential to disrupt current treatment protocols by promoting less frequent but equally effective treatment regimens.
+7. Sustainability and Ethical Considerations
+Excerpt: "As ranibizumab costs many times more than bevacizumab, it is important to assess whether the more expensive therapy has added health benefits" (Introduction, page 1)​(3).
+Example: The research contributes to sustainability by promoting more cost-effective healthcare delivery without compromising patient care, ensuring long-term financial viability for public health systems like the NHS.
+8. Implementation and Usability
+Excerpt: "The economic evaluation took a 2-year time horizon to estimate within-trial cost-effectiveness" (Methods, page 2)​(3).
+Example: The results are highly usable for healthcare administrators and policymakers looking to implement cost-effective treatments in their healthcare systems, especially for managing chronic diseases that require long-term care.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "Most studies found ranibizumab to be cost-effective versus other treatments, such as pegaptanib" (Introduction, page 1)​(3).
+Example: The research findings are relevant across disciplines such as economics, public health, and clinical medicine, with global relevance as healthcare systems worldwide face similar challenges regarding cost-effective management of chronic diseases like nAMD.
+10. Resilience and Adaptability
+Excerpt: "Sensitivity analyses demonstrated that the conclusions are very robust to changes in the assumptions and methods used" (Results, page 5)​(3).
+Example: The robustness of the study's conclusions ensures resilience, allowing for its adaptability to different healthcare systems and changing economic conditions, making it a reliable reference for future healthcare policy decisions.
+In summary, the research presented in the IVAN trial contributes significantly to multiple dimensions of research impact, particularly in healthcare, economics, and policy. It provides long-term insights for policymakers and healthcare providers in managing costs and treatments for age-related conditions, demonstrating both scalability and adaptability across different healthcare systems.

@@ -1,0 +1,59 @@
+Based on the provided study document, here is the detailed mapping of research impact dimensions:
+
+Domains of Research Impact:
+
+Excerpts: The study primarily impacts the health domain, focusing on mortality outcomes after total hip replacements. It also touches on the policy domain by potentially informing guidelines related to surgical approaches and thromboprophylaxis. "The posterior approach is associated with lower mortality compared to other approaches" (Results, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Results, page 1103.
+Example: The study's insights into surgical approaches and the importance of thromboprophylaxis may directly influence medical guidelines, improving patient outcomes globally.
+Duration of Research Impact:
+
+Excerpts: The research has both short-term and long-term impacts. Short-term, it informs immediate clinical practices such as favoring spinal anesthesia to reduce mortality (Results, page 1103). Long-term, the reduction in mortality rates over eight years indicates sustained improvements in patient care (Results, page 1099)​(Knowledge - Potential R…).
+Page Reference and Section: Results, page 1099, 1103.
+Example: Short-term, hospitals might adjust anesthesia protocols, while long-term, the research could influence best practices in orthopedic surgery.
+Stakeholder of Research Impact:
+
+Excerpts: The key direct stakeholders are orthopedic surgeons, anesthesiologists, and healthcare providers, as the study offers insights into surgical techniques and anesthesia practices that could reduce patient mortality. Indirect stakeholders include patients and healthcare policy makers (Discussion, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Discussion, page 1103.
+Example: Surgeons and anesthesiologists may directly use these findings to adjust their procedures, while patients benefit from reduced mortality.
+Depth and Breadth of Impact:
+
+Excerpts: The study has deep impact in the field of orthopedic surgery, particularly in understanding the factors contributing to postoperative mortality, and a broad impact by influencing multiple healthcare domains, including anesthesiology and hospital policy (Results, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Results, page 1103.
+Example: It significantly enhances clinical knowledge in hip replacement surgeries and could broadly influence hospital practices regarding perioperative care.
+Scalability and Transferability:
+
+Excerpts: The study's findings on using the posterior approach and spinal anesthesia are highly scalable, applicable to hospitals worldwide, and transferable to other types of surgeries where similar anesthetic and procedural concerns exist (Results, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Results, page 1103.
+Example: Hospitals in diverse settings, from local clinics to international healthcare centers, can adopt these practices to improve patient outcomes.
+Innovation and Disruption Potential:
+
+Excerpts: The research introduces innovative approaches, like emphasizing the posterior approach and spinal anesthesia for better outcomes, potentially disrupting traditional surgical practices by replacing them with more effective alternatives (Discussion, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Discussion, page 1103.
+Example: This could lead to a paradigm shift in how hip replacements are performed, with new protocols being adopted globally.
+Sustainability and Ethical Considerations:
+
+Excerpts: The study emphasizes ethical considerations in surgery, such as tailoring anesthesia and prophylaxis to patient needs based on comorbidities (Discussion, page 1103). It also touches on sustainability by promoting safer surgical practices that reduce complications, thereby minimizing resource strain on healthcare systems (Results, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Discussion, page 1103.
+Example: Promoting safer surgeries through this research could reduce the need for re-operations and long hospital stays, supporting sustainable healthcare practices.
+Implementation and Usability:
+
+Excerpts: The findings on using spinal anesthesia and specific surgical approaches are highly implementable in clinical settings, especially since they are relatively simple changes with significant impact on mortality (Results, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Results, page 1103.
+Example: Hospitals can easily integrate these practices into their existing protocols, leading to improved patient outcomes with minimal additional resources.
+Cross-disciplinary and Global Relevance:
+
+Excerpts: The study has global relevance as hip replacements are common worldwide, and the findings on reducing mortality through anesthesia and surgical approach have broad applicability. It also integrates insights from multiple disciplines, including surgery, anesthesiology, and epidemiology (Results, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Results, page 1103.
+Example: This research can be applied globally, from high-tech hospitals in developed countries to more resource-constrained settings, impacting healthcare practices worldwide.
+Resilience and Adaptability:
+
+Excerpts: The adaptability of the findings is demonstrated in their potential application across different healthcare environments, regardless of resource availability, making the study highly resilient to varying healthcare infrastructures (Results, page 1103)​(Knowledge - Potential R…).
+Page Reference and Section: Results, page 1103.
+Example: Whether in a high-income or low-resource setting, these surgical recommendations can be adapted, ensuring patient safety and reducing mortality in diverse healthcare systems.
+This detailed mapping of the study across the 10 research impact dimensions highlights its broad applicability and long-term influence on clinical practices.
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+Based on the content of the study and the predefined instructions on research impact dimensions, the potential research impacts of this study can be organized under the following categories:
+
+1. Domains of Research Impact (Health and Policy Impact)
+Health Domain: The study focuses on long-term outcomes of total hip replacements (THR) using metal-on-metal (MoM) versus ceramic-on-ceramic (CoC) prostheses, influencing surgical choices and patient outcomes in orthopedic surgery. It directly contributes to improving patient care and clinical practices in managing hip replacement surgeries.
+Policy Domain: The study provides data that could influence healthcare regulations, such as discouraging the use of metal-on-metal prostheses in favor of safer alternatives. This could lead to changes in national and international health policies regarding prosthetic materials, ensuring better patient safety.
+2. Duration of Research Impact (Short-term and Long-term)
+Short-term Impact: Immediate implications of the study include clinical recommendations to discontinue the use of metal-on-metal prostheses, reducing the risks of implant failure in younger patients.
+Long-term Impact: Over time, this study could influence the design of future prosthetics, long-term patient monitoring strategies, and training programs for surgeons, leading to improved surgical practices globally​(Common Research Impact …)​(impact pathway).
+3. Stakeholders of Research Impact
+Direct Stakeholders: Surgeons, healthcare providers, and policymakers directly benefit from the findings by using the research to inform surgical choices and healthcare regulations.
+Indirect Stakeholders: Patients, especially younger individuals undergoing hip replacements, benefit from improved safety and reduced risks associated with implant failures​(Research impact toolkit).
+4. Depth and Breadth of Impact
+Deep Impact (Orthopedic Surgery): The research has a profound impact on the field of orthopedic surgery by redefining the standard practices regarding THR and prosthetic materials. It challenges long-standing use of MoM implants in younger patients, thus altering clinical protocols.
+Broad Impact: Beyond orthopedics, this study may influence materials science research in biomedical engineering and affect how healthcare systems monitor and regulate medical devices​(Research Impact Knowled…)​(Common Research Impact …).
+5. Scalability and Transferability
+Scalability: The research findings can be scaled globally, impacting clinical guidelines and healthcare policies across countries. The recommendations for monitoring patients with metal-on-metal implants could lead to widespread changes in patient management practices.
+Transferability: The methodology and findings could be transferred to other areas of medical device research, especially in the evaluation of long-term safety and efficacy of prosthetics used in other parts of the body​(Research impact toolkit).
+6. Innovation and Disruption Potential
+Innovation: The study promotes a shift toward using safer materials (e.g., ceramic-on-ceramic) for hip replacements, pushing innovation in the design and testing of medical prosthetics.
+Disruption: It disrupts the prevailing practice of using metal-on-metal implants for younger patients, advocating for a complete change in how prosthetic materials are selected based on long-term safety data​(Research Impact Knowled…).
+7. Sustainability and Ethical Considerations
+Sustainability: By recommending alternatives to metal-on-metal implants, which have higher failure rates and potential toxicological impacts, the study promotes sustainability in healthcare through the use of safer and longer-lasting prosthetic materials.
+Ethical Considerations: The research highlights the need for ethical patient care, advocating for improved monitoring of patients with MoM implants to prevent long-term complications​(impact pathway)​(Research impact toolkit).
+8. Implementation and Usability
+Implementation: The study's findings are immediately usable in clinical settings, allowing surgeons to switch to safer alternatives and healthcare providers to establish more frequent follow-up protocols for patients with MoM implants.
+Usability: The data on implant performance can be integrated into healthcare systems to ensure better outcomes for patients undergoing THR, thereby improving the quality of care​(Research impact toolkit).
+9. Cross-disciplinary and Global Relevance
+Cross-disciplinary Impact: The study's findings may extend to materials science, toxicology, and biomedical engineering, as researchers explore safer implant materials and the long-term effects of different prosthetic technologies.
+Global Relevance: The high failure rate of metal-on-metal prostheses has global implications, necessitating changes in hip replacement practices worldwide, particularly in healthcare systems that still use these implants​(Research Impact Knowled…)​(Common Research Impact …).
+10. Resilience and Adaptability
+Resilience: The orthopedic community’s adaptability to new evidence on implant failure rates demonstrates the resilience of clinical practices in evolving toward safer, more effective solutions.
+Adaptability: The study may drive future research into new prosthetic designs and materials that offer better long-term performance, adapting surgical techniques to these advancements​(Research Impact Knowled…)​(Common Research Impact …).
+These dimensions showcase the broad and specific potential research impacts of the study across multiple sectors, including healthcare, policy, patient safety, and technological innovation in medical devices.

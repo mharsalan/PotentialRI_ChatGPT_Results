@@ -1,0 +1,73 @@
+Here is the detailed research impact analysis for the attached study based on the top 10 dimensions of research impact:
+
+1. Domains of Research Impact (RI)
+Excerpts: The study impacts the health domain, specifically in improving treatment strategies for age-related macular degeneration (AMD). The research compares two treatment regimens (bevacizumab and ranibizumab), which have implications for visual outcomes and patient quality of life.
+
+Page Reference and Section: Results, page 1260 .
+
+Example: The findings from this research can inform clinical guidelines for ophthalmologists treating AMD, directly benefiting the healthcare domain. Additionally, it could impact pharmaceutical industries involved in developing anti-VEGF drugs.
+
+2. Duration of Research Impact
+Excerpts: The study has both short-term and long-term impacts. In the short term, it provides immediate clinical insights into the efficacy and safety of two widely used treatments for AMD. In the long term, the results will likely influence treatment guidelines and inform future research on cost-effective treatments for chronic eye diseases.
+
+Page Reference and Section: Results and discussion, pages 1260 and 1267 (2).
+
+Example: Short-term: Immediate changes in clinical practices for AMD. Long-term: Influences future studies and policy on healthcare costs, given the study's focus on the cost-effectiveness of treatments.
+
+3. Stakeholders of Research Impact
+Excerpts: The direct stakeholders include ophthalmologists, healthcare professionals, and pharmaceutical companies producing anti-VEGF treatments. Indirect stakeholders include patients, healthcare systems, and policymakers evaluating cost-effective treatments.
+
+Page Reference and Section: Discussion, page 1267 .
+
+Example: Ophthalmologists directly benefit by adopting improved treatment protocols for AMD. Indirectly, healthcare systems benefit from the cost-effectiveness analysis, which helps inform policy decisions regarding treatment funding.
+
+4. Depth and Breadth of Impact
+Excerpts: The study has a deep impact on the medical field of ophthalmology by contributing to the understanding of AMD treatment efficacy. It also has broader implications for healthcare policy due to its cost-effectiveness findings.
+
+Page Reference and Section: Results, pages 1260-1267​(2).
+
+Example: Deep impact: Changes in AMD treatment protocols in ophthalmology. Broad impact: Informing healthcare policymakers about cost-effective treatment options for aging populations.
+
+5. Scalability and Transferability
+Excerpts: The findings on treatment efficacy and safety can be scaled to other healthcare settings globally, especially in regions with aging populations at risk of AMD. The methodology can also be adapted for other chronic diseases requiring long-term treatment.
+
+Page Reference and Section: Discussion, page 1267 .
+
+Example: Scalability: Implementing findings in various healthcare systems worldwide. Transferability: Adapting the research approach to similar chronic diseases requiring long-term, cost-effective treatment options.
+
+6. Innovation and Disruption Potential
+Excerpts: This study introduces an innovative comparison of treatment regimens for AMD and provides a disruptive insight into the cost versus benefit of continuous versus discontinuous treatment approaches, influencing the medical and pharmaceutical industries.
+
+Page Reference and Section: Results and discussion, pages 1260-1267 (2).
+
+Example: The study challenges the existing paradigm of continuous treatment for AMD, suggesting that discontinuous regimens might be equally effective, potentially disrupting the current treatment standards.
+
+7. Sustainability and Ethical Considerations
+Excerpts: The study emphasizes the high cost of ranibizumab, which may be unaffordable for publicly funded health systems. This raises ethical considerations about accessibility to effective treatment.
+
+Page Reference and Section: Discussion, page 1267 .
+
+Example: By highlighting the cost disparities between treatments, the research advocates for more sustainable healthcare solutions that ensure equitable access to treatment across different socioeconomic groups.
+
+8. Implementation and Usability
+Excerpts: The study’s findings are highly usable in clinical settings, as it provides clear guidance on the efficacy of two treatments for AMD and the implications for continuous versus discontinuous dosing.
+
+Page Reference and Section: Results and conclusion, page 1267 .
+
+Example: Healthcare providers can implement findings from this study in routine clinical practice for better decision-making on AMD treatment strategies.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research integrates clinical medicine, health economics, and pharmacology. Its findings have global relevance, as AMD is a widespread issue affecting aging populations worldwide.
+
+Page Reference and Section: Results, pages 1260-1267 (2).
+
+Example: Cross-disciplinary: Combining medical, economic, and pharmaceutical insights. Global relevance: The findings can be applied internationally, influencing treatment standards in different healthcare systems.
+
+10. Resilience and Adaptability
+Excerpts: The study’s results show resilience by adapting to the evolving landscape of AMD treatment, offering alternatives to existing approaches and considering long-term sustainability in treatment options.
+
+Page Reference and Section: Results and discussion, pages 1260-1267 .
+
+Example: The adaptability of the research lies in its ability to inform both current and future treatment protocols for AMD, ensuring that healthcare providers can make informed decisions even as new treatments emerge.
+
+This comprehensive analysis highlights how the study spans multiple dimensions of research impact, from its immediate clinical applications to its broader implications for healthcare policy and sustainability.

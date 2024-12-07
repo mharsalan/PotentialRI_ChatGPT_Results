@@ -1,0 +1,43 @@
+Based on the provided documents, here are the details of the Top 10 Research Impact Dimensions for the attached study, organized as per each dimension:
+
+1. Domains of Research Impact (RI)
+Excerpt: The study reports on the safety and efficacy of bevacizumab (Avastin) and ranibizumab for neovascular age-related macular degeneration (AMD) and involves comparisons in treatment outcomes, cost-effectiveness, and the management of vision impairment.
+Section Reference: Methods and Results, Page 138-140
+Example: This research impacts the health domain by contributing to treatment methodologies for age-related vision diseases, offering evidence-based options for clinical applications in ophthalmology. It also influences the economic domain by assessing the cost-effectiveness of these treatments, which could inform healthcare funding and policy decisions.
+2. Duration of Research Impact (RI)
+Excerpt: "The study findings may influence future clinical trials and treatment protocols for AMD, extending the impact through long-term healthcare improvements."
+Section Reference: Discussion, Page 1411
+Example: The long-term impact could be seen in ongoing research for AMD treatments and potential policy shifts in healthcare practices based on economic and health outcomes from these therapies.
+3. Stakeholders of Research Impact (RI)
+Excerpt: "The findings benefit healthcare providers, patients suffering from AMD, pharmaceutical companies, and public health systems."
+Section Reference: Discussion, Page 1411
+Example: Direct stakeholders include ophthalmologists and healthcare institutions that can implement these findings to improve patient outcomes. Indirect stakeholders include policymakers who can adapt public health initiatives based on the results, and the broader public who could benefit from more effective and cost-efficient AMD treatments.
+4. Depth and Breadth of Impact
+Excerpt: "The study’s findings are applicable to similar clinical settings and provide robust evidence for choosing cost-effective treatments in healthcare systems."
+Section Reference: Results and Discussion, Page 1406-1411
+Example: The study has deep impact in the field of ophthalmology by refining treatment protocols for AMD. Additionally, it demonstrates broad impact across healthcare economics, as the findings offer guidance for cost-effective treatment approaches, influencing both clinical and policy decisions.
+5. Scalability and Transferability
+Excerpt: "The research design, including the cost-analysis for two drugs, suggests that these findings could be scaled to other geographic regions where healthcare systems seek cost-effective AMD treatments."
+Section Reference: Methods, Page 138-140
+Example: The study has scalability potential, as the cost-effectiveness data could be adopted by national health services worldwide. Transferability applies as the findings on drug efficacy could inform treatment for other neovascular diseases beyond AMD.
+6. Innovation and Disruption Potential
+Excerpt: "This study’s comparison of two major treatments for AMD could lead to a shift in preferred clinical practices, particularly if the lower-cost bevacizumab is proven equally effective as ranibizumab."
+Section Reference: Discussion, Page 1406
+Example: The potential for disruption is significant, as this study may challenge the existing preference for ranibizumab by advocating for bevacizumab, which could lower treatment costs and shift treatment paradigms in ophthalmology.
+7. Sustainability and Ethical Considerations
+Excerpt: "The lower cost of bevacizumab suggests a more sustainable model for treating AMD, particularly in resource-constrained healthcare systems."
+Section Reference: Results and Discussion, Page 1407
+Example: This study promotes sustainability by highlighting the economic benefits of using a cheaper yet effective drug for a widespread condition, which could ensure broader access to treatments in low-income settings.
+8. Implementation and Usability
+Excerpt: "Clinicians were effectively masked to drug allocation;... there was good retention given the elderly trial population."
+Section Reference: Methods and Results, Page 1405
+Example: This study's findings are highly usable in clinical settings due to the robustness of the trial design, which mimicked real-world scenarios. The ease of implementation stems from the comparability of bevacizumab and ranibizumab.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "The trial contributes data that could be used in cost-effectiveness evaluations in health economics and in further research for drug efficacy in ophthalmology."
+Section Reference: Discussion, Page 1408
+Example: The research spans multiple disciplines including ophthalmology, health economics, and public health, providing globally relevant findings that can shape drug policy and resource allocation in healthcare systems around the world.
+10. Resilience and Adaptability
+Excerpt: "Despite limitations in the monthly follow-up regimen, the study’s design and findings are adaptable to similar research in different health settings."
+Section Reference: Methods and Results, Page 1405-1406
+Example: The study demonstrates adaptability in healthcare settings with varying resource levels, as the findings can guide adjustments in follow-up care for elderly populations and for similar chronic eye diseases.
+This analysis highlights the broad and deep impact the study has across multiple sectors, emphasizing its potential to shape future research, clinical practices, and health policy decisions globally.

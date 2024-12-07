@@ -1,0 +1,53 @@
+Based on the details from the provided study and aligning with the top 10 research impact dimensions, here's a detailed analysis of the research on Bevacizumab and Ranibizumab in Age-related Choroidal Neovascularization and its research impact dimensions:
+
+1. Domains of Research Impact (RI)
+Excerpts: "The primary outcome was BCVA (Best Corrected Visual Acuity). Secondary outcomes were contrast sensitivity, near visual acuity, reading index, neovascular lesion morphology, generic and disease-specific patient-reported outcomes, including macular disease-specific quality of life, survival free from treatment failure, resource use, quality-adjusted life-years (QALYs); and development of new geographic atrophy (GA)." (Results, p. 6)
+
+Example: The study primarily impacts the Health Domain by providing valuable data on the treatment of neovascular age-related macular degeneration (nAMD), influencing clinical practices and healthcare policies regarding treatment protocols.
+
+2. Duration of Research Impact (RI)
+Excerpts: "After 2 years, bevacizumab was neither non-inferior nor inferior to ranibizumab... Discontinuous treatment was neither non-inferior nor inferior to continuous treatment..." (Results, p. 6).
+
+Example: The research has both short-term and long-term impacts. In the short term, it offers critical insights for healthcare providers in choosing cost-effective treatments for nAMD. Long-term impact includes influencing ongoing clinical guidelines and policies regarding the use of off-label medications like Bevacizumab.
+
+3. Stakeholder of Research Impact (RI)
+Excerpts: "Participants, health professionals, and researchers were masked to allocation of drug but not regimen." (Design, p. 4)
+
+Example: Direct stakeholders include healthcare providers, ophthalmologists, and policymakers in healthcare, as the results inform treatment choices and cost-effectiveness in the management of nAMD. Indirectly, patients and the broader public benefit from improved, cost-effective treatment options.
+
+4. Depth and Breadth of Impact
+Excerpts: "Ranibizumab is not cost-effective, although it remains uncertain whether continuous bevacizumab is cost-effective compared with discontinuous bevacizumab..." (Conclusions, p. 6)
+
+Example: The depth of impact is evident in the study's potential to change clinical practices in nAMD treatment. Its breadth spans both economic and clinical domains, influencing not only ophthalmology but also healthcare funding and policy regarding expensive treatments.
+
+5. Scalability and Transferability
+Excerpts: "This trial was a head-to-head comparison of these two drugs." (Objective, p. 1)
+
+Example: The study’s findings are scalable as they can be adopted by healthcare systems globally for patients with nAMD. Transferability applies as the cost-effectiveness analysis can influence decisions in other domains of healthcare where expensive, branded drugs are compared with off-label alternatives.
+
+6. Innovation and Disruption Potential
+Excerpts: "The cost per dose of bevacizumab is about 5-10% that of ranibizumab." (Background, p. 1)
+
+Example: This study could disrupt traditional pharmaceutical practices by supporting the use of off-label medications like Bevacizumab, which are significantly more cost-effective than branded alternatives like Ranibizumab, potentially leading to changes in drug approval and prescribing practices.
+
+7. Sustainability and Ethical Considerations
+Excerpts: "Safety outcomes did not differ by drug but mortality was lower with continuous treatment." (Results, p. 6)
+
+Example: The study raises important ethical considerations around the use of off-label drugs (Bevacizumab), especially concerning safety and efficacy. It promotes sustainable healthcare practices by evaluating cost-effective treatments, essential for the long-term financial sustainability of healthcare systems.
+
+8. Implementation and Usability
+Excerpts: "Ranibizumab cost £3.5M per QALY compared with continuous bevacizumab; continuous bevacizumab cost £30,220 per QALY compared with discontinuous bevacizumab." (Results, p. 6)
+
+Example: The findings are highly implementable in clinical settings. They offer clear guidance on choosing between different treatment regimens based on cost-effectiveness and patient outcomes, allowing healthcare providers and policymakers to make data-driven decisions.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: "Future studies should focus on the ocular safety of the two drugs, further optimisation of treatment regimens, and criteria for stopping treatment." (Conclusions, p. 7)
+
+Example: The study holds global relevance, especially for countries with aging populations facing similar challenges in managing age-related macular degeneration. It also has cross-disciplinary relevance, influencing fields like pharmacoeconomics, public health, and clinical policy.
+
+10. Resilience and Adaptability
+Excerpts: "Future studies should focus on the ocular safety of the two drugs." (Conclusions, p. 7)
+
+Example: The study demonstrates resilience by addressing long-standing clinical questions about the comparative effectiveness and safety of treatments for nAMD. It remains adaptable as future research can build on these findings to optimize treatment regimens as more data becomes available.
+
+This comprehensive analysis maps the impact of the research across the top 10 research dimensions, emphasizing its influence on health, policy, and clinical practices while considering sustainability, cost-effectiveness, and long-term implications for healthcare systems.
