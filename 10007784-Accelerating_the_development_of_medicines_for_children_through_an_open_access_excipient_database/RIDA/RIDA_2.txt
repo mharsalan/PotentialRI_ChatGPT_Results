@@ -1,0 +1,53 @@
+Here is the analysis of the top 10 dimensions of research impact for the attached study, based on the STEP database development.
+
+1. Domains of Research Impact:
+Excerpt: "The STEP database may benefit users by increasing the flow of information to businesses and consumers... it will prevent the repetition of toxicity studies."
+Page Reference: Conclusion, page 110 .
+Example: This research impacts the Health Domain by improving drug safety for pediatric medications, the Policy Domain by guiding regulations on excipient use, and the Technological Domain by developing a streamlined toxicology database.
+
+2. Duration of Research Impact:
+Excerpt: "The current short-term goal will be to develop a prototype database... a longer-term goal would be to extend this database incrementally."
+Page Reference: Recommendations, page 111 .
+Example: The research has short-term impact through the immediate use of the STEP database for clinical and regulatory purposes, and long-term impact as it evolves into a comprehensive toxicological resource for pharmaceutical development.
+
+3. Stakeholders of Research Impact:
+Excerpt: "Potential users within government, academia, pharmaceutical industry, and private institutions emphasized the necessity of developing the database."
+Page Reference: Conclusion, page 110 .
+Example: Direct stakeholders include healthcare professionals, regulatory bodies, and pharmaceutical companies, while indirect stakeholders are patients and the broader public benefiting from safer pediatric medications.
+
+4. Depth and Breadth of Impact:
+Excerpt: "The STEP database development will reduce duplication of effort and assist in the dissemination of information."
+Page Reference: Recommendations, page 110 .
+Example: The research has deep impact in the field of toxicology, particularly for pediatric drugs, and broad impact across healthcare, regulatory, and academic sectors by creating a resource that streamlines access to toxicity data.
+
+5. Scalability and Transferability:
+Excerpt: "The database structure will follow a modular model, with the potential for expansion to include more excipients."
+Page Reference: Recommendations, page 111 .
+Example: The STEP database is scalable as it can expand to cover a wider range of excipients, and transferable to other areas of pharmaceutical research and regulatory applications globally.
+
+6. Innovation and Disruption Potential:
+Excerpt: "The survey results provide ideas on database content and user groups, highlighting the potential for a new, efficient way to access excipient toxicity data."
+Page Reference: Conclusion, page 110 .
+Example: The STEP database introduces an innovative approach by creating a centralized repository for toxicity information, potentially disrupting traditional methods of data collection and analysis in the pharmaceutical industry.
+
+7. Sustainability and Ethical Considerations:
+Excerpt: "Efforts may be required to find a suitable way of sharing proprietary data in the STEP database, which will allow users access to a much larger data pool."
+Page Reference: Recommendations, page 110 .
+Example: The research emphasizes ethical considerations by encouraging data sharing while protecting intellectual property, promoting sustainability in reducing redundant research.
+
+8. Implementation and Usability:
+Excerpt: "The STEP database will assist in the development of pediatric formulations, providing essential data for healthcare professionals and regulatory bodies."
+Page Reference: Recommendations, page 110 .
+Example: The database is designed with usability in mind, offering a practical tool for pediatric drug developers, regulators, and healthcare providers to easily access necessary safety data.
+
+9. Cross-disciplinary and Global Relevance:
+Excerpt: "The STEP database may benefit users across multiple sectors, including pharmaceutical companies and healthcare providers."
+Page Reference: Conclusion, page 110 .
+Example: The research is globally relevant by addressing the needs of international stakeholders in pharmaceutical development and regulatory frameworks, promoting cross-disciplinary collaboration between toxicology, pharmacology, and regulatory sciences.
+
+10. Resilience and Adaptability:
+Excerpt: "A longer-term goal would be to extend the database incrementally, incorporating feedback from users for continuous improvement."
+Page Reference: Recommendations, page 111 .
+Example: The STEP database demonstrates resilience by incorporating user feedback and adaptability by evolving to meet the changing needs of the pharmaceutical industry over time.
+
+This detailed mapping of the research to the top 10 dimensions of impact showcases its broad relevance and potential to influence multiple domains.
