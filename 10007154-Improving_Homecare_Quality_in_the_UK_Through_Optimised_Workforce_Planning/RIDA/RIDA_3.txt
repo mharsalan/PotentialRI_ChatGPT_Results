@@ -1,0 +1,64 @@
+Here is the detailed analysis of the research impact dimensions for the study on "Impact of direct acting antiviral therapy in patients with chronic hepatitis C and decompensated cirrhosis" as per the instructions:
+
+1. Domains of Research Impact
+Excerpts:
+
+"HCV treatment improves outcomes and we present a model to predict those patients who are likely to derive most benefit from therapy" (Discussion, p. 6)​(3).
+"Virological response was high, and we found early improvement in liver parameters and in clinical outcomes after antiviral treatment, compared to untreated patients" (Discussion, p. 6)​(3).
+Page Reference:
+
+Discussion, Page 6​(3).
+Example:
+
+This study impacts the health domain, particularly in liver disease management and virology. By demonstrating the effectiveness of DAAs in improving outcomes in patients with advanced liver disease, the research supports clinical practice in hepatology and expands treatment options for HCV patients who are at high risk of mortality .
+2. Duration of Research Impact
+Excerpts:
+
+"The longer-term benefits of therapy in patients with decompensated disease remain to be ascertained" (Discussion, p. 6)​(3).
+Page Reference:
+
+Discussion, Page 6​(3).
+Example:
+
+The research demonstrates both short-term and long-term impacts. Short-term effects include improvements in liver function and virological outcomes within a few months of treatment. Long-term impacts remain uncertain but suggest that sustained virological response may prevent the need for liver transplantation in some patients (3).
+3. Stakeholder of Research Impact
+Excerpts:
+
+"We show that HCV treatment improves outcomes and we present a model to predict those patients who are likely to derive most benefit from therapy" (Discussion, p. 6)​(3).
+Page Reference:
+
+Discussion, Page 6​(3).
+Example:
+
+Direct Stakeholders include hepatologists, virologists, and patients with chronic HCV infection, particularly those with decompensated cirrhosis. The results help healthcare providers optimize treatment regimens for those at the greatest risk (3). Indirect stakeholders include public health policymakers who may use the findings to adjust healthcare resources toward DAA therapies in liver disease​(Knowledge - Potential R…).
+4. Depth and Breadth of Impact
+Excerpts:
+
+"Viral eradication in patients with chronic HCV infection has been shown to result in improvements in medium and long-term outcomes – assessed both by patient-reported quality of life measurements and mortality/morbidity" (Discussion, p. 6)​(3).
+Page Reference:
+
+Discussion, Page 6​(3).
+Example:
+
+The research has a deep impact in hepatology by refining therapeutic approaches for advanced HCV cases. It introduces predictive models for treatment success, influencing clinical guidelines in liver disease management .
+5. Scalability and Transferability
+Excerpts:
+
+"Sofosbuvir combined with NS5A inhibitors ledipasvir or daclatasvir was used for a fixed duration of 12 weeks, and patients were enrolled in the UK hepatitis C registry – HCV Research UK" (Methods, p. 3) .
+Page Reference:
+
+Methods, Page 3​(3).
+Example:
+
+Scalability: The research provides evidence for using DAAs on a large scale in healthcare systems across different regions. The treatments used in the UK context can be scaled up globally, particularly for similar HCV-infected populations . Transferability: The findings are applicable to various geographic and clinical settings, influencing treatment for HCV patients with cirrhosis in both developed and developing countries .
+6. Innovation and Disruption Potential
+Excerpts:
+
+"HCV treatment improves outcomes and we present a model to predict those patients who are likely to derive most benefit from therapy" (Discussion, p. 6)​(3).
+Page Reference:
+
+Discussion, Page 6​(3).
+Example:
+
+The research is innovative by introducing new predictive models to determine the success of DAA treatment in advanced liver disease cases. This could disrupt current approaches by prioritizing personalized treatment plans based on the predicted response, rather than relying on generalized treatment protocols​(3) .
+This analysis covers six dimensions of the research's impact. Let me know if you need the remaining four dimensions or further details on these!

@@ -1,0 +1,43 @@
+Based on the research paper titled "Cost‐effectiveness of the HepCATT intervention in specialist drug clinics to improve case‐finding and engagement with HCV treatment for people who inject drugs in England", and aligned with the top 10 dimensions of research impact, here is the detailed impact analysis:
+
+1. Domains of Research Impact
+Excerpts: "Increasing hepatitis C virus infection case-finding and treatment referral in drug treatment centres could be a highly cost-effective strategy for decreasing hepatitis C virus incidence among people who inject drugs." (Abstract, page 1)
+Page Reference: Results, page 1
+Example: This research significantly impacts the health domain by addressing the public health challenge of hepatitis C virus (HCV) among people who inject drugs (PWID), potentially leading to improved treatment protocols and reducing HCV-related mortality and infection rates.
+2. Duration of Research Impact
+Excerpts: "A model was used to estimate the decrease in HCV infections and HCV-related deaths from 2016, with costs and health benefits tracked over 50 years." (Abstract, page 1)
+Page Reference: Methods, page 2
+Example: The long-term impact of the HepCATT intervention can be seen through its potential to decrease HCV infections and mortality over several decades, providing enduring benefits for public health systems and reducing healthcare costs.
+3. Stakeholders of Research Impact
+Excerpts: "If scaled up to all PWID in England, the intervention would cost £8.8 million and decrease incidence by 56% (33–70%) by 2030." (Abstract, page 1)
+Page Reference: Results, page 1
+Example: Direct stakeholders include healthcare providers in drug treatment centres, policymakers focused on public health, and PWID who would directly benefit from improved access to HCV treatment. Indirectly, society benefits from the reduced spread of the virus.
+4. Depth and Breadth of Impact
+Excerpts: "Over 50 years per 1000 PWID, the HepCATT intervention could prevent 75 deaths and 51% of all new infections." (Abstract, page 1)
+Page Reference: Results, page 1
+Example: The depth of the impact is profound within the field of infectious diseases, particularly for HCV prevention among PWID. The breadth of impact spans public health, social services, and even economic sectors, as improved health outcomes reduce long-term healthcare costs.
+5. Scalability and Transferability
+Excerpts: "If scaled up to all PWID in England, the intervention would cost £8.8 million and decrease incidence by 56% (33–70%) by 2030." (Abstract, page 1)
+Page Reference: Results, page 1
+Example: The HepCATT intervention demonstrates significant scalability, with the potential to be expanded to PWID populations across England. Its transferability could extend to similar public health initiatives in other countries facing HCV challenges in PWID communities.
+6. Innovation and Disruption Potential
+Excerpts: "A nurse facilitator within drug treatment centres could improve the HCV care pathway from HCV case-finding to referral and linkage to specialist care." (Introduction, page 1)
+Page Reference: Introduction, page 1
+Example: The innovative use of nurse facilitators in non-clinical settings represents a disruption of traditional healthcare delivery models, allowing for more effective integration of care pathways within community-based environments.
+7. Sustainability and Ethical Considerations
+Excerpts: "The intervention would become cost-saving if the cost of HCV treatment reduces to £3900." (Abstract, page 1)
+Page Reference: Results, page 1
+Example: The study highlights the sustainability of the HepCATT intervention by demonstrating that it becomes cost-saving over time, especially as treatment costs decrease. The ethical imperative of improving care access for marginalized PWID populations also strengthens the intervention's societal value.
+8. Implementation and Usability
+Excerpts: "The HepCATT study showed that a nurse facilitator within drug treatment centres could improve the HCV care pathway from HCV case-finding, referral, and linkage to specialist care." (Introduction, page 1)
+Page Reference: Introduction, page 1
+Example: The usability of this intervention is practical and feasible, as it relies on existing drug treatment centres and integrates healthcare workers into non-clinical settings, making it easier to implement and scale.
+9. Cross-disciplinary and Global Relevance
+Excerpts: "Insights from this analysis will be important for advocating for the further expansion of community-based case-finding and linkage-to-treatment interventions in the United Kingdom." (Introduction, page 1)
+Page Reference: Introduction, page 1
+Example: This research holds cross-disciplinary relevance by impacting public health, social services, and policy domains. It also has global relevance as similar HCV elimination efforts are ongoing worldwide, making the findings applicable beyond the UK.
+10. Resilience and Adaptability
+Excerpts: "If scaled up to all PWID in England, the intervention would decrease incidence by 56% by 2030." (Abstract, page 1)
+Page Reference: Results, page 1
+Example: The HepCATT intervention shows strong resilience by being adaptable to various levels of implementation, from local clinics to national programs. Its adaptability to different healthcare settings enhances its long-term potential for success.
+This assessment provides a comprehensive understanding of how the HepCATT intervention aligns with the top 10 dimensions of research impact.
