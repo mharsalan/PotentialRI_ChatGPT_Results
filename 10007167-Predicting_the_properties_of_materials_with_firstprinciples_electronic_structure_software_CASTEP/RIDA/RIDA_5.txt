@@ -1,0 +1,42 @@
+Research Impact Dimensions for the study "Many-body renormalisation of forces in f-electron materials" based on the uploaded research paper:
+Domains of Research Impact (RI):
+Excerpt: The study primarily advances knowledge within computational physics, condensed matter physics, and materials science through the implementation of Dynamical Mean-Field Theory (DMFT) in the CASTEP code. It focuses on strongly correlated f-electron materials, such as γ-Cerium, Ce₂O₃, and SmTe, which have applications in technological materials, energy conversion, and superconductivity (Introduction, page 2-3).
+Page Reference: Results, pages 2-3.
+Example: The research contributes to technological innovations in materials used for superconductors and thermoelectrics, impacting industries reliant on advanced materials for energy-efficient applications.
+Duration of Research Impact (RI):
+Excerpt: "We demonstrate our implementation for strongly-correlated systems with f-shell electrons" and show "improved agreement with experimental structural parameters." (Abstract, page 1).
+Page Reference: Abstract, page 1.
+Example: The long-term impact includes advancing computational methods in condensed matter physics, which will continue to influence future studies of f-electron materials. The methodologies developed will likely form the basis for future advancements in material simulations for years to come, impacting both academic research and industrial applications.
+Stakeholder of Research Impact (RI):
+Excerpt: The direct stakeholders include researchers in the fields of condensed matter physics, materials science, and computational physics, as well as industry professionals involved in the development of high-performance materials. (Methods, pages 2-3).
+Page Reference: Methods, pages 2-3.
+Example: Researchers in academic institutions will directly benefit from this research by gaining access to more precise modeling tools. Indirectly, industries focused on energy-efficient technologies and superconductors will benefit from improved materials properties modeling.
+Depth and Breadth of Impact:
+Excerpt: The research deeply impacts computational material science by providing a more accurate way to model internal forces and total energy calculations for materials like γ-Cerium, Ce₂O₃, and SmTe. The improvement in accuracy in the DFT+DMFT model allows deeper understanding of correlated electron behavior. (Results, page 4-5).
+Page Reference: Results, pages 4-5.
+Example: Deep impact is evidenced in the refinement of theoretical models used in f-electron materials, while the broader impact is seen across fields like material engineering, as more accurate simulations lead to better design and usage of advanced materials in various technologies.
+Scalability and Transferability:
+Excerpt: "Our implementation works equally well for both norm-conserving and ultra-soft pseudopotentials, and we apply it to the calculation of total energy, bulk modulus, equilibrium volumes, and internal forces." (Introduction, page 2).
+Page Reference: Introduction, page 2.
+Example: The research is transferable to other materials involving correlated electron systems. Additionally, the computational methods developed are scalable, as they can be applied to other types of strongly correlated materials beyond those studied in the paper, making the approach valuable for a wide array of materials science applications.
+Innovation and Disruption Potential:
+Excerpt: "We find very good agreement with previous benchmark DFT+DMFT calculations... and we show improved agreement with the experimental structural parameters." (Abstract, page 1).
+Page Reference: Abstract, page 1.
+Example: The research introduces innovative improvements to the DMFT methodology, particularly in how internal forces are calculated in complex materials. This may disrupt traditional computational methods in condensed matter physics by setting new standards for accuracy in modeling forces in f-electron systems.
+Sustainability and Ethical Considerations:
+Excerpt: While not explicitly focused on sustainability, the study contributes to the development of materials with potential applications in energy-efficient technologies. (Introduction, page 2).
+Page Reference: Introduction, page 2.
+Example: By advancing the understanding of materials that are critical for sustainable technologies (such as high-temperature superconductors), the research indirectly supports the development of energy-saving materials and contributes to sustainability efforts.
+Implementation and Usability:
+Excerpt: "We present the implementation of Dynamical Mean-Field Theory (DMFT) in the CASTEP ab-initio code," making the research directly usable by researchers employing this widely-used computational tool. (Introduction, page 1).
+Page Reference: Introduction, page 1.
+Example: The research provides a direct improvement to the CASTEP software, which is commonly used in academia and industry for simulating material properties, making the results readily implementable by other researchers working with similar systems.
+Cross-disciplinary and Global Relevance:
+Excerpt: The methods developed in this research could be applied to various types of correlated electron systems across different fields, such as physics, material science, and chemical engineering, indicating broad relevance. (Results, pages 4-5).
+Page Reference: Results, pages 4-5.
+Example: The global relevance of the study is demonstrated by its potential applications in industries related to advanced material production, such as electronics, where the development of new materials impacts global manufacturing practices.
+Resilience and Adaptability:
+Excerpt: The implementation of the DFT+DMFT method is adaptable for use in multiple computational frameworks, making it resilient to changes in computational tools and software updates. (Methods, page 4).
+Page Reference: Methods, page 4.
+Example: The study's method for integrating DMFT into different pseudopotential schemes ensures adaptability, allowing future researchers to modify and improve the methodology to suit newer computational architectures or material studies.
+These dimensions map how the research contributes to various sectors, with both short-term and long-term effects, enhancing computational methods and understanding of materials critical to modern technology.
