@@ -1,0 +1,43 @@
+Based on the analysis of the uploaded document and using the predefined structure for assessing research impact dimensions, here is a detailed mapping for the study on Pneumococcal serotype trends, surveillance, and risk factors in UK adult pneumonia (2013–2018):
+
+1. Domains of Research Impact (RI):
+Excerpts: "The incidence of pneumococcal CAP is increasing, predominantly due to non-vaccine serotypes and serotype 3. Novel pneumococcal vaccines targeting emerging serotypes are needed." (Results, page 5).
+Page Reference and Section: Results, page 5.
+Example: The research impacts both the health domain (by providing insights into trends in pneumococcal pneumonia, leading to potential updates in vaccine strategies) and the policy domain (by informing national healthcare policies related to vaccination programs).
+2. Duration of Research Impact (RI):
+Excerpts: "The incidence of pneumococcal pneumonia increased from 32·2 to 48·2 per 100,000 population (2013-2018), predominantly due to increases in PCV13non7- and non-vaccine type (NVT)-serotype pneumonia." (Findings, page 5).
+Page Reference and Section: Findings, page 5.
+Example: The short-term impact is evident in its immediate application to vaccine policy updates and public health surveillance. The long-term impact lies in the foundational knowledge provided for future research on serotype evolution and vaccine efficacy.
+3. Stakeholders of Research Impact (RI):
+Excerpts: "PCV13-serotype pneumonia (dominated by serotype 3) is more likely in patients in the UK pneumococcal vaccination clinical risk group" (Key Messages, page 4).
+Page Reference and Section: Key Messages, page 4.
+Example: Direct stakeholders include policymakers, public health authorities, and healthcare providers who use this research to revise vaccination guidelines and risk assessments. Indirect stakeholders are the general public, particularly vulnerable populations who benefit from improved vaccine strategies.
+4. Depth and Breadth of Impact:
+Excerpts: "Serotype 3 accounts for more than half of PCV13non7-serotype pneumonia, suggesting a predilection for pneumonia (rather than IPD)." (Discussion, page 14).
+Page Reference and Section: Discussion, page 14.
+Example: The study has a deep impact on the field of respiratory infections by identifying key serotypes contributing to pneumonia, while also having a broad impact by informing vaccine development across multiple sectors like public health and pharmaceutical industries.
+5. Scalability and Transferability:
+Excerpts: "Pneumococcal vaccines targeting emerging serotypes are needed." (Discussion, page 16).
+Page Reference and Section: Discussion, page 16.
+Example: The findings can be scaled by integrating them into national and international vaccination programs. They are also transferable to other regions facing similar serotype shifts, allowing global public health strategies to adapt.
+6. Innovation and Disruption Potential:
+Excerpts: "Use of the novel Bio-plex24 assay enabled identification of PCV13 and PPV23 serotypes in patients presenting with non-invasive disease." (Methods, page 15).
+Page Reference and Section: Methods, page 15.
+Example: The research introduces innovative diagnostic tools, such as the Bio-plex24 assay, which represents a disruptive shift in pneumococcal serotype surveillance and diagnosis, enhancing accuracy in non-invasive disease cases.
+7. Sustainability and Ethical Considerations:
+Excerpts: "The study protocol will be available to investigators for meta-analysis, and individual participant data will be made available after de-identification for ethical use." (Data Sharing Statement, page 3).
+Page Reference and Section: Data Sharing Statement, page 3.
+Example: The research adheres to ethical standards, ensuring data transparency and sustainability by making its findings available for future meta-analyses and research developments, further contributing to responsible research practices.
+8. Implementation and Usability:
+Excerpts: "Trends in incidence rates were compared against national invasive pneumococcal disease (IPD) data." (Methods, page 5).
+Page Reference and Section: Methods, page 5.
+Example: The study’s implementation is highly usable by healthcare systems to monitor pneumococcal disease trends and improve vaccination efforts, demonstrating practical applications in both hospital and public health settings.
+9. Cross-disciplinary and Global Relevance:
+Excerpts: "The epidemiology of adult pneumococcal pneumonia in Europe appears to be diverging from that seen in the US." (Discussion, page 14).
+Page Reference and Section: Discussion, page 14.
+Example: The research has global relevance, offering insights that are crucial for countries worldwide, particularly in adapting to regional differences in serotype prevalence and vaccine efficacy, and it fosters cross-disciplinary collaboration between epidemiology, public health, and microbiology.
+10. Resilience and Adaptability:
+Excerpts: "Serotype 3's persistence highlights the need for adaptable vaccine strategies that address emerging serotypes." (Discussion, page 16).
+Page Reference and Section: Discussion, page 16.
+Example: The findings underline the resilience of the serotype and suggest the need for adaptive vaccine policies, ensuring that future public health interventions remain effective as new serotypes emerge.
+This analysis provides a detailed mapping of the research paper's impact across the 10 research impact dimensions, offering clear insights into its contribution to healthcare and public health policy.

@@ -1,0 +1,43 @@
+Based on your document, here is a detailed analysis of the research impact dimensions:
+
+1. Domains of Research Impact:
+Excerpts: "National surveillance of pneumococcal disease at the serotype level is essential to assess the effectiveness of vaccination programmes." (Results, page 2)
+Section Reference: Results, page 2
+Example: This research primarily impacts the health domain by improving diagnostic tools for monitoring pneumococcal infections, which directly benefits public health policy and vaccination programs.
+2. Duration of Research Impact:
+Excerpts: "The assay offers the capacity for further development with the introduction of novel anti-pneumococcal serotype-specific mAbs." (Discussion, page 6)
+Section Reference: Discussion, page 6
+Example: This research demonstrates long-term impact by providing a foundation for future diagnostic innovations in detecting pneumococcal disease, influencing clinical diagnostics and vaccine development over time.
+3. Stakeholders of Research Impact:
+Excerpts: "The diagnostic samples used in this research were obtained with approval from the Nottingham Research Ethics Committee." (Methods, page 7)
+Section Reference: Methods, page 7
+Example: Direct stakeholders include healthcare providers and public health institutions, who benefit from improved diagnostics. Indirect stakeholders include the general public, who benefit from better vaccine coverage and disease monitoring.
+4. Depth and Breadth of Impact:
+Excerpts: "Using a panel of urine specimens from patients diagnosed with community-acquired pneumonia or pneumococcal disease, the overall clinical sensitivity of this version of the assay... is 94.3 %." (Results, page 3)
+Section Reference: Results, page 3
+Example: The research has a deep impact on pneumococcal disease diagnostics, revolutionizing the sensitivity and specificity of diagnostic assays for clinical use.
+5. Scalability and Transferability:
+Excerpts: "This UAD assay offers the capacity for further development with the introduction of novel anti-pneumococcal serotype-specific mAbs." (Discussion, page 6)
+Section Reference: Discussion, page 6
+Example: The assay’s design allows for scalability to detect various pneumococcal serotypes in broader patient populations. It also exhibits transferability across different clinical sample types (blood, CSF, pleural fluid).
+6. Innovation and Disruption Potential:
+Excerpts: "The UAD v.2.1 assay was able to detect pneumococcal antigen in 83 (94.3 %) of the urine samples from these patients and generate serotype information from 75 of the 83 urine samples." (Results, page 5)
+Section Reference: Results, page 5
+Example: This research introduces innovative diagnostic techniques that enhance the accuracy of identifying pneumococcal infections, potentially disrupting traditional culture-based methods.
+7. Sustainability and Ethical Considerations:
+Excerpts: "The diagnostic samples used in this research were obtained with approval from the Nottingham Research Ethics Committee." (Methods, page 7)
+Section Reference: Methods, page 7
+Example: The research adheres to ethical standards by ensuring that diagnostic samples are ethically sourced, promoting transparency and responsibility in clinical research.
+8. Implementation and Usability:
+Excerpts: "This UAD assay offers the capacity for further development with the introduction of novel anti-pneumococcal serotype-specific mAbs." (Discussion, page 6)
+Section Reference: Discussion, page 6
+Example: The assay is designed for clinical usability, providing healthcare professionals with a practical tool for diagnosing pneumococcal disease with higher sensitivity.
+9. Cross-disciplinary and Global Relevance:
+Excerpts: "The introduction of the PCV-7 pneumococcal conjugate vaccine... has helped to reduce the overall incidence of pneumococcal disease." (Introduction, page 2)
+Section Reference: Introduction, page 2
+Example: This research is globally relevant as it informs public health strategies on pneumococcal vaccination, impacting both clinical diagnostics and vaccine policy internationally.
+10. Resilience and Adaptability:
+Excerpts: "The assay could be used to identify pneumococcal antigens in other clinical samples such as blood, CSF, and pleural fluid." (Discussion, page 6)
+Section Reference: Discussion, page 6
+Example: The research demonstrates adaptability by suggesting the application of the assay to various types of clinical samples, ensuring its utility across different medical conditions and patient types.
+These dimensions showcase the comprehensive impact of the research on health systems, diagnostic innovation, and public health policy​(Knowledge - Potential R…)​(4) .
