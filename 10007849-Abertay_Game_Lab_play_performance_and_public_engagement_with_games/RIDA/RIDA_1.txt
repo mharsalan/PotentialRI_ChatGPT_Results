@@ -1,0 +1,44 @@
+
+I have reviewed the paper you uploaded, titled "The Game Jam Movement: Disruption, Performance and Artwork," and mapped its content to the "Top 10 Dimensions of Research Impact." Here’s a detailed breakdown based on your request:
+
+1. Domains of Research Impact
+Excerpts: The paper explores game jams as "disruptive, performative processes that result in original creative artefacts" (Page 1). It focuses on interdisciplinary fields, mentioning how game jams intersect with "art, narrative, programming, and design" and how they contribute to innovation in game design and creative industries (Page 1).
+Page Reference: Introduction, Page 1.
+Example: This research has a broad impact on multiple domains—academically, it advances theories on performative and collaborative art. Economically and socially, game jams encourage new formats of game development and foster communities, thus promoting collaboration across the creative and technology sectors.
+2. Duration of Research Impact
+Excerpts: The study indicates that game jams encourage "rapid prototyping" (Page 2) and have both short-term impacts on the development of experimental game designs and long-term impacts through the evolution of game development practices.
+Page Reference: Process and Output, Page 2.
+Example: Short-term impacts include immediate creativity boosts and the creation of game prototypes, while long-term impacts involve the sustained disruption of traditional game development processes, contributing to the gaming industry's evolution over time.
+3. Stakeholders of Research Impact
+Excerpts: Stakeholders include "game-making disciplines" and "multidisciplinary participants," such as artists, programmers, designers, students, and professionals (Page 2). There is also mention of academics and industry practitioners benefiting from these jams (Page 6).
+Page Reference: Participants, Places, and Spaces, Page 2, 6.
+Example: Direct stakeholders are game developers and students who use these events to learn and innovate. Indirect stakeholders include the broader gaming industry, which benefits from new ideas generated at jams, and communities that engage with the resulting games.
+4. Depth and Breadth of Impact
+Excerpts: Game jams have deep impacts on specific fields such as game development and interactive art by introducing innovative practices. The breadth of their influence spans "social, economic, and academic domains," contributing to community building and collaborative creation across industries (Page 1).
+Page Reference: Process and Output, Page 1.
+Example: The deep impact is evident in how game jams disrupt conventional practices in game development, while their broad impact is seen in the inclusion of diverse stakeholders, from hobbyists to professionals, promoting collaboration across fields like education, art, and technology.
+5. Scalability and Transferability
+Excerpts: The paper discusses how game jams, originally focused on game development, have found traction beyond the professional industry, with non-professionals such as students and hobbyists increasingly participating (Page 2). It also mentions global participation through events like the Global Game Jam (Page 1).
+Page Reference: Process and Output, Page 2.
+Example: Game jams are scalable, as demonstrated by their global events like the Global Game Jam. They are also transferable, as the collaborative processes developed can be applied in other creative industries, such as art and technology, beyond gaming.
+6. Innovation and Disruption Potential
+Excerpts: The research highlights that game jams "disrupt conventional game-making practices" and "promote creativity through improvisation and collaboration" (Page 2). It discusses how jams foster the creation of "experimental, prototype games" that challenge traditional development methods (Page 1).
+Page Reference: Process and Output, Page 1.
+Example: Game jams are highly innovative and disruptive because they challenge traditional game development practices, promoting rapid prototyping and new game mechanics. Their disruption potential is further seen in their reimagining of the collaborative process, shifting from structured industry norms to improvisational and experimental methods.
+7. Sustainability and Ethical Considerations
+Excerpts: The research emphasizes how game jams promote "diversity, accessibility, and community," which are essential for sustainable creative practices (Page 2). Game jams also foster inclusivity by welcoming "heterogeneous groups of professionals, academics, and hobbyists" (Page 1).
+Page Reference: Process and Output, Page 2.
+Example: Game jams encourage sustainable development in game design by promoting practices that are inclusive and diverse, ensuring a wide range of voices contribute to the development process. The ethical consideration of accessibility is central, as game jams open participation to all skill levels and backgrounds.
+8. Implementation and Usability
+Excerpts: The focus on "collaboration, rapid prototyping, and innovation" ensures that the outcomes of game jams are practical and immediately usable within the game development industry (Page 1).
+Page Reference: Process and Output, Page 1.
+Example: Game jams produce prototypes that are often directly usable by participants in future game development projects, allowing the immediate application of the creative processes learned during the jam.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The interdisciplinary nature of game jams is emphasized, with participants spanning multiple fields, including art, design, technology, and programming (Page 1). Global participation is also highlighted, with events like the Global Game Jam involving participants from various countries (Page 1).
+Page Reference: Introduction, Page 1.
+Example: Game jams are relevant across disciplines, involving contributions from technology, arts, and education sectors. Their global nature, seen in events like Global Game Jam, demonstrates their broad relevance and influence.
+10. Resilience and Adaptability
+Excerpts: Game jams are portrayed as flexible and resilient by promoting "improvisation and adaptation to new challenges" (Page 3). This adaptability is key in their ability to disrupt conventional methods and encourage innovation even under time constraints.
+Page Reference: Jams as Improvised Performances, Page 3.
+Example: The resilience of game jams is evidenced by their success in fostering creativity under pressure, adapting to various constraints such as time limits and resource availability while producing innovative outcomes.
+This detailed mapping reflects how the paper impacts the "Top 10 Dimensions of Research Impact," providing both specific excerpts and practical examples.

@@ -1,0 +1,34 @@
+
+Based on the research paper titled "Their Memory," which explores the application of virtual reality (VR) in engaging younger audiences with wartime memories, specifically through a VR experience of the Lady Haig poppy factory, I will now assess its impact across the Top 10 Research Impact Dimensions:
+
+1. Domains of Research Impact
+Excerpt: "Their Memory is a VR (Oculus Go/Oculus Rift) experience designed to engage younger people with the poppy appeal as well as represent the memories of British Army veterans..." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: This research impacts the cultural domain by preserving and sharing British wartime heritage using innovative VR storytelling. It also crosses into the educational domain, helping younger generations connect with historical events through immersive technology.
+
+2. Duration of Research Impact
+Excerpt: "Utilising immersive technology such as virtual reality increases engagement and is a more appealing engagement tool than traditional methods." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: The short-term impact of the research is evident in its immediate ability to engage younger audiences with historical memories. In the long term, this VR experience could influence how educational and memorial institutions use immersive technology to preserve history, potentially evolving into a standard practice for cultural preservation.
+
+3. Stakeholders of Research Impact
+Excerpt: "Within VR, players can explore the desks of the different ex-servicemen who now work at the factory. On each desk are mementos and artefacts unique to each veteran." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: Direct stakeholders include veterans whose memories are preserved and shared. Indirectly, the general public, especially younger generations, benefits from this immersive way of connecting with wartime history, and educators can use this tool for teaching historical context in classrooms.
+
+4. Depth and Breadth of Impact
+Excerpt: "The environment is fully realised and recreates the character and detail of the factory in real life. ... Memories are recounted by the veterans who owns the picked-up object." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: The depth of this research lies in its detailed recreation of the Lady Haig poppy factory and the veterans' personal memories. Its broad impact spans education, historical preservation, and cultural engagement, bridging history, technology, and youth engagement in meaningful ways.
+
+5. Scalability and Transferability
+Excerpt: "Utilising VR technology, players can fully immerse themselves in a real-life environment and be fully engaged in the veteran’s stories." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: The VR experience is highly scalable, as the concept can be applied to various historical contexts and locations globally. It is also transferable to different fields, such as museum exhibits, educational programs, and cultural heritage projects, enabling the adoption of VR in a range of applications beyond wartime memory.
+
+6. Innovation and Disruption Potential
+Excerpt: "Their Memory aims to explore how games design and technology can enhance documentary and storytelling techniques in engaging hard-to-reach audiences with wartime memories." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: This project introduces innovative use of VR in storytelling and cultural preservation, offering a new way of experiencing history. It has the potential to disrupt traditional educational methods and museum exhibits by making history more interactive and accessible.
+
+7. Sustainability and Ethical Considerations
+Excerpt: "Utilising immersive technology such as virtual reality increases engagement and is a more appealing engagement tool than traditional methods." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: The sustainability of this project lies in its potential to preserve veterans' stories for future generations in a digital format. Ethical considerations include ensuring the respectful portrayal of veterans' memories and considering the digital divide in access to VR technologies.
+
+8. Implementation and Usability
+Excerpt: "Players can pick up and explore each object, when the objects are interacted with, they play an audio clip." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: The project has strong usability, as it can be implemented in museums, schools, and public education campaigns. Its interactive design makes it user-friendly for all age groups, and it offers a tangible, engaging way for people to learn about history.
+
+9. Cross-disciplinary and Global Relevance
+Excerpt: "Their Memory is a VR (Oculus Go/Oculus Rift) experience designed to engage younger people with the poppy appeal as well as represent the memories of British Army veterans..." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: The research integrates game design, history, and education, making it highly cross-disciplinary. Its global relevance stems from the fact that VR storytelling could be applied to any national history or memory preservation project, making it adaptable to diverse cultural contexts worldwide.
+
+10. Resilience and Adaptability
+Excerpt: "Their Memory... represents the memories of British Army veterans and the conflicts they have been involved in." - (Abstract, p. 72) Page Reference: Abstract, p. 72. Example: This VR project is adaptable, as it can evolve to include new technological advancements and different historical contexts. Its resilience lies in the enduring importance of war memories and veterans' stories, ensuring that the research remains relevant as both VR technology and cultural memory practices advance.
+
+This analysis shows that the "Their Memory" project spans multiple dimensions of research impact, particularly in its innovative use of VR technology for cultural preservation and education, with potential long-term global relevance.

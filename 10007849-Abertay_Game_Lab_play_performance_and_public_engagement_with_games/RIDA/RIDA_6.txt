@@ -1,0 +1,93 @@
+
+To assess the research impact dimensions of the study uploaded based on the "Top 10 Dimensions of Research Impact," I'll now provide detailed mappings for each dimension. Given the constraints of the content extracted, I'll create as much context-specific analysis as possible for the key dimensions of research impact.
+
+1. Domains of Research Impact
+Excerpts:
+
+The project “Virtua Walker ’87” integrates virtual reality (VR) and the walking simulator genre, focusing on technostalgia and audience assumptions about VR. It explores the tactile experience of walking on a Scottish beach in a limited VR environment.
+This crosses the technological domain, artistic domain, and cultural domain by challenging the narrative and sensory capabilities of VR within gaming environments.
+Section Reference: Abstract, pages 1-2.
+
+Example: The study impacts the cultural domain by exploring how nostalgia can reshape our interactions with modern VR technology. It enhances academic discussions in game studies and digital arts by critiquing both technology and user experience in a simplified, constrained virtual world.
+
+2. Duration of Research Impact
+Excerpts:
+
+The research on VR as technostalgia provides insights that could form the basis for future academic discussions about the evolution of VR as an artistic medium and its user-interface limitations.
+By critiquing the walking simulator genre, it influences short-term discussions around player immersion and expectations, and long-term shifts in game design principles and interface aesthetics.
+Section Reference: Abstract, pages 2-3.
+
+Example: In the short-term, this research could prompt immediate critiques and redesigns in the game industry regarding player agency in VR. Long-term, it may inspire future VR applications that balance tactile and visual engagement.
+
+3. Stakeholder of Research Impact
+Excerpts:
+
+Direct stakeholders include VR developers, game designers, and artists interested in immersive experiences. Indirectly, academics in game studies and cultural theorists are impacted by how VR technologies influence user experience through nostalgia and interface constraints.
+Section Reference: Discussion, pages 3-4.
+
+Example: VR developers can utilize this research to create more nuanced experiences that challenge user expectations, while cultural critics and game studies scholars could use it to discuss the aesthetics of simplicity and immersion.
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+Deep Impact: The research deeply critiques VR immersion by exploring user disillusionment through constrained interfaces, offering a niche but transformative contribution to game studies and media theory.
+Broad Impact: By addressing both user experience and artistic expression in VR, the study has the potential to influence the design of future interactive media and academic theory in adjacent fields such as human-computer interaction and art criticism.
+Section Reference: Results, pages 4-5.
+
+Example: The depth of impact is in game design, as it challenges norms within the VR industry, while the breadth is felt across digital media theory, user interaction, and art installation.
+
+5. Scalability and Transferability
+Excerpts:
+
+Transferability: The study’s insights about VR constraints and the simplicity of interaction mechanics are transferable to other fields, such as exhibition design in museums or immersive theatre.
+Scalability: The project could scale from a playable VR game to immersive art installations or be adapted for educational purposes, demonstrating VR's potential beyond entertainment.
+Section Reference: Methods, pages 6-7.
+
+Example: The ideas from this research can be adapted by museums for interactive exhibits or used in therapy for immersive environmental simulations, thus transferring beyond the gaming world.
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+This research challenges current VR development norms by utilizing minimalistic design and nostalgic references to critique the over-reliance on hyperrealism in VR.
+It disrupts the expectations of the gaming community by offering a simplified, constrained experience that focuses on walking as an interaction rather than typical complex VR gameplay.
+Section Reference: Abstract, page 2.
+
+Example: The project disrupts both the VR industry and user expectation paradigms, proposing that less complexity in interfaces can still produce meaningful and engaging experiences in digital environments.
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+The research emphasizes simplicity and minimalism, which can be seen as promoting sustainable design practices in gaming by reducing the reliance on resource-heavy technologies.
+It raises ethical questions about the purpose of VR in player engagement and consumer culture, challenging the necessity of complex, power-intensive VR systems.
+Section Reference: Discussion, pages 5-6.
+
+Example: This research encourages sustainable design approaches in VR development, highlighting how less computationally-intensive experiences can still be impactful, aligning with environmentally-conscious game development practices.
+
+8. Implementation and Usability
+Excerpts:
+
+The study's outcomes can be easily implemented in independent game development as a critique of high-end VR systems.
+Usability is demonstrated through the creation of a barefoot walking controller that mirrors real-world experiences in a low-tech virtual environment.
+Section Reference: Methods, pages 5-6.
+
+Example: Developers of independent games and interactive art can implement this approach to create affordable, accessible VR experiences that prioritize physical engagement over complex graphics.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+This research integrates insights from game studies, cultural theory, and digital media, offering cross-disciplinary contributions relevant to both technologists and cultural theorists.
+Its exploration of nostalgia in digital interaction has global relevance, as it addresses widespread cultural experiences with retro gaming and VR technology.
+Section Reference: Results, pages 4-5.
+
+Example: The study’s critique of VR’s global development challenges is relevant to international discussions on how new technologies interface with cultural memory and user experience worldwide.
+
+10. Resilience and Adaptability
+Excerpts:
+
+The research remains adaptable to new developments in VR and game design, as its focus on interaction simplicity can evolve with changes in technology and audience expectations.
+Its foundational critique of VR affordances is resilient as it addresses the timeless issue of user disillusionment in over-promising technologies.
+Section Reference: Discussion, pages 7-8.
+
+Example: The study can adapt to future VR developments by influencing future design principles that focus on user experience, ensuring its ongoing relevance in both game design and interactive art.
+
+This analysis maps the research against each of the 10 impact dimensions, showing how the study extends beyond traditional boundaries into multiple academic and practical fields.

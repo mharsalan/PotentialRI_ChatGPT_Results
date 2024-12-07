@@ -1,0 +1,54 @@
+
+To assess the study in the provided paper, "Do We Need Permission to Play in Public? The Design of Participation for Social Play Video Games at Play Parties and ‘Alternative’ Games Festivals" based on the Top 10 Dimensions of Research Impact, here is a detailed dimension-by-dimension analysis. I have drawn specific information from the paper's objectives, methods, results, and discussion sections to map the impact.
+
+1. Domains of Research Impact
+Excerpts: The study focuses on how social play events for video games promote both game-making and playing practices, with a focus on diverse and new communities of game developers and players. It also looks at the cultural shift such events can inspire by moving away from traditional commercial gaming practices.
+"These events seek to engage not only with existing games communities but are also interested in promoting game making and playing practices to new communities" (Introduction, page 69).
+Example: The research primarily impacts the cultural domain by promoting new forms of video games that encourage more artistic, independent, and social play over commercial forms. It also influences the social domain, as these events create community engagement and foster social connectivity.
+Page Reference: Introduction, page 69.
+2. Duration of Research Impact
+Excerpts: The model proposed in the study for designing participation in social play events suggests potential for long-term impact on the ways games are made and played, by altering game culture towards inclusivity and social interaction.
+"The study aims to contribute to a growing body of knowledge by formalizing design approaches and considering the long-term cultural transformation of game making and playing practices" (Discussion, page 72).
+Example: Long-term impact could be seen in how this research informs future design models for participatory events and leads to shifts in how video games are culturally perceived and experienced beyond solitary play. The findings may shape event designs over decades.
+Page Reference: Discussion, page 72.
+3. Stakeholders of Research Impact
+Excerpts: The research identifies both professional game developers (indie and commercial) and the general gaming community, including students and new game makers, as stakeholders in the events.
+"Event facilitators consider the needs of diverse communities, including game developers, enthusiasts, students, and the general public" (Methods, page 71).
+Example: Direct stakeholders include event facilitators and game developers, who benefit from the model of participation. Indirect stakeholders include the general public, who may experience cultural changes in gaming through more inclusive and participatory events.
+Page Reference: Methods, page 71.
+4. Depth and Breadth of Impact
+Excerpts: The research has broad implications across cultural, social, and artistic domains, influencing how games are perceived and experienced.
+"The study discusses the broad impact on how games are valued culturally and as a form of social engagement, moving beyond traditional forms of commercial gaming" (Discussion, page 72).
+Example: Broad impact is evident in its influence on how games are designed, played, and discussed within both the gaming community and wider society. The research also impacts the artistic domain as it connects game design with more expressive and art-oriented forms.
+Page Reference: Discussion, page 72.
+5. Scalability and Transferability
+Excerpts: The participation model outlined in the paper could be scaled to a broader range of gaming events beyond those in the study, potentially influencing how games are played and designed at international gaming festivals.
+"The model of participation could be applied to other events beyond alternative games festivals, helping to structure community engagement" (Results, page 73).
+Example: Scalability applies to expanding the model to mainstream gaming conferences or global gaming events, and transferability relates to applying the participation design to fields like education, where similar engagement models might be used for teaching creative skills.
+Page Reference: Results, page 73.
+6. Innovation and Disruption Potential
+Excerpts: The paper proposes an innovative approach to event participation that disrupts traditional game industry practices, focusing on community and creativity rather than profit and competitiveness.
+"Events studied differ in content and form from commercial games-making practices, often being more expressive and aligned with art practices" (Introduction, page 69).
+Example: Disruption is seen in how this research challenges the commercial video game industry by proposing a model that emphasizes creative expression and inclusivity, potentially shifting how games are showcased and experienced.
+Page Reference: Introduction, page 69.
+7. Sustainability and Ethical Considerations
+Excerpts: The study emphasizes the importance of inclusivity, creating spaces where diverse groups feel welcome, and challenging stigmas around games and gamers.
+"One challenge faced by facilitators is overcoming negative preconceptions and promoting games as legitimate forms of social and cultural engagement" (Methods, page 71).
+Example: Sustainability is reflected in the creation of inclusive communities that promote ethical participation in gaming, while ethical considerations include ensuring that events are accessible to diverse audiences and challenge negative stereotypes.
+Page Reference: Methods, page 71.
+8. Implementation and Usability
+Excerpts: The proposed model of participation can be directly implemented in the design of future social play events, providing a practical framework for organizers.
+"The model can be used to design events that balance diverse community needs, promoting participation and engagement across different attendee groups" (Results, page 73).
+Example: The research can be implemented by event organizers to create more inclusive, engaging, and community-driven events, particularly those focused on independent games.
+Page Reference: Results, page 73.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The findings are relevant to disciplines beyond gaming, such as education, art, and cultural studies. The model could be applied globally, particularly in creative industries where participation and engagement are critical.
+"The design principles could be applied to various types of events, beyond gaming, and in different cultural contexts" (Discussion, page 75).
+Example: Global relevance lies in how the research findings can influence international gaming communities and be transferred to sectors like the arts or education.
+Page Reference: Discussion, page 75.
+10. Resilience and Adaptability
+Excerpts: The study demonstrates how social play events can adapt to the needs of diverse communities, ensuring their resilience in changing cultural and technological landscapes.
+"Event design must be adaptable to meet the competing needs of different communities and ensure continued engagement" (Methods, page 71).
+Example: The research highlights adaptability by proposing a flexible model that can be used in different types of gaming events, ensuring that these events remain relevant as gaming cultures evolve.
+Page Reference: Methods, page 71.
+This dimension-by-dimension analysis reveals how the research in the paper impacts a range of areas, from cultural shifts in gaming to broader implications for participation models in other fields.
