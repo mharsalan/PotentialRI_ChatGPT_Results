@@ -1,0 +1,53 @@
+To provide a comprehensive assessment of the research impact dimensions for the attached study "Workforce scheduling and routing problems: literature survey and computational study," I will apply the "Top 10 Dimensions of Research Impact" framework from the accompanying guidelines.
+
+Domains of Research Impact (RI):
+
+Excerpt: "Workforce scheduling and routing problem refers to those scenarios involving the mobilisation of personnel in order to perform work-related activities at different locations" (Section 2, Page 40). The study touches on various practical domains like healthcare (home healthcare scheduling), security services (security personnel routing), and telecommunications (technician task scheduling).
+Page Reference: Section 4, Pages 44-46.
+Example: The research impacts multiple domains, including healthcare, by optimizing home healthcare delivery and enhancing efficiency in scheduling. It also influences the field of security by improving personnel management across multiple premises.
+Duration of Research Impact (RI):
+
+Excerpt: "The computational study provides an insight into the structure of the adapted test instances... and some benchmark computation times using the Gurobi solver running on a standard personal computer" (Abstract, Page 39). The research provides immediate computational tools and insights, but its long-term impact is foundational in developing future scheduling and routing optimization models.
+Page Reference: Computational Study, Pages 48-50.
+Example: The benchmark results can be immediately used by industries to optimize workforce scheduling. Long-term impacts include improving workforce management technologies and techniques that could be foundational for future advancements in logistics and workforce planning.
+Stakeholder of Research Impact (RI):
+
+Excerpt: "Examples of these type of scenarios include nurses visiting patients at home, technicians carrying out repairs at customers’ locations, and security guards performing rounds" (Abstract, Page 39). The direct stakeholders are industries like healthcare, telecommunications, and security services, while indirect stakeholders include the public, benefiting from more efficient services.
+Page Reference: Section 4, Pages 44-46.
+Example: Healthcare providers, security firms, and technical service companies are direct beneficiaries. Indirectly, the public benefits from improved service delivery, such as quicker home care services and better security.
+Depth and Breadth of Impact:
+
+Excerpt: "The study identifies common features of workforce scheduling scenarios and computational methods... including time windows, skill matching, and connected activities" (Section 2, Page 40). The research has a deep impact on fields like operations research and logistics.
+Page Reference: Section 2, Pages 40-42.
+Example: Deep impact is observed within the operations research field, as the study refines methods for workforce scheduling. Broad impact spans industries such as healthcare and security, where these scheduling models are applied.
+Scalability and Transferability:
+
+Excerpt: "The computational study adapts five data sets to incorporate key features identified in workforce scheduling scenarios" (Section 5, Page 47). The research’s methodologies can be scaled and transferred across different industries.
+Page Reference: Section 5, Pages 47-50.
+Example: The scheduling models can be scaled to different industry sizes, from small security firms to large healthcare systems. These models can also be transferred to new contexts, such as emergency services or large-scale event management.
+Innovation and Disruption Potential:
+
+Excerpt: "The study represents a step towards formulating and tackling the problem of scheduling flexible and mobile workforce" (Introduction, Page 40). The research introduces innovative solutions in workforce optimization, particularly through hybrid approaches combining optimization and heuristics.
+Page Reference: Section 5, Page 48.
+Example: The introduction of hybrid models, integrating optimization and heuristic methods, has the potential to disrupt traditional workforce scheduling by offering more efficient, flexible solutions.
+Sustainability and Ethical Considerations:
+
+Excerpt: "Reducing employees' travel time is valuable... guaranteeing tasks to be performed by qualified people only" (Section 2.1, Page 41). The study considers ethical aspects such as the fair distribution of tasks and reducing the environmental impact of travel.
+Page Reference: Section 2.1, Page 41.
+Example: By optimizing routes and reducing travel times, the research supports more sustainable workforce management. Ethical considerations like ensuring qualified workers are matched to appropriate tasks are also addressed.
+Implementation and Usability:
+
+Excerpt: "A set of problem instances are presented... to gain insights into the effect of problem features when solving using mathematical programming" (Abstract, Page 39). The study is highly implementable, offering benchmarks and tools that can be used directly in industry.
+Page Reference: Section 5, Pages 48-50.
+Example: Industries can implement the models using the provided computational benchmarks to immediately optimize workforce scheduling.
+Cross-disciplinary and Global Relevance:
+
+Excerpt: "We review workforce scheduling scenarios investigated in the literature... Examples include home care, manpower allocation, and security" (Section 4, Page 44). The study has relevance across multiple sectors globally, from healthcare in the UK to security services in the US.
+Page Reference: Section 4, Pages 44-46.
+Example: The research is relevant to global industries such as healthcare and security services, offering models that can be adapted to different countries and regulations.
+Resilience and Adaptability:
+
+Excerpt: "Teaming is necessary sometimes due to the nature of the work... synchronizing the arrival of employees to the location of the activity is required" (Section 2.2, Page 42). The study provides adaptable solutions for complex workforce scenarios, where dynamic team formation is required.
+Page Reference: Section 2.2, Pages 42-44.
+Example: The research offers adaptable models that can be applied in rapidly changing environments, such as emergency response or flexible workforces in healthcare and technology.
+Each dimension highlights the research's broad influence, from immediate applications in industries to long-term academic and practical impacts.

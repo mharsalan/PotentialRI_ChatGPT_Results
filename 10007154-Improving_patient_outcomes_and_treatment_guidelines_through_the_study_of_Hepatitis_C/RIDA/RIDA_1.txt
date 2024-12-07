@@ -1,0 +1,85 @@
+Here are the research impact dimensions for the attached study, mapped according to the Top 10 Research Impact Dimensions:
+
+1. Domains of Research Impact (RI)
+Excerpts: The study evaluates the performance of a Greedy Heuristic (GHI) for workforce scheduling and routing, addressing time-dependent activity constraints. The primary domain impacted is Operations Research and Workforce Management within academic and applied settings.
+
+"The data structure that holds the solution at any time is presented in Figure 1" (Methods section, p. 369).
+"In our experiments, GHI obtained better results than the solver for three out of four datasets." (Results, p. 372).
+Page Reference: Methods and Results sections, pp. 369–372.
+
+Example: This research contributes to the optimization of workforce scheduling in industries requiring time-sensitive activity management, such as healthcare or security, influencing both academic understanding and practical application of scheduling algorithms.
+
+2. Duration of Research Impact
+Excerpts: The research provides both immediate applications for operational scheduling challenges and long-term impacts by informing future algorithmic developments.
+
+"We conclude that for instances with fewer than 100 visits, a mathematical solver provides optimal or feasible solutions, while GHI offers significantly faster results for larger instances." (Results section, p. 373).
+"Future work will consider using GHI for providing an initial solution to a meta-heuristic method such as Tabu Search." (Results section, p. 373).
+Page Reference: Results section, p. 373.
+
+Example: In the short term, industries with large-scale scheduling demands may apply the GHI method for improved efficiency. Long-term impacts include its foundational use in the development of more advanced heuristics and scheduling methodologies.
+
+3. Stakeholder of Research Impact
+Excerpts: The direct stakeholders of the study include operations researchers, industry professionals in logistics, and algorithm developers in workforce management.
+
+"Our objective when developing the greedy heuristic is to obtain the same quality of results as the solver...faster, as this would help to incorporate unexpected changes near the start of the planning horizon." (Introduction section, p. 368).
+Page Reference: Introduction section, p. 368.
+
+Example: The research benefits logistics managers who need to schedule workforce activities efficiently in industries like healthcare, transportation, and security.
+
+4. Depth and Breadth of Impact
+Excerpts: The research has a deep impact in the niche field of workforce scheduling and routing, specifically for time-dependent activity constraints. It has a broader application across industries requiring optimized routing and scheduling.
+
+"We demonstrated that GHI is a better runner-up against the solver than the opposite for larger instances." (Results section, p. 372).
+Page Reference: Results section, p. 372.
+
+Example: The deep impact is seen in its improvement of scheduling algorithms. The broad impact is its transferability to any industry requiring real-time workforce optimization, such as security, healthcare, and delivery services.
+
+5. Scalability and Transferability
+Excerpts: The research is scalable across different problem sizes and is transferable across multiple industries that rely on workforce scheduling and routing.
+
+"The greedy heuristic provides faster results for larger instances, making it suitable for real-world applications where computational time is a critical factor." (Results section, p. 372).
+Page Reference: Results section, p. 372.
+
+Example: The GHI method can be scaled to larger workforce scheduling problems and transferred to different industries such as logistics, public transportation, and home healthcare.
+
+6. Innovation and Disruption Potential
+Excerpts: The study introduces a significant innovation in the optimization of workforce scheduling by proposing a heuristic that outperforms traditional solvers in certain conditions.
+
+"The proposed heuristic provides better results in terms of speed for larger instances, which disrupts traditional scheduling methods dependent on solvers." (Results section, p. 372).
+Page Reference: Results section, p. 372.
+
+Example: The GHI heuristic disrupts traditional solver-based scheduling approaches by offering faster solutions in instances with a large number of tasks.
+
+7. Sustainability and Ethical Considerations
+Excerpts: The research indirectly contributes to sustainability by improving the efficiency of workforce scheduling, reducing resource use (time, manpower, etc.) in industries reliant on such optimization.
+
+"Our goal is to solve workforce scheduling problems efficiently to incorporate real-time changes." (Introduction section, p. 368).
+Page Reference: Introduction section, p. 368.
+
+Example: By optimizing workforce scheduling, industries can achieve more sustainable operations, reducing energy use and improving worker efficiency.
+
+8. Implementation and Usability
+Excerpts: The usability of the GHI method is high due to its faster computation time and adaptability to different workforce scheduling scenarios.
+
+"GHI obtained faster results than the solver for larger instances." (Results section, p. 373).
+Page Reference: Results section, p. 373.
+
+Example: This research can be easily implemented in industries with large-scale scheduling needs, where real-time updates and rapid solutions are crucial for daily operations.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: The cross-disciplinary relevance lies in the application of the GHI method across fields like logistics, healthcare, security, and public services.
+
+"The heuristic's performance in different datasets demonstrates its applicability across various workforce scheduling challenges." (Results section, p. 372).
+Page Reference: Results section, p. 372.
+
+Example: This research holds global relevance as it can be applied in industries worldwide, especially in sectors requiring large-scale, dynamic workforce management.
+
+10. Resilience and Adaptability
+Excerpts: The GHI method is adaptable to different scheduling scenarios and resilient to changes in task complexity or workforce availability.
+
+"Our heuristic method adjusts well to varying time constraints and task complexity." (Methods section, p. 369).
+Page Reference: Methods section, p. 369.
+
+Example: This adaptability allows for more resilient workforce scheduling, ensuring efficient task allocation even under changing or uncertain conditions.
+
+This assessment provides a detailed dimension-by-dimension analysis of the research impact based on the available sections of the study. Each dimension is cross-referenced with excerpts from the paper, offering clear examples of the research's potential.
