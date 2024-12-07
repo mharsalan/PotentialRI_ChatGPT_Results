@@ -1,0 +1,59 @@
+
+Based on the detailed reading of the attached file titled "Delivering Green Streets: an exploration of changing perceptions and behaviours over time around bioswales in Portland, Oregon", here is a breakdown of the Research Impact Dimensions for this study:
+
+1. Domains of Research Impact:
+Environmental Science and Sustainability: The study explores bioswales as a component of Green Infrastructure (GI) and their role in urban stormwater management, particularly flood mitigation and water quality improvements in urban settings.
+Urban Planning: The research offers insights for urban planners and policymakers on the use of bioswales in city infrastructure projects and their impact on public spaces.
+Public Health and Well-Being: The study suggests that green infrastructure, like bioswales, can contribute to improved mental well-being through better aesthetics and enhanced green spaces.
+Community and Social Science: The research delves into public perceptions and social acceptance of green infrastructure, providing data on how engagement with local communities can affect infrastructure success.
+Page Reference: Introduction, page 1-2.
+
+2. Duration of Research Impact:
+Short-term Impact: The immediate contribution lies in providing data on how Portland’s bioswales are perceived across different time frames, which can guide urban planners and municipalities in similar projects.
+Long-term Impact: Over time, the study contributes to broader understanding and acceptance of nature-based solutions in cities, influencing future green infrastructure policies and public urban development strategies.
+Page Reference: Results, pages 6-9.
+
+3. Stakeholders of Research Impact:
+Direct Stakeholders:
+Urban planners and city councils responsible for stormwater management and sustainable development.
+Environmental agencies and NGOs promoting blue-green infrastructure (BGI).
+Community groups involved in urban design and city improvement projects.
+Indirect Stakeholders:
+Residents and local businesses who are impacted by bioswale installation, especially those directly benefiting from improved stormwater management.
+Educational institutions studying the role of public infrastructure in environmental sustainability.
+Page Reference: Methodology and stakeholder interaction, pages 3-4.
+
+4. Depth and Breadth of Impact:
+Deep Impact: This research contributes significantly to how urban water management systems are perceived by the public and highlights the importance of public engagement for successful infrastructure projects.
+Broad Impact: The findings can be applied broadly to other cities dealing with urban flooding, especially those considering green infrastructure as an alternative to traditional grey infrastructure.
+Page Reference: Discussion, pages 8-10.
+
+5. Scalability and Transferability:
+Scalability: The approach used in Portland, specifically focusing on community-driven feedback over time, can be scaled to other cities implementing similar sustainable drainage systems (SuDS).
+Transferability: The findings are highly transferable to other urban areas, particularly those with similar environmental and social dynamics regarding stormwater management and public infrastructure.
+Page Reference: Conclusion, page 11.
+
+6. Innovation and Disruption Potential:
+The study highlights the innovative use of bioswales and other green infrastructure as part of stormwater management strategies in dense urban environments. The integration of community feedback over different timeframes presents a disruptive approach to typical infrastructure projects that often overlook social perceptions and maintenance concerns.
+Page Reference: Pages 5-6, Innovation in green infrastructure design.
+
+7. Sustainability and Ethical Considerations:
+Sustainability: The research underscores the long-term environmental benefits of bioswales, promoting eco-friendly stormwater management solutions. It emphasizes the need for regular maintenance and community involvement to ensure the sustainability of these systems.
+Ethical Considerations: The study acknowledges the importance of including residents' perspectives and feedback, which aligns with ethical practices in urban development and sustainability, ensuring equity and inclusivity in the use of public spaces.
+Page Reference: Community engagement and sustainability analysis, pages 7-9.
+
+8. Implementation and Usability:
+The research offers a practical framework for urban planners, city councils, and other decision-makers on how to implement bioswales successfully by considering public perceptions, maintenance strategies, and long-term engagement.
+Page Reference: Implementation strategies, pages 8-10.
+
+9. Cross-disciplinary and Global Relevance:
+The study intersects urban design, community psychology, environmental engineering, and social policy, making it highly relevant across multiple academic disciplines.
+Globally, the findings are applicable in cities facing climate change challenges, urban flooding, and water management issues, offering a model that integrates community feedback into sustainable development projects.
+Page Reference: Cross-disciplinary relevance, page 10.
+
+10. Resilience and Adaptability:
+The research highlights how bioswales and green streets can contribute to urban resilience by adapting to changing climate conditions and helping cities cope with increased stormwater runoff. Additionally, it suggests that long-term public engagement and regular maintenance improve the adaptability and success of such green infrastructure projects.
+Page Reference: Pages 9-10, resilience through green infrastructure.
+
+Conclusion:
+This study makes valuable contributions to understanding how green infrastructure, particularly bioswales, can be implemented in urban environments. It emphasizes the role of public perception and maintenance strategies in determining the long-term success of these systems. The research is highly scalable and transferable to other regions, offering innovative approaches to flood management, water quality improvements, and community-driven urban planning. Through its focus on sustainability and adaptability, the study provides a strong model for integrating green infrastructure into global urban environments.

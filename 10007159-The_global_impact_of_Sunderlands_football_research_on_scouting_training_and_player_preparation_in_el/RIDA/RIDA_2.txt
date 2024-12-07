@@ -1,0 +1,33 @@
+Based on the analysis of the research paper you uploaded, I will provide the impact on the Top 10 Dimensions of Research Impact, using the defined instructions. Here are the details dimension by dimension:
+
+1. Domains of Research Impact (RI)
+Excerpts: The study's examination of playing formations (4-4-2, 4-3-3, and 4-5-1) and their influence on high-intensity running and technical performance during elite soccer matches has clear impacts in both the academic domain (sports science, motion analysis) and health domain (performance optimization). "The effect of playing formation on high-intensity running and technical profiles in English FA Premier League soccer matches" (Discussion, Page 827).
+Example: This research contributes to the sports and health domains by informing training programs for elite athletes, particularly soccer players. It can optimize player performance, enhancing fitness regimens and strategic planning for both coaches and performance analysts.
+2. Duration of Research Impact
+Excerpts: "The decline in total and high-intensity running distances is not dependent upon the formation employed by teams" (Discussion, Page 827). The research impacts short-term applications, as it can immediately influence coaching strategies. However, it also lays a long-term foundation for future research into the evolution of soccer tactics and training methodologies.
+Example: Short-term impact will include immediate changes to coaching strategies based on physical performance data. Long-term, this study may shape the design of future soccer training programs and tactical innovations.
+3. Stakeholders of Research Impact
+Excerpts: "These results would suggest the need for conditioning programs based not only on the individual position of players... but also on the specific formation employed by the team" (Discussion, Page 827).
+Example: Stakeholders include coaches, performance analysts, soccer players, and sports scientists, who can use this research to adjust training and tactical strategies for peak performance.
+4. Depth and Breadth of Impact
+Excerpts: The study provides deep insights into the interaction between physical and technical performance across different playing formations (Results, Page 826). The study’s breadth comes from its application to multiple playing positions and formations, impacting both individual player development and team performance strategies.
+Example: The deep impact is on soccer-specific training and tactics, while the broad impact extends to team performance optimization and even other sports that may adopt similar methods of performance tracking.
+5. Scalability and Transferability
+Excerpts: "An in-depth examination of high-intensity running and technical performance across formation could provide insight into position-specific changes during the game and provide a tool for optimal training preparation" (Introduction, Page 821).
+Example: The methods used in this study can be scaled for use across multiple soccer leagues globally and are transferable to other team sports like basketball or rugby, where formations and physical performance are similarly crucial.
+6. Innovation and Disruption Potential
+Excerpts: The use of ProZone technology to track player performance in real-time represents an innovative application of motion analysis in sports (Methods, Page 822).
+Example: This research introduces innovation in performance analysis technology for sports, using motion analysis to optimize tactical decisions, potentially disrupting traditional methods of performance evaluation based on subjective observations.
+7. Sustainability and Ethical Considerations
+Excerpts: No direct references to sustainability were found in the text. However, the ethical dimension in sports science is represented by the use of validated technology and informed consent of participants (Methods, Page 822).
+Example: Ethical research practices were adhered to, ensuring that players' data were collected with proper consent, upholding standards in scientific sports research.
+8. Implementation and Usability
+Excerpts: "The findings should be interpreted with caution, as the small sample size only allowed a basic division into three player positions: defender, midfielder, and attacker" (Discussion, Page 827).
+Example: This research can be implemented directly into training programs for professional soccer teams, helping them optimize team formations based on high-intensity running and tactical performance.
+9. Cross-disciplinary and Global Relevance
+Excerpts: "Further research examining the precise physical profiles within different formations of each individual positional role is necessary" (Discussion, Page 827).
+Example: The study’s insights are globally relevant, influencing coaching strategies and performance analysis in soccer leagues around the world. It is also cross-disciplinary, merging insights from exercise science, sports coaching, and data analysis.
+10. Resilience and Adaptability
+Excerpts: "The greater distance covered in very high-intensity running when out of possession for attackers in a 4–5–1 formation may be attributed to the physical capacity of the players" (Results, Page 826).
+Example: This research helps teams develop resilient training strategies that adapt to different tactical formations, ensuring players can maintain high performance under varied physical demands across a match.
+This assessment covers the top 10 dimensions of research impact, providing relevant excerpts from the study and concrete examples of how the research contributes to these dimensions. If you need further details, feel free to ask!

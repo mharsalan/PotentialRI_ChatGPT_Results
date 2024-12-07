@@ -1,0 +1,56 @@
+
+Based on the full reading of the study titled "Technical Considerations in Green Roof Retrofit for Stormwater Attenuation in the Central Business District", here is a breakdown of the Research Impact Dimensions for this study:
+
+1. Domains of Research Impact
+Environmental Science and Urban Sustainability: The study directly impacts the fields of green infrastructure, urban sustainability, and stormwater management by providing evidence on how green roofs can be retrofitted to mitigate stormwater runoff in dense urban areas.
+Architecture and Building Design: It contributes to the architectural and building professions by offering guidelines and technical considerations for green roof retrofitting in commercial areas.
+Public Policy and Urban Planning: The research encourages cities to adopt Water-Sensitive Urban Design (WSUD) principles, influencing policy on sustainable building practices and urban water management.
+Page Reference: Introduction, page 1.
+
+2. Duration of Research Impact
+Short-term Impact: The study offers immediate guidelines for professionals evaluating green roofs for stormwater management and could influence ongoing or planned urban retrofit projects.
+Long-term Impact: Over time, the findings will contribute to larger-scale efforts to improve urban resilience through sustainable infrastructure, especially as cities face increasing climate challenges like heavy rainfall and urban flooding.
+Page Reference: Results, pages 5-7.
+
+3. Stakeholders of Research Impact
+Direct Stakeholders: Urban planners, architects, engineers, city councils, and commercial real estate developers.
+Indirect Stakeholders: City residents and businesses who will benefit from improved flood management, better air quality, and the increased aesthetic and recreational value of urban green roofs.
+Page Reference: Methodology and Stakeholder Interaction, pages 3-4.
+
+4. Depth and Breadth of Impact
+Deep Impact: The research makes a significant contribution to stormwater management strategies within urban business districts, offering specific retrofitting techniques for green roofs.
+Broad Impact: The findings have broad implications for other sectors, including environmental policy, urban design, public health, and real estate, promoting green infrastructure as a solution for sustainable city planning.
+Page Reference: Discussion, pages 7-9.
+
+5. Scalability and Transferability
+Scalability: The green roof retrofitting approach detailed in the study can be scaled up to address stormwater issues in other urban settings, particularly in cities that are vulnerable to climate change-related flooding.
+Transferability: The retrofitting techniques, although tested in Sydney, can be transferred to other cities globally, particularly those with similar climatic conditions and dense urban areas in need of sustainable infrastructure solutions.
+Page Reference: Conclusion, pages 9-11.
+
+6. Innovation and Disruption Potential
+The study introduces innovative solutions by retrofitting existing urban spaces with green roofs designed for stormwater attenuation, offering a nature-based alternative to traditional stormwater management methods.
+The disruption lies in its challenge to conventional grey infrastructure approaches, promoting green roof retrofits as a viable and sustainable alternative for cities.
+Page Reference: Innovation and green roof retrofit, page 6.
+
+7. Sustainability and Ethical Considerations
+Sustainability: The core focus of the research is on enhancing urban sustainability through green infrastructure that supports long-term environmental resilience and reduces the ecological footprint of commercial buildings.
+Ethical Considerations: The study emphasizes equitable access to green spaces and the importance of community involvement in sustainable urban planning, ensuring that green roof retrofits benefit both the environment and local populations.
+Page Reference: Sustainability and ethics in urban planning, pages 10-12.
+
+8. Implementation and Usability
+The study provides actionable recommendations for architects, urban planners, and city governments on how to assess and retrofit roofs for stormwater attenuation. This includes technical evaluations of structural load capacities, roof slopes, and waterproofing systems.
+Usability: The research highlights the importance of practical training and upskilling for professionals in the building sector to ensure the successful implementation of green roofs.
+Page Reference: Technical considerations and implementation, pages 7-9.
+
+9. Cross-disciplinary and Global Relevance
+The study integrates environmental engineering, urban design, sustainability science, and public policy, making it highly relevant across disciplines.
+Its global relevance stems from the increasing need for cities worldwide to adopt sustainable drainage solutions to mitigate the impacts of climate change, particularly in urban environments experiencing rapid growth and environmental degradation.
+Page Reference: Cross-disciplinary implications, page 10.
+
+10. Resilience and Adaptability
+The research underscores the role of green roofs in building urban resilience by mitigating flood risks, reducing stormwater runoff, and enhancing the longevity of city infrastructure.
+It also promotes adaptability by showing how green roofs can be customized to suit different building types and climates, ensuring their long-term sustainability.
+Page Reference: Adaptability and resilience through green roof technology, page 9.
+
+Conclusion:
+This study offers a comprehensive framework for retrofitting green roofs in Central Business Districts (CBDs), with a focus on stormwater attenuation. Its findings have significant implications for urban sustainability, environmental resilience, and public health. By addressing both the technical and social aspects of green roof implementation, the research offers a pathway for cities to retrofit existing structures with sustainable drainage systems that mitigate the effects of climate change while improving the quality of urban environments. Its cross-disciplinary relevance and transferability make it a valuable resource for urban planners, policymakers, and environmental scientists worldwide.

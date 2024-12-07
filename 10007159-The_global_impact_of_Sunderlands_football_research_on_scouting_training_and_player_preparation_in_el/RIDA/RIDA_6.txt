@@ -1,0 +1,28 @@
+Here is the detailed analysis of the research impact dimensions for the provided study based on the information extracted from both the paper and the predefined dimensions:
+
+1. Domains of Research Impact (RI)
+Excerpts:
+"The results from the present study suggest that the UK players performed more physical workloads during matches compared with the non-UK players in 2006–2007, while the opposite was observed for technical variables, with the non-UK players performing more passes compared with the UK players." (Results, Page 12).
+Page Reference: Results, Page 12.
+Example: This research contributes to the sports science domain by providing valuable insights into the longitudinal performance characteristics of UK and non-UK players in the English Premier League (EPL). The data can inform training methods, player recruitment strategies, and the development of match tactics. It also contributes to the policy domain by influencing decisions made by football clubs and leagues concerning player development and international recruitment.
+2. Duration of Research Impact
+Excerpts:
+"Nevertheless, by the 2012–2013 seasons, there was little difference between the UK and non-UK players’ physical and technical performances." (Results, Page 12).
+Page Reference: Results, Page 12.
+Example: This study has short-term impacts by immediately influencing recruitment policies and training methods based on current player performances. It also has long-term impacts by potentially altering player recruitment trends in the EPL and guiding further research into the effects of international players on league performance.
+3. Stakeholder of Research Impact
+Excerpts:
+"From a recruitment perspective, this may advise clubs that Non-UK players can adapt to the Modern English Premier League." (Practical Implications, Page 10).
+Page Reference: Practical Implications, Page 10.
+Example: The research impacts football clubs and managers by providing evidence on the adaptability and performance trends of non-UK players in the EPL. Sports scientists and coaches also benefit from the data on physical and technical workloads, enabling more informed training decisions. Additionally, football governing bodies may use this research to inform regulations on international player recruitment.
+4. Depth and Breadth of Impact
+Excerpts:
+"The study investigated the longitudinal impact of the UK and non-UK players on match performance characteristics in the EPL." (Introduction, Page 2).
+Page Reference: Introduction, Page 2.
+Example: The study has a broad impact as it contributes not only to the understanding of match performance in football but also informs sports management, physical education, and athletic training across different leagues and sports. The depth of impact is significant within football analytics, as it provides detailed performance data over multiple seasons, shaping recruitment and coaching strategies.
+5. Scalability and Transferability
+Excerpts:
+"The physical and technical demands are not different between UK and Non-UK players across a longitudinal period..." (Practical Implications, Page 10).
+Page Reference: Practical Implications, Page 10.
+Example: The research findings are scalable to other football leagues, where similar analyses can be conducted to understand player performance trends over time. The data is also transferable to other team sports, where the balance between physical and technical performance might be equally relevant in evaluating both domestic and international players.
+These dimensions show the multifaceted impact of the research, particularly in advancing knowledge in sports performance, player management, and the influence of international players in top-tier football.

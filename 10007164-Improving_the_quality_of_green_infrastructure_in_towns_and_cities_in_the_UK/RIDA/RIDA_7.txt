@@ -1,0 +1,56 @@
+
+Based on the study titled "Do Built Environment Assessment Systems Include High-Quality Green Infrastructure?", here is a detailed breakdown of the Research Impact Dimensions for this study:
+
+1. Domains of Research Impact
+Urban Planning and Sustainability: The study explores how built environment assessment systems integrate green infrastructure (GI) as part of sustainable urban development. It discusses the critical role that GI plays in improving urban resilience, biodiversity, and environmental quality.
+Environmental Policy and Governance: The research impacts policy-making, particularly in terms of how cities and local authorities integrate GI benchmarks in urban planning and sustainability frameworks.
+Architecture and Building Design: It provides insight into how built environment assessment systems, such as BREEAM and LEED, measure green infrastructure within new development projects.
+Page Reference: Introduction, page 170-171.
+
+2. Duration of Research Impact
+Short-term Impact: In the short term, the study provides a critical evaluation of current assessment systems, highlighting areas where improvements are needed to incorporate GI better. This could influence immediate changes in policy or updates to the frameworks of existing assessment systems.
+Long-term Impact: Over the long term, the findings could influence the development of new green infrastructure standards in urban planning, affecting how cities are designed and developed for decades to come.
+Page Reference: Discussion, pages 182-184.
+
+3. Stakeholders of Research Impact
+Direct Stakeholders: Urban planners, environmental consultants, local authorities, and developers who rely on assessment systems to guide sustainable development practices.
+Indirect Stakeholders: Residents and communities who benefit from high-quality green spaces and improved urban resilience to climate change impacts such as flooding and urban heat islands.
+Page Reference: Stakeholders and collaboration, pages 176-177.
+
+4. Depth and Breadth of Impact
+Deep Impact: The study makes a deep contribution to urban sustainability by emphasizing the importance of integrating green infrastructure into the core of built environment assessments. It stresses the need for these systems to ensure that GI is not just included superficially but is an integral part of urban development.
+Broad Impact: The research is broadly applicable to global contexts, as it evaluates internationally recognized assessment systems (e.g., BREEAM, LEED), making its findings relevant to cities worldwide that are aiming for sustainable urban growth.
+Page Reference: Global applicability and impact, page 183.
+
+5. Scalability and Transferability
+Scalability: The findings are highly scalable, as they offer a blueprint for how green infrastructure criteria can be better integrated into assessment systems across various urban contexts, from small residential projects to large urban developments.
+Transferability: The research is transferable to different international settings. The study highlights built environment assessment systems in the UK, US, and Australia, suggesting that its findings can inform both developed and developing urban regions.
+Page Reference: Scaling impact and international relevance, page 184.
+
+6. Innovation and Disruption Potential
+Innovation: The study introduces the concept of multifunctional green infrastructure, emphasizing that GI should not just be included as individual components (e.g., green roofs or parks) but should function as part of an integrated urban ecosystem that delivers multiple benefits.
+Disruption: It challenges the status quo of built environment assessments by arguing that current systems fail to fully recognize the potential of GI, which could disrupt how sustainable development is measured and practiced.
+Page Reference: Innovation and multifunctionality of GI, pages 172-173.
+
+7. Sustainability and Ethical Considerations
+Sustainability: The research emphasizes that green infrastructure is a key component of sustainable urban development, addressing issues such as climate resilience, biodiversity enhancement, and public health.
+Ethical Considerations: It advocates for inclusive and equitable urban development, suggesting that high-quality green spaces should be accessible to all urban residents, promoting social equity in city planning.
+Page Reference: Sustainability and ethics in planning, page 174-175.
+
+8. Implementation and Usability
+The study provides practical recommendations for improving the way green infrastructure is incorporated into assessment systems. It calls for assessment frameworks to include more robust criteria for GI, ensuring that it is integrated into both the planning and post-construction phases of development.
+Usability: The study can be used by policymakers, urban planners, and developers to rethink how green infrastructure is evaluated and prioritized in urban projects.
+Page Reference: Recommendations for assessment systems, page 182-183.
+
+9. Cross-disciplinary and Global Relevance
+The research is highly cross-disciplinary, intersecting urban planning, environmental science, and architecture. It also has global relevance, given that the assessment systems evaluated (such as LEED and BREEAM) are used internationally.
+It contributes to the broader discourse on sustainable urbanization and the role of green infrastructure in addressing global challenges like climate change, urban resilience, and biodiversity loss.
+Page Reference: Cross-disciplinary impact and relevance, page 180-181.
+
+10. Resilience and Adaptability
+Resilience: The study underscores the role of green infrastructure in making cities more resilient to climate change, particularly in mitigating the impacts of extreme weather events such as urban flooding and heat islands.
+Adaptability: It advocates for assessment systems that are flexible and adaptive, ensuring that green infrastructure can evolve as urban environments change and new challenges emerge.
+Page Reference: Resilience through green infrastructure, page 182.
+
+Conclusion:
+This study provides a thorough analysis of how built environment assessment systems currently integrate green infrastructure and offers critical insights into improving these frameworks. It advocates for multifunctional green infrastructure that delivers a range of environmental, social, and economic benefits and emphasizes the need for these systems to take a more comprehensive and long-term approach to green infrastructure integration. By addressing the gaps in current assessment practices, this research contributes to advancing sustainable urban development globally.

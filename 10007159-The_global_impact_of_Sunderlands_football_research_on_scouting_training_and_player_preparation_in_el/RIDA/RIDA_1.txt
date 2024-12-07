@@ -1,0 +1,43 @@
+Based on the analysis of the provided research paper and the predefined research impact dimensions, here is a breakdown of the research's impact across the top dimensions of research impact.
+
+1. Domains of Research Impact
+Excerpts: "The study was designed to analyze high-intensity running during elite-standard soccer matches for players in various playing positions..." (Introduction, p. 160)
+Page Reference: Introduction, p. 160
+Example: The research contributes to sports science by providing a detailed analysis of player performance, which can be utilized by coaches to develop specific training regimes for soccer players across various positions. It also holds practical implications for fitness coaches aiming to improve player endurance.
+2. Duration of Research Impact
+Excerpts: "This study offers a large dataset across multiple games and positions, providing a better average picture of high-intensity running patterns in soccer." (Results, p. 165)
+Page Reference: Results, p. 165
+Example: The long-term impact of this research lies in its ability to form a baseline for future studies on player performance and fatigue management, especially as soccer evolves in intensity and demands. The short-term impact involves immediate application in coaching practices and game strategy adjustments.
+3. Stakeholders of Research Impact
+Excerpts: "These findings provide valuable information about high-intensity running patterns of elite-standard soccer players, useful for the development and prescription of specific training regimes." (Discussion, p. 165)
+Page Reference: Discussion, p. 165
+Example: Direct stakeholders include soccer coaches, sports scientists, and professional players who can apply the insights to improve player conditioning. Indirect stakeholders include fans, team managers, and even sports broadcasters, who may gain a better understanding of performance variability across positions.
+4. Depth and Breadth of Impact
+Excerpts: "Wide midfielders cover greater distances in high-intensity running than central defenders and attackers, suggesting different endurance requirements." (Results, p. 165)
+Page Reference: Results, p. 165
+Example: The research has deep impact within sports science by providing specific data on how physical demands differ by player position. Its broader impact extends to disciplines like sports psychology, where it could influence approaches to mental conditioning based on fatigue and recovery patterns.
+5. Scalability and Transferability
+Excerpts: "Using a large sample of English FA Premier League players... offers insights applicable to other leagues and player groups." (Discussion, p. 166)
+Page Reference: Discussion, p. 166
+Example: The findings are highly scalable to other football leagues, including international competitions, and transferable to other high-intensity sports like rugby or basketball, where endurance and recovery play crucial roles.
+6. Innovation and Disruption Potential
+Excerpts: "The study presents new insights into high-intensity running patterns, which could lead to more specialized training regimes and game strategies." (Results, p. 161)
+Page Reference: Results, p. 161
+Example: This research is innovative in offering position-specific data on high-intensity performance. Its disruptive potential lies in changing how teams approach player rotation and game tactics, particularly with regards to managing fatigue across different playing positions.
+7. Sustainability and Ethical Considerations
+Excerpts: "Players' increased need for recovery after intense periods may influence team tactics and player health considerations." (Discussion, p. 167)
+Page Reference: Discussion, p. 167
+Example: The ethical consideration in this research focuses on player health and recovery. By highlighting the demands of high-intensity running, it advocates for sustainable athlete management to prevent injury and ensure long-term player welfare.
+8. Implementation and Usability
+Excerpts: "Coaches can use this information to develop player-specific training regimes and game strategies, enhancing performance across positions." (Results, p. 165)
+Page Reference: Results, p. 165
+Example: The study’s usability is high for soccer coaches and sports performance analysts, who can easily implement the findings into training sessions, game preparation, and tactical decisions. The data-driven approach makes it suitable for integration into performance software used by teams.
+9. Cross-disciplinary and Global Relevance
+Excerpts: "The results show that high-intensity running patterns in the English Premier League are comparable to those of Spanish and Italian leagues." (Discussion, p. 164)
+Page Reference: Discussion, p. 164
+Example: The global relevance of this study lies in its applicability to elite football leagues around the world. Additionally, the insights into player fatigue and recovery could cross over to other fields, such as physical therapy, fitness training, and even workplace ergonomics, where sustained high-intensity activity is relevant.
+10. Resilience and Adaptability
+Excerpts: "The study demonstrates that players' ability to perform high-intensity running is affected by position and game phase, indicating that tactical adaptations are required." (Results, p. 162)
+Page Reference: Results, p. 162
+Example: The resilience aspect of this research is reflected in how teams can adapt their strategies based on the fatigue patterns of different positions. This adaptability can lead to improved game management, particularly in high-stakes matches where physical endurance is critical.
+This breakdown follows the key dimensions of research impact and provides direct examples from the study for practical application and future research directions.
