@@ -1,0 +1,36 @@
+The attached research paper, "Counting Torture: Towards the Translation of Robust, Useful, and Inclusive Human Rights Indicators," authored by Zahid ul Arefin Choudhury, Steffen Jensen, and Tobias Kelly, focuses on creating reliable, useful, and inclusive indicators for measuring human rights violations, specifically torture. It critically addresses how human rights data are counted, emphasizing the importance of contextualizing these counts to avoid the exclusion of marginalized groups. Below is an analysis of the paper's impact across the Top 10 Research Impact Dimensions:
+
+1. Domains of Research Impact
+Excerpt: "The paper argues that torture and ill-treatment can be made to count in ways that are robust, useful, and inclusive by developing indicators embedded in locally specific practices and forms of participation" (Abstract, page 132). Section: Abstract, page 132. Example: The research impacts multiple domains:
+
+Academic: It contributes to human rights studies and social science by challenging traditional quantitative methods used to measure human rights violations.
+Social: It influences the development of human rights documentation techniques that are more inclusive of marginalized communities.
+Policy: By advocating for localized human rights indicators, the research informs future human rights policies and methodologies for more accurate data collection in low-income neighborhoods.
+2. Duration of Research Impact
+Excerpt: "In conducting the surveys, we took the widespread criticisms of attempts to count human rights violations seriously" (Introduction, page 133). Section: Introduction, page 133. Example: This research has long-term impact by setting a foundation for future human rights documentation methods. The development of participatory approaches will likely influence human rights monitoring, research, and policy development for years to come.
+
+3. Stakeholders of Research Impact
+Excerpt: "These three different surveys were conducted in collaboration with local research institutes and NGOs... in Bangladesh, we worked with the Department of Peace and Conflict Studies at the University of Dhaka" (Surveying Torture, page 137). Section: Surveying Torture, page 137. Example: Direct stakeholders include researchers and NGOs, while indirect stakeholders include marginalized communities in Dhaka, Kathmandu, and Nairobi, who benefit from the inclusive counting methods that are sensitive to their contexts. Policymakers and human rights organizations are also key beneficiaries.
+
+4. Depth and Breadth of Impact
+Excerpt: "We argue that human rights indicators must take into account the specificity of the way concepts like torture play out in particular places" (Introduction, page 133). Section: Introduction, page 133. Example: The research has deep impact within human rights documentation by reshaping the methods used to count and record violations, and broad impact as it can be applied across different geographic regions and adapted to other forms of human rights violations, beyond just torture.
+
+5. Scalability and Transferability
+Excerpt: "The principal aim was to explore methodologies, not to make inferential claims about torture and its correlates beyond individual local settings" (Surveying Torture, page 138). Section: Surveying Torture, page 138. Example: The methodologies developed in this research are scalable to other low-income or marginalized populations globally, and the indicators can be transferred to other contexts of human rights violations, allowing for broader implementation in different regions and cases.
+
+6. Innovation and Disruption Potential
+Excerpt: "The paper highlights one of the key challenges in making human rights violations count: finding ways to translate between the experiences of victims, social science forms of measurement, and human rights norms" (Introduction, page 133). Section: Introduction, page 133. Example: The research introduces innovative methodologies that combine quantitative and qualitative approaches, and disrupts traditional human rights documentation techniques by advocating for more localized and participatory approaches.
+
+7. Sustainability and Ethical Considerations
+Excerpt: "There are important ethical problems involved in carrying out such surveys... Interviewing people about torture can expose them to considerable additional risk" (Challenges of Counting Human Rights Violations, page 136). Section: Challenges of Counting Human Rights Violations, page 136. Example: The research emphasizes the importance of ethical considerations, highlighting how sensitive data collection methods must protect participants from harm, ensuring that human rights research remains sustainable and ethically sound.
+
+8. Implementation and Usability
+Excerpt: "In Nairobi, a consultant was hired to carry out the interviews developed by IMLU and the research team. Five professional enumerators were employed" (Surveying Torture, page 137). Section: Surveying Torture, page 137. Example: The research has practical implementation, as the participatory approach was directly applied in field surveys across three countries. It offers usable frameworks for human rights NGOs, local governments, and researchers in designing similar studies.
+
+9. Cross-disciplinary and Global Relevance
+Excerpt: "Human rights orientated research must pay attention to social science principles of robust measurement if it is to produce valid and reliable data about human rights violations" (Introduction, page 134). Section: Introduction, page 134. Example: The research crosses disciplinary boundaries, combining social science methodologies with human rights law, making it globally relevant for any context where human rights violations occur.
+
+10. Resilience and Adaptability
+Excerpt: "The danger is that these essentially political judgments follow a path of least resistance, and in doing so systematically exclude whole areas of activity or categories of person, particularly amongst otherwise marginalized groups" (Translating Human Rights, page 140). Section: Translating Human Rights, page 140. Example: The research emphasizes the need for resilient and adaptable human rights indicators that can be tailored to local contexts, ensuring that marginalized populations are not excluded from the data collection process.
+
+These dimensions highlight the study’s comprehensive and multidimensional impact on human rights research and policy.

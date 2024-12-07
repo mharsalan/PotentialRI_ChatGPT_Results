@@ -1,0 +1,63 @@
+Here is the detailed analysis of research impact dimensions for the study as per the "Top 10 Dimensions of Research Impact" based on the file you provided:
+
+1. Domains of Research Impact
+Excerpt: DISSECT impacts several domains, particularly quantitative genetics, human medicine, and animal breeding. The software's ability to fit complex models like MLMs allows for better prediction of complex traits in humans and other species.
+
+Section: Discussion, Page 16​(Knowledge - Potential R…).
+Example: DISSECT improves trait prediction in plant and animal breeding, which can transform both healthcare and agricultural sectors by enhancing genome-based prediction accuracy.
+
+2. Duration of Research Impact
+Excerpt: The scalability and flexibility of DISSECT ensure its continued relevance as genomic data sets grow in size, making it a tool with long-term research implications.
+
+Section: Introduction, Page 1​(Knowledge - Potential R…).
+Example: The tool’s long-term impact is evident in its potential to be continuously used as genetic data scales up globally, benefiting future research in fields like epidemiology and precision medicine.
+
+3. Stakeholder of Research Impact
+Excerpt: Stakeholders benefiting from DISSECT include researchers in genomics, medical scientists, agricultural biotechnologists, and even policymakers involved in genomic data management and privacy.
+
+Section: Acknowledgments, Page 25​(Knowledge - Potential R…).
+Example: For medical practitioners, the ability to predict phenotypes with high accuracy aids in personalized medicine, while agricultural scientists can use the tool to optimize breeding strategies.
+
+4. Depth and Breadth of Impact
+Excerpt: DISSECT demonstrates deep impact by transforming the computational approach to genetic analysis. Its breadth spans beyond academia to applied fields such as healthcare and agriculture.
+
+Section: Results, Page 9​(Knowledge - Potential R…).
+Example: In healthcare, this tool can improve diagnosis through predictive genomic models, while in agriculture, it can help improve crop and livestock resilience through genetic selection.
+
+5. Scalability and Transferability
+Excerpt: The tool is scalable, handling datasets with up to half a million individuals and hundreds of thousands of SNPs, and transferable across platforms from desktops to supercomputers.
+
+Section: Results, Page 6​(Knowledge - Potential R…).
+Example: Its scalability allows smaller labs to use it on desktops for smaller projects, and large institutions can scale it for use in genome-wide association studies (GWAS) involving vast data sets, enhancing its global applicability.
+
+6. Innovation and Disruption Potential
+Excerpt: DISSECT disrupts existing genomic analysis by overcoming computational limits, avoiding the need for approximation techniques commonly used due to memory constraints.
+
+Section: Introduction, Page 1​(Knowledge - Potential R…).
+Example: By eliminating the need for these approximations, DISSECT changes how genetic data is analyzed on large scales, especially relevant in high-stakes fields like medical genomics.
+
+7. Sustainability and Ethical Considerations
+Excerpt: The ethical implications of managing such vast amounts of genomic data are indirectly supported by DISSECT, as it promotes efficient, secure, and scalable use of sensitive data.
+
+Section: Acknowledgments, Page 25​(Knowledge - Potential R…).
+Example: By enabling more accurate genomic predictions, DISSECT can help ensure that resources are allocated effectively in healthcare and breeding, promoting sustainability in resource use.
+
+8. Implementation and Usability
+Excerpt: DISSECT offers flexibility in application, from large-scale supercomputer analyses to single-node workstation computations, making it accessible to a wide range of researchers.
+
+Section: Results, Page 6​(Knowledge - Potential R…).
+Example: Its ease of implementation in both large-scale and modest setups ensures that researchers at institutions of any size can leverage it for advanced genomic analyses.
+
+9. Cross-disciplinary and Global Relevance
+Excerpt: While initially designed for genomics, DISSECT’s ability to process large datasets could be adapted for cross-disciplinary applications, such as epidemiology, animal breeding, and pharmacogenomics.
+
+Section: Introduction, Page 16​(Knowledge - Potential R…).
+Example: Global collaborations in human health, animal genetics, and environmental genomics can be enhanced using this tool, fostering cross-disciplinary innovations.
+
+10. Resilience and Adaptability
+Excerpt: DISSECT’s ongoing development, including new functionalities such as polygenic effect adjustments, ensures that it remains adaptable to emerging research needs in genomics.
+
+Section: Discussion, Page 20​(Knowledge - Potential R…).
+Example: Its adaptability ensures that even as genomic science evolves, DISSECT will continue to provide relevant and cutting-edge computational support for future research challenges.
+
+This detailed breakdown shows how DISSECT aligns with the Top 10 Dimensions of Research Impact, making it a critical tool in genomic and computational research.

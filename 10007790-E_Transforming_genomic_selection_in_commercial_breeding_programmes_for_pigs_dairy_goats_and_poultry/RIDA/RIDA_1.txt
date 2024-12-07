@@ -1,0 +1,43 @@
+Here is the detailed analysis of the research impact dimensions based on the attached study and the provided framework for research impact dimensions:
+
+1. Domains of Research Impact (RI)
+Excerpts: The study primarily focuses on advancing computational genetics, particularly in the domain of livestock breeding. It contributes significantly to the field of genomic selection by improving methods to impute missing genotypes, which is crucial for livestock populations.
+Page Reference and Section: Results, Page 8-9​(Knowledge - Potential R…)
+Example: This research impacts the academic domain by enhancing the computational methodologies for genomic selection, helping breeders make more accurate decisions. It also crosses into the economic domain by potentially increasing livestock breeding efficiency and productivity, benefiting industries focused on agricultural development.
+2. Duration of Research Impact (RI)
+Excerpts: The hybrid method presented in this study provides both immediate and long-term impacts. The short-term impact comes from its ability to be more accurate and faster in genomic selection, while the long-term impact lies in its contribution to future research on improving imputation accuracy across various populations and species.
+Page Reference and Section: Discussion, Page 14​(Knowledge - Potential R…)
+Example: Short-term impacts include immediate improvements in livestock breeding programs, while long-term impacts will likely influence the development of genomic tools across broader biological fields.
+3. Stakeholders of Research Impact (RI)
+Excerpts: The primary stakeholders are researchers in the field of computational genetics, livestock breeders, and policymakers in agricultural sectors.
+Page Reference and Section: Background, Page 2​(Knowledge - Potential R…)
+Example: Researchers will benefit from the methodological advancements, while livestock breeders will see practical applications in improving the accuracy of their breeding programs. Policymakers can leverage these advancements to enhance food security policies.
+4. Depth and Breadth of Impact
+Excerpts: The hybrid imputation method deeply impacts the field of genetic selection by providing a more accurate imputation method. It also has broad applications across different species, including cattle, pigs, and potentially other livestock.
+Page Reference and Section: Results, Page 10-11​(Knowledge - Potential R…)
+Example: Deep impact is observed within livestock genomic selection. Broad impact occurs as the method can be adapted for other species, expanding its influence in agriculture and animal breeding industries.
+5. Scalability and Transferability
+Excerpts: The scalability of the hybrid method is demonstrated by its applicability to both small and large datasets. Its transferability is shown in its potential to be adapted for different types of livestock species.
+Page Reference and Section: Methods, Page 3​(Knowledge - Potential R…)
+Example: The method can be scaled to handle large-scale breeding programs involving thousands of animals and can be transferred across different species to enhance genomic selection globally.
+6. Innovation and Disruption Potential
+Excerpts: The study presents an innovative hybrid method that combines heuristic and probabilistic models, representing a significant advancement in genotype imputation. This innovation improves upon existing methods like AlphaImpute and MaCH.
+Page Reference and Section: Methods, Page 2-3​(Knowledge - Potential R…)
+Example: The disruption potential is evident as this method could replace slower and less accurate models, reshaping how genomic data is handled in breeding programs, making genomic selection more accessible and cost-effective.
+7. Sustainability and Ethical Considerations
+Excerpts: The study contributes to sustainability in agriculture by improving breeding efficiency, which can lead to better resource use in livestock production.
+Page Reference and Section: Discussion, Page 14​(Knowledge - Potential R…)
+Example: The method helps ensure sustainable livestock production by optimizing breeding programs, which can result in more efficient food production systems and better management of genetic resources.
+8. Implementation and Usability
+Excerpts: The hybrid method is designed to be practically implemented in breeding programs with both low- and high-density genomic data. It is user-friendly for breeders with varying access to pedigree information.
+Page Reference and Section: Results, Page 9​(Knowledge - Potential R…)
+Example: Breeding organizations can implement this method immediately to improve the accuracy of genomic predictions without the need for extensive changes in their current operations.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research has global relevance as it addresses challenges faced by livestock breeders worldwide. The methodology can be applied in various geographic regions and across species.
+Page Reference and Section: Introduction, Page 2​(Knowledge - Potential R…)
+Example: The global relevance lies in its potential use in breeding programs around the world, particularly in regions where improving livestock productivity is critical for food security.
+10. Resilience and Adaptability
+Excerpts: The hybrid method is adaptable to different types of genomic data and breeding conditions, providing resilience in diverse breeding environments.
+Page Reference and Section: Discussion, Page 15​(Knowledge - Potential R…)
+Example: The adaptability of the method makes it resilient to changes in genomic data availability, ensuring that it can be used even when full pedigree information is not available.
+This analysis provides a comprehensive view of how the study impacts various dimensions of research, from its domain-specific contributions to its broader global relevance.

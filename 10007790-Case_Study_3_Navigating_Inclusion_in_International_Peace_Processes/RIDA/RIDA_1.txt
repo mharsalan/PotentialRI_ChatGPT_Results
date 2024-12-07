@@ -1,0 +1,79 @@
+Based on the extracted content, here are the Research Impact Dimensions for the provided study, following the predefined structure:
+
+1. Domains of Research Impact (RI)
+Excerpts: The PA-X Peace Agreements Database is designed to influence several domains, including conflict resolution, governance, human rights, and peacebuilding. The ontology developed for PA-X covers critical themes like socio-economic reconstruction, land, property, environmental issues, and security sector reform (Methods, Page 457)​(1).
+
+Page Reference and Section: Methods, Page 457.
+
+Example: The database impacts academic research on peace processes by offering a comprehensive dataset of peace agreements, which contributes to the advancement of research in conflict resolution and international law. It also influences policy by providing policymakers with a detailed understanding of peace processes, potentially informing conflict mediation strategies globally.
+
+2. Duration of Research Impact (RI)
+Excerpts: PA-X provides longitudinal data covering peace agreements from 1990 to 2016. The resource is structured for both short-term impact (e.g., influencing immediate post-conflict negotiations) and long-term research applications (e.g., understanding the evolving nature of peace processes and their outcomes over decades) (Introduction, Page 452)​(1).
+
+Page Reference and Section: Introduction, Page 452.
+
+Example: The long-term impact of this database could include influencing the development of policies that prevent conflict recurrence, while short-term impacts involve its use in analyzing immediate peace process outcomes.
+
+3. Stakeholders of Research Impact (RI)
+Excerpts: PA-X’s stakeholders include researchers, mediators, policymakers, and peacebuilders, as the database is developed in consultation with these groups (Methods, Page 457). Policymakers use it to design more effective peace agreements, while researchers utilize the data to explore peace process dynamics (Results, Page 462)​(1)​(1).
+
+Page Reference and Section: Methods, Page 457; Results, Page 462.
+
+Example: Direct stakeholders include conflict mediators and policymakers who use the data for peace agreement development, while indirect stakeholders include affected communities who benefit from improved conflict resolution strategies.
+
+4. Depth and Breadth of Impact
+Excerpts: The PA-X database allows for both deep and broad analysis, offering insights into specific peace agreements while also enabling cross-case comparisons across regions and conflict types. This facilitates both specialized and wide-reaching research (Discussion, Page 462)​(1).
+
+Page Reference and Section: Discussion, Page 462.
+
+Example: Deep impact includes advancing specific theories in peace negotiations, while broad impact involves influencing multiple regions and conflict types, supporting wide-ranging policy applications.
+
+5. Scalability and Transferability
+Excerpts: The PA-X database is designed for scalability, with over 30,000 data points available for broader application in different contexts and regions. It also offers transferability, as its dataset can be adapted for use in studying a variety of conflict resolution processes worldwide (Methods, Page 457)​(1).
+
+Page Reference and Section: Methods, Page 457.
+
+Example: The dataset can be scaled to study broader peace processes globally, and its methodological framework can be transferred to other fields, such as human rights or governance research.
+
+6. Innovation and Disruption Potential
+Excerpts: PA-X is innovative in its comprehensive coding system and extensive data collection, allowing for new forms of research in peace agreements. This disrupts traditional approaches by providing a more holistic, data-driven methodology (Discussion, Page 462)​(1).
+
+Page Reference and Section: Discussion, Page 462.
+
+Example: The disruption lies in how PA-X reshapes peace process analysis by offering detailed, coded data that can fundamentally change peace agreement research.
+
+7. Sustainability and Ethical Considerations
+Excerpts: Ethical considerations are embedded in the dataset’s design, ensuring that it includes provisions for human rights and justice sector reforms. The database's focus on long-term peacebuilding aligns with sustainability by addressing root causes of conflict (Methods, Page 457)​(1).
+
+Page Reference and Section: Methods, Page 457.
+
+Example: The ethical implications of PA-X include promoting fairness and justice through its detailed tracking of transitional justice provisions, which contributes to sustainable peace efforts.
+
+8. Implementation and Usability
+Excerpts: PA-X is designed for practical use by a wide audience, including policymakers and academics. Its user-friendly coding system allows for easy extraction of relevant data, which supports its usability in real-world peacebuilding efforts (Discussion, Page 463)​(1).
+
+Page Reference and Section: Discussion, Page 463.
+
+Example: Policymakers can implement insights from PA-X to design more inclusive peace processes, while researchers can use its extensive database for academic study.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: The dataset is globally relevant, covering peace agreements from diverse regions and conflicts. It fosters cross-disciplinary research by integrating data on political, social, and economic aspects of peace processes (Methods, Page 457)​(1).
+
+Page Reference and Section: Methods, Page 457.
+
+Example: The cross-disciplinary relevance is evident in how PA-X can be used by researchers in international relations, political science, and conflict studies to address global challenges in peacebuilding.
+
+10. Resilience and Adaptability
+Excerpts: The PA-X system is designed to be adaptable to future peace agreements and changing political landscapes, allowing for updates and new entries as global conflicts evolve (Discussion, Page 462)​(1).
+
+Page Reference and Section: Discussion, Page 462.
+
+Example: Its adaptability ensures that as new peace agreements are signed, the dataset can incorporate them, making it resilient to changes in the geopolitical environment.
+
+This analysis details how the PA-X Peace Agreements Database impacts various research dimensions, offering a comprehensive tool for peace process research and policy applications.
+
+
+
+
+
+
