@@ -1,0 +1,43 @@
+Based on the provided materials, here is a detailed analysis of the research impact dimensions according to the top 10 research impact dimensions:
+
+1. Domains of Research Impact
+Excerpts: The research explores inflammation pathways in both skin and synovium, aiming at developing novel therapies, particularly focusing on TNFa, IL-1, and NF-kB cytokines in Psoriatic Arthritis (PsA) and Rheumatoid Arthritis (RA) .
+Example: The study directly impacts the healthcare domain by providing insights into the inflammatory mechanisms in PsA, which could lead to new treatment protocols for inflammatory diseases, benefitting both clinical practices and pharmaceutical development.
+Section: Results, Page 17
+2. Duration of Research Impact
+Excerpts: The study focuses on understanding long-term cytokine expression and immune responses in PsA and RA, providing a foundational basis for the future development of biologic therapies .
+Example: Long-term impact could include shaping future biologic treatments targeting TNFa and IL-1, impacting RA and PsA management strategies over decades​(Knowledge - Potential R…) .
+Section: Discussion, Page 13
+3. Stakeholders of Research Impact
+Excerpts: The research benefits a wide range of stakeholders, including rheumatologists, immunologists, pharmaceutical companies, and policymakers involved in developing biologic drugs .
+Example: Direct stakeholders: Rheumatologists and pharmaceutical industries working on biologic drugs for inflammatory diseases. Indirect stakeholders: Patients suffering from PsA and RA, who would benefit from improved treatment .
+Section: Introduction, Page 14
+4. Depth and Breadth of Impact
+Excerpts: This research has a deep impact on the field of rheumatology by advancing the understanding of PsA and RA inflammation mechanisms .
+Example: Deep impact in rheumatology through a more precise understanding of cytokine pathways, potentially revolutionizing inflammatory disease treatments .
+Section: Results, Page 18
+5. Scalability and Transferability
+Excerpts: The findings from this study on cytokine involvement in PsA and RA can be adapted for broader inflammatory conditions, beyond PsA and RA .
+Example: The study's insights into TNFa, IL-1, and NF-kB involvement could be scaled up to broader autoimmune disorders like Crohn's disease, with findings transferable to inflammatory dermatology and gastrointestinal diseases .
+Section: Methods, Page 16
+6. Innovation and Disruption Potential
+Excerpts: The research could disrupt current treatment protocols by introducing novel biologic therapies targeting IL-1 and TNFa, especially for PsA, a traditionally under-researched area compared to RA .
+Example: Disruptive potential exists if new biologic drugs derived from this research are introduced, replacing current, less effective treatments​(Knowledge - Potential R…) .
+Section: Discussion, Page 14
+7. Sustainability and Ethical Considerations
+Excerpts: The study involves ethically sourced human samples and aims at long-term sustainable treatments for chronic diseases like PsA and RA .
+Example: Sustainable impact through the development of long-term biologic treatments that minimize side effects and improve patient outcomes in chronic inflammatory diseases​(Knowledge - Potential R…).
+Section: Methods, Page 16
+8. Implementation and Usability
+Excerpts: The study's findings on cytokine expression can be directly applied in clinical trials for novel biologic treatments .
+Example: This research is immediately usable by pharmaceutical companies working on next-generation biologic drugs for PsA and RA, leading to clinical trials and subsequent drug approvals .
+Section: Discussion, Page 18
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research findings cross over to multiple fields including dermatology, rheumatology, and immunology, making it globally relevant for autoimmune research .
+Example: Global relevance is achieved as cytokine-targeting therapies could be applicable in diverse autoimmune diseases across multiple geographies, benefiting healthcare systems worldwide .
+Section: Results, Page 14
+10. Resilience and Adaptability
+Excerpts: The study is adaptable to evolving knowledge about cytokine-targeting biologic treatments and could be expanded to other inflammatory diseases​(Knowledge - Potential R…) .
+Example: Resilience: As new autoimmune conditions are researched, this foundational understanding of cytokine mechanisms in PsA and RA could be adapted to other conditions like systemic lupus erythematosus .
+Section: Methods, Page 16
+This analysis ties the study's key findings to the top 10 research impact dimensions, reflecting its broad and deep impact across healthcare, policy, and global scientific research.

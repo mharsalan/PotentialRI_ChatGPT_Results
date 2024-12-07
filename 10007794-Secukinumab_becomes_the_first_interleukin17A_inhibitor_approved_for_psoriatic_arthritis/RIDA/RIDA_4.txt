@@ -1,0 +1,84 @@
+I will now break down the "Top 10 Dimensions of Research Impact" for the provided study based on the information from the document.
+
+1. Domains of Research Impact (RI)
+Excerpts:
+
+The research focuses on the inhibition of interleukin-17A, which is linked to inflammation in patients with psoriatic arthritis. This impacts both the health domain by improving patient outcomes and the biomedical research domain by validating interleukin-17A as a therapeutic target.
+Example from the study: "Secukinumab was more effective than placebo in patients with psoriatic arthritis, validating interleukin-17A as a therapeutic target." - Discussion, page 1336.
+Example:
+
+The research contributes to medical advancements in the treatment of autoimmune diseases and could influence healthcare practices, such as the development of new therapeutic protocols.
+2. Duration of Research Impact (RI)
+Excerpts:
+
+The study suggests both short-term impacts, such as immediate improvements in patient treatment protocols, and long-term impacts in the validation of interleukin-17A as a target for future therapeutic innovations.
+Example: "Longer and larger studies will be required to assess uncommon serious adverse effects and adverse effects associated with long-term use of secukinumab." - Discussion, page 1339.
+Example:
+
+Short-term impact: Immediate changes in clinical practice for treating psoriatic arthritis.
+Long-term impact: Future research may build on these findings to develop more comprehensive treatments for autoimmune diseases.
+3. Stakeholder of Research Impact (RI)
+Excerpts:
+
+Direct stakeholders include patients with psoriatic arthritis, clinicians, and pharmaceutical companies developing treatments for autoimmune diseases.
+Example: "Patients in the secukinumab groups showed significant improvements compared to placebo, benefiting directly from the treatment." - Results, page 1336.
+Example:
+
+Patients benefit from improved treatment, while pharmaceutical companies can leverage these findings to develop new products.
+4. Depth and Breadth of Impact
+Excerpts:
+
+Deep Impact: The research provides clinical evidence that advances the treatment of psoriatic arthritis, deeply impacting the field of rheumatology and autoimmune diseases.
+Example: "Secukinumab improved the signs and symptoms of psoriatic arthritis more effectively than placebo." - Results, page 1336.
+Example:
+
+Deep impact in the field of rheumatology, influencing how autoimmune diseases are treated.
+5. Scalability and Transferability
+Excerpts:
+
+The treatment protocol for secukinumab could be scaled up to treat larger populations and potentially transferred to other autoimmune conditions.
+Example: "Secukinumab showed efficacy in improving symptoms and structural damage, which can be implemented in clinical settings." - Discussion, page 1339.
+Example:
+
+The treatment protocol could be scaled to national health systems and transferred to other diseases beyond psoriatic arthritis.
+6. Innovation and Disruption Potential
+Excerpts:
+
+The study introduces an innovative treatment by targeting interleukin-17A, a novel approach in treating psoriatic arthritis, potentially disrupting existing therapies focused on other inflammatory pathways.
+Example: "This study validates interleukin-17A as a therapeutic target, introducing a novel treatment pathway." - Discussion, page 1339.
+Example:
+
+The research offers innovative treatments for autoimmune diseases, potentially disrupting traditional therapies that target other pathways.
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+The research demonstrates ethical considerations by focusing on patient safety, including the long-term monitoring of adverse effects.
+Example: "Long-term studies are necessary to assess uncommon serious adverse events associated with secukinumab." - Discussion, page 1339.
+Example:
+
+The research aligns with ethical practices by emphasizing patient safety and the need for ongoing monitoring of adverse effects.
+8. Implementation and Usability
+Excerpts:
+
+The treatment can be implemented in clinical settings due to its proven efficacy, with usability for healthcare providers managing psoriatic arthritis.
+Example: "Improvements were sustained through 52 weeks, making the treatment viable for long-term use in clinical practice." - Results, page 1336.
+Example:
+
+Clinicians can easily implement the secukinumab treatment for patients with psoriatic arthritis, demonstrating strong usability in medical practice.
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+The research has cross-disciplinary relevance, integrating immunology, rheumatology, and pharmaceutical sciences to develop a therapeutic approach.
+Example: "This study validates interleukin-17A as a therapeutic target, which could have implications across multiple autoimmune diseases." - Discussion, page 1339.
+Example:
+
+The findings are relevant across disciplines, with implications for treating various autoimmune diseases globally.
+10. Resilience and Adaptability
+Excerpts:
+
+The treatment has resilience due to its ability to improve long-term patient outcomes and can be adapted for use in other autoimmune conditions.
+Example: "Further studies are required to explore the long-term efficacy and safety of secukinumab." - Discussion, page 1339.
+Example:
+
+The research is adaptable to changing medical landscapes and can influence future treatment developments for autoimmune diseases.
+These analyses provide a comprehensive view of the research impact dimensions for the study.

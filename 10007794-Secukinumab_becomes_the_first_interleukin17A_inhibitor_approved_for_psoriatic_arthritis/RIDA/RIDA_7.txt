@@ -1,0 +1,86 @@
+Based on the details extracted from the research paper on Secukinumab and its clinical trial results for patients with Psoriatic Arthritis (PsA), the following analysis highlights the research's impact across the top 10 dimensions of research impact:
+
+1. Domains of Research Impact (RI)
+Excerpts:
+
+"Secukinumab provided sustained improvements in signs and symptoms in active PsA patients through 52 weeks. High acceptability of autoinjector was observed" (Results, page 3).
+"The safety profile was consistent with that reported previously" (Discussion, page 10).
+Page Reference: Results, page 3; Discussion, page 10.
+
+Example: The research contributes to the health domain, specifically advancing treatment in immunology by providing new clinical evidence for the treatment of Psoriatic Arthritis through autoinjector technology, impacting patient care and therapeutic delivery methods.
+
+2. Duration of Research Impact (RI)
+Excerpts:
+
+"Secukinumab provided sustained improvements in signs and symptoms in active PsA patients through 52 weeks" (Results, page 3).
+"Secukinumab administration by autoinjector maintains reduction of plaque psoriasis severity over 52 weeks" (Discussion, page 10).
+Page Reference: Results, page 3; Discussion, page 10.
+
+Example: The long-term impact is seen in the sustained treatment effects over 52 weeks, indicating foundational knowledge for future therapies in chronic inflammatory diseases like PsA.
+
+3. Stakeholders of Research Impact
+Excerpts:
+
+"The study aimed to assess 52-week efficacy and safety of secukinumab self-administration by autoinjector in patients with active PsA" (Methods, page 3).
+Page Reference: Methods, page 3.
+
+Example: The direct stakeholders include patients and healthcare providers who benefit from improved treatment methods. Indirect stakeholders are policy makers and pharmaceutical companies responsible for integrating such therapies into healthcare systems.
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+"Secukinumab provided sustained improvements in the signs and symptoms in active PsA patients through 52 weeks" (Results, page 3).
+"High acceptability of autoinjector was observed" (Discussion, page 10).
+Page Reference: Results, page 3; Discussion, page 10.
+
+Example: The deep impact is observed in the clinical efficacy and safety of Secukinumab, while broad impact extends across chronic inflammatory conditions treated with biologics, influencing multiple fields including dermatology and rheumatology.
+
+5. Scalability and Transferability
+Excerpts:
+
+"Autoinjector usability was evaluated by Self-Injection Assessment Questionnaire (SIAQ)" (Methods, page 3).
+Page Reference: Methods, page 3.
+
+Example: The technology behind the autoinjector can be scaled globally for other self-administration treatments, and the results are transferable to different types of autoimmune diseases where self-injection is practical.
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+"High acceptability of autoinjector was observed" (Discussion, page 10).
+Page Reference: Discussion, page 10.
+
+Example: The introduction of the autoinjector represents a significant innovation in patient-directed care, simplifying drug administration for chronic diseases and disrupting traditional delivery methods by empowering patients to self-administer treatment.
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"Secukinumab was well tolerated with no new or unexpected safety signals reported" (Results, page 3).
+Page Reference: Results, page 3.
+
+Example: This study demonstrates sustainability in healthcare by promoting a treatment option that improves patient autonomy and reduces the need for frequent clinical visits, addressing ethical concerns in long-term patient management.
+
+8. Implementation and Usability
+Excerpts:
+
+"SIAQ results showed that more than 93% of patients were satisfied/very satisfied with autoinjector usage" (Results, page 3).
+Page Reference: Results, page 3.
+
+Example: The high usability of the autoinjector ensures that it can be easily implemented in clinical practice, allowing patients to self-administer the medication effectively and with high satisfaction.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"Secukinumab provided sustained improvements in the signs and symptoms in active PsA patients through 52 weeks" (Results, page 3).
+Page Reference: Results, page 3.
+
+Example: The research has global relevance, as PsA affects populations worldwide, and cross-disciplinary insights from rheumatology, dermatology, and immunology contribute to comprehensive treatment strategies across healthcare systems.
+
+10. Resilience and Adaptability
+Excerpts:
+
+"High acceptability of autoinjector was observed" (Discussion, page 10).
+Page Reference: Discussion, page 10.
+
+Example: The adaptability of the self-injection method demonstrates resilience in patient treatment paradigms, allowing patients flexibility in managing their condition even during pandemics or limited access to healthcare providers.
+
+These detailed analyses show how the study impacts various dimensions of research impact, from advancing clinical knowledge to practical implications in patient care.

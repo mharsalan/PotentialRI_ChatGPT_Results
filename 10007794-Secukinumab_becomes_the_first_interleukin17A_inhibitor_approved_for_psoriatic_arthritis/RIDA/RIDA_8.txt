@@ -1,0 +1,43 @@
+Based on the detailed analysis of the provided document, the following impacts for the research on "Secukinumab versus Adalimumab for treatment of active Psoriatic Arthritis (EXCEED)" are assessed across the Top 10 Dimensions of Research Impact.
+
+1. Domains of Research Impact (RI)
+Excerpts: "This trial addresses an important gap in knowledge that informs the initiation of biological treatment in patients with psoriatic arthritis in the context of biological monotherapy." - Results, page 1504.
+Example: The study impacts the health domain by contributing valuable data on treatments for Psoriatic Arthritis, aiding healthcare professionals and influencing treatment guidelines. It also crosses into the policy domain, guiding clinical decision-making for future biological treatments.
+Page Reference and Section: Discussion, Page 1504​(8)
+2. Duration of RI
+Excerpts: "Secukinumab was associated with a higher treatment retention rate than was adalimumab and provided numerically higher clinical responses across musculoskeletal endpoints, skin endpoints, and composite indices at week 52."
+Example: This research has a short-term impact by providing immediate insights for clinicians managing psoriatic arthritis, and long-term impact by shaping future studies and treatments targeting musculoskeletal and skin responses to biological treatments.
+Page Reference and Section: Results, Page 1505​(8)
+3. Stakeholder of RI
+Excerpts: "The results of the pre-specified sensitivity analysis also showed higher ACR20 response rates at week 52 versus adalimumab."
+Example: Key stakeholders include healthcare professionals who directly use this data to treat patients, policymakers who shape healthcare policies around arthritis treatments, and patients who benefit from improved treatment options for Psoriatic Arthritis.
+Page Reference and Section: Discussion, Page 1504​(8)
+4. Depth and Breadth of Impact
+Excerpts: "Secukinumab provided numerically higher clinical responses across musculoskeletal endpoints, skin endpoints, and composite indices."
+Example: The research has a deep impact in rheumatology and dermatology, specifically advancing knowledge on treatments for psoriatic arthritis, and a broad impact as it influences multidisciplinary practices across dermatology, rheumatology, and immunology.
+Page Reference and Section: Results, Page 1504​(8)
+5. Scalability and Transferability
+Excerpts: "Secukinumab offers a more robust proposition to manage the entirety of the clinical manifestations of patients with psoriatic arthritis."
+Example: This study's findings on secukinumab's effectiveness can be scaled to different populations globally, and transferred to treatments for other inflammatory diseases beyond psoriatic arthritis.
+Page Reference and Section: Results, Page 1504​(8)
+6. Innovation and Disruption Potential
+Excerpts: "IL-17A inhibitors could offer a more robust proposition to manage the entirety of the clinical manifestations of patients with psoriatic arthritis."
+Example: This research demonstrates innovation by offering new insights into IL-17A inhibitors and disruption potential by challenging current TNF inhibitor treatments, possibly leading to a paradigm shift in psoriatic arthritis management.
+Page Reference and Section: Results, Page 1504​(8)
+7. Sustainability and Ethical Considerations
+Excerpts: "The study was fully blinded, minimising the potential bias and effect of knowledge of treatment allocation on reporting of outcomes."
+Example: The ethical design of this study ensures sustainability of trust in clinical trial results, promoting long-term ethical standards in psoriatic arthritis research.
+Page Reference and Section: Discussion, Page 1504​(8)
+8. Implementation and Usability
+Excerpts: "The results provide a large volume of comparative efficacy and safety data on two biological agents."
+Example: The data generated in this study has high usability in clinical settings for rheumatologists and dermatologists to implement in treatment plans for psoriatic arthritis.
+Page Reference and Section: Discussion, Page 1505​(8)
+9. Cross-disciplinary and Global Relevance
+Excerpts: "Head-to-head trials are crucial for guiding clinical decision making in psoriatic arthritis after csDMARD failure."
+Example: This research is globally relevant across disciplines like dermatology, rheumatology, and immunology, helping specialists worldwide decide on treatments for psoriatic arthritis.
+Page Reference and Section: Discussion, Page 1504​(8)
+10. Resilience and Adaptability
+Excerpts: "Secukinumab and adalimumab... showed consistent results with previous reports, demonstrating robustness of the study outcomes."
+Example: The research's findings are resilient, maintaining relevance even as new therapies emerge, and adaptable to future updates in psoriatic arthritis treatment.
+Page Reference and Section: Discussion, Page 1504​(8)
+This structured impact analysis provides a comprehensive view of how the EXCEED study contributes across multiple dimensions of research impact.

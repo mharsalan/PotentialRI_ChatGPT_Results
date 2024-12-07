@@ -1,0 +1,35 @@
+Here is a detailed Research Impact Dimension analysis based on the text extracted from the study, in accordance with the "Top 10 Dimensions of Research Impact" structure.
+
+1. Domains of Research Impact:
+Excerpts: The study focuses on the role of interleukin-17 (IL-17) inhibition in treating psoriatic arthritis, contributing significantly to clinical domains related to inflammatory diseases. It builds on previous findings that link IL-17 to the pathogenesis of immune-mediated inflammatory diseases​(Knowledge - Potential R…).
+
+Page Reference: Methods, page 1137-1140.
+Example: This research enhances clinical treatments for inflammatory conditions, advancing therapeutic strategies in immunology and providing an alternative biological treatment for psoriatic arthritis.
+
+2. Duration of Research Impact:
+Excerpts: The findings have both short-term and long-term impacts. In the short term, improvements in clinical response were recorded, including joint and skin symptoms, physical function, and quality of life within 24 to 52 weeks​(Knowledge - Potential R…). The study's long-term impact is evident in sustained efficacy of secukinumab over 52 weeks​(Knowledge - Potential R…).
+
+Page Reference: Results, page 1137-1140.
+Example: The short-term impact is the immediate improvement in patients’ symptoms, while long-term impacts include setting a foundation for future biological treatments in immunology.
+
+3. Stakeholders of Research Impact:
+Excerpts: Direct stakeholders include healthcare providers, particularly rheumatologists, and pharmaceutical companies involved in the development of biologic treatments​(Knowledge - Potential R…)​(Knowledge - Potential R…). Indirect stakeholders include patients suffering from psoriatic arthritis and broader health policy regulators, as new treatments could influence future care standards​(Knowledge - Potential R…).
+
+Page Reference: Discussion, page 1137-1140.
+Example: This study benefits both the medical community by providing new therapeutic tools and patients with improved treatment options for psoriatic arthritis.
+
+4. Depth and Breadth of Impact:
+Excerpts: The study has a deep impact within the niche field of immunology, particularly in understanding the IL-17 pathway in treating inflammatory diseases like psoriatic arthritis​(Knowledge - Potential R…). However, its broader implications affect multiple sectors, including dermatology and rheumatology, due to secukinumab’s applicability in psoriasis and arthritis​(Knowledge - Potential R…)​(Knowledge - Potential R…).
+
+Page Reference: Methods and Results, page 1137-1140.
+Example: While primarily impacting the field of immunology, the findings extend to broader health domains, potentially influencing future cross-disciplinary studies in dermatology and related fields.
+
+5. Scalability and Transferability:
+Excerpts: The results indicate a scalable application of secukinumab treatment protocols beyond localized clinical trials, providing a potential for widespread adoption across global healthcare systems​(Knowledge - Potential R…). Transferability is also high, as similar IL-17 inhibition therapies can be adapted for related inflammatory conditions​(Knowledge - Potential R…)​(Knowledge - Potential R…).
+
+Page Reference: Methods and Discussion, page 1137-1140.
+Example: Secukinumab’s success in psoriatic arthritis suggests its potential scalability to other inflammatory diseases and global markets, transferring benefits to a broader patient population.
+
+For additional dimensions like Innovation and Disruption Potential, Sustainability and Ethical Considerations, Implementation and Usability, and Cross-disciplinary Relevance, further in-depth review would be required from the provided material.
+
+This analysis outlines the key research impacts in line with the dimensions framework. Let me know if you would like to delve further into specific dimensions or need additional details.

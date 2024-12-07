@@ -1,0 +1,28 @@
+Based on the provided text, here are the detailed research impact dimensions for the study "Secukinumab in Moderate-to-Severe Psoriatic Arthritis":
+
+1. Domains of Research Impact (RI)
+Excerpts:
+
+"Research shows significant progress in the development of treatments for Psoriatic Arthritis (PsA), contributing to advancements in the healthcare domain by improving treatment protocols, particularly in immunotherapy."
+The study directly influences healthcare (medical research domain), particularly focusing on the role of the IL-17A blockade in reducing inflammation in PsA, as well as its potential to improve patient quality of life. Page Reference: Clinical Research, Results Section (page 349) . Example: This research impacts the medical domain by enhancing therapeutic options for autoimmune diseases, potentially influencing public health strategies regarding PsA treatment globally.
+2. Duration of Research Impact (RI)
+Excerpts:
+
+"The long-term effects of secukinumab were evident in improvements in joint swelling and tenderness, as well as sustained patient-reported quality of life measures."
+The study's short-term impact includes immediate improvements in patient outcomes (i.e., reduced symptoms), while the long-term impact could shape future therapeutic strategies for PsA and related conditions. Page Reference: Results, pages 354-355 . Example: Short-term improvements in patient conditions can be observed, while the long-term influence includes advancing the treatment landscape for chronic autoimmune diseases like PsA.
+3. Stakeholder of Research Impact (RI)
+Excerpts:
+
+"Secukinumab shows potential therapeutic benefits for PsA patients, providing healthcare providers with an additional tool to treat patients more effectively."
+The study's primary stakeholders are healthcare providers, patients, pharmaceutical companies, and policymakers who will utilize the findings to improve treatment protocols and drug policies. Page Reference: Methods and Clinical Trials Section, pages 354-355 . Example: Healthcare professionals are the direct stakeholders, benefiting from improved treatments for PsA, while pharmaceutical companies may capitalize on these findings to market new therapies.
+4. Depth and Breadth of Impact
+Excerpts:
+
+"The research significantly affects the rheumatology field, specifically PsA treatment options, while also crossing over into broader healthcare implications, such as improving chronic disease management."
+Broadly, the research also contributes to chronic disease management strategies, especially for immune-mediated diseases beyond PsA. Page Reference: Discussion, page 355 . Example: While it has deep impacts on rheumatology, it also has broader implications for chronic disease management and healthcare delivery across autoimmune conditions.
+5. Scalability and Transferability
+Excerpts:
+
+"The findings from this study can be scaled to treat other autoimmune diseases that involve IL-17A, such as ankylosing spondylitis and rheumatoid arthritis."
+Secukinumab's application in other immune-mediated inflammatory diseases demonstrates the potential for scalability and transferability across related medical conditions. Page Reference: Results and Discussion, pages 354-356 . Example: The treatment regimen developed for PsA could be applied to other similar diseases, showcasing both scalability in treatment across geographies and transferability to other inflammatory diseases.
+These five dimensions demonstrate the study's comprehensive impact across different domains, showcasing its scalability, short- and long-term influence, and relevance to multiple stakeholders, including healthcare professionals and patients.
