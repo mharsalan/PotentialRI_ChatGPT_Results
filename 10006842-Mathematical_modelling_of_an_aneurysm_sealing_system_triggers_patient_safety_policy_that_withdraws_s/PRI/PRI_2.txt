@@ -1,0 +1,41 @@
+Based on the study "Deformation and dynamic response of abdominal aortic aneurysm sealing" and aligning with the predefined research impact dimensions, here are the potential research impacts identified:
+
+1. Domains of Research Impact:
+Health Domain: The study has a direct impact on healthcare by improving understanding of the mechanics of endovascular aneurysm sealing (EVAS), which could lead to better patient outcomes through more reliable treatment protocols for abdominal aortic aneurysms (AAA).
+Technological Domain: The research contributes to medical device innovation, particularly in the development of endovascular sealing devices, improving their performance and longevity.
+Academic Domain: The study advances academic knowledge in the fields of biomechanics and vascular surgery, creating a foundation for future research on aneurysm treatment technologies​(Common Research Impact …)​(Research Impact Knowled…).
+2. Duration of Research Impact:
+Short-term Impact: The study provides immediate insights for surgeons and healthcare providers regarding the risks associated with EVAS, potentially influencing post-operative care and patient monitoring practices.
+Long-term Impact: Over time, this research could significantly influence the design of future EVAS devices, improving their safety and effectiveness for a broad patient population​(impact pathway)​(Research impact toolkit).
+3. Stakeholder of Research Impact:
+Healthcare Providers: Vascular surgeons and healthcare professionals directly benefit from the improved understanding of the dynamic forces affecting aneurysm sealing, aiding in better patient management.
+Medical Device Manufacturers: The research impacts medical device companies by providing critical data that can inform the design of next-generation aneurysm sealing technologies.
+Patients: The indirect stakeholders, patients, benefit from safer and more durable aneurysm treatments, reducing the risk of post-surgical complications​(Common Research Impact …)​(Research impact toolkit).
+4. Depth and Breadth of Impact:
+Deep Impact: Within the field of vascular surgery and biomechanics, the study introduces a detailed model of dynamic response in EVAS, potentially transforming how experts approach aneurysm treatment.
+Broad Impact: The findings have implications across multiple domains, including medical device innovation and biomedical engineering, and could influence related technologies such as other vascular prostheses​(Common Research Impact …)​(impact pathway)​(Research Impact Knowled…).
+5. Scalability and Transferability:
+Scalability: The research findings can be scaled up to apply to a broader population of patients undergoing EVAS treatments worldwide, influencing global medical practices.
+Transferability: The biomechanical models developed could be transferred to other types of vascular prostheses or medical devices that rely on dynamic interaction with the human body​(impact pathway)​(Research Impact Knowled…).
+6. Innovation and Disruption Potential:
+Innovation: The study introduces novel biomechanical models that quantify how dynamic forces impact EVAS, providing new insights into the interaction between the device and the human body.
+Disruption: The research challenges existing assumptions about endograft stability, potentially disrupting current device design paradigms and leading to more advanced, long-lasting aneurysm treatments​(Common Research Impact …)​(impact pathway).
+7. Sustainability and Ethical Considerations:
+Sustainability: By improving the durability of EVAS devices, the research promotes more sustainable healthcare solutions, reducing the need for repeat procedures and minimizing long-term healthcare costs.
+Ethical Considerations: The study emphasizes the ethical responsibility of ensuring that medical devices used for aneurysm sealing are safe and reliable, potentially reducing patient complications​(Research impact toolkit)​(Research Impact Knowled…).
+8. Implementation and Usability:
+The findings can be implemented in clinical practice by improving post-operative monitoring and treatment strategies for patients undergoing EVAS. The usability of these findings lies in their practical application in surgical protocols and device design​(Common Research Impact …)​(Research Impact Knowled…).
+9. Cross-disciplinary and Global Relevance:
+The study integrates knowledge from vascular surgery, biomechanics, and medical device engineering, and its findings are relevant on a global scale, particularly in countries where endovascular aneurysm repair is widely practiced​(Common Research Impact …)​(impact pathway).
+10. Resilience and Adaptability:
+By focusing on the dynamic forces affecting aneurysm sealing, the study promotes the development of more resilient medical devices that can withstand the challenges of everyday life, potentially reducing the risk of failure or complications​(impact pathway)​(Research impact toolkit).
+Additional Potential Impacts:
+Economic Impact: The development of improved EVAS devices could reduce healthcare costs by lowering the incidence of complications and reoperations, leading to more efficient healthcare systems.
+Public Awareness and Education: The study could contribute to public education on the risks associated with aneurysm treatments and the importance of device longevity for patient outcomes​(Common Research Impact …)​(Research impact toolkit).
+In conclusion, this study holds significant potential to impact multiple dimensions of healthcare, technology, and patient outcomes, making it a valuable contribution to both the academic community and practical medical applications.
+
+
+
+
+
+

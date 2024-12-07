@@ -1,0 +1,42 @@
+Based on the detailed reading of the study and integrating knowledge from research impact frameworks, I will now outline potential research impacts for the study, aligning with recognized dimensions of research impact as described in your uploaded materials.
+
+1. Academic Impact
+Contribution to Knowledge: The study introduces innovative ways of interpreting "cost as information" within the construction industry. It enhances the academic discourse on supply chain management, cost accounting, and project management, influencing further research in construction economics.
+Methodological Advances: The research suggests improved frameworks for incorporating cost data into operational processes, potentially influencing future studies on construction practices and cost estimation methodologies.
+2. Economic Impact
+Cost Optimization: By proposing a more integrated and transparent approach to handling cost information, this research could reduce inefficiencies in construction projects, leading to significant cost savings and increased profitability for construction firms.
+Enhanced Competitiveness: The findings have implications for construction firms seeking competitive advantages by refining how cost information is used to improve project delivery and resource management.
+Long-term Financial Benefits: If adopted, the proposed improvements could lead to long-term financial sustainability in construction projects through better resource allocation and cost controls.
+3. Environmental Impact
+Sustainability through Efficiency: Optimizing cost information can lead to more efficient use of resources in construction projects, indirectly promoting sustainability by reducing waste and improving energy efficiency on job sites.
+4. Social and Cultural Impact
+Improved Work Conditions: By better aligning cost data with actual work processes, the study has the potential to improve job site conditions for workers, ensuring that labor is adequately represented in cost calculations and decision-making.
+5. Policy Influence
+Influence on Construction Regulations: The research’s insights into more accurate cost reporting could shape new regulations or guidelines for cost estimation in the construction industry, particularly in public-sector projects where transparency is crucial.
+Informed Policymaking: The study’s results could inform policymakers on the importance of cost transparency and management practices in achieving large-scale infrastructure goals, impacting policy frameworks for construction management.
+6. Technological Advancement
+Integration with BIM Systems: The study advocates for the integration of improved cost data models into digital tools like Building Information Modelling (BIM). This could lead to technological innovations in construction project management software, offering new functionalities for cost optimization and control.
+7. Quality Improvement and Efficiency
+Operational Efficiency: By streamlining how cost information is handled, the study contributes to enhanced efficiency in construction projects. Better cost management could lead to faster project completion times and higher-quality outcomes, reducing project overruns.
+Improved Decision-Making: Providing more accurate cost information enables more informed decisions by project managers, leading to improved quality in construction practices and project delivery.
+8. Stakeholder Impact
+Direct Stakeholders: The study directly impacts construction professionals, including contractors, subcontractors, and cost managers, by providing insights into how cost data can be better used to improve project outcomes.
+Indirect Stakeholders: Clients and the public, particularly those involved in large infrastructure projects, would benefit from more cost-efficient projects and improved transparency in how public funds are allocated.
+9. Implementation and Usability
+Practical Applications in Construction: The findings are highly implementable, especially in firms seeking to adopt digital solutions like BIM. The research’s focus on practical cost management models makes it usable for construction firms looking to improve their cost estimation and reporting processes.
+10. Cross-disciplinary and Global Relevance
+Broader Application: Although focused on construction, the study’s approach to cost management could be adapted for use in other industries, such as manufacturing or logistics, where cost transparency and resource management are equally critical.
+Global Significance: The issues addressed in the study are universally relevant across construction projects worldwide, offering insights that could influence construction practices and policies in different geographic regions.
+11. Innovation and Disruption Potential
+Disruptive Innovation in Cost Accounting: The study challenges traditional costing methods in construction, proposing a shift towards more integrated cost management systems that capture the true costs of labor and materials in real-time.
+Innovation in Supply Chain Management: By emphasizing the role of cost data in supply chain processes, the research opens up new avenues for improving construction supply chains through better cost transparency and communication.
+12. Behavioral Change
+Change in Cost Reporting Practices: The study’s emphasis on aligning cost data with real-world work processes could encourage behavioral changes within construction firms, leading to more accurate and timely cost reporting.
+13. Equity and Inclusivity
+Improved Labor Representation: The research could promote more equitable cost practices by ensuring that labor costs are more accurately represented in construction estimates, potentially reducing worker exploitation and improving working conditions.
+14. Monitoring and Surveillance
+Enhanced Project Monitoring: The integration of cost information into digital management systems like BIM could lead to more effective project monitoring, allowing managers to track costs in real time and make adjustments to improve project efficiency.
+15. Risk Reduction and Safety Improvement
+Reduced Financial Risks: By providing clearer cost information, the study reduces the risk of project cost overruns, which is a significant challenge in large construction projects.
+Improved Safety through Efficiency: Efficient cost management could lead to better resource allocation, ensuring that safety measures are adequately funded and implemented throughout construction projects.
+This list aligns the study with various dimensions of research impact, showcasing its wide-reaching potential across academia, industry, policy, and society.

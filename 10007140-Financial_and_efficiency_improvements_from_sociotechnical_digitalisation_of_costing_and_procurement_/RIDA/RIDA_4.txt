@@ -1,0 +1,63 @@
+Detailed Research Impact Dimensions for "Ordering in Disguise: Digital Integration in Built-Environment Practices"
+Domains of Research Impact (RI)
+Excerpts:
+
+“The paper focuses on the socio-technical aspects of building information modeling (BIM) and digital integration in the built environment, particularly its organizational and management impacts.” (Introduction, page 1)
+“This study has implications for organizational management, socio-technical studies, technology policy, and interdisciplinary design practices.” (Discussion, page 15)
+Example: The research crosses traditional boundaries by influencing domains such as organizational management (how digital systems reshape organizational practices) and technology policy (guiding policy-making on digital integration and BIM systems in the construction industry).
+
+Duration of Research Impact (RI)
+Excerpts:
+
+“The findings contribute to ongoing debates in BIM adoption, and suggest the need for a long-term approach to digital integration in organizational practices.” (Discussion, page 15)
+Example: The study provides a foundation for future organizational and technology research, particularly in the long-term restructuring of interdisciplinary design practices. The long-term impact is seen in how BIM could drive systematic organizational changes in construction.
+
+Stakeholder of Research Impact (RI)
+Excerpts:
+
+“Practitioners, managers, and policymakers are identified as key stakeholders who can benefit from the insights provided by this research.” (Methods, page 12)
+Example: Direct stakeholders include practitioners and managers in construction firms who will apply the insights to improve design coordination and integration practices. Indirect stakeholders are policymakers who will use the findings to shape technology regulations in the built environment.
+
+Depth and Breadth of Impact
+Excerpts:
+
+“The analysis of simplification and systematization in digital integration has deep implications for understanding the interdisciplinary design process in complex projects.” (Results, page 13)
+Example: The deep impact lies in its potential to change organizational practices within the construction and design sectors by showing how BIM alters interactions at the design level. The research has broad impact as it applies across multiple industries, such as engineering, architecture, and project management.
+
+Scalability and Transferability
+Excerpts:
+
+“The findings suggest that the model can be scaled across projects of different sizes and complexities, provided that adaptation mechanisms for digital integration are in place.” (Discussion, page 14)
+Example: The study’s model of digital integration is scalable to larger construction projects and transferable to other industries that rely on complex, interdisciplinary collaboration, such as manufacturing or urban planning.
+
+Innovation and Disruption Potential
+Excerpts:
+
+“Digital integration fundamentally changes the dynamics of interdisciplinary design practices, leading to a potential disruption in traditional workflows.” (Discussion, page 15)
+Example: The research introduces innovative approaches to BIM that streamline communication and coordination, while disrupting traditional organizational practices by enforcing a more rigid, technology-driven approach to design collaboration.
+
+Sustainability and Ethical Considerations
+Excerpts:
+
+“The findings suggest that digital integration leads to resource efficiencies, although care must be taken to address the social implications of replacing human agency with automated processes.” (Results, page 12)
+Example: The research highlights the sustainability benefits of BIM in reducing resource wastage through better coordination, but raises ethical concerns about technology’s impact on human roles in the workplace.
+
+Implementation and Usability
+Excerpts:
+
+“Challenges of usability were observed in how practitioners struggled to integrate BIM into their everyday tasks due to its rigidity and unresponsiveness.” (Methods, page 12)
+Example: The study directly addresses implementation challenges by showcasing how BIM is not fully adaptable to real-world practices, which affects its usability in interdisciplinary projects.
+
+Cross-disciplinary and Global Relevance
+Excerpts:
+
+“The findings are relevant not only in the UK but also in global contexts where digital integration in construction is gaining traction.” (Introduction, page 1)
+Example: The research’s global relevance is evident as BIM is increasingly adopted worldwide, influencing cross-disciplinary work across architecture, engineering, and project management in many countries.
+
+Resilience and Adaptability
+Excerpts:
+
+“The ongoing adaptations made by practitioners suggest that flexibility and resilience are necessary for successful digital integration in complex projects.” (Results, page 13)
+Example: The findings indicate the need for resilience in organizational structures to cope with the challenges posed by rigid digital systems, and highlight the importance of adaptability in ensuring the success of BIM across various projects.
+
+These dimensions illustrate the multi-faceted impact of this research on both practice and policy in the built-environment sector, particularly through BIM and digital integration practices.

@@ -1,0 +1,38 @@
+Based on the provided study and the impact frameworks from the documents, here are the potential research impacts categorized by dimension. These impacts align with established principles for research evaluation and societal benefit.
+
+1. Domains of Research Impact (RI)
+Academic Domain: This study contributes significantly to the academic domain by advancing the understanding of knowledge management (KM) in the construction industry, particularly through its development of the Knowledge Event Management (KEM) system. It introduces a novel framework that could reshape teaching and future research within construction management programs​(Knowledge - Potential R…)​(Common Research Impact …).
+Economic Domain: The study has economic impact through its potential to enhance decision-making in construction, leading to more efficient project management, cost reductions, and productivity improvements​(impact pathway).
+Social Domain: By improving knowledge transfer and decision-making in construction, the research could lead to social benefits such as more effective infrastructure development, which impacts communities through safer, faster, and more sustainable projects​(impact pathway)​(Research impact toolkit).
+Technological Domain: The KEM system offers technological innovation in managing construction knowledge, making decision-making processes more effective and adaptive to on-site changes​(Common Research Impact …).
+2. Duration of Research Impact (RI)
+Short-term Impacts: The immediate implementation of the KEM system in the construction sector can offer rapid improvements in project decision-making and knowledge integration​(Research impact toolkit).
+Long-term Impacts: Over time, the study has the potential to reshape how knowledge management is handled in construction and other industries that deal with complex, large-scale operations​(Knowledge - Potential R…). It could influence educational curricula and long-term industry standards​(Common Research Impact …)​(Research Impact Knowled…).
+3. Stakeholders of Research Impact (RI)
+Direct Stakeholders: These include construction professionals, project managers, and decision-makers within organizations who will directly benefit from the new KM practices​(Research impact toolkit).
+Indirect Stakeholders: Researchers, educators, and future professionals in the KM and construction management fields will benefit indirectly from this research as it influences academic theory and industry practices​(impact pathway).
+4. Depth and Breadth of Impact
+Deep Impact: The research offers deep impact within the construction industry by fundamentally improving KM practices, thus changing how projects are managed​(Knowledge - Potential R…)​(impact pathway).
+Broad Impact: The principles of knowledge integration and management offered by this research have broad applications across various sectors, including engineering, manufacturing, and healthcare, where knowledge transfer plays a critical role in decision-making​(Research Impact Knowled…).
+5. Scalability and Transferability
+Scalability: The KM system can be scaled to larger construction projects or even entire national infrastructures, improving project delivery and management on a global scale​(Common Research Impact …).
+Transferability: While developed for construction, the KEM system has potential applications in other industries such as healthcare, logistics, and engineering, where complex knowledge management is essential​(impact pathway)​(Research Impact Knowled…).
+6. Innovation and Disruption Potential
+Innovation: The research introduces a new KM methodology integrating thinking and doing, which could transform traditional knowledge management approaches in the construction sector​(impact pathway)​(Research Impact Knowled…).
+Disruption: This innovative approach has the potential to disrupt existing KM systems by offering a more agile and responsive method for managing project knowledge​(Knowledge - Potential R…)​(Research Impact Knowled…).
+7. Sustainability and Ethical Considerations
+Sustainability: By improving decision-making and reducing inefficiencies, the research indirectly promotes environmental sustainability in construction projects, minimizing waste and optimizing resource use​(Common Research Impact …)​(impact pathway).
+Ethical Considerations: The ethical use of the KEM system in promoting responsible and transparent decision-making aligns with industry goals for ethical project management​(impact pathway).
+8. Implementation and Usability
+Practical Application: The KEM system can be readily implemented in construction firms to improve decision-making processes with little need for major system changes​(Research impact toolkit)​(Research Impact Knowled…).
+Usability: It is designed to be user-friendly, allowing construction professionals to integrate it into their daily operations seamlessly​(Research Impact Knowled…).
+9. Cross-disciplinary and Global Relevance
+The research is cross-disciplinary by nature, integrating fields such as knowledge management, construction engineering, and decision sciences​(Research Impact Knowled…).
+It has global relevance, particularly in regions with large infrastructure projects, where the efficient management of knowledge is critical for project success​(Research impact toolkit).
+10. Resilience and Adaptability
+The KEM system’s adaptability to different types of construction projects and environments ensures its resilience in changing industry conditions​(impact pathway)​(Research Impact Knowled…).
+Additional Potential Impacts:
+Educational Impact: The research can influence construction management curricula, providing new frameworks for teaching decision-making and KM​(Research impact toolkit).
+Policy Influence: This study could inform industry policies related to project management, potentially setting new standards for knowledge use and transfer​(Research Impact Knowled…).
+Economic Return on Investment: Enhanced decision-making in construction could lead to substantial economic benefits, including cost savings and increased project efficiency​(Common Research Impact …).
+These research impacts cover a wide spectrum of domains and have the potential to create both immediate and long-term benefits for various stakeholders, industries, and global practices.

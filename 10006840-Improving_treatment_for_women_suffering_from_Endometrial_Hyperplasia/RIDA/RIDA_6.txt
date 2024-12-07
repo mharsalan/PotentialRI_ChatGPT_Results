@@ -1,0 +1,43 @@
+I have reviewed the attached study and mapped it across the Top 10 Dimensions of Research Impact based on your instructions. Here's the detailed dimension-by-dimension analysis:
+
+1. Domains of Research Impact (RI)
+Excerpts: The study focuses on evaluating "regression, relapse, and live birth rates of early-stage endometrial cancer (EC) and atypical complex hyperplasia (ACH) with fertility-sparing treatment" (Methods, page 266.e1-3)​(6).
+Page Reference: Methods, Results, and Discussion sections.
+Example: This research contributes significantly to the health domain by offering valuable insights into fertility-preserving treatments for early-stage EC and ACH, which impacts gynecological oncology practice. It could also affect policy by influencing treatment guidelines for younger women diagnosed with early-stage EC​(Knowledge - Potential R…).
+2. Duration of Research Impact (RI)
+Excerpts: The study's impact is both short-term (providing immediate treatment options) and long-term (influencing future research on EC treatments). The conclusion suggests that "fertility-sparing treatment is feasible for women with reproductive desires," implying ongoing use in clinical practice​(6).
+Page Reference: Discussion, page 266.e1.
+Example: Short-term impact includes clinical application of fertility-sparing treatments, while the long-term impact relates to its contribution to foundational research in cancer therapies and influencing future protocols​(Knowledge - Potential R…).
+3. Stakeholder of Research Impact (RI)
+Excerpts: The primary stakeholders are healthcare providers and patients diagnosed with early-stage EC or ACH, particularly those who want to preserve fertility. The study also benefits oncologists, gynecologists, and policymakers by providing evidence for non-surgical management of EC​(6).
+Page Reference: Methods, Results, page 266.e3-7.
+Example: The research directly benefits healthcare providers and patients, influencing oncology practices for fertility-sparing treatment and potentially guiding healthcare policy on cancer management​(Knowledge - Potential R…).
+4. Depth and Breadth of Impact
+Excerpts: The study offers deep impact within gynecological oncology by enhancing understanding of the safety and efficacy of fertility-sparing treatments, particularly through its meta-analysis of various observational studies​(6).
+Page Reference: Results, page 266.e3.
+Example: Deep impact is seen in how the study reshapes clinical decisions for early-stage EC management, while broad impact arises from its implications for reproductive health across different medical practices and treatment guidelines​(Knowledge - Potential R…).
+5. Scalability and Transferability
+Excerpts: Fertility-sparing treatments for early-stage EC can be scaled across different populations with similar diagnoses, while the treatment modalities (hormonal therapies) discussed could be transferred to managing other hormonally sensitive cancers​(6).
+Page Reference: Results, page 266.e5-7.
+Example: Scalability involves expanding fertility-sparing treatments across hospitals worldwide, and transferability applies these findings to related fields, like breast cancer treatment that also uses hormonal management​(Knowledge - Potential R…).
+6. Innovation and Disruption Potential
+Excerpts: The use of progestogens and intrauterine devices (e.g., LNG-IUS) for treating EC represents an innovative, less-invasive alternative to hysterectomy​(6)​(Knowledge - Potential R…).
+Page Reference: Methods, page 266.e1-2.
+Example: This study has disruptive potential in gynecology by challenging traditional surgical treatments with hormonal alternatives, reshaping how early-stage EC is managed​(Knowledge - Potential R…).
+7. Sustainability and Ethical Considerations
+Excerpts: The treatment allows women with early-stage EC to preserve fertility, addressing ethical considerations around reproductive rights while providing a sustainable treatment that minimizes the need for invasive procedures​(6).
+Page Reference: Conclusion, page 266.e1.
+Example: The sustainability of this treatment lies in its ability to preserve reproductive health without the immediate need for surgery, while addressing the ethical concerns around fertility preservation​(Knowledge - Potential R…).
+8. Implementation and Usability
+Excerpts: The findings support the broader implementation of fertility-sparing therapies in clinical practice, specifically for younger women who wish to preserve fertility​(6).
+Page Reference: Results, page 266.e5-7.
+Example: The treatment protocols discussed can be easily implemented in oncology clinics for early-stage EC patients, providing a usable alternative to radical surgery​(Knowledge - Potential R…).
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research combines oncology, gynecology, and reproductive medicine, highlighting its cross-disciplinary nature. It has global relevance, as EC is a common cancer worldwide​(6).
+Page Reference: Methods, page 266.e2.
+Example: The findings are relevant not just in oncology but also in global reproductive health policies, influencing practices in both developed and developing countries​(Knowledge - Potential R…).
+10. Resilience and Adaptability
+Excerpts: The treatment approach is adaptable, allowing for personalized care based on the patient's reproductive goals and cancer stage​(6).
+Page Reference: Discussion, page 266.e7.
+Example: Adaptability is demonstrated through the tailored application of fertility-sparing treatment depending on disease progression and individual fertility desires​(Knowledge - Potential R…).
+This study addresses multiple dimensions of research impact, particularly in healthcare and policy domains, with both immediate and long-term benefits.

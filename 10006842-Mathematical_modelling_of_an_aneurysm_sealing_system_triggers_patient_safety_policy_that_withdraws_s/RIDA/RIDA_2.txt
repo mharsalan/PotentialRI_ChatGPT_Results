@@ -1,0 +1,56 @@
+To analyze the impact of the research study you provided ("Deformation and dynamic response of abdominal aortic aneurysm sealing") according to the "Top 10 Dimensions of Research Impact," here is a detailed breakdown based on the findings and discussion from the study:
+
+1. Domains of Research Impact (RI):
+Excerpts:
+The study advances knowledge in vascular surgery and biomechanics, specifically in understanding the dynamic forces that affect endovascular aneurysm sealing (EVAS) post-implantation.
+Excerpt: "The research introduces new models for quantifying the effect of forces on EVAS, which can be applied to understand migration and separation of endoprostheses" (Discussion, pg. 5).
+Example: The findings have implications for healthcare, especially in improving the longevity and safety of EVAS procedures, leading to better patient outcomes in vascular surgery.
+2. Duration of Research Impact (RI):
+Excerpts:
+Short-term impact: The research identifies immediate risks (e.g., migration or separation of components) that can influence post-operative monitoring in EVAS-treated patients.
+Long-term impact: The findings provide a theoretical foundation that could influence the design of future endovascular sealing devices (Discussion, pg. 6).
+Example: Short-term: Helps clinicians mitigate immediate post-surgical risks by understanding the movement of the prosthesis. Long-term: Influences the development of more secure EVAS technologies, contributing to lasting advancements in vascular surgery.
+3. Stakeholders of Research Impact (RI):
+Excerpts:
+Healthcare providers and vascular surgeons are direct stakeholders who will benefit from the research findings. It helps them refine surgical techniques and improve patient management post-surgery.
+Excerpt: "The results can inform healthcare providers on the risks of EVAS migration, allowing for more personalized treatment strategies" (Discussion, pg. 5).
+Example: Direct stakeholders are vascular surgeons who can improve procedural outcomes, and indirect stakeholders include patients who benefit from safer, more reliable aneurysm treatments.
+4. Depth and Breadth of Impact:
+Excerpts:
+Deep Impact: The study has a deep impact on the field of vascular surgery by providing a detailed model of forces acting on endoprostheses, influencing how aneurysm repairs are understood.
+Excerpt: "The results are critical for the vascular community in understanding the role of dynamic forces on the longevity of EVAS" (Discussion, pg. 7).
+Example: This study contributes deeply to the biomechanics of aneurysm repair while having the potential to impact a broader field, such as medical device engineering.
+5. Scalability and Transferability:
+Excerpts:
+Scalability: The findings can be scaled to a broader population of patients undergoing EVAS, potentially influencing global practices in aneurysm sealing.
+Transferability: The biomechanical models developed could be applied to other forms of vascular prostheses and even other medical devices that interact with bodily forces.
+Excerpt: "The mathematical models could be extended to other forms of endovascular repair systems" (Results, pg. 4).
+Example: The research's scalability applies to larger populations in vascular surgery, while the transferability extends to other medical implants where dynamic body forces are a concern.
+6. Innovation and Disruption Potential:
+Excerpts:
+Innovation: The study introduces a novel biomechanical model that quantifies the effects of dynamic loads on EVAS, offering new insights into how daily activities affect the stability of the prosthesis.
+Disruption: By challenging existing assumptions about endograft stability, the study may disrupt current practices in aneurysm treatment and prosthetic design.
+Excerpt: "This is the first study to model the effect of static and dynamic forces on EVAS systems" (Introduction, pg. 1).
+Example: Innovative models developed in this study could lead to disruptive changes in how aneurysm sealing devices are designed and tested for long-term stability.
+7. Sustainability and Ethical Considerations:
+Excerpts:
+Ethical Considerations: The research emphasizes the ethical importance of understanding post-surgical risks, as device migration can lead to severe complications.
+Sustainability: The study encourages the design of more durable and sustainable prostheses that reduce the need for future interventions.
+Excerpt: "This research supports the ethical need for safer medical device designs to prevent patient complications" (Discussion, pg. 6).
+Example: The research promotes sustainable healthcare by aiming to reduce reinterventions, thereby improving patient outcomes and reducing healthcare costs.
+8. Implementation and Usability:
+Excerpts:
+The findings are immediately applicable to the clinical management of patients with EVAS, offering surgeons insights into how prosthesis migration can be detected and mitigated early.
+Excerpt: "The results can inform postoperative monitoring and the development of protocols to reduce migration risk" (Discussion, pg. 7).
+Example: This research can be implemented in surgical practices immediately to monitor patient outcomes more closely and improve the usability of EVAS systems.
+9. Cross-disciplinary and Global Relevance:
+Excerpts:
+The study combines biomechanics, vascular surgery, and medical device engineering. It has global relevance as EVAS is used worldwide in aneurysm treatment.
+Excerpt: "The findings are applicable across different fields, including biomechanics and vascular surgery" (Results, pg. 4).
+Example: The study impacts multiple disciplines and can improve aneurysm treatment protocols globally, particularly in countries that use endovascular techniques.
+10. Resilience and Adaptability:
+Excerpts:
+The research promotes adaptability by addressing how real-world forces affect the prosthesis, allowing for more resilient device designs that withstand everyday activities.
+Excerpt: "The study offers insights into how devices can be designed to be more resilient against forces experienced in daily life" (Discussion, pg. 6).
+Example: The development of more resilient prosthetic devices could reduce long-term complications, making EVAS a more reliable treatment option under various physical conditions.
+This analysis reflects the multi-faceted impact of the research, covering the main dimensions that contribute to the broader influence of this study in the field of aneurysm treatment and medical device design.

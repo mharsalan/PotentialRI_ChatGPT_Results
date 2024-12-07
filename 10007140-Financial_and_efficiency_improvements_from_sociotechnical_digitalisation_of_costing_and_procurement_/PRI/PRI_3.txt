@@ -1,0 +1,39 @@
+Based on the study "Can Knowledge-Event Approach Work in Construction SMEs?" by Boyd, Xiao, and Chinyio, the potential research impacts span across several domains and align with predefined research dimensions. Below are the potential research impacts as detailed and wide-ranging as possible:
+
+1. Academic Impact
+Contribution to Knowledge Management (KM) Theory: The study advances KM theory by proposing the Knowledge-Event Management (KEM) approach, which fills a critical gap in the literature on KM practices for SMEs, especially in the construction industry.
+New Methodological Approaches: By introducing audio diaries and structured debriefing, the research contributes novel methodologies for capturing tacit knowledge, thus enhancing qualitative research techniques in KM studies.
+2. Economic and Industrial Impact
+Improved Efficiency for SMEs: The practical application of KEM leads to increased operational efficiency, reducing errors, and enhancing project management processes in construction SMEs, which could lead to significant cost savings.
+Economic Growth: By improving KM in SMEs, this research potentially enhances the productivity of small firms, contributing to the broader economy by making these firms more competitive in the market​(impact pathway)​(Research impact toolkit).
+3. Policy Impact
+Policy Development for SMEs: The research has implications for policymakers interested in supporting SME growth. The adoption of effective KM practices could influence policy initiatives designed to improve SME productivity and resilience, especially in construction and other industries reliant on project-based work​(Research impact toolkit)​(Research Impact Knowled…).
+4. Societal and Cultural Impact
+Cultural Shift in Construction: KEM promotes a knowledge-sharing culture in the construction industry, shifting norms away from the traditional blame culture to a more collaborative and open learning environment​(Common Research Impact …).
+Reduced Knowledge Loss: The study addresses a common societal issue—knowledge loss due to turnover or project transitions—thereby fostering a more sustainable approach to knowledge retention in SMEs​(Research Impact Knowled…).
+5. Technological and Innovation Impact
+Disruptive Innovation in KM: The introduction of KEM offers a low-cost, easy-to-implement innovation that disrupts traditional KM systems by making knowledge capture more accessible to smaller organizations, which typically struggle with complex and expensive systems​(Research impact toolkit)​(impact pathway).
+Scalability of KEM: The model is highly scalable and can be adapted to other industries beyond construction, including healthcare, manufacturing, and consulting, where project-based knowledge management is crucial​(Common Research Impact …)​(Research Impact Knowled…).
+6. Environmental Impact
+Sustainable Construction Practices: Through better knowledge management, the study indirectly contributes to more sustainable practices in construction by preventing the recurrence of costly and environmentally damaging errors and inefficiencies​(Research Impact Knowled…).
+7. Health and Well-Being Impact
+Improved Workplace Conditions: The reduction in repetitive mistakes and smoother project management may contribute to a less stressful work environment for employees, enhancing their mental well-being and reducing workplace fatigue​(impact pathway).
+8. Educational and Capacity Building Impact
+Training and Capacity Building: The application of KEM encourages ongoing learning and professional development among construction managers and workers, which leads to greater capacity building within SMEs​(Research impact toolkit).
+Inclusion in Educational Curricula: The findings can be integrated into educational programs on construction management, project management, and KM, providing students with insights into effective KM strategies for SMEs​(Research Impact Knowled…).
+9. Global and Cross-Disciplinary Relevance
+Global Relevance: While focused on the UK construction industry, the KEM approach is applicable globally, particularly in regions where SMEs play a critical role in the economy. This broad relevance means that KEM could potentially be adopted worldwide, enhancing global SME competitiveness​(Common Research Impact …).
+Cross-Disciplinary Impact: The principles of KEM are transferable across various disciplines, such as IT, healthcare, and education, where knowledge management is equally crucial​(Research impact toolkit).
+10. Ethical and Sustainable Considerations
+Ethical Knowledge Sharing: The approach aligns with ethical considerations by encouraging transparent and collaborative learning within organizations, which leads to more responsible project management practices​(impact pathway)​(Research Impact Knowled…).
+Sustainability of SMEs: By fostering knowledge retention and reducing staff turnover's negative impact, KEM contributes to the long-term sustainability of SMEs​(Research Impact Knowled…).
+11. Health and Safety Impact
+Improved Safety Standards: The KEM approach helps document and share lessons learned from safety incidents on construction sites, thereby contributing to improved safety standards across projects​(impact pathway).
+12. Long-term Research Impact
+Foundational Research for Future KM Studies: This study lays the groundwork for future research on KM in SMEs, particularly by providing empirical evidence of KEM’s effectiveness in the construction sector. It opens new avenues for research in KM practices tailored to small and resource-constrained organizations​(Research Impact Knowled…).
+13. Behavioral Change and Workforce Empowerment
+Encouraging Reflective Practices: The research promotes reflective practices among construction managers, enabling them to learn continuously from past projects and make more informed decisions in future projects​(Research impact toolkit).
+Workforce Empowerment: By capturing knowledge from all employees, the study democratizes the knowledge-sharing process, ensuring that valuable insights from all levels of the organization are considered​(Research impact toolkit).
+14. Infrastructure Development
+KM Infrastructure in SMEs: The successful implementation of KEM may lead to the development of KM infrastructure in SMEs, ensuring that knowledge is systematically captured, stored, and used in decision-making processes​(Research Impact Knowled…).
+These impacts demonstrate how the study has far-reaching effects across multiple sectors, domains, and time frames. The research makes a significant contribution to KM practices for SMEs while also offering insights with potential global relevance and long-term societal benefits.

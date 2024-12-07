@@ -1,0 +1,43 @@
+Based on the provided document, here is the assessment of the research study "Studying ‘cost as information’ to account for construction improvements" across the Top 10 Dimensions of Research Impact:
+
+1. Domains of Research Impact
+Excerpts: The study addresses the construction industry, focusing on cost information as a central element in improving project delivery and management. It critiques current costing practices and suggests systemic changes to improve the usefulness of cost information across supply chains.
+Page Reference and Section: Introduction and discussion, page 420.
+Example: This research can impact multiple domains, including economic (by optimizing cost estimation practices for construction firms), policy (potentially influencing construction regulations regarding cost reporting), and technological (informing how cost data could be integrated into Building Information Modelling (BIM) systems for more efficient decision-making).
+2. Duration of Research Impact
+Excerpts: "The results show that current costing practices do not provide a good representation of work carried out. Cost information useful for site operations improvements is either not created or lost" . This calls for a long-term shift in costing methods that are more integrated with practical work processes.
+Page Reference and Section: Discussion, page 425.
+Example: This research has the potential for long-term impact, as the proposed improvements to cost reporting could lay the foundation for future studies in cost management and supply chain innovations within the construction sector.
+3. Stakeholder of Research Impact
+Excerpts: The research engages multiple stakeholders across the construction supply chain, including main contractors, subcontractors, and clients, who all handle and interpret cost information differently. It emphasizes that more transparent and accurate cost data would benefit all parties.
+Page Reference and Section: Methods and Results, pages 422-423.
+Example: Direct stakeholders include construction contractors and subcontractors. Indirect stakeholders might include clients, policymakers, and the public, who could benefit from more efficient construction processes and cost savings .
+4. Depth and Breadth of Impact
+Excerpts: The research presents deep insights into the inefficiencies in the costing processes specific to construction, but it also suggests broader applications of these findings by integrating costing methods from other industries, such as manufacturing​(Knowledge - Potential R…).
+Page Reference and Section: Results, pages 423-425.
+Example: Deep impact in construction management, but broad impact in extending lessons to other industries through the application of costing models from different sectors, such as aerospace.
+5. Scalability and Transferability
+Excerpts: The research suggests that cost models used in construction could be scalable if integrated into more sophisticated systems like BIM, potentially transforming construction practices on a larger scale .
+Page Reference and Section: Discussion, page 428.
+Example: The findings could be scaled to national or global construction projects, and transferred to other sectors, like manufacturing, that face similar challenges in cost transparency and reporting.
+6. Innovation and Disruption Potential
+Excerpts: The study critiques the traditional methods of cost accounting in construction, advocating for more innovative approaches that capture the true cost of labor and materials linked to work processes, which could disrupt current accounting practices .
+Page Reference and Section: Discussion, pages 429-430.
+Example: The introduction of more accurate, work-related cost models could disrupt current cost accounting systems in the construction industry and beyond, leading to new approaches in financial management.
+7. Sustainability and Ethical Considerations
+Excerpts: The research indirectly contributes to sustainability by advocating for more efficient cost processes, which can reduce waste and inefficiencies in construction projects. There is a focus on ethical transparency in cost reporting .
+Page Reference and Section: Discussion, page 430.
+Example: This can promote economic sustainability by reducing construction costs and ensuring that cost information is ethically reported and used.
+8. Implementation and Usability
+Excerpts: The practical application of the findings is strongly tied to the integration of cost data into digital tools like BIM, making the findings highly usable for construction firms aiming to improve project efficiency .
+Page Reference and Section: Discussion, page 427.
+Example: The research findings have high usability for construction managers, contractors, and policymakers who are adopting BIM for project management and looking to improve cost control measures.
+9. Cross-disciplinary and Global Relevance
+Excerpts: While focused on construction, the research suggests that cost management practices from other sectors, like manufacturing, could be adapted, highlighting its cross-disciplinary relevance .
+Page Reference and Section: Discussion, page 429.
+Example: The research is globally relevant as construction cost challenges are universal, and the integration of BIM technology has potential global applications across industries.
+10. Resilience and Adaptability
+Excerpts: The research indicates that current costing practices are rigid and not well-suited for improvements. It proposes adaptable practices that could be more responsive to changes in project scope and supply chain dynamics​(Knowledge - Potential R…).
+Page Reference and Section: Discussion, page 426.
+Example: Resilient cost systems, as proposed, could adapt to changes in construction project demands, making the supply chain more flexible and efficient over time.
+This detailed assessment outlines the study's significant contributions across all the research impact dimensions. Let me know if you need further elaboration on any of the sections!

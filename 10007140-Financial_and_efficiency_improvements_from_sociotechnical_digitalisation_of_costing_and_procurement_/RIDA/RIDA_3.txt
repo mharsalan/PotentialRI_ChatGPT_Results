@@ -1,0 +1,43 @@
+Based on the research paper and the context provided in the “Knowledge - Potential RI by Dimensions” document, I will map the research impact dimensions for the study titled "Can Knowledge-Event Approach Work in Construction SMEs?" by Boyd, Xiao, and Chinyio. The study focuses on Knowledge Management (KM) in construction SMEs through Knowledge-Event Management (KEM), a novel approach. Below is the detailed assessment of the research impact across the top 10 dimensions:
+
+1. Domains of Research Impact
+Excerpt: The research contributes significantly to the academic domain by advancing knowledge on KM in construction, particularly for SMEs. It also has broad impacts on the industrial domain by offering a practical KM approach tailored to the needs of SMEs, which are crucial for economic growth.
+Page Reference: Introduction, pp. 1279-1280, Results, p. 1285
+Example: This research impacts both academic and industrial domains by addressing the gap in KM practices for SMEs. It enhances organizational learning and efficiency, helping SMEs retain knowledge and improve operations, which can influence broader economic policies on SME development.
+2. Duration of Research Impact
+Excerpt: "This KEM could generate immediate as well as long-term benefits to their organizations." The study addresses both short-term and long-term impacts, emphasizing immediate learning from recorded knowledge events and fostering continuous improvement in KM practices over time.
+Page Reference: Results and Discussion, p. 1285-1286
+Example: In the short term, SMEs using KEM can avoid repeated mistakes and improve project management. In the long term, KEM contributes to the foundation of KM practices in construction SMEs, influencing future research and industrial KM systems.
+3. Stakeholder of Research Impact
+Excerpt: "The industry’s opinions on this approach... companies involved in the first stage of the research have started a trial of self-operation of this KEM approach."
+Page Reference: Results, p. 1284
+Example: The direct stakeholders include construction SMEs, project managers, and directors who will benefit from improved KM practices. Indirect stakeholders include policymakers and academic researchers who may leverage these findings to improve KM frameworks in various sectors.
+4. Depth and Breadth of Impact
+Excerpt: "The top four categories of events captured... lack/error of design information, unsatisfactory sub-contractor work..." highlight specific, deep impacts within construction project management.
+Page Reference: Results, p. 1282
+Example: The study has a deep impact within the construction industry, particularly for SMEs, by addressing operational inefficiencies. Its breadth extends to other sectors where KM practices could be applied, including consulting and management practices.
+5. Scalability and Transferability
+Excerpt: "The successful self-operation by partner companies further emphasizes its success... present a challenge for others in the industry to take it up."
+Page Reference: Conclusions, p. 1286
+Example: The KEM approach is scalable to larger companies and transferable to different sectors like manufacturing or consulting, where similar KM challenges exist. The study shows potential for the approach to be adopted by other industries with minimal customization.
+6. Innovation and Disruption Potential
+Excerpt: "KEM is a simple and low cost yet robust approach for KM which uses audio diaries to capture knowledge events..."
+Page Reference: Introduction, p. 1279
+Example: KEM introduces an innovative way to capture and disseminate knowledge in SMEs. It disrupts traditional KM practices by simplifying the process and reducing the reliance on resource-intensive methods, making it more accessible for SMEs.
+7. Sustainability and Ethical Considerations
+Excerpt: "The industry provides a better service to clients more efficiently and economically."
+Page Reference: Results, p. 1285
+Example: The KEM approach promotes the sustainability of SMEs by helping them retain knowledge even when staff turnover is high. It aligns with ethical considerations by encouraging a culture of openness and shared learning, which can reduce wasteful practices and improve resource management in construction.
+8. Implementation and Usability
+Excerpt: "Over half of the respondents suggested their companies were capable of implementing this KM practice."
+Page Reference: Results, p. 1284
+Example: The KEM approach is highly usable and easy to implement within SMEs, requiring minimal resources and training. It is designed to fit into the daily workflow of construction managers, ensuring practical usability without significant disruption to operations.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "A number of the companies involved in the first stage of the research have started a trial of self-operation."
+Page Reference: Results, p. 1284
+Example: While primarily focused on construction, the principles of KEM are relevant across industries that rely on project-based work, such as IT, engineering, and consulting. It can also be adapted globally in regions with similar SME structures.
+10. Resilience and Adaptability
+Excerpt: "The successful self-operation by partner companies... challenges others in the industry."
+Page Reference: Conclusion, p. 1286
+Example: KEM demonstrates resilience by being adaptable to various project types and organizational structures within the construction industry. Its simplicity allows it to be adjusted based on company size and specific needs, ensuring longevity and continued relevance.
+This analysis demonstrates how the study by Boyd et al. contributes significantly across multiple research impact dimensions, especially in practical applications for KM in SMEs.

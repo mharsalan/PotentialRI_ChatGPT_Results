@@ -1,0 +1,38 @@
+Based on the research impact dimensions from the available documents and the attached study, here is a breakdown of how the study aligns with the "Top 10 Dimensions of Research Impact":
+
+1. Domains of Research Impact (RI):
+Excerpt: The study focuses on "Digital Construction" and how Building Information Modeling (BIM) can enhance the housing industry through better design, improved customer engagement, and lifecycle management (e.g., performance tracking, maintenance services). It also addresses collaboration across sectors.
+Page Reference: Executive Summary, Page 2 of the attached study .
+Example: This research has the potential to impact multiple domains:
+Academic: By advancing construction methodologies and digital modeling.
+Economic: Improving efficiency and reducing costs in the housing industry.
+Environmental: Encouraging energy-efficient homes and sustainability practices.
+Technological: Advancing digital tools in construction.
+2. Duration of Research Impact (RI):
+Excerpt: "A well-planned approach to digital construction can help the housing industry in reducing the time required to develop and market new housing projects..." (Page 4).
+Example: In the short term, BIM enables quicker project approvals and reduces costs. Long-term impacts include reshaping the industry’s approach to home building, potentially influencing future generations of construction practices .
+3. Stakeholder of Research Impact (RI):
+Excerpt: The research outlines how different stakeholders like house builders, developers, customers, and regulators can benefit from digital transformation in the housing industry (Page 4).
+Example: Direct stakeholders include house builders and developers who gain tools for better project management. Indirect stakeholders include future homeowners benefiting from customized designs and improved housing quality .
+4. Depth and Breadth of Impact:
+Excerpt: The study highlights that digital construction can impact the entire lifecycle of housing—from design to post-sale maintenance. BIM introduces new techniques that could change how homes are built, marketed, and managed (Page 2).
+Example: Deep Impact within the housing and construction sector due to the technological innovation of BIM. Broad Impact across multiple fields, including construction, environmental sustainability, and urban planning .
+5. Scalability and Transferability:
+Excerpt: The study emphasizes the scalable nature of digital construction tools like BIM, which can be applied across different housing projects (Page 2).
+Example: BIM can be scaled up to manage large housing projects and transferred to other industries such as commercial building construction, thereby broadening its application .
+6. Innovation and Disruption Potential:
+Excerpt: Digital construction and BIM represent innovative technologies disrupting traditional construction practices by allowing 3D modeling, real-time updates, and collaboration (Page 3).
+Example: The introduction of BIM is a disruptive innovation in construction that could replace older methods of project management and design, reshaping the industry significantly (6).
+7. Sustainability and Ethical Considerations:
+Excerpt: The study stresses how digital tools can improve energy efficiency and enable sustainable practices in housing (Page 3).
+Example: Digital construction enables more sustainable housing by allowing energy performance tracking and environmental impact assessments, contributing to long-term sustainability goals .
+8. Implementation and Usability:
+Excerpt: The study presents practical applications of BIM in enhancing customer experience through personalized housing designs and better maintenance options (Page 4).
+Example: Usability is high because the technology can be easily implemented in current construction workflows, allowing stakeholders to make real-time adjustments during the building process .
+9. Cross-disciplinary and Global Relevance:
+Excerpt: By fostering collaboration among architects, engineers, and contractors, the study promotes interdisciplinary work, which is essential for the digital transformation of construction (Page 5).
+Example: The study has global relevance as BIM’s application is not confined to housing in a single region but can be applied to global construction efforts, from residential to commercial projects .
+10. Resilience and Adaptability:
+Excerpt: The transition to digital construction is designed to make the housing industry more adaptable to future technological shifts and challenges (Page 5).
+Example: By adopting digital tools, the housing industry is better equipped to handle future disruptions, such as changes in consumer demands or material shortages .
+This analysis aligns the attached study with the dimensions of research impact, highlighting its broad applicability and long-term potential.

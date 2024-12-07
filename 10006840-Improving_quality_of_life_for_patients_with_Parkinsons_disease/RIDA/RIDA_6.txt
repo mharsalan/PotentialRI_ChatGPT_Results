@@ -1,0 +1,43 @@
+Here is an analysis of the research impact dimensions based on the uploaded study on physiotherapy and occupational therapy in Parkinson's disease:
+
+1. Domains of Research Impact
+Excerpt: "Physiotherapy and occupational therapy were not associated with immediate or medium-term clinically meaningful improvements in ADL or quality of life in mild to moderate PD." (Conclusions, p. 299)
+Section and Page: Results, p. 299.
+Example: This research primarily impacts the health domain by contributing to the understanding of how physiotherapy and occupational therapy influence daily living and quality of life in Parkinson’s disease patients. It informs future clinical practices regarding the use of therapy in early stages of the disease.
+2. Duration of Research Impact
+Excerpt: "Future research should explore the development and testing of more structured and intensive physical and occupational therapy programs in patients with all stages of PD." (Conclusions, p. 299)
+Section and Page: Discussion, p. 299.
+Example: The study has a potential long-term impact as it lays the groundwork for future research on more structured therapy programs for Parkinson’s patients. While no significant immediate improvements were found, the insights could influence therapeutic interventions over time.
+3. Stakeholder of Research Impact
+Excerpt: "The PD REHAB Trial was a multicenter, open-label, parallel group, controlled efficacy trial." (Methods, p. 291)
+Section and Page: Methods, p. 291.
+Example: The direct stakeholders include healthcare providers, such as physiotherapists and occupational therapists, who may adjust their clinical approaches based on the findings. Indirectly, patients and caregivers benefit from the insights, guiding future therapy decisions.
+4. Depth and Breadth of Impact
+Excerpt: "Repeated-measures analysis showed no difference in NEADL total score, but Parkinson Disease Questionnaire–39 summary index (diverging 1.6 points per annum; 95% CI, 0.47 to 2.62; P = .005) showed small differences in favor of therapy." (Results, p. 296)
+Section and Page: Results, p. 296.
+Example: The study has a deep impact on the specific field of Parkinson’s therapy. It adds to existing knowledge about the limited effectiveness of physiotherapy and occupational therapy, calling for more comprehensive therapeutic strategies in the future.
+5. Scalability and Transferability
+Excerpt: "Physiotherapy and OT were delivered in the community and/or outpatient setting by qualified therapists working within the National Health Service (NHS) per local practice." (Methods, p. 291)
+Section and Page: Methods, p. 291.
+Example: The findings are scalable within healthcare systems like the NHS. However, the therapy frameworks tested could be transferable to other countries' healthcare systems, especially in managing early-stage Parkinson's disease.
+6. Innovation and Disruption Potential
+Excerpt: "This evidence does not support the use of low-dose, patient-centered, goal-directed physiotherapy and occupational therapy in patients in the early stages of PD." (Conclusions, p. 299)
+Section and Page: Conclusions, p. 299.
+Example: While the study does not introduce a disruptive innovation, it challenges existing practices and prompts the field to seek more intensive and structured approaches, which could disrupt current rehabilitation strategies for Parkinson’s care.
+7. Sustainability and Ethical Considerations
+Excerpt: "Future research should explore the development and testing of more structured and intensive physical and occupational therapy programs." (Conclusions, p. 299)
+Section and Page: Conclusions, p. 299.
+Example: This research emphasizes the need for sustainable, patient-centered interventions that are effective over time. Ethically, it advocates for more structured interventions that genuinely improve patient quality of life, rather than offering ineffective therapies.
+8. Implementation and Usability
+Excerpt: "Therapists prescribed a range of exercise programs tailored to their assessment of patient mobility and activity levels." (Methods, p. 294)
+Section and Page: Methods, p. 294.
+Example: The study directly informs the implementation of tailored physiotherapy and occupational therapy programs, though it also suggests that these should be more intensive to achieve clinical significance, improving their usability in practice.
+9. Cross-disciplinary and Global Relevance
+Excerpt: "The current trial design was informed by our pilot study of OT in PD." (Methods, p. 291)
+Section and Page: Methods, p. 291.
+Example: This research is relevant globally, especially in countries looking to enhance Parkinson’s disease management. It could influence cross-disciplinary fields, particularly rehabilitation medicine and neurology, and inform international guidelines on Parkinson’s care.
+10. Resilience and Adaptability
+Excerpt: "Future research should explore the development and testing of more structured and intensive physical and occupational therapy programs." (Conclusions, p. 299)
+Section and Page: Conclusions, p. 299.
+Example: The study is adaptable as it calls for future modifications to therapy strategies for Parkinson’s patients. As new evidence emerges, the framework for patient-centered therapies can evolve, ensuring the study’s findings remain relevant in changing healthcare contexts.
+This breakdown captures the research impact across multiple dimensions, emphasizing its relevance in health, scalability, and the need for future innovation in therapeutic interventions.

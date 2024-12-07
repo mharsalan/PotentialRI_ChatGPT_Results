@@ -1,0 +1,43 @@
+I have carefully reviewed the attached study, "Waves and fluid–solid interaction in stented blood vessels" by Frecentese et al. (2018), and mapped its findings to the Top 10 Dimensions of Research Impact as outlined in your request.
+
+1. Domains of Research Impact
+Excerpts: "This paper focuses on the modelling of fluid–structure interaction and wave propagation problems in a stented artery... complemented with numerical simulations" (Introduction, p. 1)​(1).
+Page Reference: Introduction, p. 1​(1).
+Example: The research significantly impacts the health domain by advancing biomedical engineering, offering insights into the hemodynamic behavior of stented arteries, potentially improving stent designs that influence medical practice and healthcare technologies.
+2. Duration of Research Impact
+Excerpts: "The study of the dynamics of fluid-filled cylinders constitutes the basis for analysis of every piping system... and is suitable for a very broad range of applications" (p. 2)​(1).
+Page Reference: p. 2​(1).
+Example: The long-term impact lies in foundational contributions to applied mathematics and engineering, influencing future research in cardiovascular treatments and haemodynamics modeling.
+3. Stakeholder of Research Impact
+Excerpts: "The investigation is performed for an assembly of a finite number of unit cells... subjected to external harmonic loading" (p. 4)​(1).
+Page Reference: p. 4​(1).
+Example: Direct stakeholders include medical device manufacturers and biomedical engineers working on stent design and deployment, while indirect stakeholders are patients receiving cardiovascular interventions that benefit from improved stent technologies.
+4. Depth and Breadth of Impact
+Excerpts: "The Bloch–Floquet analysis is also used to obtain the deformation modes of the stented blood vessel in the time-harmonic pulsation regime" (p. 2)​(1).
+Page Reference: p. 2​(1).
+Example: The study has deep impact in the field of biomechanics by introducing advanced modeling techniques (Bloch–Floquet analysis) and broad impact across engineering disciplines, affecting fluid dynamics and structural mechanics studies.
+5. Scalability and Transferability
+Excerpts: "Several investigations were conducted to determine the resonant frequencies and wave propagation in such systems, with and without fluid" (Introduction, p. 2)​(1).
+Page Reference: p. 2​(1).
+Example: The study’s methods are highly scalable to various cardiovascular applications, with potential transferability to other fluid-structure interaction systems, such as aerospace or automotive engineering fluid dynamics.
+6. Innovation and Disruption Potential
+Excerpts: "The Bloch–Floquet approach is a useful technique to analyze the behavior of periodic systems... constituting a novel approach for detecting reflected waves in arteries" (p. 3)​(1).
+Page Reference: p. 3​(1).
+Example: The research introduces an innovative computational model for wave propagation analysis in biomedical contexts, potentially disrupting traditional methods of stent design and influencing future medical innovations in cardiovascular treatments.
+7. Sustainability and Ethical Considerations
+Excerpts: "Reflection of waves in blood vessels is a well-known phenomenon but... linked to strong geometrical changes such as branching of vessels" (Introduction, p. 2)​(1).
+Page Reference: p. 2​(1).
+Example: The study contributes to the sustainability of healthcare practices by proposing improved stent designs, leading to fewer complications and longer-lasting medical interventions, thereby reducing the need for repeat surgeries and minimizing resource use in the healthcare system.
+8. Implementation and Usability
+Excerpts: "The deployed stent structure consists of the repetition of several unit cells along the axis of the vessel" (p. 3)​(1).
+Page Reference: p. 3​(1).
+Example: The practical insights into stent design can directly influence the usability of stents in clinical settings, making the findings highly implementable in medical device manufacturing and clinical practice.
+9. Cross-disciplinary and Global Relevance
+Excerpts: "Wave propagation in fluid-filled cylinders has been extensively investigated in the literature... and is suitable for a very broad range of applications" (Introduction, p. 2)​(1).
+Page Reference: p. 2​(1).
+Example: The research has global relevance across biomedical engineering, mechanics, and applied mathematics, influencing cardiovascular research and fluid dynamics studies globally.
+10. Resilience and Adaptability
+Excerpts: "The transient regime analysis shows how the flow is affected by the reinforcements" (p. 4)​(1).
+Page Reference: p. 4​(1).
+Example: The study addresses adaptability in medical devices, demonstrating how stent structures can accommodate various physiological conditions and offer resilience against arterial blockages, reducing restenosis risks.
+This mapping outlines the detailed research impact dimensions of the attached study, presenting how the work contributes to various academic, practical, and societal fields. Let me know if you need further clarification or examples!

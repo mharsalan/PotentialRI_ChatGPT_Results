@@ -1,0 +1,90 @@
+I have reviewed the provided paper on Parkinson's disease surgery and identified the research impact across the top 10 dimensions. Below is the detailed assessment:
+
+1. Domains of Research Impact
+Excerpts:
+
+"This systematic review identified over 500 studies of surgery for PD published since 1990, including over 10,000 patients" (Results, Page 519)​(3).
+"Studies of surgery for PD have generally been of poor quality with too few patients, too short follow-up, inappropriate outcome measures, and lack of control groups" (Results, Page 519)​(3).
+Page Reference: Results, Page 519.
+
+Example: This study highlights the need for better-quality clinical trials in surgical interventions for Parkinson’s disease, influencing future medical research practices. It also has broad health policy implications by emphasizing the gap in evidence-based approaches for surgical interventions.
+
+2. Duration of Research Impact
+Excerpts:
+
+"Very few studies (1%) followed up patients for five or more years" (Results, Page 519)​(3).
+"The reliable interpretation of these data is severely limited by methodological flaws...there is an urgent need for larger scale randomized trials, with long term follow-up" (Discussion, Page 521)​(3).
+Page Reference: Results, Page 519; Discussion, Page 521.
+
+Example: The study’s long-term impact is evident in its call for larger randomized trials with long-term follow-up, which could shape future clinical trials for decades to come. Short-term impact includes its immediate contribution to raising awareness of current flaws in the research field.
+
+3. Stakeholder of Research Impact
+Excerpts:
+
+"Surgery is superior to medical management in advanced PD patients, at least in the short term" (Results, Page 520)​(3).
+"Results from the existing RCTs should be interpreted with caution because of the small numbers, short follow-up, and possible publication bias" (Discussion, Page 521)​(3).
+Page Reference: Results, Page 520; Discussion, Page 521.
+
+Example: The primary stakeholders include medical professionals (neurosurgeons, neurologists), patients with Parkinson's disease, and policymakers in healthcare. Medical professionals can use this data to improve surgical outcomes, while policymakers may push for better clinical trial designs.
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+"Studies of surgery for PD have relied on clinician-based rating scales to measure motor impairments and disability, most frequently the UPDRS" (Results, Page 520)​(3).
+"It is important that future trials should include patient-rated quality of life measures" (Discussion, Page 521)​(3).
+Page Reference: Results, Page 520; Discussion, Page 521.
+
+Example: This research has a deep impact on the field of neurology by suggesting improvements in research design and patient-centered approaches. The breadth of its impact spans across patient care, clinical trial designs, and healthcare policies regarding surgical interventions for neurodegenerative diseases.
+
+5. Scalability and Transferability
+Excerpts:
+
+"Larger, randomized, controlled trials are needed to assess the long-term effects of surgery on patient-rated quality of life and cost-effectiveness" (Results, Page 519)​(3).
+"Ideally, meta-analysis of randomized trials of surgery for PD...would give a more balanced view of the total evidence" (Discussion, Page 521)​(3).
+Page Reference: Results, Page 519; Discussion, Page 521.
+
+Example: The study identifies gaps that could lead to scalable research initiatives, encouraging larger, global trials for Parkinson’s treatment. This can be transferred to other neurodegenerative diseases requiring surgical intervention.
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+"The results from the surgery compared with medical management RCTs suggest that surgery is superior in the short-term" (Results, Page 520)​(3).
+"DBS of the STN and GP demonstrated no significant differences in efficacy between treatment arms and no serious complications of either procedure" (Results, Page 520)​(3).
+Page Reference: Results, Page 520.
+
+Example: The innovative aspect of the study lies in its critical analysis of existing surgical techniques (such as deep brain stimulation), disrupting the current reliance on poorly designed trials. It encourages a paradigm shift toward more rigorous clinical trial designs.
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"It is essential that future studies of surgery evaluate long-term effectiveness and safety" (Discussion, Page 521)​(3).
+"In this age of limited healthcare resources, cost-effectiveness needs to be assessed as well as clinical effectiveness" (Discussion, Page 521)​(3).
+Page Reference: Discussion, Page 521.
+
+Example: The study emphasizes ethical considerations in surgical intervention for Parkinson's, advocating for long-term, sustainable research practices that consider both the economic and patient quality-of-life impacts.
+
+8. Implementation and Usability
+Excerpts:
+
+"Only one non-randomized study of surgery for PD reported health economic data" (Results, Page 520)​(3).
+"Future trials should include reliable, validated, patient-rated quality of life measures" (Discussion, Page 521)​(3).
+Page Reference: Results, Page 520; Discussion, Page 521.
+
+Example: The usability of the study lies in its recommendations for improved outcome measures in future clinical trials, making it highly implementable in real-world healthcare settings focused on patient-centered care.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"We searched databases including the Cochrane Library, Medline, Embase, and PubMed" (Methods, Page 519)​(3).
+"Future trials should include health economics as outcome measures" (Discussion, Page 521)​(3).
+Page Reference: Methods, Page 519; Discussion, Page 521.
+
+Example: The research has global relevance by targeting a universal health issue—Parkinson’s disease—and influencing interdisciplinary fields such as neurology, health economics, and public health.
+
+10. Resilience and Adaptability
+Excerpts:
+
+"It is important that future trials should include patient-rated quality of life measures...instead of relying solely on clinician-based assessments" (Discussion, Page 521)​(3).
+Page Reference: Discussion, Page 521.
+
+Example: The study suggests adapting clinical trial designs to be more resilient to biases and more adaptable to patient needs, making future trials more reliable in varying global healthcare settings.
