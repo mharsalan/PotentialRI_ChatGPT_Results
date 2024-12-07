@@ -1,0 +1,33 @@
+The provided research paper appears to apply Soft Systems Methodology (SSM) in a Scottish context, specifically addressing responsible business practices, community engagement, and stakeholder collaboration. Based on the content from the file, I will now map the findings to the Top 10 Dimensions of Research Impact.
+
+1. Domains of Research Impact (RI)
+Excerpt: The research influences various domains, particularly social, economic, and policy domains. It addresses community-focused business practices and the co-creation of business-community value. Additionally, it ties business practices with societal challenges . Page Reference and Section: Results, Page 1152 . Example: The social domain is impacted as the study proposes better engagement between businesses and communities. Economic and policy domains are touched through discussions about responsible business practices aimed at supporting sustainable community development.
+
+2. Duration of Research Impact (RI)
+Excerpt: The "Connect Model" developed in the study aims to produce long-term impacts by building sustainable business-community relations. The intention is for this model to address systemic challenges over a longer duration through continuous business-community collaboration . Page Reference and Section: Discussion, Page 1162 . Example: Long-term impact is seen in the ongoing contribution to policy-making, responsible business practices, and sustained social support through the proposed governance mechanisms.
+
+3. Stakeholders of Research Impact
+Excerpt: The research identifies multiple stakeholders, including the Scottish Government, third-sector organizations, businesses, and the local community. These stakeholders are essential in co-creating solutions and addressing systemic issues at the community level . Page Reference and Section: Results, Page 1162 . Example: Direct stakeholders include businesses and third-sector organizations that collaborate to align their goals. Indirect stakeholders are the broader communities benefiting from responsible business investments and improved local governance.
+
+4. Depth and Breadth of Impact
+Excerpt: The study's depth is in responsible business practices specific to the Scottish context, while the breadth of the impact expands as it addresses systemic business-community collaboration, which could be transferable to other regions facing similar issues . Page Reference and Section: Discussion, Page 1152 . Example: The study has a deep impact in redefining business practices within Scotland and potentially a broad impact across other regions, contributing to the broader field of responsible business governance.
+
+5. Scalability and Transferability
+Excerpt: The proposed "Connect Model" has the potential for scalability by encouraging its adoption in other regions or sectors, beyond its initial implementation in Scotland . Page Reference and Section: Discussion, Page 1152 . Example: The model can be scaled to other communities or nations that aim to enhance responsible business practices, fostering widespread sustainable development.
+
+6. Innovation and Disruption Potential
+Excerpt: The introduction of the "Connect Model" represents an innovation in how businesses engage with communities, moving beyond traditional paradigms by emphasizing co-creation and social responsibility . Page Reference and Section: Discussion, Page 1162 . Example: This model disrupts the existing business paradigms, fostering a stronger integration between business and community needs, moving away from purely profit-driven models.
+
+7. Sustainability and Ethical Considerations
+Excerpt: The study is framed around sustainable practices, particularly in terms of fostering long-term community resilience and ethical considerations in business practices . Page Reference and Section: Results, Page 1152 . Example: The focus on building responsible business models ensures sustainability in community development, and the ethical considerations are highlighted through the inclusion of diverse stakeholders in decision-making processes.
+
+8. Implementation and Usability
+Excerpt: The "Connect Model" is designed for practical application within local communities and can be implemented across various sectors, especially in regions facing similar socio-economic challenges . Page Reference and Section: Discussion, Page 1162 . Example: The usability of the model is evident in its capacity to connect business resources with community needs, providing a scalable solution for other regions and sectors.
+
+9. Cross-disciplinary and Global Relevance
+Excerpt: While the study focuses on Scotland, the principles behind the "Connect Model" have global relevance and can apply to other regions facing business-community disconnects. It incorporates insights from community operational research, business management, and social theory . Page Reference and Section: Discussion, Page 1152 . Example: The model's cross-disciplinary relevance integrates business practices with community and social research, ensuring its broader applicability.
+
+10. Resilience and Adaptability
+Excerpt: The "Connect Model" is built to be adaptive, allowing for modifications based on feedback from stakeholders. Its iterative design ensures it can respond to changing socio-economic environments . Page Reference and Section: Results, Page 1162 . Example: The adaptive nature of the model is critical for ensuring the resilience of business-community relations in the face of shifting political or economic circumstances.
+
+This detailed breakdown aligns the study’s findings with each dimension of research impact, providing practical examples and citations for further reference.
