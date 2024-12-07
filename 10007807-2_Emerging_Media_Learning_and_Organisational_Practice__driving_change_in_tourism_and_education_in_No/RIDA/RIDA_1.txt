@@ -1,0 +1,43 @@
+Based on the text from both the provided file and your research impact dimensions, I will map the research impact of the study "Seeing and knowing Titanic Belfast using augmented reality: an auto-ethnographic view" across the Top 10 Dimensions of Research Impact:
+
+1. Domains of Research Impact
+Excerpts: The research focuses on visual culture, auto-ethnography, and augmented reality (AR) technology, especially how AR enhances place-making and cultural symbolism in Titanic Belfast. The study crosses domains like media studies, tourism, cultural heritage, and technology, particularly focusing on how AR reshapes the user experience in these contexts.
+Page Reference: Results, page 156
+Example: The research impacts the cultural and artistic domain by offering new insights into how digital tools like AR can be used to reinterpret historical sites, thus potentially affecting museum practices, tourism development, and media production.
+2. Duration of Research Impact
+Excerpts: The study has both short-term impacts, such as immediate applications in AR-based tourism and media experiences, and long-term potential by contributing foundational insights into how AR can be used in heritage preservation and media studies.
+Page Reference: Discussion, page 165
+Example: In the short term, AR applications developed for Titanic Belfast can be adopted quickly by other cultural heritage sites for enhancing visitor experiences. In the long term, this research will contribute to the broader academic understanding of AR in media and cultural studies, influencing future technological developments in the field.
+3. Stakeholders of Research Impact
+Excerpts: The study’s stakeholders include academics (in media, tourism, and cultural studies), AR developers, cultural institutions (such as museums and heritage sites), and tourists. Indirectly, the public benefits from enhanced cultural experiences at historical sites.
+Page Reference: Results, page 159
+Example: Direct stakeholders include AR developers and museum professionals who can adopt these insights to create immersive experiences. Indirect stakeholders are tourists and the general public who benefit from more engaging and educational visits to heritage sites.
+4. Depth and Breadth of Impact
+Excerpts: The research deeply impacts the field of media and cultural studies by offering a new framework for analyzing the role of AR in place-making and cultural memory. Its breadth spans across technology, tourism, and heritage conservation.
+Page Reference: Methods, page 157
+Example: The deep impact of the study is seen in its contribution to auto-ethnographic methods in AR research, while its broad impact is evident in how these insights can be transferred to various sectors such as tourism, education, and media production.
+5. Scalability and Transferability
+Excerpts: The AR browser developed for Titanic Belfast can be scaled to other historical or cultural sites globally. Its methodology can also be transferred to different contexts, such as educational settings or virtual tourism.
+Page Reference: Discussion, page 162
+Example: The AR application’s scalability is seen in its potential adoption at multiple historical locations worldwide, while its transferability is showcased by the potential to apply AR technology in educational environments for immersive learning experiences.
+6. Innovation and Disruption Potential
+Excerpts: The study introduces innovative uses of AR in cultural tourism, potentially disrupting traditional ways of engaging with historical sites by replacing passive observation with interactive and immersive experiences.
+Page Reference: Results, page 160
+Example: This research disrupts the field of heritage tourism by transforming how visitors experience and understand historical narratives, offering a novel, interactive approach that could replace more traditional, static methods.
+7. Sustainability and Ethical Considerations
+Excerpts: While not the primary focus, the research touches on the ethical use of technology in cultural heritage, considering how AR can enhance historical understanding without diminishing the authenticity of the original site.
+Page Reference: Discussion, page 164
+Example: The study encourages sustainable tourism by promoting AR as a tool to enrich visitor experiences without physically altering or damaging historical sites.
+8. Implementation and Usability
+Excerpts: The AR application’s usability is tested through focus groups, highlighting how easily users can engage with historical narratives through technology. The study examines the AR system’s user interface and its ability to facilitate an immersive experience.
+Page Reference: Results, page 161
+Example: The AR browser's user-friendly design ensures its wide applicability across various tourist and cultural sites, making it highly implementable in practical settings.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The study’s findings are relevant across multiple disciplines, including media studies, cultural heritage, tourism, and technology. Its use of AR as a tool for storytelling and place-making has global applicability, especially in historical or heritage-rich regions.
+Page Reference: Discussion, page 166
+Example: AR technology, as applied in this research, could be globally adopted by cultural institutions in countries with rich historical legacies, influencing cross-disciplinary practices in education, technology, and tourism.
+10. Resilience and Adaptability
+Excerpts: The AR application is adaptable, designed to integrate historical archives with modern technology. Its framework allows for future updates and modifications based on evolving AR technologies.
+Page Reference: Discussion, page 165
+Example: The research shows how AR systems can be resilient by evolving alongside technological advancements, ensuring long-term relevance in the field of cultural heritage preservation.
+This detailed analysis highlights the study's contributions across the 10 dimensions of research impact, providing a clear framework for understanding its broader influence.

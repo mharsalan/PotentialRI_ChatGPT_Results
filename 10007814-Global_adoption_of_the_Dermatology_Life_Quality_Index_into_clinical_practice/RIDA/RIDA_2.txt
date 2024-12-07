@@ -1,0 +1,43 @@
+The study "Current severe psoriasis and the Rule of Tens" by A.Y. Finlay assesses the severity of psoriasis, focusing on clinical and quality-of-life measurements to propose the "Rule of Tens" as a guideline for defining severe psoriasis in clinical practice. To assess the research's impact across the Top 10 Dimensions of Research Impact, I will provide an analysis based on the paper's contributions and findings, matched with the dimensions framework:
+
+1. Domains of Research Impact
+Excerpts: "The proposed Rule of Tens for current severe psoriasis from the clinician’s viewpoint is: ‘Current Severe Psoriasis = Body Surface Area involved > 10% or Psoriasis Area and Severity Index score > 10 or Dermatology Life Quality Index score > 10’" (p. 862-865).
+Page Reference: Results, pp. 862-865.
+Example: The research primarily impacts the healthcare domain, by providing dermatologists with a standardized framework for assessing the severity of psoriasis. It directly impacts patient treatment plans, the development of therapies, and quality-of-life measurements.
+2. Duration of Research Impact
+Excerpts: "As psoriasis is a fluctuating and unpredictable disease, the time period over which severity is measured will have a major influence on its assessment" (p. 862).
+Page Reference: Discussion, p. 862.
+Example: The impact is both short-term, as clinicians adopt the Rule of Tens for immediate diagnosis and treatment, and long-term, as the rule influences the development of future guidelines and therapeutic approaches for psoriasis, including novel biologic therapies.
+3. Stakeholder of Research Impact
+Excerpts: "The factors contributing to the concept of psoriasis severity differ depending on the perception of the assessor... Patients, employers, clinicians, clinical researchers, healthcare organizations, and regulatory authorities such as the U.S. Food and Drug Administration (FDA) will all emphasize different aspects" (p. 861).
+Page Reference: Introduction, p. 861.
+Example: Direct stakeholders include dermatologists and clinicians who use the Rule of Tens to guide treatment. Indirect stakeholders include patients who benefit from more accurate assessments of disease severity and improved care outcomes.
+4. Depth and Breadth of Impact
+Excerpts: "It is important to recognize that in an individual patient the PASI score does not predict the impact of psoriasis on QoL, but 'patient-reported severity' does correlate with other QoL measures" (p. 864).
+Page Reference: Discussion, p. 864.
+Example: The research has deep impact within the dermatological field, as it fundamentally changes how clinicians evaluate psoriasis. The impact is also broad, influencing healthcare policy and health-related quality of life (HRQoL) research.
+5. Scalability and Transferability
+Excerpts: "The Rule of Tens is suggested for use by clinicians in evaluating patients in a clinical (not research) setting" (p. 865).
+Page Reference: Results, p. 865.
+Example: The scalability of the Rule of Tens lies in its potential for widespread adoption across dermatological practices worldwide. It could also be transferred to other chronic skin diseases that require similar QoL and severity assessments.
+6. Innovation and Disruption Potential
+Excerpts: "The Rule of Tens represents a simple practical concept to aid clinical decision taking in psoriasis... Current severe psoriasis = BSA involved > 10% or PASI score > 10 or DLQI score > 10" (p. 865).
+Page Reference: Results, p. 865.
+Example: The Rule of Tens is an innovative framework in the clinical management of psoriasis, offering a simplified yet comprehensive method for assessing disease severity. It could disrupt traditional approaches that rely solely on PASI scores without considering QoL.
+7. Sustainability and Ethical Considerations
+Excerpts: "In a consensus statement on psoriasis therapies, the American Academy of Dermatology concluded: ‘treatment decisions should include QoL considerations in selecting optimal therapy’" (p. 864).
+Page Reference: Discussion, p. 864.
+Example: The research promotes ethical considerations by prioritizing patient quality of life in treatment decisions, ensuring that patients receive appropriate and just care.
+8. Implementation and Usability
+Excerpts: "The Rule of Tens is suggested for use by clinicians in evaluating patients in a clinical (not research) setting" (p. 865).
+Page Reference: Results, p. 865.
+Example: The usability of the Rule of Tens is immediate and practical, as it provides clinicians with a straightforward, clinically applicable tool for assessing psoriasis severity, improving patient management across various healthcare settings.
+9. Cross-disciplinary and Global Relevance
+Excerpts: "The concept of severity in relationship to quality of life measurement scores has been defined, so it is now possible to postulate a standard..." (p. 861).
+Page Reference: Introduction, p. 861.
+Example: While primarily relevant to dermatology, the Rule of Tens has cross-disciplinary applications in healthcare policy, mental health, and QoL research, influencing how chronic conditions are managed globally.
+10. Resilience and Adaptability
+Excerpts: "As psoriasis is a fluctuating and unpredictable disease, the time period over which severity is measured will have a major influence on its assessment" (p. 862).
+Page Reference: Discussion, p. 862.
+Example: The Rule of Tens demonstrates resilience by providing a flexible framework that can be adapted to varying levels of disease severity and patient-reported outcomes, allowing it to remain relevant in evolving clinical environments.
+This detailed breakdown captures the significant research impact dimensions of this study based on the provided framework.

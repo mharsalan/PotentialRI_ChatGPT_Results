@@ -1,0 +1,43 @@
+The research impact for the attached study across the Top 10 Dimensions of Research Impact is outlined below:
+
+1. Domains of Research Impact (RI)
+Excerpt: The research develops a mathematical model of the plant immune response to a viral infection, focusing on RNA interference and post-transcriptional gene silencing (PTGS). It models different cell populations, such as susceptible and infected cells, and evaluates plant immunity through numerical stability analysis.
+Section: Results, p. 37-38.
+Example: This research has a broad impact on the environmental domain by contributing to plant immunity and viral infection resistance. It also contributes to agricultural sustainability by influencing strategies for improving crop resistance to viral pathogens.
+2. Duration of Research Impact (RI)
+Excerpt: The study highlights short-term applications, such as modeling plant-virus interactions, and long-term impacts in understanding plant immunity mechanisms, which can lead to further research in viral disease control and plant breeding strategies.
+Section: Discussion, p. 37.
+Example: Short-term impact includes improving immediate viral resistance strategies in agricultural crops. Long-term impacts involve the foundational knowledge that can guide future research in plant biology and sustainable agricultural practices.
+3. Stakeholders of Research Impact (RI)
+Excerpt: The direct stakeholders include plant biologists and agricultural scientists working on crop protection and resistance mechanisms. Indirect stakeholders include farmers and agricultural policymakers aiming to enhance plant disease management.
+Section: Methods, p. 28.
+Example: Direct stakeholders such as researchers gain new insights into plant immune responses, while indirect stakeholders, including farmers, benefit from more resistant crop varieties informed by this research.
+4. Depth and Breadth of Impact
+Excerpt: The research provides deep insights into the behavior of plant immune responses, with specific focus on RNA interference and its role in combating viral infections.
+Section: Results, p. 37.
+Example: Deep impact in plant biology through the precise modeling of plant-virus interactions. Broad impact is observed across agriculture and environmental sustainability, as the research could be applied to developing virus-resistant crops globally.
+5. Scalability and Transferability
+Excerpt: The model presented can be applied to other plant species and different viral infections, making it transferable across various agricultural systems. It could also scale from laboratory settings to field applications in agriculture.
+Section: Discussion, p. 38.
+Example: Scalability is achievable as the model can be implemented in large-scale agricultural research. Transferability applies to different plant species and types of viruses, broadening its utility in crop protection strategies.
+6. Innovation and Disruption Potential
+Excerpt: The research innovatively incorporates dual time delays in modeling plant immune responses, offering a novel method for understanding plant-virus dynamics.
+Section: Discussion, p. 38.
+Example: The innovation lies in the use of time delays to better mimic biological processes, potentially disrupting traditional models of plant-pathogen interactions and advancing computational biology.
+7. Sustainability and Ethical Considerations
+Excerpt: The study promotes sustainability by providing a model that can be used to enhance plant resistance to viruses, reducing the need for chemical interventions.
+Section: Discussion, p. 38.
+Example: The research supports environmental sustainability by contributing to virus-resistant crops, which can reduce the use of harmful pesticides and promote eco-friendly agricultural practices.
+8. Implementation and Usability
+Excerpt: The model's findings can be implemented by agricultural researchers in developing crop protection methods that leverage plant immune responses against viral pathogens.
+Section: Discussion, p. 38.
+Example: Usability is high for agricultural scientists who can apply these models to test different viral infections in controlled environments and later scale these findings to field applications.
+9. Cross-disciplinary and Global Relevance
+Excerpt: This study crosses into multiple disciplines, integrating plant biology, virology, and mathematical modeling, making it relevant for global food security and agricultural sustainability efforts.
+Section: Introduction, p. 28.
+Example: The research has cross-disciplinary impact across plant biology, mathematics, and agriculture and is globally relevant for addressing plant viral diseases affecting crop production worldwide.
+10. Resilience and Adaptability
+Excerpt: The model's ability to simulate different viral infection scenarios enhances its adaptability to various agricultural environments and crop species.
+Section: Results, p. 37.
+Example: Resilience is demonstrated by the model’s ability to predict plant recovery from viral infections, while its adaptability enables researchers to apply the model across different plant species and geographic regions.
+This detailed analysis showcases how the study contributes across various dimensions of research impact, from practical applications in agriculture to broader interdisciplinary contributions.

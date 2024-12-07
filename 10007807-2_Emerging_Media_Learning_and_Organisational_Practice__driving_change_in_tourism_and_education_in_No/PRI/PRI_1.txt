@@ -1,0 +1,44 @@
+Based on a thorough review of the study "Seeing and knowing Titanic Belfast using augmented reality: an auto-ethnographic view," here are the potential research impacts of this study, organized by type of impact as informed by common research impact dimensions:
+
+1. Academic Impact
+Contribution to Knowledge: The study contributes significantly to the fields of media studies, cultural heritage, and augmented reality (AR) research. It opens new avenues in understanding the role of AR in enhancing cultural and historical experiences through auto-ethnographic methods.
+Reference: The research presents new theoretical frameworks on how AR interacts with place-making and memory in a heritage context.
+Methodological Advances: The use of auto-ethnography in conjunction with AR technology is innovative, providing future researchers with a hybrid approach to study cultural experiences.
+Example: Future studies on immersive technologies in cultural heritage could adopt the combined methodological framework.
+2. Societal and Cultural Impact
+Cultural Engagement: This study has a direct impact on how societies interact with cultural heritage sites. AR makes these experiences more immersive, fostering deeper emotional connections with historical locations.
+Example: Museums and cultural sites can implement similar AR-based narratives to enhance visitor engagement, potentially reshaping how people connect with history.
+Promotion of Cultural Heritage: By showcasing how AR can make cultural experiences more interactive, the study encourages wider adoption of technology in preserving and promoting heritage sites globally.
+Reference: The research helps to preserve the memory of Titanic Belfast while making it accessible in more engaging ways.
+3. Technological and Innovation Impact
+Augmented Reality Integration: The study contributes to technological innovation by showcasing the practical applications of AR in enhancing the tourist experience at Titanic Belfast, potentially influencing AR development for use in tourism and heritage industries.
+Example: The AR browser developed could inspire similar technological advancements in other historical or tourist locations.
+Disruption of Traditional Tourism Models: By moving beyond traditional interpretative methods (like static exhibits or text), the study disrupts the conventional way tourists engage with historical sites, setting a new standard for interactive, technology-driven tourism.
+Reference: This positions AR as a disruptive innovation in the cultural heritage sector.
+4. Economic and Tourism Impact
+Tourism Enhancement: The application of AR to Titanic Belfast is likely to enhance the tourist appeal of the site by offering unique, interactive experiences. This could lead to increased tourist numbers and longer engagement at the site, with direct economic benefits for the tourism industry.
+Example: Similar AR applications could be implemented in other historical sites, increasing their attractiveness and driving economic growth in tourism.
+Commercialization Potential: The study’s findings may inspire AR developers to commercialize similar applications, leading to job creation and further investment in the tourism technology sector.
+5. Educational Impact
+Enhancement of Learning: AR’s ability to visually and interactively present historical events makes the research highly relevant for educational settings. It offers a new medium for teaching history and cultural studies, fostering deeper learning through immersive technology.
+Example: The educational sector could incorporate AR-based tools for teaching historical narratives, enhancing student engagement and understanding.
+Capacity Building: The study contributes to building capacity within the tourism and education sectors by providing new methodologies and technological applications that can be taught and implemented by professionals in these fields.
+6. Policy and Ethical Impact
+Policy Influence on Cultural Preservation: The study provides insights into how digital technologies like AR can be used in cultural preservation efforts, which may influence public policy on heritage conservation and tourism development.
+Reference: Policymakers might integrate digital solutions for the sustainable preservation of cultural sites without compromising their authenticity.
+Ethical Considerations: The study raises important questions regarding the ethical use of AR in historical contexts, particularly in balancing technological innovation with maintaining the integrity of the cultural narrative.
+7. Social and Behavioral Change
+Visitor Behavior: The implementation of AR at Titanic Belfast could lead to changes in how visitors approach and interact with heritage sites, encouraging more active and immersive engagement rather than passive observation.
+Example: This could inspire other cultural institutions to adopt similar strategies, influencing broader trends in public engagement with history and culture.
+Public Awareness: The study increases public awareness of how technology can be utilized to preserve and present cultural history in engaging ways, potentially influencing societal attitudes towards the adoption of AR in daily life and educational settings.
+8. Environmental and Sustainability Impact
+Sustainable Tourism: By utilizing AR to create immersive experiences without physically altering the historical site, the study contributes to the sustainability of tourism. It reduces the need for physical interventions in heritage sites, promoting eco-friendly tourism practices.
+Example: Other heritage sites can adopt AR technologies to enhance visitor experiences without increasing their environmental footprint.
+9. Global and Cross-Disciplinary Relevance
+Global Applicability: The findings have global relevance, as AR can be applied to various heritage sites across the world. This research provides a blueprint for integrating technology with cultural preservation, a universally applicable concept.
+Example: Heritage sites in Europe, Asia, and beyond could benefit from adopting similar AR frameworks, enhancing both their global reach and relevance.
+Interdisciplinary Contributions: The study integrates media studies, cultural tourism, AR technology, and heritage preservation, making it highly interdisciplinary. This can stimulate further research across multiple academic domains.
+10. Public Engagement and Community Involvement
+Community Engagement: By making heritage experiences more accessible and engaging, the study fosters community involvement with local history, encouraging residents to engage with their cultural heritage in new ways.
+Example: Local communities can benefit from increased interest and tourism in their historical landmarks, leading to more involvement in preserving and promoting local heritage.
+By covering a wide range of impact dimensions, from academic and technological innovation to social and economic impact, the study demonstrates how a single research project can have far-reaching implications across different sectors and societal levels​(Common Research Impact …)​(impact pathway)​(Research impact toolkit)​(Research Impact Knowled…).

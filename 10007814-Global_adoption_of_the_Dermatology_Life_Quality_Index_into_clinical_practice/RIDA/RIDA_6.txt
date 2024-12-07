@@ -1,0 +1,84 @@
+Here are the dimensions of research impact based on the study "Psychological Burden of Skin Diseases":
+
+1. Domains of Research Impact (RI)
+Excerpts:
+
+"We found a significantly higher prevalence of clinical depression (10.1% vs. 4.3%), anxiety disorder (17.2% vs. 11.1%), and suicidal ideation (12.7% vs. 8.3%) among patients with common skin diseases compared with controls" (Discussion, page 4).
+"These results identify a major additional burden of skin disease and have important clinical implications" (Results, page 3).
+Page Reference: Discussion, page 4. Results, page 3.
+
+Example: This study contributes to the health domain by highlighting the psychological burden of skin diseases, informing clinical practice on the necessity of integrated mental health care for dermatological patients.
+
+2. Duration of Research Impact (RI)
+Excerpts:
+
+"The co-occurrence of mental and dermatological problems has previously mostly been described in national single-center studies. Our results provide a broader European perspective" (Discussion, page 4).
+Page Reference: Discussion, page 4.
+
+Example: The findings are foundational for long-term research into the intersection of dermatology and mental health, potentially shaping future treatment protocols and public health policies over time.
+
+3. Stakeholders of Research Impact (RI)
+Excerpts:
+
+"These findings, from a wide geographical, cultural, and socio-economic base, have relevance for clinical services across Europe" (Discussion, page 4).
+Page Reference: Discussion, page 4.
+
+Example: Direct stakeholders include dermatologists, mental health professionals, and policymakers, as the study provides evidence for designing integrated healthcare policies. Indirect stakeholders include the public, who would benefit from improved mental and dermatological care.
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+"Patients with leg ulcers had the highest rates of depression" (Results, page 4).
+Page Reference: Results, page 4.
+
+Example: The research has deep impact by providing detailed insights into specific dermatological conditions, particularly leg ulcers, which can change treatment practices. It also has broad implications across mental health and public health services.
+
+5. Scalability and Transferability
+Excerpts:
+
+"The findings from a wide geographical, cultural, and socio-economic base have relevance for clinical services across Europe" (Discussion, page 4).
+Page Reference: Discussion, page 4.
+
+Example: The results could be scaled to influence mental health integration in dermatology clinics across various regions and be transferable to healthcare systems globally, particularly in high-prevalence areas of skin disease.
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+"Our results... suggest that psychological care should be an integral part of treatment for skin diseases" (Discussion, page 4).
+Page Reference: Discussion, page 4.
+
+Example: The study introduces innovative approaches by advocating for the inclusion of psychological care in dermatology, which could disrupt traditional treatment paradigms that separate mental and dermatological health.
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"The co-occurrence of mental and dermatological problems... suggests that integrated care approaches are necessary" (Discussion, page 4).
+Page Reference: Discussion, page 4.
+
+Example: The study promotes sustainable healthcare by supporting holistic treatment methods that could reduce long-term healthcare costs and improve quality of life, while aligning with ethical standards of patient care.
+
+8. Implementation and Usability
+Excerpts:
+
+"Clinical depression, anxiety disorder, and suicidal ideation are more prevalent in dermatology patients, highlighting the need for integrated care" (Discussion, page 4).
+Page Reference: Discussion, page 4.
+
+Example: The findings are highly usable for clinical settings, offering practical guidance for integrating mental health support into dermatological care practices.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"These findings have relevance for clinical services across Europe" (Discussion, page 4).
+Page Reference: Discussion, page 4.
+
+Example: The study crosses the disciplines of dermatology and psychology, addressing a global health concern. Its relevance extends beyond Europe, as the psychological burden of skin diseases is a universal issue.
+
+10. Resilience and Adaptability
+Excerpts:
+
+"This large European multicenter study... identifies a major additional burden of skin disease" (Results, page 3).
+Page Reference: Results, page 3.
+
+Example: The study demonstrates resilience by addressing the widespread psychological effects of chronic skin diseases, and its adaptable framework can be applied to various cultural and healthcare systems globally.
+
+This analysis provides a detailed mapping of the study across the top 10 dimensions of research impact. Let me know if you'd like more in-depth examples or specific sections expanded!

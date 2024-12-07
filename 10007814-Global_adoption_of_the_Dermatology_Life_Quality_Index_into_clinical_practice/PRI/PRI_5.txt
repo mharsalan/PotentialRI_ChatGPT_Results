@@ -1,0 +1,36 @@
+Based on the study titled "Mapping of the DLQI scores to EQ-5D utility values using ordinal logistic regression" and aligning with the various research impact dimensions discussed in the provided documents, here are the potential research impacts organized by their types:
+
+1. Domains of Research Impact (RI)
+This research affects multiple domains, specifically:
+
+Health Domain: The study impacts healthcare by improving the way dermatology-specific health-related quality of life (HRQoL) measures (DLQI) are integrated into broader health utility measures (EQ-5D). This has direct applications in improving patient care and treatment decisions​(5)​(Common Research Impact …).
+Policy Domain: By providing a validated model for health utility calculations, the research can inform healthcare policy, particularly in resource allocation and cost-effectiveness assessments in dermatology​(impact pathway).
+Economic Domain: The mapping tool developed in the study can be used in health economic evaluations, which can affect healthcare budgets and economic decisions about treatment funding and reimbursement​(Research Impact Knowled…).
+2. Duration of Research Impact (RI)
+Short-term Impact: The study provides immediate benefits by offering a tool that can be quickly implemented in healthcare economic assessments, particularly in dermatology​(5)​(Common Research Impact …).
+Long-term Impact: The developed model has the potential for long-lasting influence, becoming a standard in health utility mapping for other dermatological and chronic conditions, thus contributing to future research and clinical guidelines​(Common Research Impact …).
+3. Stakeholder Impact
+Researchers: The study provides a novel model that can be used by researchers in health economics and quality of life studies, enabling more precise HRQoL measurements​(Research Impact Knowled…).
+Policymakers: The results can directly benefit policymakers by providing a robust framework for integrating quality-of-life assessments into healthcare planning and decision-making​(Research Impact Knowled…).
+Healthcare Providers: Clinicians can use the model to better understand and manage the health-related quality of life in patients with skin diseases, improving treatment strategies and patient outcomes​(Common Research Impact …)​(Research Impact Knowled…).
+Patients: Although indirect, patients will benefit from improved quality-of-life assessments, leading to more tailored treatments and enhanced healthcare decision-making​(Common Research Impact …).
+4. Depth and Breadth of Impact
+Deep Impact: The study has a profound impact on the field of dermatology, enhancing how HRQoL data is used for economic evaluations in clinical practice​(Research Impact Knowled…).
+Broad Impact: Beyond dermatology, the approach can be transferred to other medical fields that require HRQoL and health utility mapping, thus influencing broader healthcare practices and health economics​(impact pathway).
+5. Scalability and Transferability
+Scalability: The method developed in the study can be scaled up for use across larger patient populations and healthcare systems globally, making it a valuable tool for both small-scale and large-scale healthcare economic evaluations​(impact pathway)​(Research impact toolkit).
+Transferability: The approach can be adapted for use in other medical specialties beyond dermatology, where health-related quality of life (HRQoL) measures are vital for clinical and economic evaluations​(Common Research Impact …)​(Research impact toolkit).
+6. Innovation and Disruption Potential
+Innovation: The study introduces an innovative approach by using ordinal logistic regression to map DLQI scores to EQ-5D utility values, significantly improving the precision of quality-of-life assessments in dermatology​(5)​(impact pathway).
+Disruption: The method challenges traditional linear models, potentially disrupting existing approaches to HRQoL assessments and setting a new standard for health utility calculation​(Common Research Impact …).
+7. Sustainability and Ethical Considerations
+Sustainability: By streamlining the process of integrating HRQoL data into broader health utility assessments, the study supports sustainable healthcare practices by reducing the need for multiple measurement tools, saving time, and reducing costs​(Research Impact Knowled…).
+Ethical Considerations: The model ensures that patients' quality-of-life data are used effectively in healthcare decisions, promoting fair and equitable healthcare resource distribution​(Research impact toolkit).
+8. Implementation and Usability
+The research provides a validated model that is easily implementable in clinical and economic research. Its usability extends to healthcare providers who need reliable tools for patient quality-of-life assessments in various dermatological conditions​(Research impact toolkit)​(Research Impact Knowled…).
+9. Cross-disciplinary and Global Relevance
+The research has global relevance as it provides a framework that can be applied in different healthcare systems worldwide, offering a consistent method for integrating quality-of-life data into health economic evaluations across various regions​(Research Impact Knowled…).
+Cross-disciplinary relevance includes its potential application in fields like chronic disease management, where HRQoL plays a critical role in treatment decisions​(impact pathway).
+10. Resilience and Adaptability
+The model has been tested in different populations, showing its resilience to variations in patient demographics and disease severity. It is adaptable to different healthcare systems and can be modified for other chronic conditions that require quality-of-life assessments​(Research impact toolkit)​(impact pathway).
+This organized assessment of potential research impacts highlights the broad and deep relevance of the study across healthcare, policy, economics, and beyond.

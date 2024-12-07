@@ -1,0 +1,33 @@
+Based on the information extracted from the uploaded study and the document on "Potential Research Impact by Dimensions," here are the detailed dimensions for the study "Invisible Belfast: Flat ontologies and remediation of the post-conflict city."
+
+1. Domains of Research Impact (RI)
+Excerpts: The study spans various domains. It touches upon "urban space" and the "post-conflict politics of the city" (Results, page 2). The application of Object-Oriented Ontology (OOO) and alternate reality games (ARGs) further links the study to cultural and digital media studies. The analysis of Belfast’s urban narrative extends the research's reach to political studies, philosophy, and literary criticism​(2).
+Example: The study influences the academic domain by contributing to media studies and transmediality concepts, such as ARGs in a post-conflict setting. It also affects social domains by providing new insights into Belfast’s identity through narrative-driven games.
+2. Duration of Research Impact
+Excerpts: The research focuses on long-term cultural impacts, particularly by "remediating" the narratives of Belfast across multiple media platforms (game, novel, and documentary)​(2).
+Example: The long-term impact is evident in how the study reimagines historical narratives of Belfast, contributing to the academic discourse on post-conflict urban spaces. Its influence is likely to last as Belfast’s political and cultural identity continues to evolve.
+3. Stakeholder of Research Impact
+Excerpts: The stakeholders are broad and include game designers, players, literary scholars, urban planners, and potentially local governments interested in cultural rehabilitation​(2).
+Example: Immediate stakeholders include the research community focused on media technologies and public engagement. Indirectly, the public benefits from the insights gained into urban identity through interactive gaming experiences.
+4. Depth and Breadth of Impact
+Excerpts: The study deeply impacts the field of media studies by introducing innovative uses of ARGs to represent complex urban histories​(2).
+Example: The deep impact of this research is evident in its exploration of "remediation" and ARGs, fundamentally reshaping how media, narrative, and urban identity are interconnected. Its broad impact stretches into public history and city planning.
+5. Scalability and Transferability
+Excerpts: The ARG format and its success in engaging audiences in Belfast suggest that this approach could be applied to other cities with complex historical narratives​(2).
+Example: The concept of interactive narratives applied to post-conflict cities has high transferability to other urban settings with complex historical and cultural identities.
+6. Innovation and Disruption Potential
+Excerpts: The research disrupts traditional urban studies by employing ARGs and digital media as tools for exploring urban narratives and political histories​(2).
+Example: The use of alternate reality games to engage the public in political and historical discourse represents a significant disruption in both urban studies and digital humanities.
+7. Sustainability and Ethical Considerations
+Excerpts: The research contributes to the sustainability of cultural narratives by preserving and transforming Belfast’s historical memory in accessible and interactive ways​(2).
+Example: The ethical consideration of public engagement through game mechanics and the responsible use of historical memory ensures that this research fosters inclusive and participatory storytelling.
+8. Implementation and Usability
+Excerpts: The ARG format used in the research can be implemented in other educational or public engagement projects, making it usable in both academic and public-facing contexts​(2).
+Example: The research findings have practical applications in the design of urban engagement tools for cities with rich, conflict-laden histories, providing a model for other cities like Sarajevo or Beirut.
+9. Cross-disciplinary and Global Relevance
+Excerpts: By integrating media studies, urban planning, and political history, the research crosses multiple disciplinary boundaries. Its relevance extends to cities globally that deal with post-conflict identities​(2).
+Example: The methodology can be adopted by urban planners, media theorists, and historians worldwide, contributing to a global discourse on how digital tools can reshape historical understanding.
+10. Resilience and Adaptability
+Excerpts: The ARG format is highly adaptable, as demonstrated by its remediation from a game to a radio documentary, illustrating its resilience in different media contexts​(2).
+Example: The study’s methods can be adapted to different media formats and urban contexts, showing resilience in both its theoretical framework and practical applications.
+This detailed analysis maps the study across all 10 dimensions of research impact, demonstrating its broad, interdisciplinary influence.

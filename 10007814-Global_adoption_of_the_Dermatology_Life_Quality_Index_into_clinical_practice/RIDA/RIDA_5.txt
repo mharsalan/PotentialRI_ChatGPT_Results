@@ -1,0 +1,63 @@
+Based on the uploaded study titled "Mapping of the DLQI scores to EQ-5D utility values using ordinal logistic regression" and the "Top 10 Dimensions of Research Impact," here is a detailed mapping of the research impact dimensions:
+
+1. Domains of Research Impact (RI)
+Excerpts:
+
+The study focuses on health-related quality of life (HRQoL) and maps Dermatology Life Quality Index (DLQI) scores to EQ-5D health utility estimates using ordinal logistic regression. This contributes to the health and policy domains by reducing the burden of using multiple measures and aiding healthcare decision-makers through economic analyses (Introduction, page 3025)​(5).
+Example: The research impacts the health domain by providing tools for better HRQoL assessments, benefiting healthcare providers and policymakers, and potentially leading to better healthcare outcomes by streamlining the integration of dermatology-specific data into broader health utility frameworks.
+
+2. Duration of Research Impact (RI)
+Excerpts:
+
+The study introduces a reliable method for mapping DLQI to EQ-5D scores, providing a framework that can be utilized in future research. The repeated validation of the model suggests it could have long-term impacts, as it is likely to be used in future studies to compare disease-specific economic data across conditions (Discussion, page 3033)​(5).
+Example: The long-term impact lies in the study's contribution to foundational methodologies for mapping HRQoL measures to utility values, which will likely influence future health economics and policy decisions.
+
+3. Stakeholder of Research Impact (RI)
+Excerpts:
+
+The study benefits multiple stakeholders, including researchers (who can use the model for future health economic evaluations), policymakers (who may utilize the health utility estimates for resource allocation), and healthcare providers (who gain a more accurate tool for assessing patient quality of life) (Discussion, page 3033)​(5).
+Example: Direct stakeholders include researchers and policymakers who can use the mapping model in health economics and clinical decision-making. Indirect stakeholders include patients and the general public, who benefit from improved healthcare planning and resource allocation.
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+The study has both a deep impact within the field of dermatology by improving the utility of DLQI in health economics, and a broader impact across healthcare economics by providing a method that can be adapted to other fields (Results, page 3030)​(5).
+Example: Deep impact is seen in dermatology, where the study offers a significant improvement in assessing patient quality of life. The broad impact extends to health economics and policy as the mapping model could be used across various diseases.
+
+5. Scalability and Transferability
+Excerpts:
+
+The method developed in the study can be transferred to other dermatology populations and potentially scaled to other health conditions, facilitating widespread use in various healthcare settings (Methods, page 3028)​(5).
+Example: The mapping technique is scalable as it can be applied to larger patient populations, and transferable to different fields of healthcare where disease-specific quality-of-life measures are needed.
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+The study introduces an innovative approach by using ordinal logistic regression to map DLQI scores to EQ-5D health utility values, addressing the limitations of previous linear models and providing a more accurate and reliable tool for health utility calculation (Results, page 3030)​(5).
+Example: The research innovates by improving the accuracy of health utility estimates in dermatology and could disrupt traditional health utility mapping techniques, making them obsolete.
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+By reducing the need for multiple HRQoL assessments, the study promotes a sustainable approach to patient data collection, minimizing patient burden and promoting economic efficiency in healthcare (Conclusion, page 3033)​(5).
+Example: The sustainability of the research is evident in its ability to streamline healthcare assessments, reducing the time and resources needed for multiple measurements, thus contributing to a more efficient healthcare system.
+
+8. Implementation and Usability
+Excerpts:
+
+The model is validated through multiple rounds of cross-validation and Monte Carlo simulations, demonstrating its practical applicability in clinical research and healthcare settings (Results, page 3029)​(5).
+Example: The model has high usability as it can be easily implemented in clinical and research settings for calculating health utility values, thus supporting practical healthcare decision-making.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+The study’s mapping model can be adapted for use in various healthcare contexts globally, offering a way to compare disease-specific economic data across different regions and healthcare systems (Methods, page 3030)​(5).
+Example: The research holds global relevance by providing a tool that can be used in different countries to improve healthcare economics, particularly in dermatology but potentially in other specialties as well.
+
+10. Resilience and Adaptability
+Excerpts:
+
+The study's model was tested on different subsets of dermatology patients and geographic populations, demonstrating its resilience and adaptability in various healthcare contexts (Discussion, page 3032)​(5).
+Example: The model shows resilience as it performs well across different patient groups and regions, and is adaptable to various healthcare systems and conditions, supporting its widespread use.
+
+This analysis provides a detailed breakdown of the research's impact across multiple dimensions.

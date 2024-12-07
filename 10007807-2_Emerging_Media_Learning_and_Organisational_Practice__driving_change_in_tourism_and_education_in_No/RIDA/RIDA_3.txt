@@ -1,0 +1,43 @@
+Based on the research paper provided, “Where is my Googleplex? Rethinking vocational learning and teaching spaces for Digital Media curriculums”, I will now map its key findings and contributions to the Top 10 Dimensions of Research Impact. I will also provide direct quotes, examples, and section references as outlined in your request.
+
+1. Domains of Research Impact (RI)
+Excerpts: The study critically examines the role of physical learning spaces in shaping Digital Media education, advocating for a transition from traditional computer labs to more flexible, industry-relevant environments. "We argue that Lab spaces create teacher-dependant learning environments, and influence and restrain the learning experience in negative ways..." (Introduction, page 30).
+Page Reference: Introduction, page 30.
+Example: This research impacts the educational domain by influencing curriculum design and teaching methodologies, advocating for learning spaces that replicate real-world industry environments, thus better preparing students for careers in digital media.
+2. Duration of Research Impact (RI)
+Excerpts: The paper suggests that the current setup of Digital Media teaching spaces does not align with industry practices, implying the need for long-term reforms in educational infrastructure to accommodate future changes in the digital media landscape. "The space cannot be considered a vocational space as it fails to promote the freedom of movement... needed to foster discipline-specific vocational expertise." (Results, page 34).
+Page Reference: Results, page 34.
+Example: The long-term impact lies in reshaping how vocational education in media is delivered, potentially influencing the design of teaching spaces in universities for years to come, fostering more independent and industry-aligned learning environments.
+3. Stakeholders of Research Impact
+Excerpts: The study identifies multiple stakeholders, including educators, students, and industry professionals, who would benefit from more flexible learning environments. "The desired exit trajectories of Digital Media graduates must include appropriate technical, practical, and job-specific skills..." (Results, page 33).
+Page Reference: Results, page 33.
+Example: Direct stakeholders include students and educators who will directly benefit from improved learning spaces. Indirect stakeholders include media industry professionals who will receive graduates better equipped with industry-relevant skills.
+4. Depth and Breadth of Impact
+Excerpts: The study has both deep and broad impacts. It deeply impacts Digital Media education, but its recommendations can also be applied to other vocational and technical subjects that rely on practical, hands-on learning environments. "The fixed layout of the Lab space prohibits many of these engagement indicators." (Results, page 36).
+Page Reference: Results, page 36.
+Example: The deep impact is evident in reshaping teaching practices within media education. The broad impact could influence other vocational subjects such as engineering or design, where flexible, innovative learning spaces could enhance hands-on learning.
+5. Scalability and Transferability
+Excerpts: The study’s insights on rethinking learning spaces are highly transferable. While focusing on Digital Media, the principles of flexible, industry-aligned teaching spaces can be applied across disciplines. "Any Digital Media vocational teaching space should show consideration for users bringing their own devices; robust Wi-Fi, extra monitors..." (Discussion, page 32).
+Page Reference: Discussion, page 32.
+Example: The concept of adapting teaching spaces to reflect industry settings can be scaled to universities globally. Transferability extends beyond digital media to other fields that require hands-on, technology-driven training, such as STEM education.
+6. Innovation and Disruption Potential
+Excerpts: The research introduces disruptive ideas by challenging traditional computer lab setups and advocating for environments that mirror the fluid, collaborative spaces seen in industry. "The space cannot be considered a vocational space... Vocational learning spaces should promote behaviors, literacies, and expertise aligned with career goals." (Results, page 34).
+Page Reference: Results, page 34.
+Example: The research has disruptive potential in higher education by proposing a fundamental shift away from traditional lab environments, encouraging the creation of innovative learning spaces that more accurately reflect modern digital workspaces.
+7. Sustainability and Ethical Considerations
+Excerpts: The paper does not explicitly address environmental sustainability but advocates for pedagogical sustainability by promoting student autonomy and lifelong learning, which are crucial for a dynamic, evolving digital media industry. "Our graduates need to be independent, lifelong learners..." (Results, page 33).
+Page Reference: Results, page 33.
+Example: The ethical consideration here is the need to ensure that the educational systems are adaptable and sustainable, allowing students to continue learning beyond the classroom, which addresses the fast pace of change in the digital media industry.
+8. Implementation and Usability
+Excerpts: The practical recommendations offered by the study focus on immediate usability within educational institutions. It suggests real-world, actionable interventions to restructure learning spaces based on observed industry practices. "We recommend a range of interventions in physical teaching spaces that would be informed by and/or simulate current industry practice." (Conclusion, page 30).
+Page Reference: Conclusion, page 30.
+Example: The usability of the study is high, as institutions can implement changes such as redesigning labs to support more creative and collaborative workflows, mirroring industry environments like digital media studios.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research highlights the relevance of flexible learning spaces beyond Digital Media, suggesting cross-disciplinary applications. The use of these spaces can apply to any field requiring digital or collaborative work. "These spaces... cultivate routine expertise, resourcefulness, functional literacies, and business-like attitudes." (Results, page 34).
+Page Reference: Results, page 34.
+Example: The recommendations have global relevance and can be applied to various educational fields across different regions, particularly where there is a strong demand for digital literacy and collaboration, such as engineering or business education.
+10. Resilience and Adaptability
+Excerpts: The study emphasizes the need for adaptability in both learning spaces and students, which is critical given the rapidly evolving nature of the digital media industry. "Flexibility and a willingness to adapt are crucial qualities in any Digital Media graduate." (Results, page 32).
+Page Reference: Results, page 32.
+Example: By fostering adaptable learning environments, this research supports the development of resilient educational practices that can evolve alongside industry needs, ensuring students are prepared for future challenges in their professional careers.
+This detailed mapping aligns the paper’s contributions to each research impact dimension, providing a comprehensive overview of its potential influence across different sectors and disciplines.
