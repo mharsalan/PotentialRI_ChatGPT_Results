@@ -1,0 +1,36 @@
+The study on crab reproductive migrations using the REMAR_CIDADÃO app has a variety of potential research impacts. Below, I have categorized these impacts based on common research impact dimensions:
+
+1. Environmental Impact and Sustainability
+Description: The research significantly contributes to environmental sustainability by promoting the conservation of crab species, which are crucial for coastal ecosystems and fisheries. It provides tools for better management of these species' reproductive cycles to prevent overharvesting.
+Example: The use of the REMAR_CIDADÃO app helps monitor crab populations, ensuring that harvesting practices align with natural reproductive periods, thus protecting crab stocks for future generations​(Common Research Impact …)​(Research impact toolkit).
+2. Societal and Cultural Impact
+Description: The study enhances public understanding of marine ecosystems and empowers local communities to actively participate in conservation efforts. The involvement of fishers in monitoring crab migrations through the citizen science model fosters stronger community engagement.
+Example: By involving local communities in the data collection process, the research promotes a sense of responsibility and stewardship among fishers, which could lead to cultural shifts in how natural resources are viewed and managed​(Research impact toolkit)​(impact pathway).
+3. Policy Influence and Advocacy
+Description: The research has already influenced public policy, as it was used to inform regulatory decisions regarding the suspension of crab harvesting during their reproductive periods. This kind of evidence-based policy change is crucial for sustainable fishery management.
+Example: The data generated through the REMAR_CIDADÃO app informed the drafting of regulations to suspend Uçá crab harvesting, helping policymakers create more effective and precise environmental policies​(Common Research Impact …)​(Research Impact Knowled…).
+4. Academic Impact
+Description: The study advances the academic field of marine biology by providing new methodologies for tracking and predicting species migrations. It also highlights the efficacy of citizen science in ecological data collection.
+Example: The research could be cited in future studies related to fisheries management, conservation biology, and participatory research methodologies, contributing to the development of these fields​(Research impact toolkit).
+5. Economic Impact
+Description: The research has the potential to contribute to economic sustainability by ensuring the longevity of the crab fishing industry, which is vital for local economies. Preventing overharvesting protects livelihoods dependent on these natural resources.
+Example: By optimizing harvesting periods, fishers can maintain stable incomes while avoiding conflicts with regulatory authorities, ensuring the economic viability of the fishery industry over time​(Common Research Impact …)​(Research impact toolkit).
+6. Innovation and Disruption Potential
+Description: The use of the REMAR_CIDADÃO app represents a technological innovation in the field of environmental monitoring. It disrupts traditional regulatory methods by providing real-time, crowd-sourced data, which enhances the accuracy and responsiveness of environmental management practices.
+Example: The participatory approach enabled by the app is a novel way to integrate local knowledge with scientific data, creating a more dynamic and inclusive model for fisheries management​(Common Research Impact …)​(impact pathway).
+7. Community Engagement and Participation
+Description: The study demonstrates a strong commitment to involving local communities in scientific research. This participatory model not only improves data collection but also fosters a collaborative relationship between scientists, local authorities, and fishers.
+Example: Fishers actively contribute to monitoring crab populations through the app, which enhances the quality of the data collected and ensures that local knowledge is integrated into conservation strategies​(Research impact toolkit)​(Research Impact Knowled…).
+8. Health and Well-being Impact
+Description: The research indirectly contributes to the health and well-being of local communities by promoting sustainable practices that protect food resources. Ensuring the sustainability of the crab populations helps secure the food supply for coastal communities.
+Example: By preventing overharvesting, the study supports the availability of crabs as a dietary resource for local populations, contributing to food security and community health​(impact pathway)​(Research Impact Knowled…).
+9. Technological Advancement
+Description: The development and implementation of the REMAR_CIDADÃO app represent a technological advancement in the use of mobile applications for environmental monitoring. This innovation can be adapted for use in other regions or with other species, showcasing its scalability and potential for wider adoption.
+Example: The app could serve as a model for similar tools in other fisheries or environmental monitoring efforts, demonstrating its potential for wider application​(Common Research Impact …)​(impact pathway).
+10. Behavioral Change
+Description: The study fosters behavioral change by encouraging fishers to comply with new regulations and adopt more sustainable fishing practices. The app helps bridge the gap between scientific knowledge and local practices, leading to more sustainable behavior.
+Example: By participating in the data collection process, fishers gain a better understanding of the importance of protecting crab populations, which can lead to more sustainable harvesting practices​(impact pathway)​(Research impact toolkit).
+11. Cross-disciplinary and Global Relevance
+Description: The study integrates disciplines such as marine biology, technology, and environmental policy, demonstrating cross-disciplinary relevance. Its findings can be applied globally, especially in regions where marine species are crucial for both ecological balance and local economies.
+Example: The methodologies developed in this study can be adapted for other migratory species, making it globally relevant for marine conservation efforts​(Common Research Impact …)​(Research impact toolkit).
+This organized summary highlights the multi-dimensional impacts of the study on the reproductive migration of crabs and the use of the REMAR_CIDADÃO app. The research not only contributes to academic and environmental advancements but also brings about significant societal, economic, and technological benefits.

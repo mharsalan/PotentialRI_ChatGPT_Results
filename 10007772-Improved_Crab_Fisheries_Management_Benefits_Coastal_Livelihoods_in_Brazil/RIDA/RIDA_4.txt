@@ -1,0 +1,74 @@
+Research Impact Dimensions Assessment for the Study "REMAR_CIDADÃO"
+The study in question centers on the reproductive migrations of crabs along the Brazilian coast, specifically focusing on the Uçá and Guaiamum crab species. The research involves citizen science through the REMAR_CIDADÃO app, which allows for participatory data collection, contributing to fisheries management and conservation. Below, I have mapped the study’s impact across the top 10 research dimensions:
+
+1. Domains of Research Impact
+Excerpts: "The REMAR_CIDADÃO app...helps assess and improve fishery management and conservation of these important fishery resources" (Page 1).
+
+Page Reference: Introduction, page 1.
+
+Example: This research impacts the environmental domain by promoting sustainable practices for crab harvesting. It also has social implications by involving local communities in citizen science, which empowers them to participate in the management of a key fishery resource.
+
+2. Duration of Research Impact
+Excerpts: "Since 2020, these predictions have been used to draft regulatory instructions for the suspension of Uçá crab harvesting during their reproductive period" (Page 1).
+
+Page Reference: Discussion, page 1.
+
+Example: The research has both short-term impacts, through immediate regulatory changes, and long-term implications, as the tools developed will continue to inform fishery management for years to come, ensuring sustainable harvesting practices.
+
+3. Stakeholders of Research Impact
+Excerpts: "REMAR developed the REMAR_CIDADÃO app, which allows for participatory monitoring where local communities...provide information about the occurrences of crab migrations" (Page 1).
+
+Page Reference: Introduction, page 1.
+
+Example: The key stakeholders are local fishers, policymakers, and environmental managers. Indirect beneficiaries include future generations, as the conservation efforts help sustain crab populations for long-term fisheries.
+
+4. Depth and Breadth of Impact
+Excerpts: "Accurate predictions of migration occurrences provide important advantages:...prevent conflicts between regulatory bodies and harvesters, avoid the waste of public resources on unnecessary enforcement" (Page 1).
+
+Page Reference: Discussion, page 1.
+
+Example: The research has broad implications, influencing policy, public participation, and environmental conservation across Brazil. It also deeply impacts the environmental management of specific fishery resources, ensuring more precise regulations and enforcement.
+
+5. Scalability and Transferability
+Excerpts: "These predictions have been used to draft regulatory instructions...enabling harvesters and traders to earn income and preventing conflicts" (Page 1).
+
+Page Reference: Discussion, page 1.
+
+Example: The research can be scaled to other regions where similar crab migrations occur, and the participatory model of citizen science can be transferred to different environmental monitoring contexts globally.
+
+6. Innovation and Disruption Potential
+Excerpts: "Before REMAR began providing guidance for fisheries management, there was no tool to predict whether migrations would occur around the new or full moon" (Page 1).
+
+Page Reference: Introduction, page 1.
+
+Example: The introduction of the REMAR_CIDADÃO app is an innovation in fisheries management, providing a new tool that disrupts traditional methods of regulating crab harvesting, which were less efficient and more prone to conflict.
+
+7. Sustainability and Ethical Considerations
+Excerpts: "The goal is to enable the sustainable use of crabs, conserve the species, and avoid socioeconomic problems arising from incorrect harvest prohibition periods" (Page 1).
+
+Page Reference: Introduction, page 1.
+
+Example: The research is fundamentally about sustainability, ensuring that crab populations are conserved for future use, and it aligns with ethical considerations by promoting fair, science-based management practices that benefit both the environment and local communities.
+
+8. Implementation and Usability
+Excerpts: "The REMAR_CIDADÃO app...allows for participatory monitoring where local communities...can provide information" (Page 1).
+
+Page Reference: Introduction, page 1.
+
+Example: The app is highly usable, as it involves direct participation from local communities and can be easily implemented in other regions. The study provides a clear model for integrating citizen science into fisheries management.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: "The data received through the app is sent to a data server hosted at Edinburgh Napier University...The goal is to enable the sustainable use of crabs" (Page 1).
+
+Page Reference: Introduction, page 1.
+
+Example: The research is cross-disciplinary, involving ecology, fisheries management, and data science, and has global relevance, as the model can be adapted to monitor other migratory species or environmental phenomena around the world.
+
+10. Resilience and Adaptability
+Excerpts: "The predictions...increased the credibility of the scientific community among harvesters, decision-makers, and managers, encouraging greater adherence to harvest suspensions" (Page 1).
+
+Page Reference: Discussion, page 1.
+
+Example: The research shows resilience by continuing to influence fisheries management practices over time, and its adaptability is evident in its potential application to other species or regions where similar conservation challenges exist.
+
+This comprehensive mapping demonstrates the significant and wide-ranging impacts of the study, both in terms of immediate application and long-term influence. The participatory nature of the research, combined with its innovative technological tools, ensures that it will continue to be relevant and impactful across multiple domains.
