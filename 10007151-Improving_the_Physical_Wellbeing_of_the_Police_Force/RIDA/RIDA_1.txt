@@ -1,0 +1,97 @@
+Based on the provided research paper "Translational Formative Evaluation: Critical in Upscaling Public Health Programs" and the Top 10 Dimensions of Research Impact, I have outlined the relevant details as follows:
+
+1. Domains of Research Impact
+Excerpts:
+
+“The translational formative evaluation research highlighted the importance of refining public health programs, particularly in ensuring their relevance and effectiveness in real-world settings” (Results, p. 41).
+“The Get Healthy Information and Coaching Service (GHS) was implemented to address lifestyle-related chronic diseases at a population-wide level" (Methods, p. 39).
+Page Reference and Section:
+
+Methods (p. 39); Results (p. 41).
+Example: The research significantly impacts the Health Domain, enhancing public health strategies through the GHS service model. It also contributes to the Policy Domain by informing governmental decisions on chronic disease prevention.
+
+2. Duration of Research Impact
+Excerpts:
+
+"The framework influenced the long-term evaluation strategy of GHS, addressing gaps such as long-term follow-up and cost-effectiveness analysis" (Results, p. 44).
+“The qualitative research influenced both immediate program design and potential future adaptations” (Discussion, p. 42).
+Page Reference and Section:
+
+Results (p. 44); Discussion (p. 42).
+Example: This research has both short-term and long-term impacts, as it immediately shaped the GHS service model and will continue to influence public health policies and practices over time through continuous service improvement.
+
+3. Stakeholder of Research Impact
+Excerpts:
+
+“Consultations with stakeholders such as non-governmental organizations, health services, and international experts were integral in shaping GHS” (Methods, p. 41).
+“The program will also benefit policymakers, health professionals, and at-risk populations" (Discussion, p. 44).
+Page Reference and Section:
+
+Methods (p. 41); Discussion (p. 44).
+Example: The research directly benefits healthcare providers, policy makers, and community groups, as it guides chronic disease prevention strategies and improves public health outreach.
+
+4. Depth and Breadth of Impact
+Excerpts:
+
+"The environmental and situational analysis influenced the broader context of program implementation, aligning with government priorities" (Results, p. 44).
+Page Reference and Section:
+
+Results (p. 44).
+Example: The research has broad impact, influencing both the healthcare field and public policy. It has the potential to shape not only state-wide but also national and international public health strategies.
+
+5. Scalability and Transferability
+Excerpts:
+
+“The research involved scaling up a proven telephone-based lifestyle intervention to a population-wide program across New South Wales” (Methods, p. 39).
+“The principles applied here are transferable to other public health interventions that aim to shift from efficacy trials to real-world implementation” (Discussion, p. 44).
+Page Reference and Section:
+
+Methods (p. 39); Discussion (p. 44).
+Example: The scalability of the GHS model allows it to be applied across larger populations, and its transferability means it could be adapted to other public health initiatives globally.
+
+6. Innovation and Disruption Potential
+Excerpts:
+
+"The research introduces the novel concept of 'translational formative evaluation,' filling a gap in existing models for scaling up interventions" (Introduction, p. 38).
+Page Reference and Section:
+
+Introduction (p. 38).
+Example: The research is innovative as it introduces a new framework for public health program implementation, potentially disrupting traditional models of intervention scaling by emphasizing formative evaluation.
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+“The GHS model emphasizes sustainable behavioral changes in at-risk populations through long-term coaching” (Discussion, p. 44).
+Page Reference and Section:
+
+Discussion (p. 44).
+Example: The research promotes sustainability by focusing on long-term health behavior changes, ensuring that public health programs are effective over time and align with ethical practices in healthcare.
+
+8. Implementation and Usability
+Excerpts:
+
+“The translational formative evaluation ensured that the GHS was implemented in a way that maximized its usability across various demographics, particularly low-to-medium socio-economic populations” (Results, p. 41).
+Page Reference and Section:
+
+Results (p. 41).
+Example: The research focused on implementation by adapting the GHS model to real-world conditions, improving its usability across diverse population groups.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"The research combines insights from public health, behavioral science, and health policy, making it applicable in both national and international contexts" (Discussion, p. 44).
+Page Reference and Section:
+
+Discussion (p. 44).
+Example: The research holds global relevance as the framework for translational formative evaluation can be applied internationally to similar public health programs, and it draws on multiple disciplines including public health and policy.
+
+10. Resilience and Adaptability
+Excerpts:
+
+"The GHS program was designed with flexibility in mind, allowing for continuous service improvement based on ongoing evaluation" (Results, p. 41).
+Page Reference and Section:
+
+Results (p. 41).
+Example: The research supports resilience by creating a public health program adaptable to changing needs, ensuring it remains relevant and effective in various contexts.
+
+These insights reflect how the research impacts multiple domains, offers long-term benefits, and introduces innovative practices for scaling public health programs. The methodology and framework applied are highly scalable, transferable, and relevant across various sectors and disciplines.

@@ -1,0 +1,43 @@
+Here is an analysis of the research paper titled "An evaluation of post-production facial composite enhancement techniques" in terms of the Top 10 Dimensions of Research Impact as requested:
+
+1. Domains of Research Impact (RI):
+Excerpt: "The research enhances the likelihood of a facial composite being recognised, leading to better detection outcomes in criminal investigations" (Abstract, Page 2).
+Page Reference: Abstract, Page 2.
+Example: The research primarily impacts the criminal justice domain by improving methods used in suspect identification, thus influencing law enforcement practices. It also has a secondary impact on cognitive psychology by exploring memory and face recognition processes. The use of holistic systems for creating facial composites contributes to the technological domain by advancing facial recognition technologies used by the police.
+2. Duration of Research Impact (RI):
+Excerpt: "The use of post-production techniques such as morphing and vertical stretch enhances suspect identification in real police investigations" (Results, Page 13).
+Page Reference: Results, Page 13.
+Example: This research has both short-term and long-term impact. The short-term impact is its immediate application in improving suspect identification rates in ongoing criminal investigations. In the long term, it could serve as a foundation for future advancements in facial recognition technology and be integrated into standard law enforcement practices.
+3. Stakeholders of Research Impact (RI):
+Excerpt: "The police might access intelligence-gathering processes by viewing publicised composites if they believed it to be familiar" (Discussion, Page 12).
+Page Reference: Discussion, Page 12.
+Example: Key stakeholders include law enforcement agencies, who directly benefit from the improved accuracy of facial composites. Policymakers may use these findings to enhance procedures for suspect identification. Additionally, the general public indirectly benefits by having more efficient crime-solving methods that lead to safer communities.
+4. Depth and Breadth of Impact:
+Excerpt: "Post-production techniques like morphing and vertical stretching can significantly improve the likelihood of correct suspect identification in cases where individual composites are insufficient" (Discussion, Page 13).
+Page Reference: Discussion, Page 13.
+Example: The research has a deep impact on the field of forensic psychology and criminal justice by introducing methods that can transform current suspect identification practices. It also has broad implications across various sectors, including law enforcement technology and eyewitness memory research.
+5. Scalability and Transferability:
+Excerpt: "Morphing composites constructed by different witnesses or applying vertical stretch can enhance composite recognition even for historical cases" (Results, Page 13).
+Page Reference: Results, Page 13.
+Example: The methods developed in this research can be scaled to multiple police departments globally, improving suspect identification rates in different geographic contexts. It is also transferable to other domains such as border security and private sector investigations where facial recognition technologies are used.
+6. Innovation and Disruption Potential:
+Excerpt: "The effects of morphing and vertical stretch in post-production composite techniques represent a new approach to enhancing recognition rates" (Introduction, Page 4).
+Page Reference: Introduction, Page 4.
+Example: This research is innovative in its use of post-production techniques like morphing and vertical stretch, which improve the effectiveness of facial composites. It has the potential to disrupt traditional methods of composite creation in police investigations, offering more accurate and reliable identification tools.
+7. Sustainability and Ethical Considerations:
+Excerpt: "No published research has previously reported on whether these techniques increase incorrect naming, even when viewers are familiar with the person depicted" (Introduction, Page 4).
+Page Reference: Introduction, Page 4.
+Example: The research addresses ethical considerations in terms of the accuracy and reliability of suspect identification. While it improves recognition rates, it also raises concerns about incorrect identifications, which could lead to false accusations. Ensuring these techniques are applied carefully aligns with the sustainability of fair justice practices.
+8. Implementation and Usability:
+Excerpt: "Morphing composites constructed by different witnesses could be used in real police investigations to improve the chances of suspect recognition" (Discussion, Page 8).
+Page Reference: Discussion, Page 8.
+Example: The research findings are highly implementable in real-world police investigations. The post-production enhancement techniques can be integrated into existing police systems like EFIT-V and E-FIT, making it usable for law enforcement agencies without requiring extensive new infrastructure.
+9. Cross-disciplinary and Global Relevance:
+Excerpt: "These post-production techniques also raise questions about their cognitive underpinnings, which need further research in psychology" (Discussion, Page 13).
+Page Reference: Discussion, Page 13.
+Example: The research is cross-disciplinary, influencing not just the criminal justice system but also advancing the understanding of cognitive psychology, particularly in relation to memory and face recognition. Globally, it can be relevant for police forces in different countries dealing with suspect identification.
+10. Resilience and Adaptability:
+Excerpt: "These methods can be used not just in ongoing cases but also to revisit historical cases" (Discussion, Page 14).
+Page Reference: Discussion, Page 14.
+Example: The research demonstrates resilience and adaptability, as its techniques can be applied both in current criminal investigations and to historical cold cases, adapting to different time frames and investigative needs.
+This analysis provides a dimension-by-dimension mapping of the research’s potential impacts.
