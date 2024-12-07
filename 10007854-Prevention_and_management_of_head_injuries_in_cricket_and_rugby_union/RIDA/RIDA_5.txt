@@ -1,0 +1,103 @@
+Here are the Research Impact Dimensions for the attached study, based on the findings from the file:
+
+1. Domains of Research Impact (RI)
+Excerpts:
+"The study investigates concussion injury rates, the likelihood of sustaining concussion relative to the number of rugby union matches, and the risk of subsequent injury following concussion" (Results, p. 3).
+
+Domains:
+
+Health Domain: The study directly impacts the health domain by providing insights into concussion risks and their effects on professional rugby players' health. The study contributes to understanding injury prevention and return-to-play protocols.
+Policy Domain: It informs sports policy, particularly for rugby governing bodies, by contributing to evidence that may shape safety regulations for managing concussions and preventing subsequent injuries.
+Example: The research could influence policy changes in rugby leagues and international rugby associations regarding mandatory recovery periods and stricter concussion protocols to protect player health.
+
+2. Duration of Research Impact (RI)
+Excerpts:
+"Concussion incidence increased over the four seasons, while severity remained unchanged" (Results, p. 2).
+
+Categories:
+
+Short-term Impact: Provides immediate insights into concussion incidence and subsequent injury risks, influencing sports medicine practices and return-to-play protocols.
+Long-term Impact: Long-term impact on policy development for concussion management in sports, potentially influencing broader safety standards across contact sports.
+Example: The research can shape future policies for concussion management in sports over the coming years, influencing how concussions are handled and how players are rehabilitated long-term.
+
+3. Stakeholders of Research Impact (RI)
+Excerpts:
+"Concussion incidence increased, while severity remained unchanged during the 4 years of this study" (Discussion, p. 5).
+
+Stakeholders:
+
+Direct Stakeholders: Rugby players, coaches, team medical staff, sports physicians who are directly responsible for player health and safety.
+Indirect Stakeholders: Policy makers in sports organizations, player unions advocating for safer playing conditions, and fans concerned with player welfare.
+Example: The study could lead to stronger advocacy by player unions for enhanced safety measures and better post-injury care, benefiting players and the wider sports community.
+
+4. Depth and Breadth of Impact
+Excerpts:
+"Injury risk was 38% greater following concussion compared to after a non-concussive injury" (Results, p. 3).
+
+Categories:
+
+Deep Impact: Profoundly impacts the understanding of player health in professional rugby, focusing specifically on the long-term health consequences of concussions.
+Broad Impact: It contributes to a broader understanding of concussion risks across various contact sports, not just rugby.
+Example: The research has the potential to influence other high-impact sports like football, ice hockey, and soccer in the development of concussion protocols.
+
+5. Scalability and Transferability
+Excerpts:
+"The risk of injuries to specific body regions was greater after concussion... affecting head, neck, upper limb, pelvic, and lower limb regions" (Results, p. 3).
+
+Categories:
+
+Scalability: This research can be scaled across various sports and levels, from club rugby to international sports organizations, impacting concussion protocols globally.
+Transferability: The findings can be applied across different sports to inform injury prevention strategies and post-concussion protocols.
+Example: The research could be adapted for other high-contact sports, allowing international sports federations to implement similar safety measures and post-concussion monitoring systems.
+
+6. Innovation and Disruption Potential
+Excerpts:
+"World Rugby’s Head Injury Assessment protocol may have contributed to the rise in concussion reporting" (Discussion, p. 5).
+
+Categories:
+
+Innovation: The study introduces innovative injury tracking systems like the Head Injury Assessment protocol, pushing for improved injury reporting and transparency.
+Disruption: This study could disrupt current return-to-play norms by suggesting stricter recovery protocols after concussions.
+Example: The research could influence major changes in concussion management protocols in professional sports leagues, leading to the adoption of new technologies and stricter medical oversight.
+
+7. Sustainability and Ethical Considerations
+Excerpts:
+"Players had a 38% greater injury risk after a concussive injury, suggesting return-to-play protocols warrant investigation" (Discussion, p. 3).
+
+Categories:
+
+Sustainability: It highlights the need for sustainable long-term injury prevention strategies in rugby, ensuring the health and longevity of players' careers.
+Ethical Considerations: Raises ethical questions about the current return-to-play procedures, suggesting that players may be at risk of injury due to inadequate recovery times.
+Example: The study could lead to ethical debates about player health and the responsibilities of sports organizations to protect athletes, prompting reforms in how injuries are managed.
+
+8. Implementation and Usability
+Excerpts:
+"The study suggests that concussion return-to-play protocols should be reviewed based on the 38% greater injury risk after concussion" (Discussion, p. 5).
+
+Categories:
+
+Implementation: The findings can be readily implemented by rugby teams, league organizations, and health professionals to improve player safety protocols.
+Usability: Provides practical guidelines for medical teams to implement stricter post-concussion recovery timelines to mitigate the risk of subsequent injuries.
+Example: This research can be easily integrated into sports medical practices by providing clearer timelines and safer guidelines for players recovering from concussions.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+"Concussion incidence is rising throughout the professional game" (Results, p. 5).
+
+Categories:
+
+Cross-disciplinary: The research connects sports science, medical fields, and policy development, contributing to broader discussions about player safety across various disciplines.
+Global Relevance: The findings have global implications for professional contact sports, influencing concussion protocols internationally.
+Example: This study could lead to the creation of universal standards for concussion management in sports, influencing organizations like the IOC and FIFA.
+
+10. Resilience and Adaptability
+Excerpts:
+"Return-to-play protocols warrant investigation... for better risk mitigation" (Discussion, p. 5).
+
+Categories:
+
+Resilience: The study calls for more adaptable and resilient concussion protocols that can adjust based on new findings.
+Adaptability: Offers a framework for ongoing evaluation and updates to injury protocols, ensuring they remain relevant and effective as more data becomes available.
+Example: By encouraging continuous updates to concussion protocols, the research fosters a culture of adaptability in sports safety management, ensuring that protocols evolve with new evidence.
+
+This detailed analysis captures how the research aligns with each dimension of research impact, highlighting both the practical and theoretical implications of the study.

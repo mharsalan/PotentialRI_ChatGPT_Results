@@ -1,0 +1,74 @@
+
+Based on the findings from the provided paper and mapped to the Top 10 Dimensions of Research Impact, here is a detailed assessment:
+
+1. Domains of Research Impact (RI)
+Excerpts: The study discusses the intersection between speech, disability, and technology, highlighting the role of assistive technology in augmentative and alternative communication (AAC) fields, which involve society at large, clinical practice, and industry development​(3).
+
+Page Reference and Section: Discussion, Page 67
+
+Example: The research in assistive communication technologies impacts multiple domains including the academic (design research, phonetics, linguistics), social (disability studies), and technological (speech technology). It influences public awareness of disability rights and enhances communication devices used in society.
+
+2. Duration of Research Impact (RI)
+Excerpts: The long-term influence of this research lies in its ability to provoke new approaches and perspectives in assistive technologies and AAC design, which could influence future technological and social innovations​(3).
+
+Page Reference and Section: Discussion, Page 68
+
+Example: The design framework developed in this research has potential to influence future assistive communication device technologies, showing long-term contributions to how society and industries handle disabilities and speech technology.
+
+3. Stakeholders of Research Impact
+Excerpts: The primary stakeholders include researchers in AAC, clinical practitioners, and designers in interaction design, as well as end-users such as people with disabilities and AAC device developers​(3)​(3).
+
+Page Reference and Section: Discussion, Pages 67–68
+
+Example: Direct stakeholders are designers and engineers developing communication devices, while indirect stakeholders include disabled individuals benefiting from improved AAC tools and society by raising awareness about inclusive design.
+
+4. Depth and Breadth of Impact
+Excerpts: The research explores a deep impact within the niche of AAC by redefining how designers approach voice technology for disabled users, while also having broader implications for interaction design and communication technology​(3)​(3).
+
+Page Reference and Section: Discussion, Page 68
+
+Example: While focused on AAC, the research crosses into broader fields such as speech synthesis technology, linguistics, and interaction design, showcasing a combination of deep impact within assistive technology and broad implications for design innovation.
+
+5. Scalability and Transferability
+Excerpts: The design frameworks and technologies explored, such as Speech Hedge and Six Speaking Chairs, could be scaled to various assistive devices globally and transferred to other communication-related fields​(3).
+
+Page Reference and Section: Discussion, Page 68
+
+Example: The tone control interfaces designed in the research could be scaled for broader applications in mainstream communication devices beyond the AAC community, potentially influencing future consumer technologies in communication.
+
+6. Innovation and Disruption Potential
+Excerpts: The introduction of customizable tone-of-voice features in AAC devices through Speech Hedge represents a disruptive innovation in communication technology, challenging the conventional design of voice output communication aids​(3)​(3).
+
+Page Reference and Section: Discussion, Page 68
+
+Example: This research disrupts the traditional approach to AAC device design by proposing user-controlled tone adjustments, offering a more human-like interaction, which could revolutionize both assistive technology and mainstream communication systems.
+
+7. Sustainability and Ethical Considerations
+Excerpts: The research supports sustainable practices by designing technology that addresses the needs of individuals with disabilities, ensuring long-term inclusivity in communication technology​(3).
+
+Page Reference and Section: Discussion, Page 67
+
+Example: Ethically, the research aligns with principles of inclusivity and social justice by advocating for the rights and representation of disabled individuals in technology design, ensuring sustainable and just technological developments.
+
+8. Implementation and Usability
+Excerpts: The design frameworks for controlling tone in AAC devices, like the user-friendly interface of Speech Hedge, show strong usability, allowing disabled users to personalize their communication​(3)​(3).
+
+Page Reference and Section: Discussion, Page 68
+
+Example: Speech Hedge is designed to be implemented easily with existing communication technologies, providing disabled individuals with a usable and practical tool for expressive speech control.
+
+9. Cross-disciplinary and Global Relevance
+Excerpts: The research integrates diverse fields such as disability studies, linguistics, and design, contributing globally to the discourse on assistive technology and AAC systems​(3).
+
+Page Reference and Section: Discussion, Page 67
+
+Example: By drawing from multiple disciplines and addressing global needs in assistive communication, the research has the potential to influence design and technology for disabled populations worldwide.
+
+10. Resilience and Adaptability
+Excerpts: The designs discussed, such as Six Speaking Chairs, show adaptability to various communication contexts and could evolve with technological advancements​(3)​(3).
+
+Page Reference and Section: Discussion, Page 68
+
+Example: The adaptable nature of the proposed tone control technologies ensures that the research can continue to influence AAC devices as speech synthesis technology evolves, making it resilient to future changes in the field.
+
+This analysis provides a detailed breakdown of the research's impact based on the top 10 dimensions, highlighting its contributions across multiple domains and stakeholders, its innovative potential, and its long-term societal relevance.

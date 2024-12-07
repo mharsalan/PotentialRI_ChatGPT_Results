@@ -1,0 +1,54 @@
+
+Based on the document you provided and the research impact dimensions, I will detail the impact across the top 10 dimensions of research impact for the study on Augmentative and Alternative Communication (AAC) and tone of voice:
+
+1. Domains of Research Impact (RI)
+Excerpt: "The research bridges AAC (Augmentative and Alternative Communication) and speech technology, highlighting the needs of individuals who rely on AAC systems, and challenges in incorporating tone of voice in synthetic speech" (p. 194, AAC study). It contributes to the academic domain of speech technology, the social domain by focusing on the community of AAC users, and has potential economic implications for the development of commercial speech technology applications.
+
+Example: This research impacts the academic domain by advancing speech synthesis technology. It also has a social domain impact, aiming to empower AAC users by providing more expressive communication options. This could influence technology companies developing AAC devices.
+
+2. Duration of Research Impact (RI)
+Excerpt: "Research evaluating the use of expressive voices in synthetic speech may have long-term implications for AAC devices and speech technology" (p. 177). Immediate benefits arise from the community involvement, while the long-term impact could lead to advancements in speech technologies that integrate more expressive features.
+
+Example: In the short term, AAC researchers benefit by gaining insights into how tone of voice can be integrated into current devices. In the long term, this could shape the future of speech synthesis and AAC technology, influencing both design and practical applications.
+
+3. Stakeholder of Research Impact (RI)
+Excerpt: "AAC users are direct stakeholders, as their feedback is vital to guiding research on tone of voice. Researchers and technology developers are also key stakeholders" (p. 193-194). The research involves AAC users actively in the design and development process, which directly benefits the AAC community and indirectly benefits the broader speech technology field.
+
+Example: Direct stakeholders include AAC users who will benefit from enhanced communication tools, while indirect stakeholders include researchers and speech technology developers who will build on these findings.
+
+4. Depth and Breadth of Impact
+Excerpt: "The project demonstrates deep impact by introducing new design sensibilities to AAC research and broad impact through the potential integration with speech technology partners" (p. 179). The research expands the scope of tone of voice applications in AAC, influencing both the specialized field of speech therapy and broader technological developments.
+
+Example: The deep impact is seen in its focused contribution to AAC systems, while the broad impact reaches into the fields of speech technology and human-computer interaction, potentially transforming communication aids globally.
+
+5. Scalability and Transferability
+Excerpt: "The development of Tonetable, a tool that modulates intonation in AAC, highlights the scalability of such technology for broader use in speech synthesis" (p. 176). This technology could be applied across various speech technologies beyond AAC, from personal assistants to voice interfaces.
+
+Example: The research can be scaled up to enhance various speech technologies and transferred to fields like education or customer service, where expressive synthetic speech could improve interactions.
+
+6. Innovation and Disruption Potential
+Excerpt: "Introducing nuanced tone of voice in AAC systems presents a disruptive innovation in speech technology by moving away from basic emotional cues to a more complex model of tone" (p. 176-177). This could transform how speech synthesis is perceived and used in both personal and professional contexts.
+
+Example: This research has disruptive potential by challenging existing speech technology paradigms and offering more sophisticated communication tools, particularly for AAC users who require more expressive capabilities.
+
+7. Sustainability and Ethical Considerations
+Excerpt: "People with disabilities, specifically AAC users, are positioned as pioneers in developing meaningful tones of voice for communication, promoting inclusivity and accessibility in speech technology" (p. 177-179). The research emphasizes the ethical importance of involving marginalized communities in the development process.
+
+Example: The research promotes sustainability by advocating for technology that supports long-term accessibility for people with disabilities, ensuring AAC tools remain adaptable and inclusive.
+
+8. Implementation and Usability
+Excerpt: "The study explores practical tools like the Tonetable, which is designed for easy implementation in AAC systems and focuses on usability for both researchers and AAC users" (p. 176). This usability focus ensures that the tools can be quickly integrated into AAC devices with minimal training.
+
+Example: The usability of Tonetable ensures that AAC users and speech therapists can easily adopt the technology, facilitating widespread implementation in communication systems.
+
+9. Cross-disciplinary and Global Relevance
+Excerpt: "The research invites collaboration between AAC, speech technology, and design disciplines to explore tone of voice. This cross-disciplinary approach could inform global speech synthesis technologies" (p. 179). It calls for contributions from diverse fields to enrich the understanding of tone in communication.
+
+Example: The cross-disciplinary nature of this research, spanning speech technology, design, and disability studies, ensures its global relevance, particularly as AAC technology is adopted worldwide.
+
+10. Resilience and Adaptability
+Excerpt: "By proposing an open library of tones of voice, the research emphasizes adaptability, allowing AAC systems to evolve and incorporate culturally responsive elements" (p. 177). This approach ensures the technology remains flexible and adaptable to future advancements.
+
+Example: The research promotes resilience by allowing for future modifications to AAC systems, ensuring they remain effective as communication needs and technologies evolve.
+
+This study demonstrates extensive research impact across multiple dimensions, particularly in enhancing AAC systems, promoting inclusivity, and paving the way for future developments in speech technology​(2) .

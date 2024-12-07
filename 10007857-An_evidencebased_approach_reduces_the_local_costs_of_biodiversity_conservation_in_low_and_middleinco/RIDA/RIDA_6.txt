@@ -1,0 +1,52 @@
+Assessment of the Research Impact Dimensions for the Study "Global No Net Loss of Natural Ecosystems" (Maron et al., 2020)
+1. Domains of Research Impact (RI)
+
+Excerpts: The study spans multiple domains, impacting environmental, policy, and social domains. It emphasizes environmental sustainability through biodiversity conservation and the potential policy impacts of adopting a "Global No Net Loss" (GNNL) framework. It influences policymaking by providing a global framework that accounts for national capacities for conservation and development. The work also addresses social domains by balancing biodiversity conservation with human development needs (p. 1-3).
+Page Reference and Section: Abstract and Main Text, pages 1-3.
+Example: This research can influence environmental policies by encouraging countries to adopt net gain or no net loss approaches for ecosystem management. It also supports socio-economic development in countries with lower Human Development Index (HDI) while emphasizing the need for global biodiversity protection.
+2. Duration of Research Impact
+
+Excerpts: The study's impact is long-term, as it provides a foundational framework for future policies and conservation efforts. It explicitly aims for policy integration by 2030, with lasting effects on biodiversity conservation and ecosystem management worldwide (p. 40-42). The methodology for assessing country-level contributions provides a foundation for further research and policy applications beyond 2030 (p. 10-12).
+Page Reference and Section: Main Text and Results, pages 40-42 and 10-12.
+Example: The long-term impact includes the implementation of country-specific conservation policies, with effects persisting for decades, influencing both biodiversity conservation and human development globally.
+3. Stakeholder of Research Impact
+
+Excerpts: Stakeholders include policymakers, conservation organizations, researchers, and international bodies such as the UN Convention on Biological Diversity. The study benefits policymakers by providing a clear framework for balancing conservation with development. Conservationists and researchers gain a structured methodology for calculating ecosystem depletion and restoration needs. Additionally, global organizations are involved in setting conservation targets (p. 1-4, 30).
+Page Reference and Section: Main Text, pages 1-4, 30.
+Example: Policymakers in developing nations can use this framework to establish conservation targets while advancing human development, and conservation organizations can use the findings to advocate for national and international biodiversity goals.
+4. Depth and Breadth of Impact
+
+Excerpts: The study has deep impact within conservation biology, offering new methodologies for calculating ecosystem retention and restoration. Its breadth includes interdisciplinary relevance, combining ecology, policy, and socio-economic factors. The analysis of Human Footprint across countries shows broad implications for global biodiversity and sustainable development goals (p. 6, 18-20).
+Page Reference and Section: Methods and Discussion, pages 6, 18-20.
+Example: Deep impact in ecology and environmental policy, with broad implications for international development and sustainability policies across multiple sectors, from agriculture to climate change.
+5. Scalability and Transferability
+
+Excerpts: The framework presented is highly scalable and can be applied globally, as shown by the study’s analysis of ecosystem depletion across 170 countries. The principles of GNNL are transferable to different ecosystems (e.g., marine and terrestrial) and policy contexts, including restoration and climate change adaptation strategies (p. 11, 19-20).
+Page Reference and Section: Methods, pages 11, 19-20.
+Example: The GNNL framework can be scaled up for global policy application and transferred to various ecosystems, from forests to coral reefs, with potential to influence international conservation agreements.
+6. Innovation and Disruption Potential
+
+Excerpts: The study introduces innovative concepts like Managed Net Loss and biodiversity Net Gain, which disrupt traditional conservation approaches by incorporating socio-economic realities into global conservation targets. This framework changes how conservation is approached in developing nations, allowing flexibility in achieving global biodiversity goals (p. 3, 30-31).
+Page Reference and Section: Discussion, pages 3, 30-31.
+Example: This study disrupts the field of conservation biology by offering more flexible, equitable approaches to ecosystem preservation that account for economic development, which could replace traditional rigid conservation models.
+7. Sustainability and Ethical Considerations
+
+Excerpts: The study’s core contribution lies in promoting sustainability, both environmental and socio-economic, by ensuring that conservation goals do not impede human development. It emphasizes the ethical need for fairness, particularly in how developing countries contribute to global biodiversity goals despite having lower capacities for conservation (p. 40-43).
+Page Reference and Section: Main Text, pages 40-43.
+Example: Ethical considerations include the promotion of equitable conservation targets, allowing poorer nations to participate in global conservation while developing economically, which aligns with Sustainable Development Goals (SDGs).
+8. Implementation and Usability
+
+Excerpts: The framework is designed for practical policy implementation, with usability for national governments and international conservation bodies. Its methodologies can be directly adopted by policymakers to set national biodiversity goals aligned with global targets (p. 4-6).
+Page Reference and Section: Main Text and Methods, pages 4-6.
+Example: Governments can implement the findings by adopting national policies that follow the GNNL framework, ensuring practical applications in ecosystem management and sustainable development.
+9. Cross-disciplinary and Global Relevance
+
+Excerpts: The study has cross-disciplinary relevance, integrating ecology, policy analysis, and socio-economic factors. It addresses global challenges such as biodiversity loss, human development, and climate change, making it relevant across disciplines and applicable worldwide (p. 10, 30).
+Page Reference and Section: Main Text, pages 10, 30.
+Example: The research impacts global conservation policies and climate strategies while also addressing socio-economic inequalities, demonstrating its relevance across multiple disciplines and regions.
+10. Resilience and Adaptability
+
+Excerpts: The research offers adaptive solutions, such as the Managed Net Loss approach, which allows countries to modify their conservation targets based on economic development needs while maintaining overall global biodiversity goals. It also addresses resilience in terms of sustaining ecosystems under future pressures like climate change (p. 50-52).
+Page Reference and Section: Results and Discussion, pages 50-52.
+Example: Countries can adapt the GNNL framework to their specific ecological and economic contexts, ensuring resilience in both biodiversity conservation and human development as global conditions change.
+This assessment provides a comprehensive view of how the study impacts various research dimensions, from scalability to ethical considerations.

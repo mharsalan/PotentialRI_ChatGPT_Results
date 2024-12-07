@@ -1,0 +1,53 @@
+To assess the research impact dimensions for the study titled "Batting head injury in professional cricket: a systematic video analysis of helmet safety characteristics", I will analyze the findings based on the Top 10 Dimensions of Research Impact as outlined in the attached text. Here's a detailed breakdown for each dimension:
+
+1. Domains of Research Impact
+Excerpts: The study focuses on helmet-related head injuries in professional cricket, analyzing the injury types, mechanisms, and helmet failures. It specifically examines how current helmet standards may not be sufficient to prevent injuries to the face and head.
+"Significant head and facial injuries occur in cricket batters despite wearing of helmets... Cricket helmet design and associated National and International Safety Standards should be improved." (Results, Page 1-2).
+Page Reference and Section: Results, Pages 1-2.
+Example: The study impacts the health domain by highlighting the need for improved protective equipment in sports, potentially influencing helmet design standards globally, and contributing to improved player safety in professional sports like cricket.
+2. Duration of Research Impact
+Excerpts: The findings from this study are likely to have long-term impacts on both sports safety protocols and helmet design standards, which may take years to be revised and adopted internationally. The study suggests revisions to the outdated 1998 British/European and 1997 Australian/New Zealand standards.
+"It is recommended that the apparently out-dated testing standards currently in use should be revised..." (Discussion, Page 5).
+Page Reference and Section: Discussion, Page 5.
+Example: Long-term impact on sports safety standards as the study contributes to future helmet design improvements and revised safety protocols that can protect players for years to come.
+3. Stakeholders of Research Impact
+Excerpts: The stakeholders include helmet manufacturers, regulatory bodies such as the ICC (International Cricket Council) and national cricket boards, as well as medical professionals and sports players.
+"The results will inform helmet manufacturers along with the National and International Standards agencies to improve helmet design and safety testing procedures." (Discussion, Page 5).
+Page Reference and Section: Discussion, Page 5.
+Example: Helmet manufacturers and regulatory agencies are key direct stakeholders, as they will use the study’s findings to design better safety equipment. Players and medical professionals are indirect stakeholders benefiting from enhanced protective gear.
+4. Depth and Breadth of Impact
+Excerpts: The study has both a deep impact in the sports medicine and equipment design field, influencing how helmets are constructed, and a broader impact on sports safety regulations across different sports that use helmets.
+"The vast majority of injury examples occurred while wearing only two brands of helmet... improving these helmets might significantly reduce the risk of injury." (Discussion, Page 4).
+Page Reference and Section: Discussion, Page 4.
+Example: Deep impact within cricket and helmet design but broader implications across other helmeted sports like baseball, ice hockey, and lacrosse.
+5. Scalability and Transferability
+Excerpts: The findings are transferable to other sports that involve head protection, such as baseball and ice hockey, where similar helmet-related injuries are a concern.
+"Laboratory-based projectile testing is required to inform improved helmet design and production so that there is strong resistance to the ball penetrating..." (Results, Page 2-3).
+Page Reference and Section: Results, Pages 2-3.
+Example: The research on improving helmet safety can be scaled to benefit other sports, promoting helmet design improvements globally across cricket, baseball, and other contact sports.
+6. Innovation and Disruption Potential
+Excerpts: The study introduces innovative concepts in helmet safety design by suggesting the need for better projectile testing and impact attenuation improvements.
+"A bigger contributor is likely to be excessive upward flexion of the helmet peak and downward flexion of the faceguard allowing the ball to force through the gap." (Results, Page 3).
+Page Reference and Section: Results, Page 3.
+Example: The research can potentially disrupt helmet design standards, leading to the development of safer, more resilient protective gear.
+7. Sustainability and Ethical Considerations
+Excerpts: Ethical considerations revolve around ensuring player safety and preventing long-term health consequences from head injuries, such as concussions. The study highlights the responsibility of regulatory bodies to enforce helmet safety for future sustainability in player health.
+"The study emphasizes the need for improved helmet safety standards to protect against concussive and traumatic injuries." (Results, Page 2).
+Page Reference and Section: Results, Page 2.
+Example: Promotes sustainable practices in sports safety by advocating for long-lasting helmet designs that protect players without increasing injury risk.
+8. Implementation and Usability
+Excerpts: The study’s findings are directly implementable in real-world settings, as they can be used to revise helmet manufacturing protocols and inform player safety training.
+"The findings would be used to educate players and support staff as to appropriate choice, adjustment and wearing of batting helmets." (Discussion, Page 5).
+Page Reference and Section: Discussion, Page 5.
+Example: High usability in professional cricket where helmet use is mandatory, and the research can be used to revise safety protocols.
+9. Cross-disciplinary and Global Relevance
+Excerpts: The study’s relevance extends across disciplines, including sports medicine, product design, and biomechanics, as well as across different regions globally, as cricket is played worldwide.
+"This novel analysis of a video database of 35 head injury occurrences in cricket batters indicates that some current helmets used in elite cricket do not adequately protect them." (Discussion, Page 5).
+Page Reference and Section: Discussion, Page 5.
+Example: Global relevance, as the findings can influence international cricket safety standards and benefit players worldwide.
+10. Resilience and Adaptability
+Excerpts: The study’s emphasis on revising outdated safety standards shows adaptability in improving player safety despite evolving conditions in sports.
+"Out-dated testing standards should be revised to incorporate projectile tests that preclude ball and faceguard facial contact." (Discussion, Page 5).
+Page Reference and Section: Discussion, Page 5.
+Example: The adaptability of helmet designs to modern cricket conditions ensures the resilience of protective equipment to future challenges in player safety.
+This comprehensive analysis aligns the findings of the cricket helmet safety study with the Top 10 Dimensions of Research Impact, demonstrating how the research can lead to significant changes in sports safety, helmet design, and international regulatory standards.

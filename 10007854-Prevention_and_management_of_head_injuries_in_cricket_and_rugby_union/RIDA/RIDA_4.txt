@@ -1,0 +1,104 @@
+Based on the research paper you provided, I have analyzed its impact along with the "Top 10 Dimensions of Research Impact." Below is the detailed assessment of the research impact dimensions:
+
+1. Domains of Research Impact (RI)
+Excerpts:
+
+"Concussion represented the highest incidence and burden of all specific injuries, with increases in burden from 2012/13 to 2015/16 (86.5 days-lost/1000 h to 302.4 days-lost/1000 h)" (Results, p. 26).
+"Tackle events contributed to the highest proportion of match injuries (being tackled: 20e31%, tackling: 30e42%)" (Results, p. 28).
+Page Reference:
+
+Results, pages 26-28.
+Example:
+
+The research directly impacts the healthcare domain by highlighting the injury risks in professional Rugby Union, particularly concussions. This can influence clinical practices around player safety and lead to better injury prevention protocols. Additionally, the study affects sports policy, with potential policy revisions in Rugby to mitigate tackle-related injuries.
+2. Duration of Research Impact
+Excerpts:
+
+"Increases in concussion incidence and burden support findings in previous research and emphasize that concussion continues to be a priority injury throughout Rugby Union." (Discussion, p. 30).
+Page Reference:
+
+Discussion, page 30.
+Example:
+
+The study contributes long-term impact to sports injury prevention frameworks by emphasizing trends in concussion risks over time. This forms a foundation for future longitudinal studies in concussion management and sports safety policies.
+3. Stakeholders of Research Impact
+Excerpts:
+
+"Within Wales, concussion education was mandated for all key stakeholders involved in Rugby Union (players, clinicians, referees, and coaches)..." (Discussion, p. 30).
+Page Reference:
+
+Discussion, page 30.
+Example:
+
+The primary stakeholders benefiting from this research include players, healthcare providers, and policymakers within the Rugby Union domain. The concussion data directly informs healthcare professionals about risks and recovery, while coaches and referees use this data to implement better training and game protocols to prevent concussions.
+4. Depth and Breadth of Impact
+Excerpts:
+
+"The surveillance period observed a larger injury risk to the upper body region, accompanied by a lower impact-related injury risk to the lower body region." (Discussion, p. 31).
+Page Reference:
+
+Discussion, page 31.
+Example:
+
+The study exhibits deep impact within the field of sports medicine, particularly focusing on Rugby Union. However, it also shows broad impact by addressing injury risk patterns that can be applied across other contact sports like American football and hockey, influencing broader sports injury research.
+5. Scalability and Transferability
+Excerpts:
+
+"Injury surveillance research in Rugby Union has been published in many different countries, including England, Wales, Australia, and South Africa." (Introduction, p. 27).
+Page Reference:
+
+Introduction, page 27.
+Example:
+
+The research demonstrates scalability, as the injury surveillance methodology can be expanded to international Rugby teams and other contact sports. Its transferability is evident, as the protocols and findings can inform injury prevention strategies across different sports and regions.
+6. Innovation and Disruption Potential
+Excerpts:
+
+"Increases in head injury incidence over time and high incidence and burden of concussion support similar findings in previous research." (Results, p. 30).
+Page Reference:
+
+Results, page 30.
+Example:
+
+The study contributes to innovation by advancing understanding of head injuries and influencing the development of new injury surveillance frameworks. There is also disruption potential as findings may push for radical changes in Rugby rules and training methods, particularly around tackle techniques.
+7. Sustainability and Ethical Considerations
+Excerpts:
+
+"New tackle sanction categories have been introduced by World Rugby to mitigate this injury risk" (Discussion, p. 31).
+Page Reference:
+
+Discussion, page 31.
+Example:
+
+The ethical consideration in this research relates to player safety and the sustainability of professional Rugby Union. By addressing long-term health risks like concussions, the study advocates for the ethical responsibility to protect players and create safer sports environments.
+8. Implementation and Usability
+Excerpts:
+
+"Concussion education was mandated for all key stakeholders involved in Rugby Union" (Discussion, p. 30).
+Page Reference:
+
+Discussion, page 30.
+Example:
+
+The implementation of concussion education based on this research is evident, and it has direct usability for sports organizations, medical staff, and educational bodies focused on preventing and managing sports-related injuries.
+9. Cross-disciplinary and Global Relevance
+Excerpts:
+
+"Injury surveillance research in Rugby Union has been published in many different countries... England, Wales, Australia, and South Africa." (Introduction, p. 27).
+Page Reference:
+
+Introduction, page 27.
+Example:
+
+The findings hold global relevance, as they apply to Rugby Union teams worldwide, and they also cross into disciplines such as medicine, sports science, and policy-making. The injury data has implications for public health and sports-related injury prevention efforts globally.
+10. Resilience and Adaptability
+Excerpts:
+
+"The differences observed in the current study in comparison to previous research could be due to the recurrent injury diagnosis being based solely on the recall of the clinician." (Discussion, p. 31).
+Page Reference:
+
+Discussion, page 31.
+Example:
+
+The research exhibits resilience by adapting new methodologies like the SIC 2.0 classification for injuries, ensuring that future studies can more accurately categorize and respond to recurrent injuries. This adaptability ensures that injury research evolves alongside changes in sports practices.
+These dimensions showcase how the study influences various sectors, including healthcare, policy, and sports management.

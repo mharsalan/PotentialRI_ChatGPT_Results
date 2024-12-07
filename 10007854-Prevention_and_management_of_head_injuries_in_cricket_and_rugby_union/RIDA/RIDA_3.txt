@@ -1,0 +1,33 @@
+Based on your provided file and the study titled "International consensus statement on injury surveillance in cricket: a 2016 update," I will assess the research's impact across the Top 10 Dimensions of Research Impact. Here's the detailed analysis:
+
+1. Domains of Research Impact (RI):
+Excerpts: The study impacts multiple domains, including sports medicine, public health, and sports injury management. It provides new methods for injury surveillance in cricket, with implications for player health, injury prevention, and safety protocols. "Definitions of ‘General time-loss’, ‘Medical presentation’, ‘Player-reported’ and ‘Imaging-abnormality’ injuries are now provided" (Results, p. 1245).
+Example: This research improves injury prevention in cricket, which can extend to other sports such as soccer and rugby. It impacts the health domain by enhancing player safety and can influence policy domains for sports organizations worldwide.
+2. Duration of Research Impact (RI):
+Excerpts: The study's short-term impact is seen in its immediate application by international sports organizations, while the long-term impact lies in the continued evolution of injury surveillance standards. “There was a shift towards recommending a greater number of possible definitions, due to differing contexts and foci of cricket research” (Discussion, p. 1245).
+Example: Short-term: This research informs immediate improvements in injury reporting systems for professional cricket. Long-term: It serves as a foundation for evolving surveillance methods across various sports over time.
+3. Stakeholders of Research Impact (RI):
+Excerpts: The direct stakeholders include cricket boards, sports physicians, coaches, and players, while indirect stakeholders include sports scientists and public health policymakers. “Researchers representing the major cricket playing nations met to propose changes to the previous recommendations” (Introduction, p. 1245).
+Example: The direct stakeholders (sports physicians) benefit from better tools for diagnosing and managing injuries. Indirect stakeholders such as public health policymakers can apply these insights to develop guidelines for managing injuries in youth and amateur sports.
+4. Depth and Breadth of Impact:
+Excerpts: The research has a deep impact within the field of sports medicine by refining injury definitions, but also broad impact by influencing surveillance systems in other sports. “Cricket was the first sport to publish recommended methods for injury surveillance in 2005” (Introduction, p. 1245).
+Example: Deep impact: Advances the precision of injury data in cricket. Broad impact: The methodology can be transferred to other sports, making injury tracking and prevention more effective globally.
+5. Scalability and Transferability:
+Excerpts: The methods developed can be scaled up to encompass amateur and community cricket, and transferred to other sports that require injury surveillance systems. “It is recommended that researchers use and report as many of the definitions as possible to assist both comparisons between studies within cricket and with those from other sports” (Methods, p. 1245).
+Example: Scalable: Injury definitions can be applied to all levels of cricket, from amateur to international tournaments. Transferable: These surveillance tools can be used in sports such as rugby and soccer for similar injury tracking.
+6. Innovation and Disruption Potential:
+Excerpts: The research introduces innovative injury definitions and methodologies, potentially disrupting traditional approaches to sports injury surveillance by allowing more granular data collection. “The group determined by negotiation... changes and additions should be determined by a nomination process” (Methods, p. 1245).
+Example: The new definitions and surveillance units (like "imaging-abnormality injuries") represent an innovation in how sports-related injuries are identified and tracked, which could disrupt older systems focused only on time-loss injuries.
+7. Sustainability and Ethical Considerations:
+Excerpts: By refining how injuries are tracked and reported, the research promotes sustainability in managing player health and reducing long-term injury risks. Ethical considerations include maintaining fairness in surveillance systems across different playing levels (amateur vs professional). “Injury surveillance systems are encouraged to report injury rates in multiple formats” (Results, p. 1245).
+Example: This research contributes to sustainability by helping prevent injuries over athletes’ careers, ensuring their long-term health. It aligns with ethical considerations by promoting transparency in injury data across various levels of cricket.
+8. Implementation and Usability:
+Excerpts: The study's recommendations are practical and can be readily implemented in both professional and community cricket. “A medical attention injury is ‘any health-related condition that required medical (or medical staff) attention” (Results, p. 1246).
+Example: Cricket teams and medical staff can immediately implement these recommendations to enhance their injury reporting, making the research highly usable in real-world sports settings.
+9. Cross-Disciplinary and Global Relevance:
+Excerpts: The research is globally relevant, having been developed by experts from major cricket-playing nations, and has cross-disciplinary applications in sports medicine, health policy, and athletic training. “Researchers representing the major cricket playing nations met to propose changes to the previous recommendations” (Introduction, p. 1245).
+Example: The injury definitions and methods have global relevance for sports organizations worldwide, including national bodies like the International Cricket Council (ICC). They also have cross-disciplinary applications in fields like physiotherapy and public health.
+10. Resilience and Adaptability:
+Excerpts: The research shows adaptability by evolving to include new formats of cricket (e.g., T20) and broader injury definitions, allowing for resilience in injury surveillance systems. “There was a shift towards recommending a greater number of possible definitions, due to differing contexts and foci of cricket research” (Introduction, p. 1245).
+Example: The study is resilient in adapting to the evolving nature of the game (e.g., with T20 cricket) and can be further adapted to other emerging sports or formats.
+This research demonstrates a comprehensive impact across multiple dimensions, influencing how injuries are monitored, managed, and prevented in cricket and other sports.

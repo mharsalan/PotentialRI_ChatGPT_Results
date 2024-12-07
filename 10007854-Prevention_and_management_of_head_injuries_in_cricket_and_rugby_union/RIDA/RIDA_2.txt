@@ -1,0 +1,112 @@
+Based on the research paper titled "Application of the Subsequent Injury Categorisation (SIC) model for longitudinal injury surveillance in elite rugby and cricket: Inter-sport comparisons and inter-rater reliability of coding," I have outlined the research impact dimensions as requested. Below are the detailed dimensions with examples derived from the paper's objectives, methods, results, and discussion sections.
+
+1. Domains of Research Impact:
+Excerpts:
+
+"The SIC model was applied to longitudinal injury data from two team sports: rugby union and cricket." (Introduction, page 1)
+"Recommendations for future use of SIC are provided based on the proximity of the rater to the team and the raters’ level of clinical knowledge." (Conclusion, page 10)
+Page Reference and Section:
+
+Introduction (Page 1), Conclusion (Page 10)
+Example:
+This study impacts the health domain by contributing to injury surveillance methodologies that can enhance player safety protocols in elite sports such as rugby and cricket. The findings may influence how medical professionals approach injury prevention and treatment, specifically through the accurate categorisation of subsequent injuries.
+
+2. Duration of Research Impact:
+Excerpts:
+
+"Longitudinal injury surveillance has clear advantages and is an important element in sports medicine and sports injury prevention." (Introduction, page 1)
+"The findings also show that the SIC model is a reliable system for categorising subsequent injuries in team sports." (Conclusion, page 10)
+Page Reference and Section:
+
+Introduction (Page 1), Conclusion (Page 10)
+Example:
+The research demonstrates both short-term and long-term impacts. Short-term, it provides immediate applications for improving injury categorisation models in sports medicine. Long-term, it forms a foundation for future studies in injury prevention across various sports, likely influencing practices for years to come.
+
+3. Stakeholders of Research Impact:
+Excerpts:
+
+"At least moderate agreement was observed for team clinicians and clinicians not with the team for both sports." (Discussion, page 8)
+"The greatest level of agreement in SIC coding was obtained by two clinicians working within a team." (Conclusion, page 10)
+Page Reference and Section:
+
+Discussion (Page 8), Conclusion (Page 10)
+Example:
+Direct stakeholders include sports clinicians, physiotherapists, and team doctors, who directly benefit from the application of the SIC model. Indirect stakeholders include sports governing bodies, athletes, and future researchers in sports medicine, as the findings may influence injury tracking standards and prevention strategies.
+
+4. Depth and Breadth of Impact:
+Excerpts:
+
+"The findings highlight that rugby union players are more likely to sustain multiple injuries compared to cricket players." (Results, page 7)
+"SIC provides a systematic approach for inter-sport comparisons." (Discussion, page 9)
+Page Reference and Section:
+
+Results (Page 7), Discussion (Page 9)
+Example:
+The study has deep impact in sports injury research by refining injury categorisation methodologies within rugby and cricket, contributing to a more accurate understanding of injury recurrence patterns. It also has broad impact by providing a comparative model that can be applied to various team sports beyond rugby and cricket.
+
+5. Scalability and Transferability:
+Excerpts:
+
+"If SIC can be reliably assigned by clinicians with and without direct clinical knowledge, it might be retrospectively applied to existing injury surveillance databases." (Methods, page 2)
+"The SIC model could be expanded for use in other sports injury epidemiology projects." (Discussion, page 9)
+Page Reference and Section:
+
+Methods (Page 2), Discussion (Page 9)
+Example:
+The SIC model shows scalability, as it can be applied beyond rugby and cricket to other sports with differing injury risks. It also demonstrates transferability, potentially being adapted for non-sport medical contexts, such as general injury surveillance in clinical settings.
+
+6. Innovation and Disruption Potential:
+Excerpts:
+
+"The application of SIC to both time-loss and non-time-loss injuries in cricket provided new insights into injury patterns." (Results, page 7)
+"The inclusion of non-time-loss injuries appeared to affect the level of agreement among raters, showing a difference in how clinicians and scientists apply the model." (Discussion, page 8)
+Page Reference and Section:
+
+Results (Page 7), Discussion (Page 8)
+Example:
+The SIC model introduces an innovative method for categorising subsequent injuries that incorporates both time-loss and non-time-loss injuries, challenging traditional methods. It has disruptive potential as it could redefine how injury data is collected and used in sports medicine, influencing broader injury prevention protocols.
+
+7. Sustainability and Ethical Considerations:
+Excerpts:
+
+"Recommendations for future use of SIC are provided based on the proximity of the rater to the team and the raters’ level of clinical knowledge." (Conclusion, page 10)
+Page Reference and Section:
+
+Conclusion (Page 10)
+Example:
+The study ensures ethical considerations by emphasizing the importance of clinical knowledge when applying the SIC model. In terms of sustainability, the long-term use of a reliable injury categorisation system supports ongoing sports injury prevention, ensuring the safety of athletes.
+
+8. Implementation and Usability:
+Excerpts:
+
+"The most common subsequent injury in both sports was an injury to a different body part that was not related to an index injury." (Results, page 7)
+"Recommendations for future use of SIC are provided for those applying the model without direct clinical knowledge." (Conclusion, page 10)
+Page Reference and Section:
+
+Results (Page 7), Conclusion (Page 10)
+Example:
+The study's outcomes have high usability in sports injury management. Clinicians and sports scientists can implement the SIC model to improve injury categorisation and prevention in real-world sports settings, offering practical solutions for tracking and reducing injuries.
+
+9. Cross-Disciplinary and Global Relevance:
+Excerpts:
+
+"The SIC model was applied across two distinct team sports, showing its flexibility for broader applications." (Discussion, page 8)
+"The model could be retrospectively applied to existing injury surveillance databases." (Methods, page 2)
+Page Reference and Section:
+
+Discussion (Page 8), Methods (Page 2)
+Example:
+This research has global relevance by offering a standardised injury categorisation model applicable across different sports and potentially transferable to other medical fields. Its cross-disciplinary impact is seen in its application to both rugby and cricket, showing potential for broader adoption in international sports injury prevention.
+
+10. Resilience and Adaptability:
+Excerpts:
+
+"The SIC model was reliable, with the highest agreement between clinicians working within the same team." (Results, page 7)
+"Injury epidemiology projects outside of the elite setting often rely on surveillance by non-clinical personnel." (Methods, page 3)
+Page Reference and Section:
+
+Results (Page 7), Methods (Page 3)
+Example:
+The SIC model demonstrates resilience in its adaptability across different teams and sports. It is versatile enough to be used by clinicians and non-clinicians alike, ensuring that it can be employed in various contexts, both elite and non-elite sports environments.
+
+This detailed mapping of the research paper to the top 10 research impact dimensions offers a clear understanding of the study's broad and practical contributions. Let me know if you need any more details!
